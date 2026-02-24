@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints and models
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.safetensors
+*.bin
+
+# Output directories
+output/
+models/output/
+checkpoint-*/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Large binaries
+*.dll
+*.exe
