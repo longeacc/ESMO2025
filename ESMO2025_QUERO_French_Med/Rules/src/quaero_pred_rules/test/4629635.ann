@@ -1,0 +1,7 @@
+T1	PROC 0 7	Analyse
+T2	DISO 21 30	glycémies
+T3	DISO 64 76	insulinémies
+T4	CHEM 123 130	glucose
+T5	DISO 123 130	glucose
+T6	DEVI 135 140	sonde
+T7	LIVB 159 164	chien

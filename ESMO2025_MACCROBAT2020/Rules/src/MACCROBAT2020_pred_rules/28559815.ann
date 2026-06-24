@@ -1,0 +1,22 @@
+T1	Age 2 13	34-year-old
+T2	Sex 14 19	woman
+T3	Duration 21 27	1 week
+T4	Date 121 135	Two days after
+T5	Lab_value 497 507	uneventful
+T6	Weight 520 525	13 kg
+T7	Weight 574 579	72 kg
+T8	Sex 591 595	male
+T9	Duration 642 650	38 weeks
+T10	Lab_value 718 730	unremarkable
+T11	Lab_value 897 903	normal
+T12	Severity 1432 1438	severe
+T13	Administration 1453 1462	injection
+T14	Volume 1518 1523	10 mL
+T15	Administration 1564 1577	intramuscular
+T16	Administration 1578 1587	injection
+T17	Volume 1591 1595	5 mL
+T18	Date 1638 1654	Seven days later
+T19	Administration 1763 1772	injection
+T20	Date 1796 1809	after 12 days
+T21	Lab_value 1839 1847	improved
+T22	Administration 1995 2004	injection

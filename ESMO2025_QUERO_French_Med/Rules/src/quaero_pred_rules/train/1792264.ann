@@ -1,0 +1,6 @@
+T1	PROC 0 11	Échographie
+T2	ANAT 12 20	veineuse
+T3	ANAT 25 32	membres
+T4	DISO 52 62	diagnostic
+T5	DISO 67 77	thromboses
+T6	PHEN 123 132	résultats

@@ -1,0 +1,19 @@
+T1	Age 2 13	49-year-old
+T2	Sex 14 19	woman
+T3	Date 124 136	October 2004
+T4	Lab_value 250 262	1185.3 ng/mL
+T5	Distance 320 325	10-cm
+T6	Distance 384 390	1.5-cm
+T7	Volume 783 788	35 mL
+T8	Volume 793 797	3 mL
+T9	Lab_value 972 982	uneventful
+T10	Date 993 1008	One month later
+T11	Duration 1010 1018	a second
+T12	Volume 1081 1086	40 mL
+T13	Time 1123 1135	the next day
+T14	Lab_value 1212 1221	decreased
+T15	Lab_value 1258 1267	increased
+T16	Dosage 1458 1463	10 mg
+T17	Administration 1478 1481	i.v
+T18	Date 1573 1587	Two days later
+T19	Date 1904 1918	One week later

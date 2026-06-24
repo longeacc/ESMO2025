@@ -1,0 +1,16 @@
+run_date,model,backend,split,n_docs,method
+2026-06-19T13:03:22,mistral-large-latest,mistral,test,10,zero-shot
+2026-06-19T14:10:39,mistral-large-latest,mistral,train,1249,zero-shot
+2026-06-19T14:10:39,mistral-large-latest,mistral,test,417,zero-shot
+2026-06-19T15:12:05,ministral-14b-latest,mistral,train,1249,zero-shot
+2026-06-19T15:12:05,ministral-14b-latest,mistral,test,417,zero-shot
+2026-06-19T15:59:20,mistral-medium-latest,mistral,train,1249,zero-shot
+2026-06-19T15:59:20,mistral-medium-latest,mistral,test,417,zero-shot
+2026-06-23T10:04:57,mistral-large-latest,mistral,test,nested,417,zero-shot+umls
+2026-06-23T10:04:57,mistral-large-latest,mistral,test,flat,417,zero-shot+umls
+2026-06-23T12:39:08,mistral-large-latest,mistral,test,417,few-shot
+2026-06-23T13:11:38,ministral-14b-latest,mistral,test,417,few-shot
+2026-06-23T13:43:00,ministral-14b-latest,mistral,test,419,few-shot
+2026-06-23T14:46:25,ministral-14b-latest,mistral,test,419,few-shot
+2026-06-23T15:17:26,mistral-medium-latest,mistral,test,419,few-shot
+2026-06-23T15:38:34,mistral-large-latest,mistral,test,419,few-shot

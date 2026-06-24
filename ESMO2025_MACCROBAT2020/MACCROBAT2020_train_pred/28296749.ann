@@ -1,0 +1,11 @@
+T1	Age 2 13	64-year-old
+T2	Sex 14 17	man
+T3	Distance 486 492	0.5-cm
+T4	Distance 918 922	1-cm
+T5	Area 1095 1107	1.6 × 1.2 cm
+T6	Area 1156 1168	0.6 × 1.0 cm
+T7	Texture 1386 1391	dense
+T8	Shape 1446 1464	irregularly shaped
+T9	Lab_value 1529 1537	positive
+T10	Lab_value 1588 1596	negative
+T11	Administration 1775 1777	IV

@@ -1,0 +1,7 @@
+T1	PROC 14 23	chirurgie
+T2	ANAT 35 45	pulmonaire
+T3	PROC 48 53	étude
+T4	PHEN 60 69	diffusion
+T5	ANAT 70 78	pleurale
+T6	CHEM 85 97	amoxicilline
+T7	CHEM 107 118	vancomycine

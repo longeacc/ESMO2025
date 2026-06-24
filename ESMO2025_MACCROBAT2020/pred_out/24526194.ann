@@ -1,0 +1,18 @@
+T1	Age 2 13	35-year-old
+T2	Sex 14 19	woman
+T3	Severity 71 80	low-grade
+T4	Duration 91 98	3 weeks
+T5	Duration 113 119	1 week
+T6	Duration 135 141	3 days
+T7	Duration 192 198	1 week
+T8	Lab_value 224 233	decreased
+T9	Lab_value 360 366	normal
+T10	Severity 619 625	Severe
+T11	Severity 650 654	mild
+T12	Distance 692 698	100 mm
+T13	Lab_value 720 727	116/min
+T14	Lab_value 983 989	normal
+T15	Severity 1013 1019	severe
+T16	Duration 1080 1087	5 years
+T17	Color 1573 1582	yellowish
+T18	Color 1583 1588	white

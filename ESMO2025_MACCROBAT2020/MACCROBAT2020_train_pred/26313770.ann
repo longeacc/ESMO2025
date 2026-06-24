@@ -1,0 +1,48 @@
+T1	Age 10 21	53-year-old
+T2	Sex 22 26	male
+T3	Severity 84 91	massive
+T4	Duration 109 114	1 day
+T5	Dosage 180 186	180 μg
+T6	Dosage 204 215	1200 mg/day
+T7	Date 264 268	2014
+T8	Dosage 394 400	106 IU
+T9	Dosage 503 509	106 IU
+T10	Dosage 560 566	103 IU
+T11	Dosage 626 631	15 IU
+T12	Lab_value 889 901	103 cells/μL
+T13	Lab_value 906 914	elevated
+T14	Lab_value 924 936	103 cells/μL
+T15	Date 937 949	1 week later
+T16	Severity 998 1005	massive
+T17	Lab_value 1231 1242	103cells/μL
+T18	Lab_value 1271 1277	normal
+T19	Color 1437 1440	red
+T20	Lab_value 1471 1479	abnormal
+T21	Lab_value 1630 1638	negative
+T22	Lab_value 1689 1697	positive
+T23	Lab_value 1729 1735	normal
+T24	Lab_value 1785 1791	normal
+T25	Date 1901 1905	2006
+T26	Lab_value 2191 2195	poor
+T27	Time 2245 2257	the next day
+T28	Administration 2342 2353	intravenous
+T29	Dosage 2382 2387	40 mg
+T30	Frequency 2389 2396	3 times
+T31	Frequency 2397 2402	daily
+T32	Lab_value 2497 2508	improvement
+T33	Dosage 2524 2530	100 mg
+T34	Administration 2532 2536	oral
+T35	Frequency 2538 2548	once daily
+T36	Dosage 2598 2604	400 mg
+T37	Administration 2606 2610	oral
+T38	Frequency 2612 2622	once daily
+T39	Lab_value 2651 2659	positive
+T40	Lab_value 2715 2724	increased
+T41	Lab_value 2733 2745	103 cells/μL
+T42	Date 2746 2759	17 days after
+T43	Administration 2808 2812	oral
+T44	Lab_value 2892 2898	stable
+T45	Lab_value 2949 2961	103 cells/μL
+T46	Date 3000 3014	after 5 months
+T47	Lab_value 3081 3093	103 cells/μL
+T48	Lab_value 3099 3108	decreased

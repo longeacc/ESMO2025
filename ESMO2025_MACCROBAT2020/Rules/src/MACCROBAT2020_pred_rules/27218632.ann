@@ -1,0 +1,15 @@
+T1	Age 2 13	50-year old
+T2	Sex 14 17	man
+T3	Duration 216 224	4 months
+T4	Lab_value 339 350	improvement
+T5	Administration 390 394	oral
+T6	Administration 408 415	topical
+T7	Administration 441 452	intravenous
+T8	Administration 691 701	parenteral
+T9	Date 726 735	past year
+T10	Administration 1836 1843	topical
+T11	Dosage 1923 1928	29 ug
+T12	Lab_value 1933 1939	normal
+T13	Dosage 1949 1955	134 ug
+T14	Date 2010 2026	within one month
+T15	Dosage 2179 2184	90 ug

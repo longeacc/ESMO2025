@@ -1,0 +1,38 @@
+T1	Age 2 13	64 year old
+T2	Sex 14 20	female
+T3	Frequency 65 74	recurrent
+T4	Duration 96 104	50 years
+T5	Frequency 118 127	recurrent
+T6	Date 147 156	age of 16
+T7	Date 306 323	Eight years prior
+T8	Lab_value 455 462	reduced
+T9	Duration 501 514	several years
+T10	Dosage 563 571	low dose
+T11	Lab_value 632 641	increased
+T12	Duration 690 699	12 months
+T13	Frequency 719 727	frequent
+T14	Frequency 802 807	daily
+T15	Severity 808 814	severe
+T16	Duration 844 858	several months
+T17	Administration 866 873	topical
+T18	Administration 890 894	oral
+T19	Administration 925 936	intravenous
+T20	Dosage 1043 1047	75 g
+T21	Lab_value 1051 1057	normal
+T22	Dosage 1066 1071	160 g
+T23	Severity 1118 1124	severe
+T24	Severity 1332 1341	extensive
+T25	Administration 1995 2002	topical
+T26	Administration 2291 2298	topical
+T27	Distance 2470 2474	3 cm
+T28	Area 2510 2518	4 x 2 cm
+T29	Volume 2818 2822	2 mL
+T30	Time 3072 3084	the same day
+T31	Date 3116 3131	two weeks after
+T32	Duration 3312 3320	6 months
+T33	Lab_value 3360 3368	improved
+T34	Dosage 3372 3377	102 g
+T35	Frequency 3415 3429	every 4 months
+T36	Dosage 3526 3531	100 g
+T37	Duration 3567 3574	6 month
+T38	Severity 3589 3593	mild

@@ -1,0 +1,18 @@
+T1	Age 3 14	82-year-old
+T2	Sex 15 20	woman
+T3	Severity 76 83	massive
+T4	Severity 368 374	severe
+T5	Lab_value 401 410	35.1 mmHg
+T6	Lab_value 416 425	61.0 mmHg
+T7	Lab_value 433 442	20.1 mmHg
+T8	Lab_value 448 456	5.5 mmHg
+T9	Volume 476 480	10 L
+T10	Volume 537 543	100 mL
+T11	Color 554 557	red
+T12	Texture 696 708	ground glass
+T13	Date 814 829	Four days after
+T14	Lab_value 871 879	improved
+T15	Lab_value 1198 1206	abnormal
+T16	Severity 1420 1427	massive
+T17	Date 1644 1661	Three weeks after
+T18	Frequency 1735 1744	recurrent

@@ -1,0 +1,46 @@
+T1	Duration 2 9	3-month
+T2	Dosage 310 321	45 fraction
+T3	Distance 388 393	45 cm
+T4	Lab_value 399 407	positive
+T5	Distance 442 446	7 cm
+T6	Duration 561 568	a month
+T7	Lab_value 614 625	improvement
+T8	Duration 1092 1099	a month
+T9	Lab_value 1192 1200	decrease
+T10	Distance 1345 1350	45 cm
+T11	Distance 1376 1381	11 cm
+T12	Administration 1874 1882	infusion
+T13	Lab_value 1905 1913	increase
+T14	Lab_value 2127 2135	decrease
+T15	Lab_value 2362 2368	normal
+T16	Date 2427 2442	5 months of age
+T17	Frequency 2671 2683	every 5 days
+T18	Duration 2705 2713	7 months
+T19	Frequency 2755 2768	every 15 days
+T20	Lab_value 3167 3175	increase
+T21	Lab_value 3235 3241	normal
+T22	Duration 3273 3281	few days
+T23	Lab_value 3348 3356	decrease
+T24	Duration 3427 3434	10 days
+T25	Lab_value 3483 3490	reduced
+T26	Distance 3679 3683	1 cm
+T27	Distance 3697 3702	11 cm
+T28	Volume 3768 3772	7 mL
+T29	Date 3788 3801	After 10 days
+T30	Frequency 3868 3876	sporadic
+T31	Lab_value 3913 3921	resolved
+T32	Lab_value 3935 3943	increase
+T33	Distance 3955 3960	20 cm
+T34	Distance 4092 4097	45 cm
+T35	Date 4204 4218	2 months after
+T36	Date 4238 4251	1 month after
+T37	Age 4420 4430	1 year old
+T38	Volume 4694 4699	80 mL
+T39	Volume 4701 4705	9 mL
+T40	Distance 4716 4721	10 cm
+T41	Volume 4740 4745	0.5 L
+T42	Distance 4772 4777	30 cm
+T43	Lab_value 4805 4813	decrease
+T44	Distance 4828 4832	9 cm
+T45	Duration 4908 4917	19 months
+T46	Lab_value 4976 4982	normal

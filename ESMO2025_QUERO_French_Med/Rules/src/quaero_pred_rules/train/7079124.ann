@@ -1,0 +1,5 @@
+T1	PROC 0 14	Hémicolectomie
+T2	DISO 27 37	anastomose
+T3	PROC 27 37	anastomose
+T4	DEVI 108 114	suture
+T5	PROC 108 114	suture

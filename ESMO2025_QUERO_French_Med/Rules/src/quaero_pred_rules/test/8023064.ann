@@ -1,0 +1,6 @@
+T1	DISO 0 7	Maladie
+T2	PROC 35 45	traitement
+T3	CHEM 53 60	hormone
+T4	PHYS 64 74	croissance
+T5	LIVB 86 93	humaine
+T6	PROC 96 101	étude

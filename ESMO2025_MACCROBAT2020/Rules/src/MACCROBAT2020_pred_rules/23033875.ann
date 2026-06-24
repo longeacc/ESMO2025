@@ -1,0 +1,24 @@
+T1	Age 4 15	31-year-old
+T2	Color 16 21	white
+T3	Sex 22 31	primipara
+T4	Lab_value 112 120	elevated
+T5	Lab_value 141 149	100 mmHg
+T6	Time 325 340	Few hours after
+T7	Sex 494 500	female
+T8	Sex 505 509	male
+T9	Time 580 601	Four hours postpartum
+T10	Lab_value 742 750	increase
+T11	Administration 804 815	Intravenous
+T12	Time 934 955	Five hours postpartum
+T13	Lab_value 1023 1027	poor
+T14	Lab_value 1176 1184	elevated
+T15	Color 1341 1344	red
+T16	Dosage 1510 1519	high dose
+T17	Lab_value 1544 1552	increase
+T18	Time 1644 1661	Few minutes later
+T19	Lab_value 1761 1767	normal
+T20	Lab_value 2022 2028	stable
+T21	Volume 2427 2433	900 mL
+T22	Volume 2453 2460	2500 mL
+T23	Volume 2485 2491	200 mL
+T24	Lab_value 2559 2571	unremarkable

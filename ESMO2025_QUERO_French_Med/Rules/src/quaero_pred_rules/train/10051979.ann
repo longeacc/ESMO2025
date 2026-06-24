@@ -1,0 +1,4 @@
+T1	PROC 0 10	Traitement
+T2	DISO 15 25	métastases
+T3	ANAT 26 36	hépatiques
+T4	DISO 41 48	cancers

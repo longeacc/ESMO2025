@@ -1,0 +1,22 @@
+T1	Age 2 13	37-year-old
+T2	Sex 31 37	female
+T3	Date 175 190	Ten years prior
+T4	Date 412 427	three years ago
+T5	Dosage 544 555	60 mg daily
+T6	Duration 560 574	several months
+T7	Dosage 601 612	10 mg daily
+T8	Dosage 663 679	maintenance dose
+T9	Date 700 716	six months prior
+T10	Frequency 1055 1063	frequent
+T11	Texture 1283 1292	indurated
+T12	Dosage 1629 1638	high-dose
+T13	Administration 1639 1650	intravenous
+T14	Date 2198 2203	day 5
+T15	Administration 2248 2259	intravenous
+T16	Dosage 2288 2299	60 mg daily
+T17	Dosage 2433 2442	high-dose
+T18	Lab_value 2701 2712	improvement
+T19	Dosage 2842 2851	high-dose
+T20	Dosage 2923 2934	10 mg daily
+T21	Lab_value 2995 3004	increased
+T22	Dosage 3008 3019	20 mg daily

@@ -1,0 +1,37 @@
+T1	Age 4 15	21-year-old
+T2	Time 73 77	8 PM
+T3	Duration 216 223	4 hours
+T4	Time 293 297	4 PM
+T5	Time 358 363	30 PM
+T6	Time 437 441	7 PM
+T7	Frequency 662 674	occasionally
+T8	Time 1412 1418	10 P.M
+T9	Lab_value 1427 1433	normal
+T10	Lab_value 1467 1473	80mmHg
+T11	Lab_value 1511 1517	normal
+T12	Lab_value 1538 1541	8°C
+T13	Lab_value 1572 1578	normal
+T14	Lab_value 1660 1666	normal
+T15	Lab_value 1780 1786	normal
+T16	Severity 1800 1804	mild
+T17	Lab_value 2188 2194	normal
+T18	Lab_value 2210 2216	normal
+T19	Lab_value 2239 2249	11 mmol/ L
+T20	Lab_value 2251 2257	normal
+T21	Lab_value 2270 2278	8mmol/ L
+T22	Lab_value 2300 2309	69mmol/ L
+T23	Lab_value 2323 2331	9mmol/ L
+T24	Lab_value 2360 2368	2mmol/ L
+T25	Lab_value 2370 2376	normal
+T26	Lab_value 2387 2396	2 mmol/ L
+T27	Lab_value 2432 2440	negative
+T28	Lab_value 2462 2468	normal
+T29	Severity 2798 2804	marked
+T30	Lab_value 4240 4246	normal
+T31	Lab_value 4340 4346	normal
+T32	Duration 4661 4671	70 seconds
+T33	Date 4736 4748	After 7 days
+T34	Lab_value 5188 5199	improvement
+T35	Duration 5305 5313	6 months
+T36	Duration 5372 5380	6 months
+T37	Date 5464 5478	after 6 months

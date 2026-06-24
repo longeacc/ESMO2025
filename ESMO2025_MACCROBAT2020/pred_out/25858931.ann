@@ -1,0 +1,33 @@
+T1	Sex 2 7	woman
+T2	Frequency 340 349	recurrent
+T3	Administration 626 630	oral
+T4	Dosage 642 647	20 mg
+T5	Dosage 666 672	100 µg
+T6	Frequency 679 689	once daily
+T7	Lab_value 803 809	93 bpm
+T8	Lab_value 831 837	20/min
+T9	Lab_value 1109 1117	elevated
+T10	Distance 1145 1149	8 cm
+T11	Texture 1218 1222	soft
+T12	Lab_value 1421 1441	within normal limits
+T13	Lab_value 1468 1477	increased
+T14	Lab_value 1499 1509	2.59 ng/mL
+T15	Lab_value 1511 1517	normal
+T16	Lab_value 1530 1541	0.045 ng/mL
+T17	Lab_value 1570 1576	84 U/L
+T18	Lab_value 1578 1584	normal
+T19	Lab_value 1594 1601	192 U/L
+T20	Lab_value 1630 1636	normal
+T21	Distance 1657 1661	3 mm
+T22	Severity 1852 1856	mild
+T23	Dosage 2152 2158	162 mg
+T24	Dosage 2173 2178	60 mg
+T25	Lab_value 2528 2534	stable
+T26	Administration 2554 2558	oral
+T27	Dosage 2607 2619	2.5 mg daily
+T28	Dosage 2644 2651	12.5 mg
+T29	Duration 2662 2667	a day
+T30	Lab_value 2702 2710	resolved
+T31	Lab_value 2772 2778	stable
+T32	Date 2814 2828	2 months later
+T33	Lab_value 2910 2916	normal

@@ -1,0 +1,25 @@
+T1	Age 2 13	70-year-old
+T2	Sex 14 17	man
+T3	Lab_value 286 296	32.3 ng/mL
+T4	Lab_value 298 304	normal
+T5	Lab_value 314 322	15 ng/mL
+T6	Distance 482 486	5-cm
+T7	Severity 681 691	moderately
+T8	Shape 707 714	tubular
+T9	Area 1193 1208	5.8 cm × 3.2 cm
+T10	Severity 1250 1259	extensive
+T11	Color 1281 1285	gray
+T12	Area 1324 1339	2.5 cm × 2.0 cm
+T13	Severity 1388 1395	massive
+T14	Color 1596 1602	purple
+T15	Lab_value 1845 1853	positive
+T16	Severity 2117 2127	moderately
+T17	Shape 2143 2150	tubular
+T18	Lab_value 2276 2284	negative
+T19	Lab_value 2355 2365	uneventful
+T20	Date 2423 2428	day 9
+T21	Date 2430 2445	Two weeks later
+T22	Lab_value 2477 2483	normal
+T23	Lab_value 2526 2536	10.0 ng/mL
+T24	Dosage 2657 2675	2500 mg/m2 per day
+T25	Duration 2848 2854	4-year

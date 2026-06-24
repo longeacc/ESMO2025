@@ -1,0 +1,42 @@
+﻿,Entity,Te,He,R,Freq,Feas,Routing,Justification
+0,Age,0.7334,0.9688,0.0005,0.0025,0.1943,RÈGLES,"Te=0.73≥0.1, He=0.97≥0.85, R=0.001≤0.25"
+1,History,0.1399,0.7409,0.0005,0.0047,0.1491,LLM,Conditions RÈGLES et TBM non satisfaites
+2,Sex,0.1644,0.9899,0.0005,0.0023,0.1984,RÈGLES,"Te=0.16≥0.1, He=0.99≥0.85, R=0.001≤0.25"
+3,Clinical_event,0.4807,0.9565,0.0011,0.0075,0.1928,RÈGLES,"Te=0.48≥0.1, He=0.96≥0.85, R=0.001≤0.25"
+4,Sign_symptom,0.4664,0.8479,0.0014,0.0405,0.1777,LLM,Conditions RÈGLES et TBM non satisfaites
+5,Duration,0.2257,0.9578,0,0.0034,0.1922,RÈGLES,"Te=0.23≥0.1, He=0.96≥0.85, R=0.000≤0.25"
+6,Coreference,0.3093,0.4716,0.0006,0.0038,0.0951,LLM,Conditions RÈGLES et TBM non satisfaites
+7,Frequency,0.191,0.7786,0.0013,0.0009,0.1559,LLM,Conditions RÈGLES et TBM non satisfaites
+8,Detailed_description,0.3864,0.6707,0.0014,0.035,0.1411,LLM,Conditions RÈGLES et TBM non satisfaites
+9,Biological_structure,0.3537,0.9511,0.0008,0.0354,0.1973,RÈGLES,"Te=0.35≥0.1, He=0.95≥0.85, R=0.001≤0.25"
+10,Lab_value,0.3146,0.9465,0.0004,0.0341,0.1961,RÈGLES,"Te=0.31≥0.1, He=0.95≥0.85, R=0.000≤0.25"
+11,Diagnostic_procedure,0.3111,0.9395,0.0008,0.0551,0.1989,RÈGLES,"Te=0.31≥0.1, He=0.94≥0.85, R=0.001≤0.25"
+12,Disease_disorder,0.3067,0.7134,0.0013,0.0163,0.1459,LLM,Conditions RÈGLES et TBM non satisfaites
+13,Therapeutic_procedure,0.3109,0.7365,0.0022,0.0124,0.1498,LLM,Conditions RÈGLES et TBM non satisfaites
+14,Date,0.1908,0.9778,0.0004,0.0088,0.1973,RÈGLES,"Te=0.19≥0.1, He=0.98≥0.85, R=0.000≤0.25"
+15,Texture,0.233,0.1476,0,0.0006,0.0296,LLM,Conditions RÈGLES et TBM non satisfaites
+16,Severity,0.4798,0.9377,0.0011,0.0045,0.1885,RÈGLES,"Te=0.48≥0.1, He=0.94≥0.85, R=0.001≤0.25"
+17,Biological_attribute,0.0244,0.0304,0,0.0001,0.0061,LLM,Conditions RÈGLES et TBM non satisfaites
+18,Activity,0.225,0.1058,0,0.0013,0.0214,LLM,Conditions RÈGLES et TBM non satisfaites
+19,Shape,0.2583,0.4332,0.0016,0.0008,0.0868,LLM,Conditions RÈGLES et TBM non satisfaites
+20,Color,0.1789,0.7013,0.0058,0.0006,0.1404,LLM,Conditions RÈGLES et TBM non satisfaites
+21,Outcome,0.2381,0.6772,0,0.0005,0.1355,LLM,Conditions RÈGLES et TBM non satisfaites
+22,Personal_background,0.2491,0.3506,0,0.0007,0.0703,LLM,Conditions RÈGLES et TBM non satisfaites
+23,Medication,0.3855,0.7311,0.0008,0.0129,0.1488,LLM,Conditions RÈGLES et TBM non satisfaites
+24,Dosage,0.1434,0.9558,0,0.0043,0.192,RÈGLES,"Te=0.14≥0.1, He=0.96≥0.85, R=0.000≤0.25"
+25,Nonbiological_location,0.3046,0.8956,0,0.0043,0.18,RÈGLES,"Te=0.30≥0.1, He=0.90≥0.85, R=0.000≤0.25"
+26,Other_event,0.1088,0.0385,0,0.0003,0.0078,LLM,Conditions RÈGLES et TBM non satisfaites
+27,Administration,0.3273,0.9101,0,0.0021,0.1824,RÈGLES,"Te=0.33≥0.1, He=0.91≥0.85, R=0.000≤0.25"
+28,Occupation,0.0425,0.0453,0,0.0002,0.0091,LLM,Conditions RÈGLES et TBM non satisfaites
+29,Other_entity,0.1,0.2689,0.04,0.0002,0.0538,LLM,Conditions RÈGLES et TBM non satisfaites
+30,Distance,0.2466,0.9571,0.0033,0.0015,0.1917,RÈGLES,"Te=0.25≥0.1, He=0.96≥0.85, R=0.003≤0.25"
+31,Time,0.0198,0.7378,0,0.0006,0.1477,LLM,Conditions RÈGLES et TBM non satisfaites
+32,Area,0.1353,0.9307,0,0.0005,0.1862,RÈGLES,"Te=0.14≥0.1, He=0.93≥0.85, R=0.000≤0.25"
+33,Family_history,0.1041,0.568,0,0.001,0.1138,LLM,Conditions RÈGLES et TBM non satisfaites
+34,Subject,0.2591,0.2398,0,0.0006,0.0481,LLM,Conditions RÈGLES et TBM non satisfaites
+35,Quantitative_concept,0.1871,0.1693,0,0.0006,0.034,LLM,Conditions RÈGLES et TBM non satisfaites
+36,Volume,0.1312,0.8567,0,0.0004,0.1714,RÈGLES,"Te=0.13≥0.1, He=0.86≥0.85, R=0.000≤0.25"
+37,Qualitative_concept,0.2162,0.0961,0,0.0005,0.0193,LLM,Conditions RÈGLES et TBM non satisfaites
+38,Height,1,0.5,0,0,0.1,LLM,Conditions RÈGLES et TBM non satisfaites
+39,Weight,0.1887,0.0759,0,0,0.0152,LLM,Conditions RÈGLES et TBM non satisfaites
+40,Mass,0,0.2689,0,0,0.0538,LLM,Conditions RÈGLES et TBM non satisfaites

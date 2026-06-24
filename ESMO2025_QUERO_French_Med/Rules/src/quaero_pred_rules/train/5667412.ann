@@ -1,0 +1,8 @@
+T1	PROC 0 5	Etude
+T2	PHYS 31 47	synthèse des ADN
+T3	CHEM 44 47	ADN
+T4	CHEM 50 53	ARN
+T5	CHEM 57 66	protéines
+T6	ANAT 75 84	oesophage
+T7	LIVB 101 107	souris
+T8	CHEM 124 136	actinomycine

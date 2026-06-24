@@ -1,0 +1,35 @@
+T1	Date 16 20	2014
+T2	Age 24 35	70-year-old
+T3	Sex 36 39	man
+T4	Date 358 362	2015
+T5	Severity 635 645	moderately
+T6	Lab_value 877 885	positive
+T7	Administration 1027 1029	IV
+T8	Dosage 1128 1135	1 cycle
+T9	Date 1312 1316	2015
+T10	Severity 1444 1453	extensive
+T11	Administration 1754 1758	Oral
+T12	Dosage 1768 1774	850 mg
+T13	Frequency 1775 1785	once a day
+T14	Dosage 2056 2061	64 Gy
+T15	Dosage 2065 2077	30 fractions
+T16	Dosage 2110 2115	52 Gy
+T17	Dosage 2119 2131	26 fractions
+T18	Date 2294 2307	2 weeks after
+T19	Dosage 2752 2757	66 Gy
+T20	Dosage 2761 2773	28 fractions
+T21	Frequency 2896 2910	every 2 months
+T22	Date 2912 2928	Two months after
+T23	Lab_value 2978 2984	stable
+T24	Lab_value 3035 3043	improved
+T25	Date 3229 3243	September 2015
+T26	Lab_value 3276 3285	increased
+T27	Date 3398 3411	November 2015
+T28	Frequency 3467 3479	intermittent
+T29	Date 3797 3809	After 1 week
+T30	Lab_value 3839 3847	resolved
+T31	Date 3849 3864	One month later
+T32	Frequency 3896 3908	intermittent
+T33	Date 3939 3943	2015
+T34	Severity 3965 3974	extensive
+T35	Date 4059 4063	2016

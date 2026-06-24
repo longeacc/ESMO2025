@@ -1,0 +1,44 @@
+T1	Age 3 14	18-year-old
+T2	Sex 15 19	male
+T3	Date 90 94	2005
+T4	Dosage 200 212	900 mg daily
+T5	Date 216 226	April 2005
+T6	Dosage 259 270	54 mg daily
+T7	Date 274 288	September 2005
+T8	Date 310 321	August 2006
+T9	Severity 365 371	severe
+T10	Lab_value 460 467	80 mmHg
+T11	Lab_value 566 576	5.1 mmol/l
+T12	Lab_value 605 613	elevated
+T13	Lab_value 1018 1025	60 mmHg
+T14	Administration 1035 1043	infusion
+T15	Lab_value 1118 1125	38.4 °C
+T16	Distance 1292 1296	7 cm
+T17	Severity 1321 1329	severely
+T18	Severity 1433 1441	markedly
+T19	Lab_value 1442 1450	elevated
+T20	Severity 1468 1476	moderate
+T21	Frequency 1499 1511	Intermittent
+T22	Lab_value 1559 1567	improved
+T23	Severity 1568 1576	slightly
+T24	Date 1666 1682	After three days
+T25	Severity 1796 1802	marked
+T26	Lab_value 1872 1879	30 mmHg
+T27	Lab_value 2195 2203	negative
+T28	Date 2205 2221	After three days
+T29	Administration 2331 2340	infusions
+T30	Lab_value 2488 2494	normal
+T31	Lab_value 2679 2687	improved
+T32	Lab_value 2723 2729	normal
+T33	Lab_value 2755 2763	improved
+T34	Lab_value 2821 2830	98 μmol/l
+T35	Severity 2849 2857	markedly
+T36	Lab_value 2858 2865	reduced
+T37	Duration 2988 2995	26 days
+T38	Date 3001 3014	after 28 days
+T39	Lab_value 3104 3110	normal
+T40	Date 3224 3243	following two weeks
+T41	Lab_value 3264 3272	improved
+T42	Severity 3355 3363	markedly
+T43	Date 3406 3416	March 2007
+T44	Lab_value 3442 3450	improved

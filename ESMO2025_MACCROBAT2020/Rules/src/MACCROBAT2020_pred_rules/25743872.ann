@@ -1,0 +1,14 @@
+T1	Age 2 13	71-year-old
+T2	Sex 31 36	woman
+T3	Duration 156 163	3 weeks
+T4	Distance 451 456	73 mm
+T5	Lab_value 475 481	70 bpm
+T6	Lab_value 534 540	36.6°C
+T7	Severity 887 891	mild
+T8	Lab_value 955 961	normal
+T9	Lab_value 1001 1010	increased
+T10	Severity 1118 1122	mild
+T11	Lab_value 1204 1210	normal
+T12	Dosage 1252 1263	50 mg daily
+T13	Lab_value 1293 1301	improved
+T14	Duration 1308 1313	a day

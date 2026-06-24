@@ -1,0 +1,12 @@
+T1	Age 2 13	72-year-old
+T2	Sex 14 19	woman
+T3	Lab_value 339 345	stable
+T4	Time 347 361	One hour later
+T5	Lab_value 385 393	worsened
+T6	Dosage 543 546	7 g
+T7	Severity 554 562	markedly
+T8	Lab_value 563 571	elevated
+T9	Administration 655 670	intraperitoneal
+T10	Lab_value 1034 1043	increased
+T11	Lab_value 1185 1191	stable
+T12	Time 1252 1262	24 h later

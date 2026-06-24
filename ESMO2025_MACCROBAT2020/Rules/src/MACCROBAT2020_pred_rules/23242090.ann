@@ -1,0 +1,22 @@
+T1	Age 3 14	18-year-old
+T2	Sex 15 19	lady
+T3	Date 96 109	since 5 years
+T4	Lab_value 122 128	normal
+T5	Duration 325 331	7-year
+T6	Date 403 412	age of 20
+T7	Lab_value 547 553	normal
+T8	Lab_value 640 646	normal
+T9	Lab_value 708 714	normal
+T10	Lab_value 794 800	normal
+T11	Lab_value 998 1006	positive
+T12	Lab_value 1119 1125	normal
+T13	Lab_value 1183 1189	normal
+T14	Lab_value 1236 1256	within normal limits
+T15	Lab_value 1331 1337	normal
+T16	Severity 1464 1470	marked
+T17	Lab_value 1536 1542	normal
+T18	Severity 2176 2182	severe
+T19	Dosage 3089 3095	450 mg
+T20	Frequency 3096 3107	twice a day
+T21	Frequency 3232 3241	regularly
+T22	Duration 3246 3254	4 months

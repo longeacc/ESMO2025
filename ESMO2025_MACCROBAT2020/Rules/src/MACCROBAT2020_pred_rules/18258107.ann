@@ -1,0 +1,34 @@
+T1	Age 36 47	60-year-old
+T2	Sex 48 51	man
+T3	Date 136 145	June 2003
+T4	Sex 152 155	man
+T5	Duration 252 259	7-month
+T6	Date 289 305	Three days after
+T7	Date 419 431	5 days later
+T8	Lab_value 448 454	38.9°C
+T9	Lab_value 588 600	unremarkable
+T10	Severity 722 728	slight
+T11	Lab_value 777 784	000/mm3
+T12	Lab_value 799 806	400/mm3
+T13	Lab_value 872 878	487/μL
+T14	Dosage 965 970	20 mg
+T15	Dosage 979 985	167 mg
+T16	Lab_value 1034 1042	positive
+T17	Lab_value 1292 1300	negative
+T18	Date 1314 1319	day 2
+T19	Lab_value 1346 1354	positive
+T20	Lab_value 1408 1416	negative
+T21	Lab_value 1431 1439	negative
+T22	Lab_value 1473 1481	negative
+T23	Dosage 1823 1839	24 million units
+T24	Administration 1840 1853	intravenously
+T25	Date 1875 1880	day 5
+T26	Lab_value 1979 1987	negative
+T27	Date 2001 2006	day 7
+T28	Date 2325 2330	day 9
+T29	Severity 2369 2375	severe
+T30	Duration 2462 2468	10-day
+T31	Administration 2479 2489	parenteral
+T32	Administration 2542 2546	oral
+T33	Date 2576 2592	Two months after
+T34	Lab_value 2630 2638	improved

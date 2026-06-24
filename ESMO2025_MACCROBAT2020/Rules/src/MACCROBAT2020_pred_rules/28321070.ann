@@ -1,0 +1,21 @@
+T1	Age 3 14	84-year-old
+T2	Sex 15 20	woman
+T3	Duration 108 115	a month
+T4	Lab_value 408 414	normal
+T5	Lab_value 519 528	decreased
+T6	Lab_value 618 624	normal
+T7	Lab_value 652 660	elevated
+T8	Color 1365 1370	white
+T9	Lab_value 1423 1431	negative
+T10	Lab_value 1635 1643	positive
+T11	Lab_value 1666 1674	negative
+T12	Dosage 2259 2267	low-dose
+T13	Administration 2268 2272	oral
+T14	Dosage 2284 2293	50 mg/day
+T15	Date 2357 2373	within two weeks
+T16	Lab_value 2413 2421	improved
+T17	Duration 2434 2441	a month
+T18	Date 2462 2479	four months later
+T19	Administration 2535 2539	oral
+T20	Lab_value 2570 2574	good
+T21	Date 2582 2596	one year after

@@ -25,3 +25,14 @@ env/
 # Large binaries
 *.dll
 *.exe
+
+# Data, results, and model directories
+ESMO2025_QUERO_French_Med/Results/*
+ESMO2025_QUERO_French_Med/NER/data/*
+ESMO2025_MACCROBAT2020/Rules/src/Breast/*
+ESMO2025_MACCROBAT2020/Results/*
+ESMO2025_MACCROBAT2020/NER/data/*
+ESMO2025_MACCROBAT2020/NER/models/*
+Breast/*
+Results/*
+Rules/src/Breast/*

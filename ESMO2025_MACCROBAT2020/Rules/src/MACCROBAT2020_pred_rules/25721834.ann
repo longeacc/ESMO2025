@@ -1,0 +1,44 @@
+T1	Age 3 13	8-year-old
+T2	Sex 14 17	boy
+T3	Weight 87 91	4 kg
+T4	Lab_value 135 141	normal
+T5	Distance 313 319	3.5 cm
+T6	Dosage 435 440	7.8 g
+T7	Severity 562 568	marked
+T8	Color 583 586	red
+T9	Color 721 726	white
+T10	Lab_value 1034 1040	normal
+T11	Lab_value 1202 1208	normal
+T12	Lab_value 1415 1423	elevated
+T13	Lab_value 1427 1437	3.8 mmol/L
+T14	Lab_value 1563 1571	negative
+T15	Severity 1620 1626	slight
+T16	Lab_value 1692 1700	elevated
+T17	Lab_value 1775 1783	elevated
+T18	Lab_value 1830 1836	normal
+T19	Administration 1941 1943	IV
+T20	Lab_value 2030 2041	improvement
+T21	Lab_value 2226 2237	improvement
+T22	Dosage 2281 2286	4.4 g
+T23	Frequency 2302 2312	occasional
+T24	Frequency 2336 2342	weekly
+T25	Color 2343 2346	red
+T26	Dosage 2411 2418	1700 µg
+T27	Lab_value 2534 2540	normal
+T28	Lab_value 2562 2568	normal
+T29	Date 2590 2599	at age 13
+T30	Lab_value 2628 2634	normal
+T31	Lab_value 2756 2764	elevated
+T32	Lab_value 2768 2776	15 ng/mL
+T33	Lab_value 2893 2899	normal
+T34	Dosage 2948 2964	5 mg twice daily
+T35	Dosage 2985 2997	100 µg daily
+T36	Lab_value 3060 3068	negative
+T37	Lab_value 3106 3112	normal
+T38	Shape 3157 3164	tubular
+T39	Shape 3253 3260	tubular
+T40	Lab_value 3478 3486	elevated
+T41	Color 3523 3526	red
+T42	Lab_value 3573 3581	negative
+T43	Frequency 3706 3717	twice daily
+T44	Lab_value 3788 3798	161 µmol/L

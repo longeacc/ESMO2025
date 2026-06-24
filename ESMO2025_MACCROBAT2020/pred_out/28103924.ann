@@ -1,0 +1,36 @@
+T1	Age 18 28	7-year-old
+T2	Sex 37 40	boy
+T3	Lab_value 55 65	uneventful
+T4	Lab_value 79 85	normal
+T5	Date 103 112	age of 16
+T6	Lab_value 430 438	elevated
+T7	Dosage 466 473	47.8 IU
+T8	Lab_value 477 483	normal
+T9	Dosage 492 496	7 IU
+T10	Lab_value 552 558	normal
+T11	Lab_value 604 611	reduced
+T12	Lab_value 658 664	normal
+T13	Frequency 879 892	every 2 weeks
+T14	Date 900 909	age of 18
+T15	Date 959 968	age of 30
+T16	Duration 1319 1326	4 weeks
+T17	Dosage 1466 1490	100 mg three times daily
+T18	Date 1492 1505	after 1 month
+T19	Date 1512 1526	2 weeks before
+T20	Severity 1819 1823	mild
+T21	Lab_value 1887 1896	decreased
+T22	Frequency 2223 2237	every 6 months
+T23	Lab_value 2358 2366	decrease
+T24	Duration 2622 2631	12 months
+T25	Date 2638 2651	After 5 years
+T26	Date 2759 2772	February 2016
+T27	Lab_value 2885 2889	good
+T28	Lab_value 2918 2924	normal
+T29	Severity 2941 2947	slight
+T30	Lab_value 2981 2989	negative
+T31	Lab_value 3038 3044	normal
+T32	Lab_value 3145 3151	normal
+T33	Lab_value 3227 3233	normal
+T34	Frequency 3309 3318	regularly
+T35	Lab_value 3340 3344	good
+T36	Date 3367 3375	age of 5

@@ -1,0 +1,14 @@
+T1	Age 5 16	73-year-old
+T2	Sex 17 23	female
+T3	Severity 389 395	severe
+T4	Area 560 568	10×25 mm
+T5	Duration 657 667	13 seconds
+T6	Severity 678 684	severe
+T7	Administration 884 892	infusion
+T8	Area 1140 1147	8×40 mm
+T9	Area 1525 1533	10×82 mm
+T10	Distance 1677 1682	30 mm
+T11	Texture 2098 2102	firm
+T12	Lab_value 2306 2310	poor
+T13	Severity 2356 2362	severe
+T14	Area 2501 2508	7×37 mm

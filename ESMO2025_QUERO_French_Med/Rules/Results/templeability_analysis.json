@@ -1,0 +1,220 @@
+{
+  "Estrogen_receptor": {
+    "count": 390,
+    "unique_values": 135,
+    "diversity_ratio": 0.346,
+    "patterns": [
+      "numeric_pattern"
+    ],
+    "prefixes": [
+      "100RO",
+      "ER",
+      "LumB",
+      "R",
+      "R0"
+    ],
+    "suffixes": [
+      "%",
+      "+",
+      "++",
+      "+++",
+      "-"
+    ],
+    "has_percentage": false,
+    "has_plus_minus": true,
+    "pattern_count": 1,
+    "templeability_score": 0.472,
+    "sample_values": [
+      "triple négatif",
+      "RH 100%",
+      "RO+80%",
+      "RO+100%",
+      "RO +"
+    ]
+  },
+  "Genetic_mutation": {
+    "count": 2,
+    "unique_values": 2,
+    "diversity_ratio": 1.0,
+    "patterns": [
+      "consistent_suffix",
+      "numeric_pattern"
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "CA"
+    ],
+    "has_percentage": false,
+    "has_plus_minus": false,
+    "pattern_count": 2,
+    "templeability_score": 0.16,
+    "sample_values": [
+      "Mutation pathogène dans l'exon10 de PIK3CA",
+      "mutation génétique BRCA1"
+    ]
+  },
+  "HER2_FISH": {
+    "count": 34,
+    "unique_values": 29,
+    "diversity_ratio": 0.853,
+    "patterns": [],
+    "prefixes": [
+      "DDISH",
+      "FISH",
+      "Fish",
+      "HER2",
+      "Her2"
+    ],
+    "suffixes": [
+      "+",
+      "-",
+      "AMPLIFIE",
+      "Neg",
+      "cours"
+    ],
+    "has_percentage": false,
+    "has_plus_minus": false,
+    "pattern_count": 0,
+    "templeability_score": 0.088,
+    "sample_values": [
+      "SISH non contributif",
+      "fish Her2 non amplifié",
+      "Fish +",
+      "FISH amplifié",
+      "HER2- (++ mais non amplifié"
+    ]
+  },
+  "HER2_IHC": {
+    "count": 186,
+    "unique_values": 114,
+    "diversity_ratio": 0.613,
+    "patterns": [
+      "score_pattern",
+      "numeric_pattern"
+    ],
+    "prefixes": [
+      "Cerb",
+      "Cerb2",
+      "HER",
+      "HER2",
+      "HEr"
+    ],
+    "suffixes": [
+      "+",
+      "++",
+      "+++",
+      "croix",
+      "quivoque"
+    ],
+    "has_percentage": false,
+    "has_plus_minus": true,
+    "pattern_count": 2,
+    "templeability_score": 0.392,
+    "sample_values": [
+      " Cerb2 score 0,",
+      "HER 2 : 0",
+      "HER2 2",
+      "Her2 : 0",
+      "HER2 équivoque"
+    ]
+  },
+  "HER2_status": {
+    "count": 177,
+    "unique_values": 99,
+    "diversity_ratio": 0.559,
+    "patterns": [
+      "numeric_pattern"
+    ],
+    "prefixes": [
+      "Cerb",
+      "HER",
+      "HER2",
+      "HeR2",
+      "Her"
+    ],
+    "suffixes": [
+      "+",
+      "++",
+      "-",
+      "Un",
+      "g"
+    ],
+    "has_percentage": false,
+    "has_plus_minus": false,
+    "pattern_count": 1,
+    "templeability_score": 0.344,
+    "sample_values": [
+      "HER2 nég",
+      "absence d’une surexpression significative de HER2",
+      "triple négatif",
+      "Her2 neg",
+      " HER2 négatif"
+    ]
+  },
+  "Ki67": {
+    "count": 306,
+    "unique_values": 153,
+    "diversity_ratio": 0.5,
+    "patterns": [
+      "percentage_format",
+      "consistent_suffix",
+      "numeric_pattern"
+    ],
+    "prefixes": [
+      "KI",
+      "KI67",
+      "Ki",
+      "Ki67",
+      "Ki6750"
+    ],
+    "suffixes": [
+      "%",
+      "+",
+      "-"
+    ],
+    "has_percentage": true,
+    "has_plus_minus": false,
+    "pattern_count": 3,
+    "templeability_score": 0.54,
+    "sample_values": [
+      "Ki67 70%",
+      "Ki 67 : 60%",
+      "Ki 67 15",
+      "Ki67 < 5 %",
+      "Ki67 30%"
+    ]
+  },
+  "Progesterone_receptor": {
+    "count": 364,
+    "unique_values": 123,
+    "diversity_ratio": 0.338,
+    "patterns": [
+      "numeric_pattern"
+    ],
+    "prefixes": [
+      "100",
+      "PGR",
+      "R",
+      "RE",
+      "RH"
+    ],
+    "suffixes": [
+      "%",
+      "+",
+      "+++",
+      "+/+",
+      "+/-"
+    ],
+    "has_percentage": false,
+    "has_plus_minus": true,
+    "pattern_count": 1,
+    "templeability_score": 0.477,
+    "sample_values": [
+      "RP++",
+      "triple négatif",
+      "RH 100%",
+      "RP  -",
+      "RP- (0 %)"
+    ]
+  }
+}

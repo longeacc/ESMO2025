@@ -1,0 +1,28 @@
+T1	Date 3 15	January 2009
+T2	Age 19 30	57-year-old
+T3	Sex 31 36	woman
+T4	Duration 100 107	1-month
+T5	Lab_value 165 173	decrease
+T6	Severity 208 212	mild
+T7	Date 259 268	At age 40
+T8	Dosage 445 453	4 cycles
+T9	Dosage 470 478	75 mg/m2
+T10	Dosage 493 501	8 cycles
+T11	Lab_value 623 629	normal
+T12	Lab_value 779 787	positive
+T13	Duration 884 891	5 years
+T14	Date 952 966	17 years after
+T15	Lab_value 1019 1023	good
+T16	Severity 1140 1146	marked
+T17	Lab_value 1257 1277	within normal limits
+T18	Lab_value 1292 1300	elevated
+T19	Lab_value 1435 1441	normal
+T20	Lab_value 1555 1561	normal
+T21	Frequency 1612 1620	frequent
+T22	Severity 1860 1866	severe
+T23	Severity 1916 1922	mildly
+T24	Lab_value 2348 2356	improved
+T25	Lab_value 2519 2528	increased
+T26	Duration 2557 2564	8-month
+T27	Dosage 2600 2608	low-dose
+T28	Date 2638 2650	after 1 year

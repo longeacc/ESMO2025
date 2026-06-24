@@ -1,0 +1,34 @@
+T1	Date 3 13	March 2009
+T2	Age 17 28	21-year-old
+T3	Sex 29 32	man
+T4	Frequency 86 98	intermittent
+T5	Date 395 411	one month before
+T6	Frequency 428 440	intermittent
+T7	Lab_value 494 499	39 °C
+T8	Color 667 673	salmon
+T9	Color 738 744	salmon
+T10	Distance 801 805	2-mm
+T11	Lab_value 958 966	elevated
+T12	Lab_value 1067 1073	normal
+T13	Dosage 1088 1096	200 mg/d
+T14	Severity 1175 1184	extensive
+T15	Severity 1533 1537	mild
+T16	Distance 1578 1582	8 mm
+T17	Duration 1642 1650	few days
+T18	Lab_value 2087 2095	elevated
+T19	Lab_value 2131 2139	increase
+T20	Distance 2187 2192	12 mm
+T21	Volume 2281 2286	60 mL
+T22	Severity 2365 2369	mild
+T23	Severity 2380 2386	severe
+T24	Severity 2421 2425	mild
+T25	Volume 2484 2490	350 mL
+T26	Lab_value 2591 2599	negative
+T27	Lab_value 2635 2647	unremarkable
+T28	Dosage 2760 2771	0.5 mg/kg/d
+T29	Lab_value 2809 2820	improvement
+T30	Severity 2919 2923	mild
+T31	Distance 2948 2952	3 mm
+T32	Date 3222 3236	2 months after
+T33	Lab_value 3304 3312	resolved
+T34	Date 3349 3365	Ten months after

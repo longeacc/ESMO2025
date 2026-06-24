@@ -1,0 +1,17 @@
+T1	Age 2 13	66-year-old
+T2	Sex 14 17	man
+T3	Date 52 65	November 2008
+T4	Color 92 95	red
+T5	Lab_value 181 187	normal
+T6	Sex 188 192	male
+T7	Lab_value 227 235	negative
+T8	Date 437 441	2008
+T9	Date 553 568	Six years later
+T10	Texture 624 629	dense
+T11	Lab_value 828 837	increased
+T12	Sex 1152 1156	male
+T13	Lab_value 1430 1438	positive
+T14	Lab_value 1452 1460	negative
+T15	Lab_value 1962 1970	negative
+T16	Date 2116 2130	after 3 months
+T17	Texture 2217 2222	dense

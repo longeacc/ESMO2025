@@ -1,0 +1,22 @@
+T1	Age 18 29	18-year-old
+T2	Sex 34 40	female
+T3	Frequency 155 164	recurrent
+T4	Date 194 199	age 5
+T5	Lab_value 273 280	Reduced
+T6	Date 417 422	age 4
+T7	Administration 690 694	oral
+T8	Lab_value 997 1004	reduced
+T9	Lab_value 1178 1184	normal
+T10	Lab_value 1199 1208	increased
+T11	Lab_value 1327 1335	negative
+T12	Time 1396 1403	8:00 am
+T13	Dosage 1435 1442	0.93 μg
+T14	Lab_value 1653 1661	negative
+T15	Lab_value 1671 1679	positive
+T16	Lab_value 1753 1763	5.9 mmol/L
+T17	Lab_value 1818 1824	normal
+T18	Administration 2023 2034	Intravenous
+T19	Date 2119 2131	1 year after
+T20	Date 2304 2318	4 months after
+T21	Lab_value 2454 2463	increased
+T22	Lab_value 2530 2536	normal

@@ -1,0 +1,38 @@
+T1	Age 2 13	66-year-old
+T2	Sex 24 29	woman
+T3	Distance 231 235	10cm
+T4	Lab_value 266 272	normal
+T5	Lab_value 461 467	normal
+T6	Severity 536 540	mild
+T7	Severity 581 589	moderate
+T8	Dosage 880 889	high-dose
+T9	Dosage 907 927	300mg/m2 twice daily
+T10	Duration 932 938	3 days
+T11	Dosage 952 963	25mg/m2/day
+T12	Duration 968 974	2 days
+T13	Dosage 986 998	375mg/m2/day
+T14	Duration 1003 1008	1 day
+T15	Dosage 1024 1032	40mg/day
+T16	Duration 1037 1043	4 days
+T17	Dosage 1061 1068	2mg/day
+T18	Duration 1073 1079	2 days
+T19	Dosage 1155 1164	1800mg/m2
+T20	Dosage 1169 1176	50mg/m2
+T21	Dosage 1218 1227	300mg/day
+T22	Administration 1280 1288	infusion
+T23	Duration 1293 1301	24 hours
+T24	Dosage 1333 1345	600mg/m2/day
+T25	Duration 1350 1356	2 days
+T26	Dosage 1471 1478	2mg/day
+T27	Dosage 1496 1504	30mg/day
+T28	Lab_value 1677 1683	60mmHg
+T29	Lab_value 1970 1979	increased
+T30	Severity 2005 2009	mild
+T31	Date 2376 2389	After 12 days
+T32	Lab_value 2421 2427	normal
+T33	Lab_value 2469 2478	decreased
+T34	Date 2505 2511	day 20
+T35	Date 2513 2526	After 1 month
+T36	Lab_value 2539 2545	normal
+T37	Dosage 2673 2682	high-dose
+T38	Severity 2726 2732	severe

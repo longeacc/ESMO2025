@@ -1,0 +1,94 @@
+T1	Age 2 13	22-year-old
+T2	Sex 22 25	man
+T3	Dosage 207 215	300 mg/d
+T4	Dosage 223 231	450 mg/d
+T5	Dosage 251 259	750 mg/d
+T6	Dosage 285 294	1500 mg/d
+T7	Date 297 309	After 1 week
+T8	Lab_value 448 454	normal
+T9	Date 529 543	Two days later
+T10	Date 685 700	Four days later
+T11	Date 715 719	2015
+T12	Severity 853 857	mild
+T13	Lab_value 915 922	132/min
+T14	Duration 1045 1054	8 seconds
+T15	Lab_value 1056 1062	normal
+T16	Duration 1077 1086	8 seconds
+T17	Lab_value 1127 1133	normal
+T18	Dosage 1165 1171	1.13 g
+T19	Lab_value 1175 1181	normal
+T20	Dosage 1193 1198	4.0 g
+T21	Dosage 1213 1221	23.45 mg
+T22	Lab_value 1225 1231	normal
+T23	Dosage 1240 1247	0.55 mg
+T24	Dosage 1280 1287	60.4 mg
+T25	Lab_value 1291 1297	normal
+T26	Dosage 1305 1309	5 mg
+T27	Lab_value 1334 1340	normal
+T28	Lab_value 1372 1380	abnormal
+T29	Color 1403 1408	white
+T30	Lab_value 1441 1447	normal
+T31	Dosage 1477 1481	65 g
+T32	Lab_value 1485 1491	normal
+T33	Dosage 1503 1508	175 g
+T34	Lab_value 1530 1541	30.8 umol/L
+T35	Lab_value 1543 1549	normal
+T36	Lab_value 1561 1572	28.0 umol/L
+T37	Lab_value 1593 1604	16.6 umol/L
+T38	Lab_value 1606 1612	normal
+T39	Lab_value 1622 1632	8.8 umol/L
+T40	Lab_value 1663 1669	75 U/L
+T41	Lab_value 1671 1677	normal
+T42	Lab_value 1686 1692	40 U/L
+T43	Lab_value 1721 1728	293 U/L
+T44	Lab_value 1730 1736	normal
+T45	Lab_value 1745 1751	50 U/L
+T46	Lab_value 1777 1784	380 U/L
+T47	Lab_value 1786 1792	normal
+T48	Lab_value 1804 1811	220 U/L
+T49	Lab_value 1835 1847	13.01 mmol/L
+T50	Lab_value 1849 1855	normal
+T51	Lab_value 1867 1878	7.79 mmol/L
+T52	Dosage 1901 1909	16.70 mg
+T53	Lab_value 1913 1919	normal
+T54	Dosage 1928 1932	5 mg
+T55	Dosage 1951 1957	0.41 g
+T56	Lab_value 1961 1967	normal
+T57	Dosage 1981 1988	1.520 g
+T58	Dosage 2011 2019	0.0797 g
+T59	Lab_value 2023 2029	normal
+T60	Dosage 2043 2050	0.360 g
+T61	Lab_value 2093 2104	330 Cell/uL
+T62	Lab_value 2116 2127	250 Cell/uL
+T63	Dosage 2137 2140	2 g
+T64	Lab_value 2161 2170	70 umol/L
+T65	Color 2198 2201	red
+T66	Color 2220 2225	white
+T67	Lab_value 2285 2293	positive
+T68	Lab_value 2375 2383	positive
+T69	Lab_value 2428 2436	negative
+T70	Date 2496 2500	2015
+T71	Lab_value 2778 2786	negative
+T72	Lab_value 2914 2922	negative
+T73	Lab_value 2971 2979	negative
+T74	Administration 3094 3102	infusion
+T75	Color 3144 3147	red
+T76	Administration 3161 3172	intravenous
+T77	Date 3311 3326	Five days after
+T78	Date 3349 3353	2015
+T79	Date 3476 3492	Eight days after
+T80	Date 3517 3521	2015
+T81	Dosage 3570 3578	200 mg/d
+T82	Administration 3580 3593	intravenously
+T83	Date 3622 3635	24 days after
+T84	Date 3660 3664	2015
+T85	Lab_value 3730 3736	normal
+T86	Date 3794 3809	One month later
+T87	Date 3824 3828	2015
+T88	Date 3956 3969	4 weeks after
+T89	Dosage 4031 4039	300 mg/d
+T90	Dosage 4047 4055	750 mg/d
+T91	Dosage 4072 4080	500 mg/d
+T92	Administration 4114 4127	intramuscular
+T93	Administration 4128 4137	injection
+T94	Duration 4192 4200	8 months

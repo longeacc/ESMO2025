@@ -1,0 +1,16 @@
+T1	Age 2 13	49-year-old
+T2	Sex 14 17	man
+T3	Date 231 248	15 months earlier
+T4	Duration 614 621	40 days
+T5	Lab_value 743 749	normal
+T6	Date 761 774	4 weeks after
+T7	Severity 968 972	mild
+T8	Severity 1075 1081	severe
+T9	Lab_value 1182 1188	normal
+T10	Severity 1219 1225	mildly
+T11	Administration 1264 1275	intravenous
+T12	Severity 1641 1647	severe
+T13	Distance 1968 1972	7 mm
+T14	Distance 2347 2352	30-mm
+T15	Time 2405 2417	the next day
+T16	Date 2465 2479	One year later

@@ -1,0 +1,26 @@
+T1	Age 43 54	28-year-old
+T2	Sex 55 60	woman
+T3	Lab_value 384 390	60mmHg
+T4	Lab_value 407 412	98bpm
+T5	Lab_value 439 443	35°C
+T6	Severity 453 461	severely
+T7	Lab_value 482 491	decreased
+T8	Dosage 562 567	12.3g
+T9	Lab_value 611 618	103/mm3
+T10	Dosage 675 679	98mg
+T11	Dosage 700 706	14.2mg
+T12	Dosage 728 733	3.4mg
+T13	Lab_value 777 783	306U/L
+T14	Lab_value 822 828	302U/L
+T15	Lab_value 851 858	11mEq/L
+T16	Dosage 892 896	65mg
+T17	Lab_value 918 928	1.02mmol/L
+T18	Distance 1690 1693	0mm
+T19	Dosage 1750 1754	4.0g
+T20	Volume 2083 2089	2000mL
+T21	Volume 2094 2099	200mL
+T22	Duration 2327 2335	A second
+T23	Severity 2434 2438	mild
+T24	Lab_value 2533 2539	stable
+T25	Date 2617 2629	3 days after
+T26	Date 2649 2661	3 days later

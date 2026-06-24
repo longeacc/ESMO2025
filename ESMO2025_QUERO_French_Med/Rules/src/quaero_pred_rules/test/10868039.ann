@@ -1,0 +1,6 @@
+T1	PROC 3 9	lavage
+T2	ANAT 10 17	colique
+T3	PROC 39 48	résection
+T4	DISO 49 59	anastomose
+T5	PROC 49 59	anastomose
+T6	ANAT 95 100	côlon

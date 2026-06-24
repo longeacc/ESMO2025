@@ -1,0 +1,19 @@
+T1	Age 3 14	84-year-old
+T2	Sex 15 19	male
+T3	Date 154 167	February 2012
+T4	Severity 267 273	severe
+T5	Severity 371 377	severe
+T6	Distance 599 604	31 mm
+T7	Severity 771 777	severe
+T8	Date 1111 1126	Two weeks after
+T9	Severity 1275 1283	moderate
+T10	Severity 1287 1293	severe
+T11	Frequency 1319 1328	recurrent
+T12	Severity 1329 1335	severe
+T13	Severity 1373 1379	slight
+T14	Distance 2179 2184	25 mm
+T15	Distance 2409 2414	31 mm
+T16	Duration 2884 2891	a month
+T17	Lab_value 2979 2983	good
+T18	Date 3041 3059	three months after
+T19	Lab_value 3112 3118	stable

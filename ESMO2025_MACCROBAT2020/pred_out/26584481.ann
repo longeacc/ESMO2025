@@ -1,0 +1,37 @@
+T1	Age 25 36	22-year-old
+T2	Sex 37 42	woman
+T3	Distance 323 329	119 mm
+T4	Lab_value 351 358	123 bpm
+T5	Lab_value 590 598	elevated
+T6	Severity 884 892	severely
+T7	Severity 958 962	mild
+T8	Duration 1172 1179	24-hour
+T9	Duration 1433 1440	24-hour
+T10	Severity 1471 1479	markedly
+T11	Lab_value 1480 1488	elevated
+T12	Lab_value 1575 1581	normal
+T13	Duration 1602 1609	24-hour
+T14	Dosage 1625 1631	468 μg
+T15	Lab_value 1633 1639	normal
+T16	Duration 1656 1663	24-hour
+T17	Dosage 1676 1681	13 μg
+T18	Lab_value 1683 1689	normal
+T19	Duration 1704 1711	24-hour
+T20	Dosage 1733 1739	658 μg
+T21	Lab_value 1741 1747	normal
+T22	Duration 1765 1772	24-hour
+T23	Dosage 1791 1797	988 μg
+T24	Lab_value 1799 1805	normal
+T25	Duration 1823 1830	24-hour
+T26	Dosage 1852 1858	013 μg
+T27	Lab_value 1860 1866	normal
+T28	Distance 2332 2337	77 mm
+T29	Lab_value 2342 2348	78 bpm
+T30	Duration 2351 2358	24-hour
+T31	Lab_value 2400 2406	normal
+T32	Dosage 2429 2434	69 μg
+T33	Dosage 2461 2467	221 μg
+T34	Dosage 2490 2496	202 μg
+T35	Dosage 2525 2531	259 μg
+T36	Date 2602 2618	Six months after
+T37	Lab_value 2702 2708	normal

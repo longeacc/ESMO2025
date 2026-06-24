@@ -1,0 +1,38 @@
+T1	Sex 10 13	boy
+T2	Duration 68 76	37 weeks
+T3	Sex 121 130	primipara
+T4	Age 132 144	32 years old
+T5	Date 180 198	2 weeks previously
+T6	Lab_value 210 217	reduced
+T7	Dosage 297 302	330 g
+T8	Distance 330 335	47 cm
+T9	Distance 360 367	33.2 cm
+T10	Duration 474 484	10 minutes
+T11	Severity 511 517	severe
+T12	Administration 604 614	parenteral
+T13	Severity 793 799	mildly
+T14	Date 839 853	Two days after
+T15	Severity 887 893	severe
+T16	Severity 953 959	marked
+T17	Dosage 1059 1064	27 mg
+T18	Lab_value 1086 1097	0.58 mmol/L
+T19	Lab_value 1117 1127	2.4 mmol/L
+T20	Lab_value 1148 1154	normal
+T21	Lab_value 1156 1166	1.3 mmol/L
+T22	Lab_value 1168 1174	normal
+T23	Lab_value 1185 1195	2.2 mmol/L
+T24	Lab_value 1220 1232	unremarkable
+T25	Lab_value 1373 1381	positive
+T26	Severity 1478 1484	marked
+T27	Lab_value 1516 1524	decrease
+T28	Lab_value 1625 1633	positive
+T29	Lab_value 1664 1672	negative
+T30	Dosage 1861 1866	2542G
+T31	Duration 1972 1979	20 days
+T32	Lab_value 2117 2121	poor
+T33	Administration 2267 2277	parenteral
+T34	Lab_value 2427 2433	normal
+T35	Severity 2447 2453	marked
+T36	Lab_value 2503 2509	normal
+T37	Severity 2580 2586	severe
+T38	Lab_value 2614 2622	decrease

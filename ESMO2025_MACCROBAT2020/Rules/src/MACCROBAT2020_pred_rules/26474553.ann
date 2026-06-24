@@ -1,0 +1,27 @@
+T1	Age 3 13	8-year-old
+T2	Sex 14 17	boy
+T3	Dosage 34 36	1G
+T4	Dosage 76 82	150 mg
+T5	Frequency 83 88	b.i.d
+T6	Date 120 128	age of 9
+T7	Severity 449 453	mild
+T8	Frequency 486 498	intermittent
+T9	Lab_value 534 540	normal
+T10	Date 760 773	After 6 weeks
+T11	Weight 936 942	1.4 kg
+T12	Lab_value 1068 1077	decreased
+T13	Lab_value 1083 1093	115 mmol/l
+T14	Lab_value 1114 1123	40 mmol/l
+T15	Date 1124 1137	after 6 weeks
+T16	Lab_value 1142 1151	52 mmol/l
+T17	Date 1152 1166	after 41 weeks
+T18	Lab_value 1168 1174	normal
+T19	Lab_value 1177 1186	30 mmol/l
+T20	Lab_value 1216 1225	increased
+T21	Volume 1231 1237	1.25 L
+T22	Volume 1256 1262	1.65 L
+T23	Date 1278 1292	after 41 weeks
+T24	Lab_value 1324 1330	normal
+T25	Lab_value 1355 1364	decreased
+T26	Date 1382 1395	after 6 weeks
+T27	Date 1404 1418	after 41 weeks

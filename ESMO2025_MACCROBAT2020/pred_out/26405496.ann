@@ -1,0 +1,31 @@
+T1	Sex 2 7	woman
+T2	Age 8 15	aged 31
+T3	Lab_value 73 77	good
+T4	Lab_value 100 106	normal
+T5	Lab_value 166 172	normal
+T6	Duration 217 225	38 weeks
+T7	Distance 337 343	100 mm
+T8	Duration 373 384	few minutes
+T9	Duration 426 434	12 hours
+T10	Sex 464 468	lady
+T11	Severity 481 487	severe
+T12	Administration 659 668	injection
+T13	Administration 681 683	IV
+T14	Lab_value 776 783	90 mmHg
+T15	Lab_value 951 959	positive
+T16	Duration 1031 1042	few seconds
+T17	Lab_value 1090 1096	raised
+T18	Dosage 1117 1123	525 IU
+T19	Dosage 1135 1141	214 IU
+T20	Dosage 1175 1179	7 mg
+T21	Lab_value 1337 1343	normal
+T22	Lab_value 1368 1376	negative
+T23	Color 1678 1681	red
+T24	Time 1768 1782	one hour after
+T25	Color 1959 1964	white
+T26	Severity 2069 2075	severe
+T27	Date 2183 2193	second day
+T28	Severity 2236 2242	marked
+T29	Lab_value 2385 2389	good
+T30	Date 2403 2408	day 5
+T31	Date 2510 2528	three months later

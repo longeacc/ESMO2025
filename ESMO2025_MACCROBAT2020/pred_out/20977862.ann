@@ -1,0 +1,12 @@
+T1	Age 2 13	48-year-old
+T2	Sex 14 17	man
+T3	Lab_value 131 137	normal
+T4	Volume 1050 1055	10 mL
+T5	Lab_value 1059 1065	normal
+T6	Administration 1282 1291	injection
+T7	Dosage 1550 1555	10 mg
+T8	Administration 1574 1587	intravenously
+T9	Date 1620 1630	second day
+T10	Date 1859 1874	four days after
+T11	Severity 2129 2135	marked
+T12	Administration 2483 2487	Oral

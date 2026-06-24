@@ -1,0 +1,7 @@
+T1	PROC 0 10	Traitement
+T2	DISO 29 36	maladie
+T3	ANAT 54 62	intestin
+T4	ANAT 77 84	rectale
+T5	PHEN 106 115	résultats
+T6	DISO 122 132	anastomose
+T7	PROC 122 132	anastomose

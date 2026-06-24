@@ -1,0 +1,11 @@
+T1	PROC 0 5	Etude
+T2	DISO 24 35	ostéoporose
+T3	DISO 45 57	discarthrose
+T4	DISO 85 97	ostéophytose
+T5	ANAT 132 153	disque intervertébral
+T6	LIVB 162 168	sujets
+T7	DISO 185 196	ostéoporose
+T8	PROC 213 220	biopsie
+T9	ANAT 221 228	osseuse
+T10	PROC 250 255	Etude
+T11	DISO 262 269	lordose

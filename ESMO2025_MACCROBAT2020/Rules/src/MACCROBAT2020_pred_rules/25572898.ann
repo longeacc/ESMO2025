@@ -1,0 +1,31 @@
+T1	Age 2 13	42 year-old
+T2	Sex 14 17	man
+T3	Date 99 113	September 2013
+T4	Date 258 264	day 12
+T5	Lab_value 386 398	unremarkable
+T6	Duration 555 562	3 weeks
+T7	Lab_value 607 619	unremarkable
+T8	Color 724 727	red
+T9	Lab_value 752 762	2.4 mmol/L
+T10	Lab_value 764 770	normal
+T11	Lab_value 782 792	4.7 mmol/L
+T12	Dosage 803 808	61 mg
+T13	Lab_value 813 819	normal
+T14	Dosage 830 835	45 mg
+T15	Lab_value 928 936	negative
+T16	Dosage 1021 1030	high-dose
+T17	Dosage 1077 1083	2 g/kg
+T18	Administration 1084 1095	intravenous
+T19	Date 1339 1352	6 weeks after
+T20	Frequency 1447 1461	intermittently
+T21	Lab_value 1516 1522	106/μL
+T22	Lab_value 1524 1530	normal
+T23	Lab_value 1548 1554	106/μL
+T24	Lab_value 1586 1598	unremarkable
+T25	Dosage 1789 1798	high-dose
+T26	Severity 2288 2297	Extensive
+T27	Lab_value 2374 2382	negative
+T28	Date 2544 2556	January 2014
+T29	Date 2968 2978	March 2014
+T30	Date 3018 3032	4 months after
+T31	Date 3071 3085	5 months after

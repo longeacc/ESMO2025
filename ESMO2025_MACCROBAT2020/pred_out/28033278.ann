@@ -1,0 +1,52 @@
+T1	Age 4 15	36-year-old
+T2	Sex 16 20	male
+T3	Duration 48 54	6-year
+T4	Lab_value 186 190	poor
+T5	Duration 241 248	1 month
+T6	Duration 267 273	3 days
+T7	Distance 438 444	127 mm
+T8	Lab_value 449 455	88/min
+T9	Lab_value 461 467	22/min
+T10	Color 534 539	white
+T11	Lab_value 558 565	7730/μL
+T12	Lab_value 575 581	000/μL
+T13	Dosage 596 601	8.6 g
+T14	Dosage 609 613	16 g
+T15	Lab_value 635 643	87000/μL
+T16	Lab_value 657 663	000/μL
+T17	Dosage 687 692	78 mg
+T18	Dosage 699 704	21 mg
+T19	Dosage 722 728	8.9 mg
+T20	Dosage 737 743	1.5 mg
+T21	Dosage 758 764	8.2 mg
+T22	Dosage 773 780	10.3 mg
+T23	Dosage 798 804	5.4 mg
+T24	Dosage 813 819	4.5 mg
+T25	Dosage 839 846	6.56 mg
+T26	Dosage 854 860	200 mg
+T27	Lab_value 893 900	547 U/L
+T28	Lab_value 906 913	211 U/L
+T29	Dosage 973 979	200 mg
+T30	Color 985 990	white
+T31	Color 1037 1040	red
+T32	Lab_value 1168 1174	normal
+T33	Time 1177 1181	1:40
+T34	Lab_value 1290 1298	negative
+T35	Lab_value 1325 1334	decreased
+T36	Date 1501 1514	3 days before
+T37	Date 1908 1920	After 3 days
+T38	Severity 1990 1996	severe
+T39	Distance 2116 2122	180 mm
+T40	Date 2144 2157	3 weeks after
+T41	Lab_value 2437 2445	resolved
+T42	Frequency 2585 2598	thrice weekly
+T43	Date 2612 2624	1 week after
+T44	Distance 2836 2842	100 mm
+T45	Lab_value 2869 2875	000/μL
+T46	Lab_value 2890 2897	332 U/L
+T47	Lab_value 3093 3101	negative
+T48	Dosage 3405 3410	25 mg
+T49	Frequency 3411 3423	thrice daily
+T50	Lab_value 3571 3577	normal
+T51	Date 3578 3591	within 3 days
+T52	Date 3660 3674	2 months later

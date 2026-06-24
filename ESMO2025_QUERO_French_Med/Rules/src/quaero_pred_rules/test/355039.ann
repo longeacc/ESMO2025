@@ -1,0 +1,6 @@
+T1	PROC 3 17	chimiothérapie
+T2	PROC 24 38	immunothérapie
+T3	DISO 43 50	cancers
+T4	ANAT 57 64	estomac
+T5	ANAT 70 75	colon
+T6	ANAT 82 88	rectum

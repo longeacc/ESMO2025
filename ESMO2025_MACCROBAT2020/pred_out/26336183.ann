@@ -1,0 +1,39 @@
+T1	Age 2 13	35-year-old
+T2	Sex 14 19	woman
+T3	Duration 40 45	5-day
+T4	Duration 190 197	10-year
+T5	Dosage 333 348	1 g twice daily
+T6	Lab_value 656 663	reduced
+T7	Lab_value 853 865	unremarkable
+T8	Lab_value 951 963	unremarkable
+T9	Lab_value 1004 1009	7 u/L
+T10	Lab_value 1039 1045	61 u/L
+T11	Lab_value 1079 1085	17 u/L
+T12	Lab_value 1110 1118	6 μmol/L
+T13	Lab_value 1134 1140	normal
+T14	Lab_value 1174 1180	normal
+T15	Lab_value 1283 1292	47 μmol/L
+T16	Lab_value 1339 1347	elevated
+T17	Dosage 1348 1354	140 mg
+T18	Color 1509 1514	white
+T19	Dosage 1544 1550	0.25 g
+T20	Severity 1582 1586	mild
+T21	Lab_value 1858 1864	raised
+T22	Lab_value 2013 2020	reduced
+T23	Date 2173 2186	Within 3 days
+T24	Lab_value 2215 2226	improvement
+T25	Lab_value 2346 2354	improved
+T26	Lab_value 2414 2423	decreased
+T27	Date 2450 2462	After 4 days
+T28	Lab_value 2600 2606	stable
+T29	Lab_value 2935 2946	14.2 μmol/L
+T30	Lab_value 2948 2954	normal
+T31	Lab_value 3000 3011	19.9 μmol/L
+T32	Lab_value 3013 3019	normal
+T33	Administration 3054 3058	oral
+T34	Dosage 3069 3084	1 g twice daily
+T35	Date 3086 3100	Within 2 weeks
+T36	Lab_value 3115 3123	resolved
+T37	Lab_value 3196 3207	25.2 μmol/L
+T38	Lab_value 3231 3242	41.3 μmol/L
+T39	Dosage 3423 3437	1 g once daily

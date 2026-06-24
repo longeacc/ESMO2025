@@ -1,0 +1,4 @@
+run_date,models,device,n_train,n_test,max_steps,learning_rate,per_device_train_batch_size,per_device_eval_batch_size,others_lr,lr_scheduler_type,warmup_ratio,weight_decay,others_weight_decay,max_grad_norm,focal_loss_alpha,focal_loss_gamma,loss_reduction,save_steps,logging_steps,save_total_limit
+2026-06-18T16:25:15,almanach/camembert-bio-gliner,cuda,3364,1164,1000,1e-05,4,4,1e-05,cosine,0.1,0.01,0.01,1.0,-1,0,sum,500,50,1
+2026-06-19T03:11:03,urchade/gliner_large-v2.1,cuda,3364,1164,500,1e-05,4,4,1e-05,cosine,0.1,0.01,0.01,1.0,-1,0,sum,500,50,1
+2026-06-20T09:00:54,urchade/gliner_large-v2.1,cuda,3379,1149,500,1e-05,4,4,1e-05,cosine,0.1,0.01,0.01,1.0,-1,0,sum,500,50,1

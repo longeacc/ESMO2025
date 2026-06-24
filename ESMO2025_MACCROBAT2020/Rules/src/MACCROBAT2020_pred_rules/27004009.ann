@@ -1,0 +1,20 @@
+T1	Age 2 13	65-year-old
+T2	Sex 14 17	man
+T3	Weight 175 179	8 kg
+T4	Duration 314 322	10 years
+T5	Severity 471 477	slight
+T6	Lab_value 478 486	decrease
+T7	Dosage 502 507	106 g
+T8	Texture 689 693	soft
+T9	Color 843 848	black
+T10	Color 889 894	black
+T11	Color 955 960	black
+T12	Date 1211 1215	2002
+T13	Date 1221 1225	2002
+T14	Area 1723 1734	3 cm × 6 cm
+T15	Color 1748 1753	black
+T16	Area 1879 1902	1 cm × 1 cm in diameter
+T17	Lab_value 2273 2281	positive
+T18	Lab_value 2328 2336	negative
+T19	Texture 2515 2521	smooth
+T20	Date 2731 2747	within one month

@@ -1,0 +1,19 @@
+T1	Age 3 14	81-year-old
+T2	Sex 15 21	female
+T3	Frequency 164 176	intermittent
+T4	Date 201 213	10 years ago
+T5	Distance 221 225	4 cm
+T6	Date 280 294	2 years before
+T7	Distance 394 398	6 cm
+T8	Date 520 534	10 days before
+T9	Date 606 617	1 day later
+T10	Severity 793 797	mild
+T11	Shape 972 990	irregularly shaped
+T12	Texture 1376 1380	soft
+T13	Distance 1427 1433	2.3 cm
+T14	Date 1602 1615	13 days after
+T15	Shape 1657 1671	spindle-shaped
+T16	Lab_value 1806 1814	positive
+T17	Lab_value 1838 1846	positive
+T18	Lab_value 1872 1880	negative
+T19	Frequency 2106 2114	Sporadic

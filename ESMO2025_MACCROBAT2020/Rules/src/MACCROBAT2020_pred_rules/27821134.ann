@@ -1,0 +1,34 @@
+T1	Age 17 28	59-year-old
+T2	Sex 29 32	man
+T3	Date 58 67	age of 49
+T4	Severity 146 154	severely
+T5	Lab_value 308 316	positive
+T6	Dosage 624 633	1112.5 mg
+T7	Dosage 650 656	150 mg
+T8	Lab_value 910 916	normal
+T9	Lab_value 950 956	normal
+T10	Severity 1130 1138	moderate
+T11	Severity 1229 1233	mild
+T12	Severity 1312 1318	slight
+T13	Severity 1365 1371	severe
+T14	Severity 1385 1391	marked
+T15	Severity 1410 1414	mild
+T16	Severity 1464 1472	markedly
+T17	Frequency 1529 1541	intermittent
+T18	Severity 1562 1566	mild
+T19	Time 1743 1752	07:00 p.m
+T20	Time 1949 1958	09:00 a.m
+T21	Severity 2164 2172	slightly
+T22	Lab_value 2442 2446	good
+T23	Time 2735 2744	02:15 p.m
+T24	Duration 2816 2824	a minute
+T25	Administration 3305 3319	subcutaneously
+T26	Dosage 3471 3476	50 mg
+T27	Administration 3510 3521	nasogastric
+T28	Lab_value 3655 3661	normal
+T29	Time 3739 3748	02:00 p.m
+T30	Time 3750 3767	the following day
+T31	Administration 3844 3855	nasogastric
+T32	Lab_value 3942 3950	negative
+T33	Date 3988 4000	7 days later
+T34	Lab_value 4024 4028	good

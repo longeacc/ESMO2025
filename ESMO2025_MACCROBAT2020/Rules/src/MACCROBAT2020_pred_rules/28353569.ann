@@ -1,0 +1,33 @@
+T1	Age 2 13	41-year-old
+T2	Sex 14 17	man
+T3	Duration 51 59	10 years
+T4	Duration 83 90	3 years
+T5	Frequency 92 101	recurrent
+T6	Duration 224 230	2 days
+T7	Date 276 291	3 years earlier
+T8	Distance 472 477	60 mm
+T9	Lab_value 490 502	60 beats/min
+T10	Texture 557 561	soft
+T11	Severity 575 579	mild
+T12	Dosage 763 769	12.5 g
+T13	Dosage 864 869	20 mg
+T14	Dosage 891 897	1.1 mg
+T15	Dosage 937 942	21 IU
+T16	Dosage 973 978	16 IU
+T17	Dosage 1000 1006	0.6 mg
+T18	Dosage 1034 1039	64 IU
+T19	Dosage 1121 1126	9.3 g
+T20	Administration 1182 1193	intravenous
+T21	Distance 1215 1219	5-cm
+T22	Lab_value 1348 1354	normal
+T23	Lab_value 1372 1378	normal
+T24	Color 1554 1559	white
+T25	Shape 1561 1570	polygonal
+T26	Severity 1693 1702	extensive
+T27	Shape 1905 1910	round
+T28	Distance 2070 2074	5-cm
+T29	Distance 2544 2550	2.2-cm
+T30	Date 2654 2671	Eight weeks later
+T31	Lab_value 2691 2697	stable
+T32	Severity 2799 2807	markedly
+T33	Lab_value 2808 2817	decreased

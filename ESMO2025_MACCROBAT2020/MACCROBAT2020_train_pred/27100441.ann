@@ -1,0 +1,73 @@
+T1	Date 131 135	2013
+T2	Age 139 150	66-year-old
+T3	Distance 699 704	75 mm
+T4	Lab_value 745 757	75 beats/min
+T5	Lab_value 779 785	36.6°C
+T6	Frequency 810 818	18 times
+T7	Distance 930 936	1.0 cm
+T8	Duration 1019 1027	30 years
+T9	Distance 1108 1114	110 mm
+T10	Frequency 1259 1265	rarely
+T11	Lab_value 1537 1546	increased
+T12	Lab_value 1550 1563	150 beats/min
+T13	Lab_value 1666 1675	decreased
+T14	Lab_value 1679 1692	120 beats/min
+T15	Date 2003 2007	2013
+T16	Severity 2020 2026	slight
+T17	Lab_value 2081 2093	87 beats/min
+T18	Texture 2098 2102	flat
+T19	Frequency 2404 2416	occasionally
+T20	Date 2636 2640	1999
+T21	Texture 2691 2695	flat
+T22	Dosage 2856 2864	0.714 μg
+T23	Lab_value 2868 2874	normal
+T24	Dosage 2884 2891	0.06 μg
+T25	Lab_value 2954 2960	normal
+T26	Dosage 3006 3013	8.14 mg
+T27	Lab_value 3017 3023	normal
+T28	Dosage 3033 3040	0.55 mg
+T29	Lab_value 3066 3078	11.69 mmol/L
+T30	Lab_value 3080 3086	normal
+T31	Lab_value 3099 3110	7.20 mmol/L
+T32	Lab_value 3140 3153	144.00 μmol/L
+T33	Lab_value 3155 3161	normal
+T34	Lab_value 3172 3182	133 μmol/L
+T35	Lab_value 3211 3224	611.40 μmol/L
+T36	Lab_value 3226 3232	normal
+T37	Lab_value 3244 3254	432 μmol/L
+T38	Volume 3302 3310	57.90 mL
+T39	Lab_value 3316 3322	normal
+T40	Volume 3331 3336	80 mL
+T41	Severity 3570 3576	slight
+T42	Severity 3592 3598	slight
+T43	Severity 3625 3633	moderate
+T44	Severity 3637 3643	severe
+T45	Lab_value 3713 3720	reduced
+T46	Administration 4135 4142	tablets
+T47	Dosage 4144 4158	23.75 mg daily
+T48	Administration 4160 4163	p.o
+T49	Dosage 4179 4191	200 mg daily
+T50	Administration 4193 4196	p.o
+T51	Dosage 4212 4223	20 mg daily
+T52	Administration 4225 4228	i.v
+T53	Administration 4256 4263	tablets
+T54	Dosage 4265 4277	2.52 g daily
+T55	Administration 4279 4282	p.o
+T56	Shape 4485 4493	circular
+T57	Shape 4677 4683	linear
+T58	Lab_value 4956 4968	61 beats/min
+T59	Date 5123 5128	day 9
+T60	Administration 5186 5193	tablets
+T61	Dosage 5195 5209	23.75 mg daily
+T62	Administration 5211 5214	p.o
+T63	Administration 5243 5250	tablets
+T64	Dosage 5252 5264	200 mg daily
+T65	Administration 5266 5269	p.o
+T66	Administration 5288 5295	tablets
+T67	Dosage 5297 5308	40 mg daily
+T68	Administration 5310 5313	p.o
+T69	Administration 5339 5346	tablets
+T70	Dosage 5348 5359	10 mg daily
+T71	Administration 5361 5364	p.o
+T72	Date 5396 5410	3 months after
+T73	Frequency 5432 5441	recurrent

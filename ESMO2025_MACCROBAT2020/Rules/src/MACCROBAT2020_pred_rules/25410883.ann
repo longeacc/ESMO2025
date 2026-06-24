@@ -1,0 +1,13 @@
+T1	Age 2 13	77-year-old
+T2	Sex 14 19	woman
+T3	Color 94 99	brown
+T4	Administration 260 264	oral
+T5	Administration 329 339	parenteral
+T6	Dosage 677 683	12 mcg
+T7	Lab_value 688 694	normal
+T8	Dosage 699 706	150 mcg
+T9	Lab_value 725 733	resolved
+T10	Date 734 749	within one week
+T11	Administration 753 763	parenteral
+T12	Administration 1132 1142	parenteral
+T13	Administration 1296 1306	parenteral

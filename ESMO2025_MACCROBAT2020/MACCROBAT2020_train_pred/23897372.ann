@@ -1,0 +1,24 @@
+T1	Age 2 13	60-year-old
+T2	Sex 24 29	woman
+T3	Duration 151 165	several months
+T4	Texture 268 271	dry
+T5	Frequency 346 358	intermittent
+T6	Lab_value 410 418	negative
+T7	Lab_value 483 495	unremarkable
+T8	Lab_value 753 759	normal
+T9	Lab_value 967 975	elevated
+T10	Distance 1015 1020	36 mm
+T11	Lab_value 1028 1036	abnormal
+T12	Texture 1071 1079	granular
+T13	Lab_value 1138 1144	normal
+T14	Lab_value 1352 1358	normal
+T15	Lab_value 1595 1603	positive
+T16	Color 1614 1617	red
+T17	Lab_value 1680 1688	elevated
+T18	Dosage 1711 1718	86.3 mg
+T19	Lab_value 1722 1728	normal
+T20	Dosage 1734 1741	26.3 mg
+T21	Lab_value 1750 1758	positive
+T22	Dosage 1780 1786	0.37 g
+T23	Lab_value 1941 1947	normal
+T24	Lab_value 2174 2178	poor

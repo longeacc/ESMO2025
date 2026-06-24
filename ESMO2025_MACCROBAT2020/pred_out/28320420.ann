@@ -1,0 +1,34 @@
+T1	Age 3 14	18-year-old
+T2	Dosage 101 106	4.7 g
+T3	Weight 261 266	30 kg
+T4	Duration 293 301	6 months
+T5	Lab_value 396 416	within normal limits
+T6	Lab_value 432 440	elevated
+T7	Lab_value 453 459	98/min
+T8	Lab_value 522 534	unremarkable
+T9	Dosage 606 611	5.1 g
+T10	Dosage 628 633	10 ug
+T11	Lab_value 645 653	positive
+T12	Lab_value 841 847	normal
+T13	Severity 992 1000	slightly
+T14	Shape 1023 1030	rounded
+T15	Severity 1128 1136	slightly
+T16	Lab_value 1150 1156	normal
+T17	Texture 1287 1291	soft
+T18	Volume 1518 1531	11 × 8 × 2 cm
+T19	Shape 1532 1539	annular
+T20	Shape 1862 1871	polygonal
+T21	Shape 1963 1967	oval
+T22	Texture 1973 1982	vesicular
+T23	Frequency 2107 2115	Frequent
+T24	Lab_value 2273 2281	positive
+T25	Lab_value 2325 2333	positive
+T26	Texture 2454 2460	smooth
+T27	Lab_value 2525 2533	negative
+T28	Color 2854 2857	red
+T29	Color 2858 2863	green
+T30	Color 2865 2871	yellow
+T31	Color 2933 2936	red
+T32	Color 2945 2950	green
+T33	Duration 3105 3112	3 years
+T34	Duration 3291 3297	a year

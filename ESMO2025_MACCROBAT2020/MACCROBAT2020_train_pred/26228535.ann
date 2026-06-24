@@ -1,0 +1,24 @@
+T1	Age 2 13	25-year-old
+T2	Sex 14 20	female
+T3	Date 79 92	2 years prior
+T4	Duration 142 150	6 months
+T5	Severity 301 308	massive
+T6	Distance 311 315	5 cm
+T7	Lab_value 533 543	4408 ng/ml
+T8	Lab_value 644 654	0.50 ng/ml
+T9	Duration 1046 1052	4-week
+T10	Dosage 1097 1101	1 mg
+T11	Lab_value 1130 1140	2207 ng/ml
+T12	Lab_value 1151 1159	elevated
+T13	Lab_value 1601 1608	reduced
+T14	Lab_value 1642 1651	250 ng/ml
+T15	Lab_value 1784 1793	increased
+T16	Dosage 1800 1810	0.5 mg/day
+T17	Date 1884 1896	1 year after
+T18	Shape 2058 2067	polygonal
+T19	Shape 2091 2096	round
+T20	Shape 2098 2102	oval
+T21	Shape 2107 2116	elongated
+T22	Frequency 2231 2239	frequent
+T23	Texture 2436 2443	fibrous
+T24	Lab_value 2986 2994	negative

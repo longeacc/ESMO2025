@@ -1,0 +1,37 @@
+T1	Age 2 13	63-year-old
+T2	Sex 14 18	male
+T3	Date 88 92	2014
+T4	Lab_value 277 281	good
+T5	Lab_value 364 372	abnormal
+T6	Administration 417 421	oral
+T7	Lab_value 747 753	normal
+T8	Severity 896 904	slightly
+T9	Area 980 995	5.0 cm × 3.0 cm
+T10	Lab_value 2104 2108	poor
+T11	Duration 2542 2553	290 minutes
+T12	Lab_value 2766 2774	positive
+T13	Color 2804 2809	black
+T14	Lab_value 2890 2898	negative
+T15	Lab_value 3084 3092	negative
+T16	Administration 3312 3314	IV
+T17	Lab_value 3492 3502	uneventful
+T18	Date 3535 3548	14 days after
+T19	Dosage 3572 3580	4 cycles
+T20	Duration 3639 3646	3 weeks
+T21	Severity 3679 3687	moderate
+T22	Administration 3847 3856	injection
+T23	Date 3860 3865	day 1
+T24	Date 3870 3875	day 8
+T25	Dosage 3877 3883	135 mg
+T26	Administration 3993 4002	injection
+T27	Date 4006 4011	day 2
+T28	Dosage 4018 4025	1000 mg
+T29	Date 4141 4146	day 2
+T30	Dosage 4153 4158	75 mg
+T31	Severity 4280 4288	moderate
+T32	Administration 4624 4633	injection
+T33	Dosage 4646 4656	6000 units
+T34	Frequency 4657 4669	every 3 days
+T35	Duration 4691 4697	1 year
+T36	Frequency 4727 4739	continuously
+T37	Frequency 4855 4869	every 3 months

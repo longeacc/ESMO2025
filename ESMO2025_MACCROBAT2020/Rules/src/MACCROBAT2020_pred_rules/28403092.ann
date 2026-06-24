@@ -1,0 +1,61 @@
+T1	Age 2 13	61-year-old
+T2	Sex 22 27	woman
+T3	Duration 56 63	3 weeks
+T4	Duration 366 373	20-year
+T5	Lab_value 626 632	normal
+T6	Volume 876 894	5.7 × 5.0 × 5.0 cm
+T7	Severity 1001 1007	slight
+T8	Lab_value 1386 1392	normal
+T9	Dosage 1410 1414	36 g
+T10	Lab_value 1449 1460	12.2 μmol/L
+T11	Lab_value 1498 1508	4.1 μmol/L
+T12	Lab_value 1541 1547	17 U/L
+T13	Frequency 1944 1957	twice per day
+T14	Date 1972 1985	3 days before
+T15	Color 2139 2143	pink
+T16	Severity 2164 2172	moderate
+T17	Dosage 2257 2263	800 mg
+T18	Administration 2291 2302	intravenous
+T19	Administration 2303 2311	infusion
+T20	Time 2369 2386	within 30 minutes
+T21	Time 2434 2449	Two hours later
+T22	Volume 2551 2556	50 mL
+T23	Color 2574 2588	coffee-colored
+T24	Dosage 2908 2915	1200 mg
+T25	Administration 2917 2930	intravenously
+T26	Dosage 3059 3065	500 mg
+T27	Administration 3070 3074	oral
+T28	Frequency 3090 3101	twice a day
+T29	Date 3146 3151	day 3
+T30	Time 3345 3349	3 am
+T31	Date 3367 3372	day 4
+T32	Distance 3448 3454	3.0 mm
+T33	Shape 3459 3464	round
+T34	Lab_value 3535 3547	unremarkable
+T35	Lab_value 3574 3580	stable
+T36	Severity 3838 3844	severe
+T37	Time 3980 3995	within 24 hours
+T38	Lab_value 4155 4161	normal
+T39	Dosage 4186 4190	33 g
+T40	Lab_value 4207 4218	13.3 μmol/L
+T41	Lab_value 4237 4247	4.5 μmol/L
+T42	Lab_value 4257 4263	12 U/L
+T43	Lab_value 4463 4471	elevated
+T44	Lab_value 4473 4485	181.6 μmol/L
+T45	Lab_value 4487 4493	normal
+T46	Lab_value 4506 4515	32 μmol/L
+T47	Lab_value 4558 4566	positive
+T48	Lab_value 4602 4610	elevated
+T49	Administration 4693 4697	oral
+T50	Administration 4735 4746	intravenous
+T51	Lab_value 4954 4966	207.7 μmol/L
+T52	Date 5009 5025	following 3 days
+T53	Lab_value 5042 5054	unremarkable
+T54	Lab_value 5387 5393	normal
+T55	Duration 5650 5658	24 hours
+T56	Time 5723 5738	within 48 hours
+T57	Lab_value 5783 5792	decreased
+T58	Lab_value 5822 5828	normal
+T59	Date 5829 5842	within 4 days
+T60	Date 5869 5875	day 15
+T61	Date 5877 5889	8 days after

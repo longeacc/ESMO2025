@@ -1,0 +1,6 @@
+T1	PROC 0 10	Traitement
+T2	PROC 22 35	radiothérapie
+T3	PROC 42 56	chimiothérapie
+T4	DISO 65 71	cancer
+T5	ANAT 75 79	sein
+T6	PROC 98 110	observations

@@ -1,0 +1,27 @@
+T1	Age 2 13	56-year-old
+T2	Sex 31 34	man
+T3	Distance 344 347	5cm
+T4	Severity 348 358	moderately
+T5	Dosage 732 741	1000mg/m2
+T6	Administration 742 744	IV
+T7	Duration 767 773	28-day
+T8	Lab_value 1099 1107	elevated
+T9	Distance 1139 1143	10cm
+T10	Lab_value 1297 1304	grade 3
+T11	Severity 1381 1385	mild
+T12	Severity 1389 1397	moderate
+T13	Administration 1572 1583	intravenous
+T14	Administration 1585 1587	IV
+T15	Lab_value 1613 1624	improvement
+T16	Time 1642 1654	The next day
+T17	Severity 1826 1834	moderate
+T18	Date 2241 2255	two days later
+T19	Date 2588 2603	Two weeks later
+T20	Severity 2694 2702	moderate
+T21	Severity 2855 2861	severe
+T22	Date 3009 3025	two months later
+T23	Administration 3048 3050	IV
+T24	Duration 3128 3138	few months
+T25	Lab_value 3159 3170	improvement
+T26	Lab_value 3231 3235	poor
+T27	Lab_value 3826 3837	improvement

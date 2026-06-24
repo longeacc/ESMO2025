@@ -1,0 +1,21 @@
+T1	Age 2 13	68-year-old
+T2	Sex 14 17	man
+T3	Lab_value 160 166	normal
+T4	Lab_value 280 284	good
+T5	Date 370 386	6 months earlier
+T6	Lab_value 819 828	increased
+T7	Lab_value 1072 1078	normal
+T8	Lab_value 1226 1232	raised
+T9	Lab_value 1239 1247	negative
+T10	Lab_value 1320 1324	poor
+T11	Date 1444 1457	4 weeks later
+T12	Lab_value 1561 1565	good
+T13	Volume 2072 2093	4.5 cm×5.1 cm× 4.8 cm
+T14	Severity 2615 2623	markedly
+T15	Lab_value 2624 2630	raised
+T16	Dosage 2812 2818	500 µg
+T17	Dosage 2837 2841	8 mg
+T18	Duration 2850 2856	a week
+T19	Lab_value 2880 2891	improvement
+T20	Date 3056 3074	Three months later
+T21	Lab_value 3209 3215	normal

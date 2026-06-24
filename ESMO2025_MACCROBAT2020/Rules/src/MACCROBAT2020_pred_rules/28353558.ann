@@ -1,0 +1,23 @@
+T1	Age 2 13	41-year-old
+T2	Sex 24 29	woman
+T3	Date 101 105	2006
+T4	Lab_value 141 153	unremarkable
+T5	Date 245 258	December 2015
+T6	Lab_value 406 414	negative
+T7	Date 546 552	day 42
+T8	Time 778 790	The same day
+T9	Lab_value 833 841	positive
+T10	Date 938 944	day 62
+T11	Date 1140 1146	day 60
+T12	Dosage 1244 1249	3 g/d
+T13	Date 1303 1316	6 weeks after
+T14	Date 1491 1497	day 65
+T15	Lab_value 1520 1528	worsened
+T16	Severity 1534 1540	severe
+T17	Dosage 1574 1583	high dose
+T18	Date 1658 1664	day 70
+T19	Lab_value 1868 1876	negative
+T20	Age 1951 1962	47-year-old
+T21	Sex 1963 1966	man
+T22	Lab_value 2382 2390	negative
+T23	Date 2518 2534	Six months after

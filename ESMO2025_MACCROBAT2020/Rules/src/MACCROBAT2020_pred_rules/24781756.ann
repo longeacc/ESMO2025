@@ -1,0 +1,38 @@
+T1	Sex 27 31	male
+T2	Sex 149 153	girl
+T3	Date 166 174	age of 1
+T4	Weight 569 575	2.3 kg
+T5	Distance 617 622	32 cm
+T6	Date 708 717	first day
+T7	Distance 790 795	27 mm
+T8	Lab_value 797 803	normal
+T9	Distance 814 820	2.4 mm
+T10	Lab_value 826 834	elevated
+T11	Lab_value 858 864	normal
+T12	Lab_value 907 913	normal
+T13	Lab_value 930 938	elevated
+T14	Lab_value 962 968	normal
+T15	Lab_value 1010 1019	increased
+T16	Date 1297 1305	age of 4
+T17	Lab_value 1369 1378	decreased
+T18	Date 1434 1442	at age 5
+T19	Lab_value 1452 1458	normal
+T20	Distance 1513 1527	13 centimeters
+T21	Date 1531 1537	age 35
+T22	Color 1646 1651	white
+T23	Duration 1707 1715	15 weeks
+T24	Date 1783 1791	at age 2
+T25	Frequency 1903 1912	recurrent
+T26	Date 1996 2005	at age 10
+T27	Date 2036 2045	age of 15
+T28	Lab_value 2102 2108	normal
+T29	Severity 2150 2154	mild
+T30	Severity 2174 2178	mild
+T31	Date 2284 2292	age of 4
+T32	Date 2479 2487	age of 2
+T33	Lab_value 2503 2514	improvement
+T34	Dosage 2569 2586	60 mg twice daily
+T35	Duration 2605 2613	4 months
+T36	Frequency 2697 2710	several times
+T37	Date 2807 2816	age of 30
+T38	Severity 2831 2837	severe

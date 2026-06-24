@@ -1,0 +1,14 @@
+T1	Age 2 13	51-year-old
+T2	Sex 29 35	female
+T3	Frequency 195 207	every 5 days
+T4	Frequency 218 226	frequent
+T5	Frequency 275 287	twice weekly
+T6	Frequency 348 353	daily
+T7	Administration 444 457	suppositories
+T8	Lab_value 516 520	poor
+T9	Lab_value 589 595	normal
+T10	Lab_value 808 812	poor
+T11	Administration 918 920	IV
+T12	Lab_value 1311 1322	improvement
+T13	Date 1386 1400	One year later
+T14	Lab_value 1432 1443	improvement

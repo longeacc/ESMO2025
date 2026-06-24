@@ -1,0 +1,38 @@
+T1	Age 18 29	48-year-old
+T2	Sex 30 33	man
+T3	Age 92 107	42 years of age
+T4	Texture 194 206	ground-glass
+T5	Dosage 1042 1051	high-dose
+T6	Administration 1052 1063	intravenous
+T7	Dosage 1086 1098	000 mg daily
+T8	Duration 1104 1110	3 days
+T9	Dosage 1137 1148	25 mg daily
+T10	Age 1449 1464	46 years of age
+T11	Lab_value 1523 1534	improvement
+T12	Dosage 1592 1603	60 mg daily
+T13	Dosage 1609 1625	maintenance dose
+T14	Dosage 1629 1639	5 mg daily
+T15	Age 1644 1659	48 years of age
+T16	Dosage 1829 1839	3 mg daily
+T17	Weight 1871 1876	75 kg
+T18	Distance 1888 1894	167 cm
+T19	Lab_value 1949 1957	102 mmHg
+T20	Lab_value 1971 1984	109 beats/min
+T21	Lab_value 2041 2047	36.8°C
+T22	Administration 2130 2142	subcutaneous
+T23	Severity 2275 2279	Mild
+T24	Dosage 2313 2319	11.3 g
+T25	Dosage 2361 2367	14.6 g
+T26	Duration 2473 2482	5 seconds
+T27	Lab_value 2484 2490	normal
+T28	Duration 2506 2515	7 seconds
+T29	Dosage 2606 2612	299 mg
+T30	Lab_value 2736 2744	negative
+T31	Dosage 2827 2836	high-dose
+T32	Administration 2837 2848	intravenous
+T33	Duration 2872 2878	3 days
+T34	Dosage 2906 2917	60 mg daily
+T35	Lab_value 2934 2942	improved
+T36	Severity 3604 3612	moderate
+T37	Lab_value 3688 3696	resolved
+T38	Duration 3922 3929	3 years

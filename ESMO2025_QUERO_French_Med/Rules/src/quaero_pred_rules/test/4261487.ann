@@ -1,0 +1,10 @@
+T1	PROC 0 10	Recherches
+T2	PHEN 18 28	absorption
+T3	PHYS 18 28	absorption
+T4	ANAT 29 40	intestinale
+T5	DISO 45 52	hexoses
+T6	PHEN 102 112	absorption
+T7	PHYS 102 112	absorption
+T8	ANAT 113 124	intestinale
+T9	CHEM 128 136	fructose
+T10	DISO 128 136	fructose

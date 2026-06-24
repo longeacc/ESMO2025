@@ -1,0 +1,26 @@
+T1	Date 3 7	2013
+T2	Age 11 22	50-year-old
+T3	Sex 23 26	man
+T4	Date 114 118	2013
+T5	Dosage 356 364	4 cycles
+T6	Dosage 408 417	high-dose
+T7	Date 482 494	January 2015
+T8	Date 598 602	2015
+T9	Lab_value 757 763	normal
+T10	Duration 972 978	a year
+T11	Frequency 1017 1027	occasional
+T12	Date 1124 1128	2015
+T13	Lab_value 1394 1402	positive
+T14	Dosage 1472 1484	500 mg daily
+T15	Duration 1491 1498	a month
+T16	Date 1694 1698	2016
+T17	Duration 1851 1858	3 weeks
+T18	Duration 1922 1931	11 months
+T19	Duration 1974 1981	7-month
+T20	Duration 2293 2301	11-month
+T21	Date 2500 2514	7 months after
+T22	Lab_value 2553 2559	raised
+T23	Severity 2710 2714	mild
+T24	Severity 2738 2744	slight
+T25	Severity 2824 2830	severe
+T26	Lab_value 3007 3013	normal

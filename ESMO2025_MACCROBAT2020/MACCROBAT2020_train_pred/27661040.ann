@@ -1,0 +1,47 @@
+T1	Age 25 36	16-year-old
+T2	Sex 37 41	girl
+T3	Severity 71 77	severe
+T4	Sex 166 170	girl
+T5	Date 308 322	2 years before
+T6	Date 385 395	1 year ago
+T7	Severity 415 421	severe
+T8	Dosage 676 682	219 μg
+T9	Date 746 760	3 weeks before
+T10	Dosage 881 889	113.2 μg
+T11	Date 928 941	4 days before
+T12	Administration 1003 1010	tablets
+T13	Frequency 1011 1016	daily
+T14	Color 1267 1271	blue
+T15	Weight 1341 1346	45 kg
+T16	Dosage 1439 1445	10.9 g
+T17	Lab_value 1515 1524	increased
+T18	Lab_value 1588 1597	158.9 U/L
+T19	Lab_value 1634 1640	63 U/L
+T20	Lab_value 1676 1683	128 U/L
+T21	Dosage 1741 1749	1.432 mg
+T22	Lab_value 1773 1783	132 mmol/L
+T23	Lab_value 1809 1820	2.85 mmol/L
+T24	Distance 1858 1864	156 mm
+T25	Distance 1891 1896	96 mm
+T26	Dosage 1926 1934	66.28 μg
+T27	Dosage 1959 1967	419.7 μg
+T28	Lab_value 1971 1977	normal
+T29	Dosage 1979 1984	50 μg
+T30	Dosage 2035 2042	7.66 mg
+T31	Lab_value 2046 2052	normal
+T32	Dosage 2054 2060	4.5 mg
+T33	Administration 2372 2379	tablets
+T34	Administration 2682 2685	i.v
+T35	Volume 2747 2755	3 liters
+T36	Duration 2760 2768	24 hours
+T37	Lab_value 2787 2796	decreased
+T38	Administration 3205 3218	intravenously
+T39	Severity 3377 3385	slightly
+T40	Date 3410 3422	3 days after
+T41	Severity 3471 3477	severe
+T42	Duration 3644 3651	10 days
+T43	Date 3673 3680	6th day
+T44	Dosage 3810 3818	45.57 μg
+T45	Dosage 3847 3855	836.4 μg
+T46	Date 3968 3981	After 14 days
+T47	Duration 4309 4318	24 months

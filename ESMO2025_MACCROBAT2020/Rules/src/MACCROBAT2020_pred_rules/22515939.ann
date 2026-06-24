@@ -1,0 +1,12 @@
+T1	Age 2 13	53 year old
+T2	Sex 14 20	female
+T3	Severity 72 78	severe
+T4	Dosage 792 802	5000 units
+T5	Administration 806 817	intravenous
+T6	Lab_value 1958 1966	improved
+T7	Date 2059 2064	day 2
+T8	Lab_value 2181 2189	improved
+T9	Date 2249 2254	day 9
+T10	Date 2296 2302	day 24
+T11	Lab_value 2396 2402	normal
+T12	Duration 2425 2433	3 months

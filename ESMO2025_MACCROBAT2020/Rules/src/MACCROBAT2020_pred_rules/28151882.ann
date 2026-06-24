@@ -1,0 +1,27 @@
+T1	Age 2 13	65-year-old
+T2	Sex 14 19	woman
+T3	Duration 61 69	3 months
+T4	Severity 93 99	severe
+T5	Severity 149 157	slightly
+T6	Lab_value 715 727	unremarkable
+T7	Lab_value 1079 1088	decreased
+T8	Lab_value 1219 1228	increased
+T9	Duration 2482 2493	150 minutes
+T10	Volume 2528 2534	600 mL
+T11	Duration 2611 2616	1 day
+T12	Duration 2637 2643	3 days
+T13	Duration 2675 2681	1 week
+T14	Duration 2716 2722	3 days
+T15	Volume 2775 2780	50 mL
+T16	Duration 2785 2793	24 hours
+T17	Date 2865 2877	1 week after
+T18	Duration 2932 2940	3 months
+T19	Date 2985 2998	12 days after
+T20	Date 3141 3153	1 week after
+T21	Date 3169 3181	1 year after
+T22	Lab_value 3273 3284	improvement
+T23	Lab_value 3306 3312	normal
+T24	Date 3348 3362	3 months after
+T25	Date 3412 3424	1 week after
+T26	Date 3440 3452	1 year after
+T27	Lab_value 3531 3542	improvement

@@ -1,0 +1,43 @@
+T1	Sex 28 34	female
+T2	Duration 84 92	34 weeks
+T3	Weight 235 242	1.19 kg
+T4	Distance 281 288	26.7 cm
+T5	Lab_value 591 599	positive
+T6	Duration 634 643	few hours
+T7	Severity 668 674	severe
+T8	Lab_value 734 743	22 mmol/l
+T9	Lab_value 761 770	increased
+T10	Lab_value 774 783	63 mmol/l
+T11	Lab_value 785 791	normal
+T12	Lab_value 803 813	2.1 mmol/l
+T13	Administration 837 848	intravenous
+T14	Administration 849 858	infusions
+T15	Time 1019 1031	within hours
+T16	Administration 1068 1079	intravenous
+T17	Administration 1080 1088	infusion
+T18	Dosage 1105 1114	7.8 mg/kg
+T19	Lab_value 1151 1157	normal
+T20	Severity 1193 1200	massive
+T21	Lab_value 1230 1239	increased
+T22	Lab_value 1315 1321	raised
+T23	Lab_value 1372 1383	1369 μmol/l
+T24	Severity 1473 1479	mildly
+T25	Lab_value 1480 1489	increased
+T26	Lab_value 1567 1573	normal
+T27	Lab_value 1614 1620	normal
+T28	Lab_value 1631 1635	good
+T29	Distance 1831 1836	15 mm
+T30	Distance 1892 1896	8 mm
+T31	Lab_value 2087 2099	unremarkable
+T32	Severity 2111 2117	severe
+T33	Lab_value 2176 2182	normal
+T34	Dosage 2226 2229	7 g
+T35	Lab_value 2233 2239	normal
+T36	Dosage 2243 2247	50 g
+T37	Lab_value 2262 2268	normal
+T38	Lab_value 2296 2302	raised
+T39	Lab_value 2322 2330	2700 U/l
+T40	Lab_value 2332 2338	normal
+T41	Lab_value 2340 2347	300 U/l
+T42	Administration 2489 2498	infusions
+T43	Age 2676 2683	aged 55

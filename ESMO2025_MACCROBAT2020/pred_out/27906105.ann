@@ -1,0 +1,19 @@
+T1	Age 22 33	58-year-old
+T2	Color 34 39	white
+T3	Sex 49 54	woman
+T4	Duration 184 191	10 days
+T5	Lab_value 266 286	within normal limits
+T6	Lab_value 297 304	136 U/L
+T7	Dosage 323 330	6.37 mg
+T8	Dosage 360 367	5.30 mg
+T9	Area 516 524	4 × 3 cm
+T10	Area 798 810	3.1 × 2.6 cm
+T11	Dosage 960 963	22G
+T12	Severity 1098 1104	marked
+T13	Shape 1159 1173	spindle-shaped
+T14	Shape 1202 1207	round
+T15	Color 1380 1388	brownish
+T16	Color 1389 1394	black
+T17	Color 1707 1712	brown
+T18	Lab_value 1810 1818	positive
+T19	Lab_value 1867 1875	negative

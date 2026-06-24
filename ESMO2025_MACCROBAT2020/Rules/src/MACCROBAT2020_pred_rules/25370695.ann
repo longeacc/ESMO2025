@@ -1,0 +1,26 @@
+T1	Age 2 13	46-year-old
+T2	Sex 24 29	woman
+T3	Severity 96 102	severe
+T4	Lab_value 616 628	unremarkable
+T5	Administration 699 703	oral
+T6	Dosage 792 796	70mg
+T7	Frequency 797 803	weekly
+T8	Duration 808 815	2 years
+T9	Frequency 1016 1030	intermittently
+T10	Duration 1035 1048	several years
+T11	Date 1098 1112	20 years prior
+T12	Administration 1127 1138	intravenous
+T13	Administration 1139 1149	injections
+T14	Frequency 1150 1163	twice a month
+T15	Administration 1205 1213	infusion
+T16	Lab_value 1404 1424	within normal limits
+T17	Date 1663 1676	3 years prior
+T18	Lab_value 1741 1747	normal
+T19	Distance 2017 2020	6mm
+T20	Texture 3167 3171	soft
+T21	Texture 3240 3244	soft
+T22	Texture 3438 3445	fibrous
+T23	Lab_value 3610 3620	uneventful
+T24	Duration 3703 3710	1-month
+T25	Duration 3899 3905	1-year
+T26	Administration 3950 3954	oral

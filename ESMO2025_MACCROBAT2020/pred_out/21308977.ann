@@ -1,0 +1,17 @@
+T1	Age 18 28	3-year-old
+T2	Sex 29 33	girl
+T3	Severity 407 415	moderate
+T4	Texture 837 841	soft
+T5	Lab_value 883 887	poor
+T6	Lab_value 1574 1580	normal
+T7	Date 1820 1836	13 months of age
+T8	Administration 2022 2032	parenteral
+T9	Severity 2139 2143	mild
+T10	Lab_value 2144 2152	increase
+T11	Lab_value 2343 2349	normal
+T12	Administration 2400 2402	IV
+T13	Severity 2588 2596	profound
+T14	Administration 2622 2624	IV
+T15	Lab_value 2701 2707	normal
+T16	Lab_value 2720 2724	good
+T17	Lab_value 2744 2750	normal

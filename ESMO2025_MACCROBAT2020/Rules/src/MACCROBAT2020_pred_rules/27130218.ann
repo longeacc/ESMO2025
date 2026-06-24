@@ -1,0 +1,31 @@
+T1	Age 2 15	36- year- old
+T2	Color 16 21	white
+T3	Sex 22 27	woman
+T4	Duration 31 38	40 week
+T5	Lab_value 261 273	unremarkable
+T6	Lab_value 537 543	normal
+T7	Time 551 568	Three hours after
+T8	Sex 589 593	male
+T9	Lab_value 803 810	40 mmHg
+T10	Administration 885 893	infusion
+T11	Dosage 912 918	0.5 mg
+T12	Dosage 944 951	7 μg/kg
+T13	Severity 1272 1278	severe
+T14	Frequency 1364 1369	daily
+T15	Dosage 1375 1380	80 mg
+T16	Lab_value 1406 1413	reduced
+T17	Date 1445 1458	after 12 days
+T18	Distance 1555 1559	5 mm
+T19	Lab_value 1565 1573	negative
+T20	Distance 1619 1623	1 mm
+T21	Lab_value 1680 1688	elevated
+T22	Lab_value 1715 1721	normal
+T23	Lab_value 1764 1770	normal
+T24	Severity 1848 1854	severe
+T25	Lab_value 2198 2204	normal
+T26	Date 2321 2333	After 3 days
+T27	Lab_value 2410 2421	improvement
+T28	Date 2537 2546	fifth day
+T29	Date 2623 2636	after 15 days
+T30	Lab_value 2640 2644	good
+T31	Duration 2667 2676	12- month

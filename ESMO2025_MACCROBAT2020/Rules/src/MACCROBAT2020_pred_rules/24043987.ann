@@ -1,0 +1,25 @@
+T1	Age 2 13	24-year-old
+T2	Sex 20 24	male
+T3	Lab_value 86 94	abnormal
+T4	Duration 168 173	a day
+T5	Age 187 202	21 years of age
+T6	Date 223 236	10 months ago
+T7	Lab_value 274 281	reduced
+T8	Duration 782 790	1 second
+T9	Volume 835 840	2.7 L
+T10	Volume 864 869	3.2 L
+T11	Dosage 949 954	168 g
+T12	Lab_value 998 1004	normal
+T13	Lab_value 1029 1040	2.34 mmol/L
+T14	Lab_value 1054 1060	normal
+T15	Duration 1062 1069	24-hour
+T16	Lab_value 1093 1099	normal
+T17	Duration 1116 1123	24-hour
+T18	Volume 1140 1145	2.8 L
+T19	Texture 1186 1191	dense
+T20	Texture 1666 1678	ground-glass
+T21	Color 1769 1774	black
+T22	Lab_value 1954 1960	normal
+T23	Severity 2201 2209	moderate
+T24	Date 2283 2295	after 5 days
+T25	Severity 2497 2501	mild

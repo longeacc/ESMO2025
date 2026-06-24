@@ -1,0 +1,45 @@
+T1	Age 2 13	20-year-old
+T2	Sex 41 44	man
+T3	Date 122 136	Ten days prior
+T4	Severity 178 184	severe
+T5	Lab_value 333 341	improved
+T6	Severity 500 508	severely
+T7	Severity 586 590	Mild
+T8	Lab_value 661 667	raised
+T9	Lab_value 728 735	90 mmHg
+T10	Lab_value 766 771	98 °F
+T11	Lab_value 943 955	unremarkable
+T12	Dosage 1038 1043	13 mg
+T13	Dosage 1059 1065	293 mg
+T14	Lab_value 1071 1077	raised
+T15	Lab_value 1112 1119	249 U/L
+T16	Lab_value 1137 1144	100 U/L
+T17	Lab_value 1160 1167	227 U/L
+T18	Lab_value 1182 1188	60 U/L
+T19	Lab_value 1191 1197	normal
+T20	Dosage 1236 1242	0.9 mg
+T21	Lab_value 1272 1278	38 U/L
+T22	Lab_value 1307 1313	35 U/L
+T23	Lab_value 1336 1343	122 U/L
+T24	Dosage 1359 1363	37 g
+T25	Lab_value 1368 1374	normal
+T26	Lab_value 1386 1396	5.1 mmol/L
+T27	Lab_value 1399 1405	normal
+T28	Lab_value 1419 1428	19 mmol/L
+T29	Lab_value 1435 1441	normal
+T30	Dosage 1457 1463	173 mg
+T31	Lab_value 1647 1667	within normal limits
+T32	Lab_value 1711 1723	unremarkable
+T33	Lab_value 1849 1861	unremarkable
+T34	Lab_value 2058 2066	improved
+T35	Severity 2089 2097	profound
+T36	Severity 2215 2224	extensive
+T37	Dosage 2326 2335	High-dose
+T38	Administration 2336 2346	parenteral
+T39	Dosage 2367 2370	1 g
+T40	Administration 2371 2384	intravenously
+T41	Frequency 2385 2395	once daily
+T42	Duration 2400 2406	3 days
+T43	Date 3052 3067	16 months after
+T44	Frequency 3110 3119	recurrent
+T45	Lab_value 3279 3287	improved

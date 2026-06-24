@@ -1,0 +1,15 @@
+T1	Age 2 13	44-year-old
+T2	Sex 22 25	man
+T3	Date 108 121	February 2013
+T4	Volume 238 241	10L
+T5	Volume 242 245	11L
+T6	Lab_value 559 567	worsened
+T7	Duration 611 619	A second
+T8	Lab_value 919 927	worsened
+T9	Lab_value 1158 1166	negative
+T10	Lab_value 1217 1225	negative
+T11	Dosage 1750 1768	250 mg twice daily
+T12	Date 1795 1803	May 2013
+T13	Lab_value 1835 1846	improvement
+T14	Date 1863 1876	after 1 month
+T15	Date 1976 1990	September 2013

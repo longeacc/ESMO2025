@@ -1,0 +1,5 @@
+T1	PROC 0 14	Chimiotherapie
+T2	PROC 31 40	chirurgie
+T3	DISO 50 60	carcinomes
+T4	ANAT 66 73	rectaux
+T5	PHEN 94 103	résultats

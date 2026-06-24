@@ -1,0 +1,17 @@
+T1	Age 2 13	19-year-old
+T2	Sex 14 19	woman
+T3	Shape 226 230	oval
+T4	Duration 428 437	12 months
+T5	Duration 442 449	3 years
+T6	Lab_value 621 630	increased
+T7	Shape 676 683	tubular
+T8	Date 760 769	age of 19
+T9	Lab_value 966 975	increased
+T10	Date 1178 1187	age of 21
+T11	Lab_value 1529 1538	decreased
+T12	Date 1804 1813	age of 22
+T13	Lab_value 1860 1869	increased
+T14	Lab_value 1879 1888	increased
+T15	Severity 2039 2048	low grade
+T16	Shape 2780 2787	tubular
+T17	Shape 2855 2862	tubular

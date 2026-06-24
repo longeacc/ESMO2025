@@ -1,0 +1,22 @@
+T1	Age 2 13	30-year-old
+T2	Sex 14 20	female
+T3	Weight 22 27	65 kg
+T4	Dosage 144 153	0.5 μg/kg
+T5	Dosage 168 175	2 mg/kg
+T6	Dosage 227 237	0.15 μg/kg
+T7	Distance 316 320	7 mm
+T8	Distance 591 596	20 cm
+T9	Administration 680 690	inhalation
+T10	Administration 903 911	infusion
+T11	Dosage 912 922	0.25 μg/kg
+T12	Severity 928 936	Moderate
+T13	Lab_value 1027 1034	90 mmHg
+T14	Severity 1106 1114	slightly
+T15	Severity 1156 1164	slightly
+T16	Lab_value 1165 1173	elevated
+T17	Duration 1205 1216	100 minutes
+T18	Time 1296 1313	The following day
+T19	Frequency 1511 1520	recurrent
+T20	Texture 1612 1616	soft
+T21	Lab_value 1629 1635	normal
+T22	Date 1949 1967	within four months

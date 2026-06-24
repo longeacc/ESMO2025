@@ -1,0 +1,20 @@
+T1	Age 2 13	78-year-old
+T2	Sex 33 37	male
+T3	Date 288 303	3 months before
+T4	Duration 384 391	2-month
+T5	Severity 685 691	marked
+T6	Distance 736 741	10 mm
+T7	Lab_value 889 897	abnormal
+T8	Time 957 970	7 hours after
+T9	Weight 1217 1223	6.5 kg
+T10	Color 1249 1254	white
+T11	Volume 1333 1348	30 × 30 × 50 mm
+T12	Distance 1492 1497	10-mm
+T13	Color 1498 1503	white
+T14	Severity 1639 1647	moderate
+T15	Lab_value 1916 1923	grade 2
+T16	Shape 1984 1989	round
+T17	Shape 2222 2233	coin-shaped
+T18	Distance 2257 2261	2 mm
+T19	Shape 2310 2315	round
+T20	Severity 2574 2581	massive

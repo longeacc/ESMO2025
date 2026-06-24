@@ -1,0 +1,15 @@
+T1	Age 2 13	63-year-old
+T2	Sex 14 19	woman
+T3	Lab_value 311 324	140 beats/min
+T4	Lab_value 382 390	elevated
+T5	Lab_value 587 607	within normal limits
+T6	Lab_value 892 898	normal
+T7	Lab_value 919 925	normal
+T8	Severity 942 946	mild
+T9	Lab_value 1088 1095	reduced
+T10	Shape 1112 1119	annular
+T11	Time 1309 1319	Within 1 h
+T12	Frequency 1357 1366	recurrent
+T13	Lab_value 1501 1507	normal
+T14	Date 1530 1535	day 4
+T15	Area 1663 1674	4 cm × 9 cm

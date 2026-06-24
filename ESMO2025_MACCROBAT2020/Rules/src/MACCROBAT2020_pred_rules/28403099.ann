@@ -1,0 +1,40 @@
+T1	Age 2 13	60-year-old
+T2	Sex 14 17	man
+T3	Date 151 155	2010
+T4	Date 186 190	2012
+T5	Date 237 241	2014
+T6	Duration 536 544	10 years
+T7	Duration 583 591	30 years
+T8	Dosage 628 637	100 mg qd
+T9	Dosage 662 670	10 mg qd
+T10	Duration 675 682	6 years
+T11	Lab_value 723 728	37 °C
+T12	Distance 756 761	96 mm
+T13	Lab_value 954 960	normal
+T14	Lab_value 1000 1009	3.7 ng/mL
+T15	Lab_value 1029 1039	17.3 ng/mL
+T16	Lab_value 1475 1483	decrease
+T17	Lab_value 1504 1512	decrease
+T18	Lab_value 1565 1571	stable
+T19	Lab_value 1668 1676	increase
+T20	Area 1808 1820	2.8 × 3.5 cm
+T21	Severity 1934 1940	mildly
+T22	Severity 2125 2129	mild
+T23	Duration 2341 2351	40 minutes
+T24	Severity 2379 2383	mild
+T25	Distance 2511 2517	0.3 mm
+T26	Distance 2681 2686	15 mm
+T27	Duration 2717 2726	6 minutes
+T28	Time 2862 2874	the next day
+T29	Lab_value 2923 2931	abnormal
+T30	Duration 2994 2999	5-day
+T31	Duration 3200 3206	1-week
+T32	Date 3510 3517	2nd day
+T33	Dosage 3582 3584	2G
+T34	Date 3732 3744	3 days later
+T35	Date 3965 3977	3 days later
+T36	Date 4110 4127	following 1 month
+T37	Date 4244 4258	5 months after
+T38	Color 4328 4334	yellow
+T39	Lab_value 4553 4562	3.6 ng/mL
+T40	Lab_value 4564 4574	26.7 ng/mL

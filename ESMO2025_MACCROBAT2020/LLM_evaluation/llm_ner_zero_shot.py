@@ -1,0 +1,605 @@
+"""
+Few-shot NER evaluation on MACCROBAT2020 using an LLM.
+
+Supports two backends:
+  - Ollama (local)
+  - Mistral API (cloud, requires API key)
+
+Pipeline:
+  1. Load test_gliner.json (produced by ../TBM_evaluation/prepare_gliner_data.py)
+  2. For each document, prompt the LLM with few-shot examples from MACCROBAT train
+  3. Parse LLM output, align to token spans
+  4. Evaluate with exact span match (same metrics as GLiNER eval)
+  5. Save results to llm_results.csv, plot to plots/
+
+Few-shot examples (from MACCROBAT train):
+  - Doc 2904: 11 labels (Age, Sex, Activity, History, Clinical_event, etc.)
+  - Doc 1717: Disease_disorder, Duration, History, Detailed_description
+  - Doc 98:   Medication, Dosage, Administration, Frequency, Lab_value
+  - Doc 69:   Medication + Dosage + Administration compact
+
+Usage:
+    python llm_ner_zero_shot.py --backend mistral --model mistral-large-latest --api-key YOUR_KEY
+    python llm_ner_zero_shot.py --backend ollama --model qwen2.5:14b
+    python llm_ner_zero_shot.py --inspect 0
+    python llm_ner_zero_shot.py --limit 50
+"""
+
+import argparse
+import csv
+import json
+import os
+import re
+import sys
+import time
+import warnings
+from collections import defaultdict
+from pathlib import Path
+
+import requests
+
+warnings.filterwarnings("ignore")
+
+# ---------------------------------------------------------------------------
+# Config
+# ---------------------------------------------------------------------------
+
+DATA_DIR   = Path(__file__).parent.parent / "TBM_evaluation"
+OUT_DIR    = Path(__file__).parent
+PLOTS_DIR  = OUT_DIR / "plots"
+
+OLLAMA_URL = "http://localhost:11434/api/generate"
+
+MACCROBAT_LABELS = [
+    "Disease_disorder", "Sign_symptom", "Diagnostic_procedure",
+    "Therapeutic_procedure", "Medication", "Biological_structure",
+    "Lab_value", "Detailed_description", "Clinical_event", "Severity",
+    "Date", "Duration", "Dosage", "Administration", "History",
+    "Nonbiological_location", "Activity", "Age", "Sex", "Family_history",
+    "Frequency", "Shape", "Personal_background", "Distance", "Time",
+    "Subject", "Color", "Quantitative_concept", "Texture",
+    "Qualitative_concept", "Area", "Outcome", "Volume", "Other_event",
+    "Other_entity", "Occupation", "Biological_attribute", "Weight",
+    "Height", "Mass", "Coreference",
+]
+
+RESULTS_CSV = OUT_DIR / "llm_results.csv"
+PARAMS_CSV  = OUT_DIR / "llm_params.csv"
+
+# ---------------------------------------------------------------------------
+# Prompt template — Few-shot with examples from MACCROBAT train
+# ---------------------------------------------------------------------------
+
+SYSTEM_PROMPT = """\
+You are an expert biomedical named entity annotator for clinical case reports (MACCROBAT schema).
+Your task: identify ALL entity spans in the text and assign the correct label.
+
+=== RULES ===
+
+R1 - SPAN BOUNDARIES:
+Annotate the exact text span as it appears. Include modifiers that are part of the clinical concept.
+  "enlarging mass" -> Lab_value("enlarging") + Sign_symptom("mass") — separate entities
+  "severe abdominal pain" -> Severity("severe") + Biological_structure("abdominal") + Sign_symptom("pain")
+  "24 - month history" -> Duration("24 - month history")
+
+R2 - HISTORY spans include the full temporal context:
+  "45 - year history of cigarette smoking" -> History (the whole phrase)
+  "known for HHT" -> History
+  "previously healthy" -> History
+  "without significant past medical history" -> History
+
+R3 - DETAILED_DESCRIPTION for qualifiers that modify a finding:
+  "abnormal" (modifying shadow), "recurrent" (modifying epistaxis), "stuttering" (modifying pain)
+  NOT for standalone medical concepts.
+
+R4 - LAB_VALUE for measured results or changes:
+  "enlarging", "increased", "did not increase notably", "elevated", "decreased"
+
+R5 - CLINICAL_EVENT for patient actions/events:
+  "presented", "admitted", "referred", "visited", "underwent"
+
+R6 - NON-ANNOTATED:
+  Articles, prepositions, conjunctions, punctuation.
+  Generic verbs: "was", "is", "had", "were"
+  Structural words: "with", "of", "for", "after", "on", "to"
+
+=== CATEGORIES (41 labels) ===
+Disease_disorder: Named disease, disorder, condition (HHT, hydrocephalus, trauma)
+Sign_symptom: Clinical sign or symptom (pain, mass, bleeding, epistaxis, cough, dizziness)
+Diagnostic_procedure: Test, exam, imaging, measurement (X-ray, platelet count, intracranial pressure)
+Therapeutic_procedure: Surgery, intervention, therapy (VP shunt, radiation therapy)
+Medication: Drug or pharmacological treatment (methylprednisolone, penicillin G, erlotinib)
+Biological_structure: Body part, organ, anatomical region (chest, abdominal, rectal, bifrontal)
+Lab_value: Test result, measurement value, change descriptor (increased, enlarging, elevated)
+Detailed_description: Qualifier modifying a finding (abnormal, recurrent, persistent, concomitant)
+Clinical_event: Patient encounter event (presented, admitted, referred, visited)
+Severity: Degree of severity (severe, massive, mild, moderate)
+Date: Calendar date (May 2008)
+Duration: Time span (5 months, 3 weeks, 10 days, nearly 50 years)
+Dosage: Drug dose (1 g, 24 million units, 1500 mg weekly)
+Administration: Route of drug delivery (intravenous, oral, topical)
+History: Past medical/social history phrase (45-year history of smoking, previously healthy)
+Nonbiological_location: Place not a body part (hospital, clinic, department)
+Activity: Patient activity (cigarette smoking, exercise)
+Age: Patient age (65-year-old, 24-year-old)
+Sex: Patient sex (man, woman, male, female)
+Family_history: Family medical history
+Frequency: How often (daily, per day, weekly, twice daily)
+Shape: Shape descriptor (round, oval, irregular)
+Personal_background: Ethnicity, nationality (Caucasian, Hispanic, Bengali, Chinese)
+Distance: Physical distance measurement
+Time: Time of day
+Subject: Who is being described
+Color: Color descriptor (whitish, yellowish)
+Quantitative_concept: Numeric measurement concept
+Texture: Texture descriptor (firm, soft)
+Qualitative_concept: Qualitative assessment (unclear aetiology)
+Area: Surface area measurement
+Outcome: Clinical outcome
+Volume: Volume measurement
+Other_event: Other clinical event
+Other_entity: Uncategorized entity
+Occupation: Job/profession (common worker)
+Biological_attribute: Biological property
+Weight: Body weight
+Height: Body height
+Mass: Body mass
+Coreference: Reference to previously mentioned entity
+
+=== 4 ANNOTATED EXAMPLES (from training corpus) ===
+
+Text 1: A 65 - year - old man with a 45 - year history of cigarette smoking visited our hospital for the diagnosis of an abnormal chest shadow on X - ray .
+[{"text": "65 - year - old", "label": "Age"},
+ {"text": "man", "label": "Sex"},
+ {"text": "45 - year history of cigarette smoking", "label": "History"},
+ {"text": "cigarette smoking", "label": "Activity"},
+ {"text": "visited", "label": "Clinical_event"},
+ {"text": "hospital", "label": "Nonbiological_location"},
+ {"text": "abnormal", "label": "Detailed_description"},
+ {"text": "chest", "label": "Biological_structure"},
+ {"text": "shadow", "label": "Sign_symptom"},
+ {"text": "X - ray", "label": "Diagnostic_procedure"},
+ {"text": "45 - year", "label": "Duration"}]
+
+Text 2: A 64 year old female known for HHT is referred to our clinic for recurrent epistaxis for nearly 50 years .
+[{"text": "64 year old", "label": "Age"},
+ {"text": "female", "label": "Sex"},
+ {"text": "known for HHT", "label": "History"},
+ {"text": "HHT", "label": "Disease_disorder"},
+ {"text": "referred", "label": "Clinical_event"},
+ {"text": "clinic", "label": "Nonbiological_location"},
+ {"text": "recurrent", "label": "Detailed_description"},
+ {"text": "epistaxis", "label": "Sign_symptom"},
+ {"text": "nearly 50 years", "label": "Duration"}]
+
+Text 3: As the platelet count did not increase notably , pulse therapy with intravenous methylprednisolone , 1 g daily , was added on d 22 to 24 .
+[{"text": "platelet count", "label": "Diagnostic_procedure"},
+ {"text": "did not increase notably", "label": "Lab_value"},
+ {"text": "pulse therapy", "label": "Medication"},
+ {"text": "intravenous", "label": "Administration"},
+ {"text": "methylprednisolone", "label": "Medication"},
+ {"text": "1 g", "label": "Dosage"},
+ {"text": "daily", "label": "Frequency"},
+ {"text": "d 22 to 24", "label": "Duration"}]
+
+Text 4: Antimicrobial therapy was changed to penicillin G , 24 million units intravenously per day .
+[{"text": "Antimicrobial therapy", "label": "Medication"},
+ {"text": "penicillin G", "label": "Medication"},
+ {"text": "24 million units", "label": "Dosage"},
+ {"text": "intravenously", "label": "Administration"},
+ {"text": "per day", "label": "Frequency"}]
+
+=== RESPONSE FORMAT ===
+JSON array only. No explanation.
+Each element: {"text": "...", "label": "..."}
+If no entities: []"""
+
+
+# ---------------------------------------------------------------------------
+# Backend: Ollama
+# ---------------------------------------------------------------------------
+
+def query_ollama(text: str, model: str, timeout: int = 120) -> str:
+    prompt = f"{SYSTEM_PROMPT}\n\nText:\n{text}"
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "stream": False,
+        "options": {"temperature": 0.0, "num_predict": 4096},
+    }
+    try:
+        resp = requests.post(OLLAMA_URL, json=payload, timeout=timeout)
+        resp.raise_for_status()
+        return resp.json().get("response", "")
+    except requests.exceptions.ConnectionError:
+        print("ERROR: Ollama not running. Start with: ollama serve")
+        sys.exit(1)
+    except Exception as e:
+        print(f"  Ollama error: {e}")
+        return "[]"
+
+
+# ---------------------------------------------------------------------------
+# Backend: Mistral API (direct REST, no SDK needed)
+# ---------------------------------------------------------------------------
+
+MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
+
+
+def query_mistral(text: str, model: str, api_key: str,
+                  max_retries: int = 5, retry_backoff: float = 5.0) -> str:
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": f"Text:\n{text}"},
+        ],
+        "temperature": 0.0,
+        "max_tokens": 4096,
+    }
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.post(MISTRAL_API_URL, headers=headers,
+                                 json=payload, timeout=120)
+            resp.raise_for_status()
+            data = resp.json()
+            return data["choices"][0]["message"]["content"]
+        except Exception as e:
+            if attempt == max_retries:
+                print(f"  Mistral API: failed after {max_retries} attempts: {e}")
+                return "[]"
+            time.sleep(retry_backoff * attempt)
+
+
+# ---------------------------------------------------------------------------
+# Unified query function
+# ---------------------------------------------------------------------------
+
+def make_query_fn(backend: str, model: str, api_key: str = None):
+    if backend == "mistral":
+        if not api_key:
+            api_key = os.environ.get("MISTRAL_API_KEY")
+        if not api_key:
+            print("ERROR: --api-key required or set MISTRAL_API_KEY env var")
+            sys.exit(1)
+        print(f"Backend: Mistral API ({model})")
+        return lambda text: query_mistral(text, model, api_key)
+    else:
+        print(f"Backend: Ollama local ({model})")
+        return lambda text: query_ollama(text, model)
+
+
+# ---------------------------------------------------------------------------
+# Parse LLM output
+# ---------------------------------------------------------------------------
+
+LABEL_SET = set(MACCROBAT_LABELS)
+
+
+def parse_llm_response(response: str) -> list[dict]:
+    response = response.strip()
+    match = re.search(r'\[.*\]', response, re.DOTALL)
+    if not match:
+        return []
+    try:
+        entities = json.loads(match.group())
+        if not isinstance(entities, list):
+            return []
+        valid = []
+        for e in entities:
+            if isinstance(e, dict) and "text" in e and "label" in e:
+                if e["label"] in LABEL_SET:
+                    valid.append({"text": e["text"], "label": e["label"]})
+        return valid
+    except json.JSONDecodeError:
+        return []
+
+
+# ---------------------------------------------------------------------------
+# Token alignment
+# ---------------------------------------------------------------------------
+
+def build_char_offsets(tokens: list[str]) -> tuple[str, list[tuple[int, int]]]:
+    offsets, pos = [], 0
+    for tok in tokens:
+        offsets.append((pos, pos + len(tok)))
+        pos += len(tok) + 1
+    return " ".join(tokens), offsets
+
+
+def find_entity_in_tokens(entity_text: str, label: str, text: str,
+                          offsets: list[tuple[int, int]]) -> list[tuple[int, int, str]]:
+    results = []
+    entity_lower = entity_text.lower()
+    text_lower = text.lower()
+    start = 0
+    while True:
+        idx = text_lower.find(entity_lower, start)
+        if idx == -1:
+            break
+        end_char = idx + len(entity_text)
+        ts = te = None
+        for i, (cs, ce) in enumerate(offsets):
+            if ts is None and cs <= idx < ce:
+                ts = i
+            if cs < end_char <= ce:
+                te = i
+        if ts is not None and te is not None and ts <= te:
+            results.append((ts, te, label))
+        start = idx + 1
+    return results
+
+
+# ---------------------------------------------------------------------------
+# Evaluation helpers
+# ---------------------------------------------------------------------------
+
+def evaluate(gold: set, pred: set):
+    tp = len(gold & pred)
+    return tp, len(pred) - tp, len(gold) - tp
+
+
+def prf(tp, fp, fn):
+    p = tp / (tp + fp) if (tp + fp) else 0.0
+    r = tp / (tp + fn) if (tp + fn) else 0.0
+    f1 = 2 * p * r / (p + r) if (p + r) else 0.0
+    return round(p, 4), round(r, 4), round(f1, 4)
+
+
+# ---------------------------------------------------------------------------
+# Data loading
+# ---------------------------------------------------------------------------
+
+def load_split(split: str) -> list[dict]:
+    path = DATA_DIR / f"{split}_gliner.json"
+    if not path.exists():
+        raise FileNotFoundError(
+            f"{path} not found -- run ../TBM_evaluation/prepare_gliner_data.py first"
+        )
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+# ---------------------------------------------------------------------------
+# Main evaluation
+# ---------------------------------------------------------------------------
+
+def eval_llm(query_fn, model_name: str, docs: list[dict], split_name: str):
+    global_tp = global_fp = global_fn = 0
+    per_label = defaultdict(lambda: [0, 0, 0])
+
+    total = len(docs)
+    start_time = time.time()
+    errors = 0
+
+    print(f"\n  Evaluating {model_name} on {split_name} ({total} docs) ...")
+
+    for i, doc in enumerate(docs):
+        tokens = doc["tokenized_text"]
+        text, offsets = build_char_offsets(tokens)
+        gold = {(e[0], e[1], e[2]) for e in doc["ner"]}
+
+        response = query_fn(text)
+        entities = parse_llm_response(response)
+
+        pred = set()
+        for ent in entities:
+            spans = find_entity_in_tokens(ent["text"], ent["label"], text, offsets)
+            for span in spans:
+                pred.add(span)
+
+        tp, fp, fn = evaluate(gold, pred)
+        global_tp += tp
+        global_fp += fp
+        global_fn += fn
+
+        for label in MACCROBAT_LABELS:
+            g = {s for s in gold if s[2] == label}
+            p = {s for s in pred if s[2] == label}
+            ltp, lfp, lfn = evaluate(g, p)
+            per_label[label][0] += ltp
+            per_label[label][1] += lfp
+            per_label[label][2] += lfn
+
+        if not entities and gold:
+            errors += 1
+
+        if (i + 1) % 50 == 0 or i == 0:
+            elapsed = time.time() - start_time
+            speed = (i + 1) / elapsed
+            eta = (total - i - 1) / speed if speed > 0 else 0
+            p_cur, r_cur, f1_cur = prf(global_tp, global_fp, global_fn)
+            print(f"    [{i+1}/{total}] F1={f1_cur:.3f} P={p_cur:.3f} R={r_cur:.3f}"
+                  f"  ({speed:.1f} doc/s, ETA {eta/60:.0f}min)")
+
+    elapsed = time.time() - start_time
+    p_all, r_all, f1_all = prf(global_tp, global_fp, global_fn)
+    print(f"\n  Done in {elapsed/60:.1f} min -- F1={f1_all:.3f} P={p_all:.3f} R={r_all:.3f}")
+    print(f"  Parse errors (empty response on annotated docs): {errors}/{total}")
+
+    row = {
+        "model": model_name,
+        "split": split_name,
+        "threshold": 0.0,
+        "n_docs": total,
+        "P": p_all, "R": r_all, "F1": f1_all,
+        "TP": global_tp, "FP": global_fp, "FN": global_fn,
+        "time_min": round(elapsed / 60, 1),
+    }
+    for label in MACCROBAT_LABELS:
+        ltp, lfp, lfn = per_label[label]
+        _, _, lf1 = prf(ltp, lfp, lfn)
+        row[f"F1_{label}"] = lf1
+
+    return [row], per_label
+
+
+# ---------------------------------------------------------------------------
+# Plotting (all active labels by F1)
+# ---------------------------------------------------------------------------
+
+def plot_results(rows: list[dict], per_label: dict, model_name: str):
+    import matplotlib.pyplot as plt
+
+    PLOTS_DIR.mkdir(parents=True, exist_ok=True)
+    safe_name = model_name.replace("/", "__").replace(":", "_")
+
+    active = [l for l in MACCROBAT_LABELS if sum(per_label[l]) > 0]
+    top_labels = sorted(active, key=lambda l: -prf(*per_label[l])[2])
+
+    fig, axes = plt.subplots(1, 2, figsize=(18, 7))
+
+    ax = axes[0]
+    f1s = [prf(*per_label[l])[2] for l in top_labels]
+    colors = ["#4CAF50" if f > 0.5 else "#FF9800" if f > 0.2 else "#F44336" for f in f1s]
+    bars = ax.barh(top_labels, f1s, color=colors)
+    for bar, val in zip(bars, f1s):
+        ax.text(bar.get_width() + 0.01, bar.get_y() + bar.get_height() / 2,
+                f"{val:.3f}", va="center", fontsize=8)
+    ax.set_xlim(0, 1)
+    ax.set_xlabel("F1")
+    ax.set_title(f"F1 per label (all active labels) -- {model_name} (few-shot)")
+    ax.grid(True, alpha=0.3, axis="x")
+
+    ax = axes[1]
+    row = rows[0]
+    metrics = ["P", "R", "F1"]
+    vals = [row["P"], row["R"], row["F1"]]
+    colors_m = ["#2196F3", "#FF9800", "#4CAF50"]
+    bars = ax.bar(metrics, vals, color=colors_m, width=0.5)
+    for bar, val in zip(bars, vals):
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.01,
+                f"{val:.3f}", ha="center", fontweight="bold", fontsize=12)
+    ax.set_ylim(0, 1)
+    ax.set_title(f"Global -- {model_name} (few-shot)\n{row['n_docs']} docs, {row['time_min']} min")
+    ax.grid(True, alpha=0.3, axis="y")
+
+    plt.tight_layout()
+    out_path = PLOTS_DIR / f"{safe_name}_few_shot.png"
+    plt.savefig(out_path, dpi=150)
+    plt.close()
+    print(f"  Plot saved -> {out_path}")
+
+
+# ---------------------------------------------------------------------------
+# Inspect one document
+# ---------------------------------------------------------------------------
+
+def inspect(doc_idx: int, query_fn, model_name: str, split: str):
+    docs = load_split(split)
+    doc = docs[doc_idx]
+    tokens = doc["tokenized_text"]
+    text, offsets = build_char_offsets(tokens)
+
+    print(f"\nText: {text}\n")
+
+    gold = {(e[0], e[1], e[2]) for e in doc["ner"]}
+
+    print("Querying LLM...")
+    response = query_fn(text)
+    print(f"\nRaw response:\n{response}\n")
+
+    entities = parse_llm_response(response)
+    pred = set()
+    for ent in entities:
+        spans = find_entity_in_tokens(ent["text"], ent["label"], text, offsets)
+        for span in spans:
+            pred.add(span)
+
+    print("=== GOLD ===")
+    for ts, te, label in sorted(gold):
+        marker = "OK" if (ts, te, label) in pred else "MISSED"
+        print(f"  [{label}] {ts}-{te}  '{' '.join(tokens[ts:te+1])}'  {marker}")
+
+    print("\n=== PREDICTIONS ===")
+    for ts, te, label in sorted(pred):
+        marker = "OK" if (ts, te, label) in gold else "FALSE POS"
+        print(f"  [{label}] {ts}-{te}  '{' '.join(tokens[ts:te+1])}'  {marker}")
+
+    tp, fp, fn = evaluate(gold, pred)
+    p, r, f1 = prf(tp, fp, fn)
+    print(f"\nDoc P={p:.3f}  R={r:.3f}  F1={f1:.3f}  (TP={tp} FP={fp} FN={fn})")
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def main():
+    parser = argparse.ArgumentParser(description="Few-shot NER eval on MACCROBAT2020")
+    parser.add_argument("--backend", default="ollama", choices=["ollama", "mistral"])
+    parser.add_argument("--model", default=None, help="Model name (default depends on backend)")
+    parser.add_argument("--api-key", default=None, help="API key for Mistral backend")
+    parser.add_argument("--split", default="test", choices=["train", "test", "both"])
+    parser.add_argument("--inspect", type=int, default=None, help="Inspect doc index")
+    parser.add_argument("--limit", type=int, default=None, help="Limit number of docs")
+    args = parser.parse_args()
+
+    if args.model is None:
+        args.model = "mistral-large-latest" if args.backend == "mistral" else "qwen2.5:14b"
+
+    query_fn = make_query_fn(args.backend, args.model, args.api_key)
+
+    if args.inspect is not None:
+        inspect(args.inspect, query_fn, args.model, args.split if args.split != "both" else "test")
+        return
+
+    splits = ["train", "test"] if args.split == "both" else [args.split]
+    all_rows = []
+
+    for split_name in splits:
+        docs = load_split(split_name)
+        if args.limit:
+            docs = docs[:args.limit]
+
+        print(f"Model: {args.model}")
+        print(f"Split: {split_name} ({len(docs)} docs)")
+        print(f"Method: few-shot (4 examples)")
+
+        rows, per_label = eval_llm(query_fn, args.model, docs, split_name)
+        all_rows.extend(rows)
+
+        plot_results(rows, per_label, f"{args.model}_{split_name}")
+
+    if all_rows:
+        fieldnames = list(all_rows[0].keys())
+        write_header = not RESULTS_CSV.exists()
+        with open(RESULTS_CSV, "a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            if write_header:
+                writer.writeheader()
+            writer.writerows(all_rows)
+        print(f"\nResults saved -> {RESULTS_CSV}")
+
+    from datetime import datetime
+    for row in all_rows:
+        params_row = {
+            "run_date": datetime.now().isoformat(timespec="seconds"),
+            "model": args.model,
+            "backend": args.backend,
+            "split": row["split"],
+            "n_docs": row["n_docs"],
+            "method": "few-shot",
+        }
+        write_header = not PARAMS_CSV.exists()
+        with open(PARAMS_CSV, "a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=list(params_row.keys()))
+            if write_header:
+                writer.writeheader()
+            writer.writerow(params_row)
+    print(f"Params saved -> {PARAMS_CSV}")
+
+    print(f"\n=== Summary ===")
+    for row in all_rows:
+        print(f"  {row['split']:<6} F1={row['F1']:.3f}  P={row['P']:.3f}  R={row['R']:.3f}")
+    if len(all_rows) == 2:
+        gap = all_rows[0]["F1"] - all_rows[1]["F1"]
+        print(f"  Gap train-test: {gap:+.3f}")
+
+
+if __name__ == "__main__":
+    main()

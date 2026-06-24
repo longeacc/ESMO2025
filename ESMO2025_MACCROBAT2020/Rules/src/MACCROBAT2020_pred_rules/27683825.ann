@@ -1,0 +1,22 @@
+T1	Age 17 28	19-year-old
+T2	Sex 29 34	woman
+T3	Lab_value 101 113	unremarkable
+T4	Lab_value 144 150	normal
+T5	Lab_value 187 197	uneventful
+T6	Lab_value 243 249	normal
+T7	Age 261 274	1 year of age
+T8	Duration 346 355	22 months
+T9	Lab_value 362 366	poor
+T10	Frequency 379 387	frequent
+T11	Age 398 412	3 years of age
+T12	Lab_value 575 581	stable
+T13	Duration 586 594	10 years
+T14	Lab_value 621 629	worsened
+T15	Severity 863 867	Mild
+T16	Age 1084 1099	19 years of age
+T17	Severity 1183 1189	marked
+T18	Lab_value 1241 1247	stable
+T19	Severity 1386 1390	mild
+T20	Severity 1429 1438	extensive
+T21	Color 1467 1472	white
+T22	Distance 1613 1619	2.9 mM

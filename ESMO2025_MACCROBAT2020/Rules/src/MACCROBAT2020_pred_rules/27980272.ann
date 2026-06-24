@@ -1,0 +1,66 @@
+T1	Age 2 13	76-year-old
+T2	Sex 23 26	man
+T3	Lab_value 45 54	decreased
+T4	Date 109 122	February 2011
+T5	Texture 150 154	soft
+T6	Frequency 183 193	once daily
+T7	Lab_value 300 306	normal
+T8	Lab_value 542 550	negative
+T9	Lab_value 691 700	decreased
+T10	Weight 704 709	23 kg
+T11	Dosage 861 869	5 mg/day
+T12	Date 903 907	2005
+T13	Date 929 937	May 2008
+T14	Dosage 974 983	30 mg/day
+T15	Distance 1201 1207	165 cm
+T16	Weight 1226 1231	47 kg
+T17	Weight 1256 1261	17 kg
+T18	Lab_value 1310 1317	101/min
+T19	Lab_value 1339 1346	81 mmHg
+T20	Severity 1637 1643	mildly
+T21	Lab_value 1644 1651	reduced
+T22	Lab_value 1802 1806	poor
+T23	Color 2041 2046	white
+T24	Lab_value 2067 2074	200 /μL
+T25	Dosage 2094 2100	12.5 g
+T26	Lab_value 2156 2163	000 /μL
+T27	Lab_value 2179 2188	136 mEq/L
+T28	Lab_value 2207 2216	3.8 mEq/L
+T29	Lab_value 2234 2243	103 mEq/L
+T30	Dosage 2257 2262	57 μg
+T31	Dosage 2287 2293	187 μg
+T32	Lab_value 2315 2324	366 ng/mL
+T33	Lab_value 2346 2355	200 ng/mL
+T34	Lab_value 2464 2471	8 ng/mL
+T35	Lab_value 2493 2501	66 ng/mL
+T36	Lab_value 2529 2535	normal
+T37	Lab_value 2562 2568	normal
+T38	Date 3133 3146	10 days after
+T39	Administration 3151 3162	intravenous
+T40	Lab_value 3287 3296	increased
+T41	Weight 3300 3304	3 kg
+T42	Lab_value 3548 3557	increased
+T43	Lab_value 3565 3572	90 mmHg
+T44	Date 3641 3645	2011
+T45	Date 3647 3661	One week later
+T46	Frequency 3689 3698	recurrent
+T47	Lab_value 3699 3708	decreased
+T48	Duration 3789 3794	2-day
+T49	Texture 3814 3818	soft
+T50	Frequency 3826 3836	once daily
+T51	Lab_value 3858 3867	decreased
+T52	Weight 3871 3876	47 kg
+T53	Date 3910 3923	3 weeks after
+T54	Lab_value 4038 4044	93/min
+T55	Lab_value 4070 4077	75 mmHg
+T56	Lab_value 4195 4204	139 mEq/L
+T57	Lab_value 4223 4232	2.9 mEq/L
+T58	Lab_value 4254 4263	116 mEq/L
+T59	Lab_value 4353 4361	23 mEq/L
+T60	Lab_value 4442 4449	25 mmHg
+T61	Lab_value 4461 4470	11 mmol/L
+T62	Lab_value 4527 4535	15 mEq/L
+T63	Lab_value 4554 4562	13 mEq/L
+T64	Lab_value 4580 4589	100 mEq/L
+T65	Lab_value 4613 4621	72 mEq/L
+T66	Lab_value 4649 4657	increase

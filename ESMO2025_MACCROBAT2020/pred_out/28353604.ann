@@ -1,0 +1,51 @@
+T1	Age 2 13	69-year-old
+T2	Sex 14 17	man
+T3	Date 69 78	July 2010
+T4	Duration 122 130	40 years
+T5	Lab_value 227 239	unremarkable
+T6	Severity 479 485	severe
+T7	Lab_value 541 549	104 mmHg
+T8	Distance 615 620	57 mm
+T9	Severity 819 825	severe
+T10	Dosage 1015 1029	2.5 mg per day
+T11	Dosage 1146 1165	20 mg twice per day
+T12	Severity 1203 1211	slightly
+T13	Duration 1251 1258	1 month
+T14	Lab_value 1304 1313	decreased
+T15	Lab_value 1317 1324	72 mmHg
+T16	Duration 1424 1432	6 months
+T17	Date 1437 1447	March 2011
+T18	Lab_value 1581 1588	47 mmHg
+T19	Lab_value 1637 1644	10 mmHg
+T20	Volume 1661 1666	4.3 L
+T21	Volume 1695 1701	2.36 L
+T22	Dosage 1938 1943	20 mg
+T23	Frequency 1944 1957	3 times a day
+T24	Dosage 1974 1980	400 mg
+T25	Frequency 1981 1991	once a day
+T26	Administration 2018 2022	oral
+T27	Dosage 2061 2076	3.75 mg per day
+T28	Frequency 2086 2091	daily
+T29	Lab_value 2244 2251	95 mmHg
+T30	Date 2256 2270	September 2011
+T31	Lab_value 2406 2413	63 mmHg
+T32	Severity 2472 2476	mild
+T33	Severity 2578 2584	severe
+T34	Duration 2666 2674	6-minute
+T35	Texture 2767 2773	smooth
+T36	Lab_value 2947 2954	53 mmHg
+T37	Lab_value 2973 2980	11 mmHg
+T38	Lab_value 3012 3020	negative
+T39	Lab_value 3062 3068	normal
+T40	Lab_value 3205 3213	elevated
+T41	Lab_value 3293 3299	normal
+T42	Frequency 3406 3418	continuously
+T43	Date 3591 3595	2014
+T44	Frequency 3680 3690	frequently
+T45	Lab_value 3882 3888	stable
+T46	Date 3979 3991	January 2015
+T47	Duration 4326 4332	a year
+T48	Severity 4338 4344	severe
+T49	Date 4455 4471	Six months later
+T50	Date 4665 4669	2015
+T51	Date 4946 4958	1 year after

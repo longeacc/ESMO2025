@@ -1,0 +1,33 @@
+T1	Age 2 13	38-year-old
+T2	Sex 14 19	woman
+T3	Severity 63 69	severe
+T4	Frequency 156 168	intermittent
+T5	Lab_value 287 295	negative
+T6	Distance 386 391	27 mm
+T7	Dosage 418 425	65.6 mg
+T8	Lab_value 429 435	normal
+T9	Lab_value 485 493	negative
+T10	Lab_value 517 525	negative
+T11	Color 528 533	white
+T12	Lab_value 562 568	normal
+T13	Dosage 687 692	17 mg
+T14	Dosage 711 718	7.94 mg
+T15	Dosage 744 751	0.56 mg
+T16	Lab_value 764 770	20 U/L
+T17	Lab_value 784 790	24 U/L
+T18	Lab_value 800 808	negative
+T19	Lab_value 1305 1313	positive
+T20	Frequency 1331 1340	recurrent
+T21	Administration 1341 1345	oral
+T22	Frequency 1376 1383	5 times
+T23	Date 1395 1404	past year
+T24	Lab_value 1435 1441	normal
+T25	Severity 1472 1481	extensive
+T26	Date 1707 1721	53 weeks later
+T27	Distance 1774 1779	50 cm
+T28	Distance 1828 1833	27 cm
+T29	Distance 1883 1887	4 cm
+T30	Distance 2242 2246	2 cm
+T31	Distance 2315 2319	1 cm
+T32	Lab_value 2648 2654	normal
+T33	Severity 3155 3161	marked

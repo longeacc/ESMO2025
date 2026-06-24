@@ -1,0 +1,18 @@
+T1	Age 2 13	21-year-old
+T2	Sex 14 18	male
+T3	Duration 36 42	2-year
+T4	Texture 102 105	dry
+T5	Lab_value 238 244	normal
+T6	Lab_value 447 453	normal
+T7	Severity 579 583	mild
+T8	Lab_value 623 630	reduced
+T9	Volume 659 665	5.94 L
+T10	Volume 698 704	4.18 L
+T11	Volume 759 765	3.72 L
+T12	Lab_value 783 791	negative
+T13	Lab_value 873 881	negative
+T14	Texture 942 947	dense
+T15	Texture 1056 1068	ground glass
+T16	Lab_value 1395 1403	negative
+T17	Shape 1477 1482	round
+T18	Severity 1551 1559	slightly

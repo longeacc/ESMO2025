@@ -1,0 +1,34 @@
+T1	Age 2 11	36-yr-old
+T2	Sex 42 46	male
+T3	Severity 177 181	mild
+T4	Lab_value 198 204	normal
+T5	Lab_value 446 453	60 mmHg
+T6	Lab_value 469 475	76 bpm
+T7	Lab_value 505 517	unremarkable
+T8	Severity 610 614	mild
+T9	Lab_value 709 729	within normal limits
+T10	Color 779 782	red
+T11	Dosage 832 837	75 mg
+T12	Administration 911 922	intravenous
+T13	Date 976 986	second day
+T14	Severity 1333 1339	severe
+T15	Lab_value 1404 1415	12.77 ng/ml
+T16	Lab_value 1417 1423	normal
+T17	Severity 1474 1480	severe
+T18	Administration 1579 1590	Intravenous
+T19	Date 1709 1716	3rd day
+T20	Severity 1735 1741	severe
+T21	Time 1767 1779	the same day
+T22	Administration 1859 1870	intravenous
+T23	Administration 2003 2014	intravenous
+T24	Severity 2091 2097	severe
+T25	Lab_value 2168 2177	increased
+T26	Date 2200 2207	5th day
+T27	Severity 2288 2296	markedly
+T28	Lab_value 2297 2305	elevated
+T29	Lab_value 2312 2320	2726 U/l
+T30	Lab_value 2325 2333	7438 U/l
+T31	Lab_value 2416 2424	negative
+T32	Date 2467 2474	5th day
+T33	Lab_value 2490 2498	positive
+T34	Lab_value 2504 2512	negative

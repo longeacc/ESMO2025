@@ -1,0 +1,29 @@
+T1	Duration 2 10	14-month
+T2	Sex 15 18	boy
+T3	Date 171 183	October 2011
+T4	Weight 233 239	3.2 kg
+T5	Lab_value 392 401	decreased
+T6	Frequency 689 696	7 times
+T7	Duration 853 862	14 months
+T8	Weight 888 892	6 kg
+T9	Distance 939 944	71 cm
+T10	Lab_value 1127 1134	30 mmHg
+T11	Lab_value 1401 1407	800/µL
+T12	Lab_value 1421 1427	176/µL
+T13	Severity 1519 1523	mild
+T14	Shape 1700 1708	globular
+T15	Distance 1919 1926	37.7 mm
+T16	Dosage 1984 1990	75.6 g
+T17	Severity 2318 2328	high-grade
+T18	Volume 2385 2391	800 cc
+T19	Lab_value 2481 2490	decreased
+T20	Lab_value 2496 2502	290/µL
+T21	Lab_value 2511 2516	33/µL
+T22	Lab_value 2715 2723	negative
+T23	Lab_value 2763 2771	negative
+T24	Dosage 2820 2827	7.08 mg
+T25	Administration 2866 2877	intravenous
+T26	Lab_value 2949 2957	worsened
+T27	Lab_value 3148 3158	7.8 mmol/L
+T28	Distance 3178 3185	41.4 mm
+T29	Date 3420 3432	7 days after

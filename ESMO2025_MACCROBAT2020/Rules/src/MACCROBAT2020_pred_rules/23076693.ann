@@ -1,0 +1,14 @@
+T1	Age 2 13	45-year-old
+T2	Sex 14 18	lady
+T3	Severity 55 63	severely
+T4	Lab_value 451 455	38°C
+T5	Lab_value 472 479	100/min
+T6	Distance 507 512	72 mm
+T7	Severity 777 781	mild
+T8	Distance 1024 1029	30 mm
+T9	Lab_value 1110 1130	within normal limits
+T10	Administration 1647 1651	oral
+T11	Dosage 1676 1687	40 mg daily
+T12	Date 1791 1803	after 1 week
+T13	Lab_value 2181 2191	uneventful
+T14	Frequency 2274 2286	periodically

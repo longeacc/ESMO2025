@@ -1,0 +1,5 @@
+T1	PROC 0 10	Traitement
+T2	DISO 22 27	kyste
+T3	ANAT 31 39	pancréas
+T4	DISO 44 54	anastomose
+T5	PROC 44 54	anastomose

@@ -1,0 +1,8 @@
+T1	PROC 31 40	perfusion
+T2	ANAT 41 51	vasculaire
+T3	LIVB 68 71	rat
+T4	PROC 80 85	étude
+T5	PHEN 92 102	absorption
+T6	PHYS 92 102	absorption
+T7	ANAT 103 114	intestinale
+T8	CHEM 119 125	acides

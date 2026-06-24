@@ -1,0 +1,22 @@
+T1	Age 2 13	75–year–old
+T2	Sex 14 20	female
+T3	Duration 184 191	3 years
+T4	Lab_value 386 398	80 beats/min
+T5	Lab_value 422 429	60 mmHg
+T6	Shape 752 757	round
+T7	Distance 762 766	6 cm
+T8	Texture 796 802	smooth
+T9	Lab_value 876 882	80/min
+T10	Distance 1071 1076	30 mm
+T11	Distance 1180 1184	2 mm
+T12	Distance 1223 1227	2 mm
+T13	Distance 1261 1265	3 mm
+T14	Distance 1297 1301	4 mm
+T15	Distance 1349 1353	6 cm
+T16	Severity 1392 1398	Severe
+T17	Distance 1451 1455	4 mm
+T18	Severity 1493 1499	Severe
+T19	Distance 1526 1531	75 mm
+T20	Severity 1814 1820	Severe
+T21	Severity 1879 1885	Severe
+T22	Distance 1912 1917	75 mm
