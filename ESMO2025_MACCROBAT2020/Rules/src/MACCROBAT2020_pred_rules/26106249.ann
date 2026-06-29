@@ -1,17 +1,60 @@
 T1	Age 18 29	38-year-old
-T2	Sex 40 43	man
-T3	Distance 78 84	165 cm
-T4	Lab_value 136 142	normal
-T5	Lab_value 293 299	normal
-T6	Severity 590 594	mild
-T7	Date 850 854	1998
-T8	Date 1004 1008	2007
-T9	Date 1167 1171	2012
-T10	Severity 1476 1482	severe
-T11	Lab_value 1564 1571	50 mmHg
-T12	Lab_value 1597 1603	normal
-T13	Lab_value 2435 2445	uneventful
-T14	Date 2485 2491	day 10
-T15	Date 2493 2508	After two years
-T16	Lab_value 2592 2600	decrease
-T17	Lab_value 2640 2647	30 mmHg
+T2	Personal_background 30 39	Caucasian
+T3	Sex 40 43	man
+T4	Personal_background 47 54	Spanish
+T5	Height 78 84	165 cm
+T6	Subject 93 100	parents
+T7	Subject 120 127	parents
+T8	Lab_value 136 142	normal
+T9	Lab_value 293 299	normal
+T10	Biological_structure 361 366	chest
+T11	Diagnostic_procedure 402 413	examination
+T12	Clinical_event 575 584	presented
+T13	Severity 590 594	mild
+T14	Subject 795 802	parents
+T15	Date 850 854	1998
+T16	Clinical_event 963 972	presented
+T17	Biological_structure 986 994	cerebral
+T18	Date 1004 1008	2007
+T19	Therapeutic_procedure 1036 1044	ablation
+T20	Disease_disorder 1056 1070	atrial flutter
+T21	Diagnostic_procedure 1152 1163	examination
+T22	Date 1167 1171	2012
+T23	Detailed_description 1188 1196	systolic
+T24	Sign_symptom 1197 1203	murmur
+T25	Diagnostic_procedure 1312 1328	echocardiography
+T26	Sign_symptom 1340 1347	dilated
+T27	Biological_structure 1365 1379	left ventricle
+T28	Severity 1476 1482	severe
+T29	Biological_structure 1483 1495	mitral valve
+T30	Detailed_description 1525 1533	systolic
+T31	Biological_structure 1534 1543	pulmonary
+T32	Lab_value 1564 1571	50 mmHg
+T33	Biological_structure 1580 1592	aortic valve
+T34	Lab_value 1597 1603	normal
+T35	Medication 1636 1644	ramipril
+T36	Medication 1673 1685	acenocumarol
+T37	Biological_structure 1717 1729	mitral valve
+T38	Therapeutic_procedure 1730 1737	surgery
+T39	Nonbiological_location 1746 1763	operating theatre
+T40	Biological_structure 1785 1792	femoral
+T41	Therapeutic_procedure 1804 1814	cannulated
+T42	Therapeutic_procedure 1824 1835	thoracotomy
+T43	Therapeutic_procedure 1894 1905	cannulation
+T44	Therapeutic_procedure 1953 1962	operation
+T45	Therapeutic_procedure 1983 2005	cardiopulmonary bypass
+T46	Biological_structure 2036 2041	aorta
+T47	Biological_structure 2057 2062	heart
+T48	Biological_structure 2246 2258	mitral valve
+T49	Therapeutic_procedure 2259 2265	repair
+T50	Lab_value 2435 2445	uneventful
+T51	Clinical_event 2457 2467	discharged
+T52	Date 2485 2491	day 10
+T53	Date 2493 2508	After two years
+T54	Clinical_event 2512 2521	follow-up
+T55	Diagnostic_procedure 2523 2539	echocardiography
+T56	Biological_structure 2573 2585	mitral valve
+T57	Lab_value 2592 2600	decrease
+T58	Detailed_description 2604 2612	systolic
+T59	Biological_structure 2613 2622	pulmonary
+T60	Lab_value 2640 2647	30 mmHg

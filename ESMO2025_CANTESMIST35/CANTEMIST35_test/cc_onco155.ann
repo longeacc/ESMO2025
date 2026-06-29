@@ -1,0 +1,30 @@
+T1	Statut_tabagique 94 122	ex-fumeuse depuis des années
+T2	Symptomes 307 386	gêne abdominale et à l'autopalpation d'une adénopathie supraclaviculaire gauche
+T3	Topographie_du_primitif 413 470	adénocarcinome canalaire de stade IV du corps du pancréas
+T4	Histologie_tumorale 413 437	adénocarcinome canalaire
+T5	Stade_metastatique_avec_localisations 413 449	adénocarcinome canalaire de stade IV
+T6	Topographie_du_primitif 861 893	tumeur dans le corps du pancréas
+T7	Traitement_specifique_du_cancer 1206 1229	gemcitabine + erlotinib
+T8	Symptomes 1802 1902	gêne épigastrique, à des nausées sèches, parfois à des selles liquides et éventuellement à un méléna
+T9	Symptomes 2002 2252	douleurs abdominales sévères, échelle EVA 9/10. Elle est localisée dans l'épigastre et irradie « en ceinture » vers le flanc droit, associée à des nausées, des diarrhées sans produits pathologiques et un épisode de vomissements contenant des aliments
+T10	Topographie_du_primitif 2479 2524	adénocarcinome canalaire du corps du pancréas
+T11	Histologie_tumorale 2479 2503	adénocarcinome canalaire
+T12	Stade_metastatique_avec_localisations 2479 2536	adénocarcinome canalaire du corps du pancréas au stade IV
+T13	Symptomes 2641 2671	hématémèse et une hématochézie
+T14	Signes_physiques 3068 3091	Pâleur cutanéo-muqueuse
+T16	Signes_physiques 3681 3826	Douleur généralisée à la palpation superficielle, se concentrant au niveau épigastrique sans défense abdominale ni signe d'irritation péritonéale
+T17	Reponse_a_la_chimiotherapie 6081 6119	progression tumorale semble identifiée
+T18	Topographie_du_primitif 9066 9123	Adénocarcinome canalaire de stade IV du corps du pancréas
+T19	Histologie_tumorale 9066 9090	Adénocarcinome canalaire
+T20	Stade_metastatique_avec_localisations 9066 9102	Adénocarcinome canalaire de stade IV
+T21	Symptomes 9549 9579	hématémèse et une hématochézie
+T22	Reponse_a_la_chimiotherapie 10940 10987	progression radiologique du nodule pancréatique
+T23	Traitement_specifique_du_cancer 11073 11093	gemcitabine-abraxane
+T24	Reponse_a_la_chimiotherapie 11110 11293	réponse clinique et radiologique complète de l'adénopathie supraclaviculaire gauche, maintenant la réponse de décembre 2010 à juillet 2011, date à laquelle la progression pancréatique
+T25	Traitement_specifique_du_cancer 11309 11314	GEMOX
+T26	Reponse_a_la_chimiotherapie 11370 11589	réponse partielle jusqu'en juillet 2013, date à laquelle il a présenté une progression de la tumeur pancréatique à l'IRM avec atteinte rétropéritonéale et métastases hépatiques dans le segment IVB et signes de carcinose
+T27	Reponse_a_la_chimiotherapie 11681 11828	croissance de la lésion pancréatique et une progression de la carcinose péritonéale. Augmentation des adénopathies cervicales et supraclaviculaires
+T28	Traitement_specifique_du_cancer 11890 11897	FOLFIRI
+T29	Reponse_a_la_chimiotherapie 12020 12111	taille similaire au scanner précédent, bien qu'en croissance par rapport à l'IRM précédente
+T30	Reponse_a_la_chimiotherapie 12321 12404	Carcinose péritonéale en progression. Adénopathie rétrocrurale d’apparition récente
+T31	Symptomes 12617 12651	ascite et des douleurs abdominales

@@ -1,22 +1,78 @@
 T1	Age 2 13	75–year–old
 T2	Sex 14 20	female
-T3	Duration 184 191	3 years
-T4	Lab_value 386 398	80 beats/min
-T5	Lab_value 422 429	60 mmHg
-T6	Shape 752 757	round
-T7	Distance 762 766	6 cm
-T8	Texture 796 802	smooth
-T9	Lab_value 876 882	80/min
-T10	Distance 1071 1076	30 mm
-T11	Distance 1180 1184	2 mm
-T12	Distance 1223 1227	2 mm
-T13	Distance 1261 1265	3 mm
-T14	Distance 1297 1301	4 mm
-T15	Distance 1349 1353	6 cm
-T16	Severity 1392 1398	Severe
-T17	Distance 1451 1455	4 mm
-T18	Severity 1493 1499	Severe
-T19	Distance 1526 1531	75 mm
-T20	Severity 1814 1820	Severe
-T21	Severity 1879 1885	Severe
-T22	Distance 1912 1917	75 mm
+T3	Clinical_event 21 30	presented
+T4	Nonbiological_location 38 58	Emergency Department
+T5	Nonbiological_location 77 85	Hospital
+T6	Biological_structure 132 149	lower extremities
+T7	Sign_symptom 150 158	swelling
+T8	Sign_symptom 160 172	palpitations
+T9	Duration 184 191	3 years
+T10	Disease_disorder 203 222	atrial fibrillation
+T11	Clinical_event 223 232	diagnosed
+T12	Biological_structure 278 285	cardiac
+T13	Biological_structure 309 314	Heart
+T14	Diagnostic_procedure 337 357	Physical examination
+T15	Lab_value 386 398	80 beats/min
+T16	Diagnostic_procedure 400 414	blood pressure
+T17	Lab_value 422 429	60 mmHg
+T18	Sign_symptom 440 448	crackles
+T19	Biological_structure 452 457	chest
+T20	Diagnostic_procedure 458 470	auscultation
+T21	Biological_structure 472 489	lower extremities
+T22	Sign_symptom 490 498	swelling
+T23	Biological_structure 500 505	Heart
+T24	Diagnostic_procedure 513 524	examination
+T25	Sign_symptom 560 566	murmur
+T26	Biological_structure 604 611	jugular
+T27	Sign_symptom 623 630	dilated
+T28	Sign_symptom 658 662	pain
+T29	Biological_structure 682 691	abdominal
+T30	Diagnostic_procedure 712 721	palpation
+T31	Biological_structure 727 732	liver
+T32	Shape 752 757	round
+T33	Distance 762 766	6 cm
+T34	Biological_structure 784 787	rib
+T35	Texture 796 802	smooth
+T36	Biological_structure 803 808	liver
+T37	Biological_structure 822 828	spleen
+T38	Disease_disorder 853 872	atrial fibrillation
+T39	Lab_value 876 882	80/min
+T40	Detailed_description 918 925	lateral
+T41	Sign_symptom 926 934	ischemia
+T42	Diagnostic_procedure 951 961	ultrasound
+T43	Sign_symptom 983 991	enlarged
+T44	Biological_structure 992 997	liver
+T45	Sign_symptom 1027 1034	dilated
+T46	Biological_structure 1060 1069	vena cava
+T47	Distance 1071 1076	30 mm
+T48	Biological_structure 1111 1124	Transthoracic
+T49	Diagnostic_procedure 1125 1141	echocardiography
+T50	Sign_symptom 1153 1160	dilated
+T51	Biological_structure 1161 1173	right atrium
+T52	Distance 1180 1184	2 mm
+T53	Sign_symptom 1197 1204	dilated
+T54	Biological_structure 1205 1216	left atrium
+T55	Distance 1223 1227	2 mm
+T56	Sign_symptom 1229 1236	dilated
+T57	Biological_structure 1237 1251	left ventricle
+T58	Distance 1261 1265	3 mm
+T59	Sign_symptom 1267 1274	dilated
+T60	Biological_structure 1275 1290	right ventricle
+T61	Distance 1297 1301	4 mm
+T62	Distance 1349 1353	6 cm
+T63	Severity 1392 1398	Severe
+T64	Distance 1451 1455	4 mm
+T65	Severity 1493 1499	Severe
+T66	Disease_disorder 1500 1522	pulmonary hypertension
+T67	Distance 1526 1531	75 mm
+T68	Diagnostic_procedure 1540 1557	ejection fraction
+T69	Disease_disorder 1566 1585	Atrial fibrillation
+T70	Clinical_event 1692 1701	diagnosis
+T71	Detailed_description 1718 1725	chronic
+T72	Disease_disorder 1726 1739	heart failure
+T73	Severity 1814 1820	Severe
+T74	Severity 1879 1885	Severe
+T75	Disease_disorder 1886 1908	pulmonary hypertension
+T76	Distance 1912 1917	75 mm
+T77	Detailed_description 1922 1929	Chronic
+T78	Disease_disorder 1930 1949	atrial fibrillation

@@ -1,0 +1,13 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 27 43	sans antécédent 
+T2	Histologie_tumorale 148 178	carcinome canalaire infiltrant
+T3	Stade_metastatique_avec_localisations 201 208	pT1N2M0
+T4	Traitement_specifique_du_cancer 321 325	5-FU
+T5	Reponse_a_la_chimiotherapie 389 407	rémission complète
+T6	Symptomes 644 650	fièvre
+T7	Stade_metastatique_avec_localisations 1854 1873	nodules pulmonaires
+T8	Histologie_tumorale 1898 1912	adénocarcinome
+T9	Biomarqueurs_therapeutiques 1943 1956	Her-2 négatif
+T10	Reponse_a_la_chimiotherapie 2316 2334	rémission complète
+T11	Stade_metastatique_avec_localisations 2847 2859	métastatique
+T12	Symptomes 3488 3502	asymptomatique
+T13	Stade_OMS_ECOG_Karnofsky 3518 3524	ECOG 0

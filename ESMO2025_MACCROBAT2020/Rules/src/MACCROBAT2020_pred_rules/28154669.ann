@@ -1,8 +1,37 @@
 T1	Age 3 14	82-year-old
 T2	Sex 15 19	male
-T3	Lab_value 436 442	stable
-T4	Dosage 560 564	10 g
-T5	Severity 621 628	massive
-T6	Volume 841 849	3 liters
-T7	Distance 894 898	90cm
-T8	Lab_value 1092 1102	uneventful
+T3	Clinical_event 24 32	admitted
+T4	Nonbiological_location 48 56	hospital
+T5	Nonbiological_location 59 73	emergency room
+T6	Biological_structure 81 90	abdominal
+T7	Sign_symptom 91 95	pain
+T8	History 125 162	history of auricular fibrillation in 
+T9	Medication 191 204	anticoagulant
+T10	Biological_structure 231 240	abdominal
+T11	Sign_symptom 241 245	pain
+T12	Clinical_event 256 265	diagnosed
+T13	Detailed_description 269 280	spontaneous
+T14	Sign_symptom 373 384	hematemesis
+T15	Sign_symptom 388 394	melena
+T16	Diagnostic_procedure 399 419	physical examination
+T17	Lab_value 436 442	stable
+T18	Sign_symptom 469 473	pain
+T19	Biological_structure 493 500	abdomen
+T20	Biological_structure 518 523	Blood
+T21	Dosage 560 564	10 g
+T22	Diagnostic_procedure 606 608	CT
+T23	Severity 621 628	massive
+T24	Biological_structure 677 687	mesenteric
+T25	Sign_symptom 688 696	hematoma
+T26	Clinical_event 722 731	diagnosis
+T27	Biological_structure 745 755	mesenteric
+T28	Sign_symptom 756 764	hematoma
+T29	Sign_symptom 778 786	bleeding
+T30	Therapeutic_procedure 789 799	laparotomy
+T31	Volume 841 849	3 liters
+T32	Biological_structure 867 872	blood
+T33	Distance 894 898	90cm
+T34	Sign_symptom 996 1004	bleeding
+T35	Therapeutic_procedure 1045 1054	resection
+T36	Lab_value 1092 1102	uneventful
+T37	Clinical_event 1123 1133	discharged

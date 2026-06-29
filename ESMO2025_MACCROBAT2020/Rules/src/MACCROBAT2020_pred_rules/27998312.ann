@@ -1,13 +1,50 @@
 T1	Age 2 13	46-year-old
-T2	Sex 24 29	woman
-T3	Dosage 485 492	1.23 mg
-T4	Dosage 523 528	16 mg
-T5	Administration 585 597	subcutaneous
-T6	Administration 606 615	injection
-T7	Dosage 648 654	500 mg
-T8	Lab_value 674 678	poor
-T9	Lab_value 727 736	decreased
-T10	Dosage 758 764	378 mg
-T11	Date 1716 1730	3 months later
-T12	Lab_value 1835 1844	decreased
-T13	Dosage 1886 1892	200 mg
+T2	Personal_background 14 23	Caucasian
+T3	Sex 24 29	woman
+T4	Disease_disorder 42 59	diabetes mellitus
+T5	Clinical_event 81 90	presented
+T6	Nonbiological_location 98 118	emergency department
+T7	Biological_structure 130 139	abdominal
+T8	Sign_symptom 140 148	symptoms
+T9	Sign_symptom 153 161	vomiting
+T10	Detailed_description 265 274	secondary
+T11	Clinical_event 314 323	admission
+T12	Sign_symptom 374 379	ulcer
+T13	Biological_structure 459 464	renal
+T14	Diagnostic_procedure 474 484	creatinine
+T15	Dosage 485 492	1.23 mg
+T16	Biological_structure 497 502	blood
+T17	Dosage 523 528	16 mg
+T18	Biological_structure 537 542	blood
+T19	Diagnostic_procedure 543 550	glucose
+T20	Administration 585 597	subcutaneous
+T21	Medication 598 605	insulin
+T22	Administration 606 615	injection
+T23	Dosage 648 654	500 mg
+T24	Lab_value 674 678	poor
+T25	Activity 679 683	drug
+T26	Biological_structure 701 706	blood
+T27	Diagnostic_procedure 707 714	glucose
+T28	Lab_value 727 736	decreased
+T29	Dosage 758 764	378 mg
+T30	Medication 803 810	insulin
+T31	Clinical_event 824 833	admission
+T32	Diagnostic_procedure 850 852	CT
+T33	Biological_structure 967 972	liver
+T34	Diagnostic_procedure 984 987	MRI
+T35	Biological_structure 988 993	liver
+T36	Biological_structure 1244 1249	liver
+T37	Diagnostic_procedure 1321 1323	CT
+T38	Biological_structure 1523 1530	hepatic
+T39	Clinical_event 1630 1639	diagnosis
+T40	Clinical_event 1663 1672	follow-up
+T41	Diagnostic_procedure 1673 1675	CT
+T42	Biological_structure 1683 1690	abdomen
+T43	Biological_structure 1695 1701	pelvis
+T44	Date 1716 1730	3 months later
+T45	Outcome 1759 1769	resolution
+T46	Diagnostic_procedure 1815 1822	glucose
+T47	Lab_value 1835 1844	decreased
+T48	Biological_structure 1857 1862	blood
+T49	Diagnostic_procedure 1863 1870	glucose
+T50	Dosage 1886 1892	200 mg

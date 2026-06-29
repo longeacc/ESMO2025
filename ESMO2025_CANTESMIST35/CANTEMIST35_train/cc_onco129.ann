@@ -1,0 +1,29 @@
+T1	Symptomes 64 73	lombalgie
+T2	Symptomes 552 612	difficulté à marcher secondaire à l’aggravation des douleurs
+T3	Stade_OMS_ECOG_Karnofsky 729 735	ECOG 2
+T4	Symptomes 749 767	lombalgies sévères
+T5	Signes_physiques 769 786	Pâleur de la peau
+T6	Signes_physiques 1202 1249	Douleur de spinopression de la colonne lombaire
+T7	Stade_metastatique_avec_localisations 2850 2882	lésion métastatique connue en L5
+T8	Histologie_tumorale 3475 3530	adénocarcinome peu différencié à cellules en chevalière
+T9	Biomarqueurs_therapeutiques 3713 3730	Her-2/Neu négatif
+T10	Stade_metastatique_avec_localisations 3937 4041	forte probabilité de malignité sur de multiples lésions osseuses évocatrices d'une atteinte métastatique
+T11	Stade_metastatique_avec_localisations 4867 4895	Métastases osseuses diffuses
+T12	Stade_metastatique_avec_localisations 4901 4982	infiltration de cellules en chevalière dans la moelle osseuse d'origine digestive
+T13	Stade_metastatique_avec_localisations 5118 5137	métastases osseuses
+T14	Traitement_specifique_du_cancer 5233 5247	chimiothérapie
+T15	Traitement_specifique_du_cancer 5482 5490	mFOLFOX4
+T16	Traitement_specifique_du_cancer 5539 5673	oxaliplatine 85 mg/m2 jour 1 + leucovorine 400 mg/m2 jour 1 + 5-fluorouracile 400 mg/m2 bolus jour 1 + 5 -fluorouracile 600 mg/m2/jour
+T17	Traitement_specifique_du_cancer 5801 5809	mFOLFOX6
+T18	Traitement_specifique_du_cancer 5825 5970	oxaliplatine 85 mg/m2 jour 1 + leucovorine 400 mg /m2 au jour 1 + 5-fluorouracile 400 mg/m2 en bolus au jour 1 + 5-fluorouracile 2 400 mg/m2/jour
+T19	Traitement_specifique_du_cancer 6992 7020	traitement de chimiothérapie
+T20	Traitement_specifique_du_cancer 7177 7191	chimiothérapie
+T21	Traitement_specifique_du_cancer 8009 8023	chimiothérapie
+T22	Symptomes 8088 8107	asthénie de grade 1
+T23	Traitement_specifique_du_cancer 8142 8154	oxaliplatine
+T24	Symptomes 8213 8247	neuropathie persistante de grade 2
+T25	Traitement_specifique_du_cancer 8552 8577	radiothérapie analgésique
+T26	Traitement_specifique_du_cancer 8686 8714	traitement de chimiothérapie
+T27	Stade_OMS_ECOG_Karnofsky 8777 8783	ECOG 1
+T28	Reponse_a_la_chimiotherapie 8872 8978	tomodensitométrie, scintigraphie osseuse et tests de laboratoire, sans aucun signe de progression tumorale
+T29	Reponse_a_la_chimiotherapie 9007 9118	scanner (février 2015), les lésions osseuses connues persistaient, mais sans signe de progression de la maladie

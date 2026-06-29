@@ -1,11 +1,69 @@
 T1	Age 2 13	50-year-old
 T2	Sex 14 18	lady
-T3	Frequency 124 136	intermittent
-T4	Duration 163 169	1 week
-T5	Shape 243 251	globular
-T6	Area 294 302	3 × 3 cm
-T7	Distance 603 609	1.8 cm
-T8	Severity 666 674	moderate
-T9	Lab_value 1395 1405	uneventful
-T10	Distance 1630 1636	1.4 cm
-T11	Date 2210 2223	2 years after
+T3	Clinical_event 19 28	presented
+T4	Sign_symptom 48 52	pain
+T5	Biological_structure 53 60	abdomen
+T6	Sign_symptom 65 73	jaundice
+T7	Frequency 124 136	intermittent
+T8	Sign_symptom 145 150	fever
+T9	Duration 163 169	1 week
+T10	Diagnostic_procedure 171 191	Physical examination
+T11	Sign_symptom 213 220	icterus
+T12	Shape 243 251	globular
+T13	Sign_symptom 252 256	mass
+T14	Area 294 302	3 × 3 cm
+T15	Clinical_event 315 324	diagnosis
+T16	Sign_symptom 340 348	jaundice
+T17	Detailed_description 349 358	secondary
+T18	Disease_disorder 376 385	carcinoma
+T19	Diagnostic_procedure 413 424	examination
+T20	Biological_structure 432 439	abdomen
+T21	Biological_structure 444 450	pelvis
+T22	Sign_symptom 460 470	dilatation
+T23	Detailed_description 521 529	multiple
+T24	Sign_symptom 562 569	dilated
+T25	Biological_structure 577 586	bile duct
+T26	Distance 603 609	1.8 cm
+T27	Detailed_description 639 645	distal
+T28	Diagnostic_procedure 651 653	CT
+T29	Severity 666 674	moderate
+T30	Sign_symptom 675 685	dilatation
+T31	Sign_symptom 765 775	thickening
+T32	Biological_structure 788 795	bladder
+T33	Detailed_description 822 828	distal
+T34	Sign_symptom 833 842	stricture
+T35	Sign_symptom 881 891	metastasis
+T36	Clinical_event 916 925	diagnosis
+T37	Disease_disorder 943 952	carcinoma
+T38	Detailed_description 958 965	chronic
+T39	Therapeutic_procedure 1020 1043	pancreaticoduodenectomy
+T40	Diagnostic_procedure 1147 1158	examination
+T41	Therapeutic_procedure 1166 1174	resected
+T42	Detailed_description 1193 1201	multiple
+T43	Biological_structure 1226 1233	bladder
+T44	Sign_symptom 1255 1265	thickening
+T45	Lab_value 1395 1405	uneventful
+T46	Outcome 1423 1432	recovered
+T47	Diagnostic_procedure 1467 1478	examination
+T48	Therapeutic_procedure 1486 1494	resected
+T49	Sign_symptom 1529 1539	thickening
+T50	Biological_structure 1552 1559	bladder
+T51	Detailed_description 1584 1592	multiple
+T52	Distance 1630 1636	1.4 cm
+T53	Sign_symptom 1680 1690	thickening
+T54	Disease_disorder 1721 1735	adenocarcinoma
+T55	Detailed_description 1798 1804	distal
+T56	Disease_disorder 1823 1837	adenocarcinoma
+T57	Biological_structure 1852 1861	bile duct
+T58	Sign_symptom 1867 1875	invasion
+T59	Biological_structure 1885 1893	muscular
+T60	Biological_structure 1906 1914	duodenum
+T61	Therapeutic_procedure 1942 1950	resected
+T62	Biological_structure 1951 1962	lymph nodes
+T63	Sign_symptom 1976 1981	tumor
+T64	Disease_disorder 2028 2042	adenocarcinoma
+T65	Biological_structure 2055 2062	bladder
+T66	Disease_disorder 2079 2093	adenocarcinoma
+T67	Detailed_description 2101 2107	distal
+T68	Date 2210 2223	2 years after
+T69	Therapeutic_procedure 2224 2231	surgery

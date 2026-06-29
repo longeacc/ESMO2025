@@ -524,6 +524,110 @@ def inspect(doc_idx: int, query_fn, model_name: str, split: str):
 
 
 # ---------------------------------------------------------------------------
+# Export predicted spans on BRAT test docs → pred_spans_llm.json
+# ---------------------------------------------------------------------------
+
+def _get_quaero_test_doc_paths() -> list:
+    """Read test doc paths from split_test.txt + split_doc_paths.json."""
+    split_dir = Path(__file__).parent.parent / "Rules" / "src"
+    split_test_file = split_dir / "split_test.txt"
+    split_doc_paths_file = split_dir / "split_doc_paths.json"
+
+    if not split_test_file.exists():
+        raise FileNotFoundError(
+            f"split_test.txt not found at {split_test_file}. "
+            "Run TBM_evaluation/prepare_gliner_data.py first."
+        )
+
+    test_ids = [
+        line.strip()
+        for line in split_test_file.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+
+    # Load doc_id -> txt_path mapping
+    if split_doc_paths_file.exists():
+        all_paths = json.loads(split_doc_paths_file.read_text(encoding="utf-8"))
+        test_paths = []
+        for doc_id in test_ids:
+            if doc_id in all_paths:
+                test_paths.append(Path(all_paths[doc_id]))
+            else:
+                print(f"  WARNING: {doc_id} not found in split_doc_paths.json")
+    else:
+        # Fallback: search in both corpus dirs
+        quaero_root = Path(__file__).parent.parent / "QUAERO_FrenchMed" / "corpus"
+        corpus_dirs = [
+            quaero_root / "train" / "MEDLINE",
+            quaero_root / "test" / "MEDLINE",
+        ]
+        test_paths = []
+        for doc_id in test_ids:
+            found = False
+            for corpus_dir in corpus_dirs:
+                txt_path = corpus_dir / f"{doc_id}.txt"
+                if txt_path.exists():
+                    test_paths.append(txt_path)
+                    found = True
+                    break
+            if not found:
+                print(f"  WARNING: {doc_id}.txt not found in any corpus dir")
+
+    print(f"  QUAERO split from file: {len(test_paths)} test docs")
+    return test_paths
+
+
+def export_spans_brat(query_fn, model_name: str):
+    """Run LLM on QUAERO test docs, save character-offset spans."""
+    test_paths = _get_quaero_test_doc_paths()
+    out_path = OUT_DIR / "pred_spans_llm.json"
+
+    predictions = {}
+    total = len(test_paths)
+    start_time = time.time()
+
+    print(f"\n  Export spans: {model_name} on {total} QUAERO test docs...")
+
+    for file_idx, txt_path in enumerate(test_paths):
+        doc_id = txt_path.stem
+        text = txt_path.read_text(encoding="utf-8").strip()
+
+        response = query_fn(text)
+        entities = parse_llm_response(response)
+
+        pred_spans = set()
+        for ent in entities:
+            ent_lower = ent["text"].lower()
+            text_lower = text.lower()
+            pos = 0
+            while True:
+                idx = text_lower.find(ent_lower, pos)
+                if idx == -1:
+                    break
+                pred_spans.add((idx, idx + len(ent["text"]), ent["label"]))
+                pos = idx + 1
+
+        predictions[doc_id] = sorted([list(s) for s in pred_spans])
+
+        if (file_idx + 1) % 50 == 0 or file_idx == 0 or file_idx == total - 1:
+            elapsed = time.time() - start_time
+            speed = (file_idx + 1) / elapsed if elapsed > 0 else 0
+            eta = (total - file_idx - 1) / speed if speed > 0 else 0
+            n_spans = len(pred_spans)
+            print(f"    [{file_idx+1}/{total}] {doc_id}: {n_spans} spans "
+                  f"({speed:.1f} doc/s, ETA {eta/60:.0f}min)")
+
+    out_path.write_text(
+        json.dumps(predictions, indent=2, ensure_ascii=False), encoding="utf-8",
+    )
+    elapsed = time.time() - start_time
+    total_spans = sum(len(v) for v in predictions.values())
+    print(f"\n  Done in {elapsed/60:.1f} min")
+    print(f"  Exported: {out_path}")
+    print(f"  {total} docs, {total_spans} total spans")
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -535,12 +639,18 @@ def main():
     parser.add_argument("--split", default="test", choices=["train", "test", "both"])
     parser.add_argument("--inspect", type=int, default=None, help="Inspect doc index")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of docs")
+    parser.add_argument("--export-spans", action="store_true",
+                        help="Export pred_spans_llm.json from BRAT test docs")
     args = parser.parse_args()
 
     if args.model is None:
         args.model = "mistral-large-latest" if args.backend == "mistral" else "qwen2.5:14b"
 
     query_fn = make_query_fn(args.backend, args.model, args.api_key)
+
+    if args.export_spans:
+        export_spans_brat(query_fn, args.model)
+        return
 
     if args.inspect is not None:
         inspect(args.inspect, query_fn, args.model, args.split if args.split != "both" else "test")

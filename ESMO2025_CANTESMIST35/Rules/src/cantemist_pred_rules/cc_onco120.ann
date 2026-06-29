@@ -1,0 +1,27 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 36 78	antécédents familiaux de syndrome de Lynch
+T2	Histologie_tumorale 181 195	adénocarcinome
+T3	Stade_metastatique_avec_localisations 211 218	pT3N1M0
+T4	Traitement_specifique_du_cancer 255 269	chimiothérapie
+T5	Symptomes 681 701	douleurs abdominales
+T6	Traitement_specifique_du_cancer 1447 1456	Chirurgie
+T7	Symptomes 1496 1504	hématome
+T8	Traitement_specifique_du_cancer 1765 1773	excision
+T9	Histologie_tumorale 2212 2226	adénocarcinome
+T10	Biomarqueurs_therapeutiques 2317 2320	CK7
+T11	Stade_metastatique_avec_localisations 3314 3347	lymphadénopathie rétropéritonéale
+T12	Signes_physiques 3560 3599	Adénopathie latérocervicale gauche FNAC
+T13	Histologie_tumorale 3649 3663	adénocarcinome
+T14	Biomarqueurs_therapeutiques 3748 3751	CK7
+T15	Biomarqueurs_therapeutiques 3806 3811	TTF-1
+T16	Biomarqueurs_therapeutiques 4119 4122	CK7
+T17	Traitement_specifique_du_cancer 4674 4688	chimiothérapie
+T18	Traitement_specifique_du_cancer 4744 4756	carboplatine
+T19	Traitement_specifique_du_cancer 4758 4768	paclitaxel
+T20	Traitement_specifique_du_cancer 5825 5839	chimiothérapie
+T21	Traitement_specifique_du_cancer 5840 5852	carboplatine
+T22	Traitement_specifique_du_cancer 5853 5863	paclitaxel
+T23	Traitement_specifique_du_cancer 6057 6071	chimiothérapie
+T24	Traitement_specifique_du_cancer 6281 6295	chimiothérapie
+T25	Traitement_specifique_du_cancer 6846 6860	chimiothérapie
+T26	Signes_physiques 7501 7513	état général
+T27	Signes_physiques 7974 7990	bon état général

@@ -1,0 +1,12 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 33 56	allergie médicamenteuse
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 58 82	Antécédents chirurgicaux
+T3	Traitement_specifique_du_cancer 85 94	résection
+T4	Symptomes 607 613	fièvre
+T5	Symptomes 627 647	douleurs abdominales
+T6	Signes_physiques 1005 1021	bon état général
+T7	Histologie_tumorale 2151 2172	carcinome épidermoïde
+T8	Stade_metastatique_avec_localisations 2713 2721	pT3aN0M1
+T9	Traitement_specifique_du_cancer 2768 2796	traitement de chimiothérapie
+T10	Traitement_specifique_du_cancer 2826 2837	adriamycine
+T11	Traitement_specifique_du_cancer 3588 3598	cisplatine
+T12	Traitement_specifique_du_cancer 3617 3628	gemcitabine

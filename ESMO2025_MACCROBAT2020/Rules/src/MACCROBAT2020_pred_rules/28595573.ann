@@ -1,16 +1,73 @@
 T1	Age 33 44	45-year old
 T2	Sex 45 50	woman
-T3	Date 106 115	age of 35
-T4	Date 227 235	age of 3
-T5	Date 393 402	age of 13
-T6	Date 689 698	age of 29
-T7	Date 1056 1065	age of 35
-T8	Date 1251 1260	age of 37
-T9	Frequency 1447 1457	occasional
-T10	Age 1549 1564	38 years of age
-T11	Lab_value 1592 1598	stable
-T12	Date 1718 1732	within 1 month
-T13	Lab_value 1803 1809	stable
-T14	Date 1912 1927	one month after
-T15	Dosage 3802 3806	115G
-T16	Lab_value 4412 4420	negative
+T3	Clinical_event 62 71	presented
+T4	Nonbiological_location 79 98	university hospital
+T5	Date 106 115	age of 35
+T6	Clinical_event 124 132	referred
+T7	Detailed_description 173 183	congenital
+T8	Sign_symptom 212 219	syncope
+T9	Date 227 235	age of 3
+T10	Clinical_event 245 254	diagnosed
+T11	Disease_disorder 260 268	epilepsy
+T12	Disease_disorder 296 304	epilepsy
+T13	Medication 305 316	medications
+T14	Sign_symptom 377 384	syncope
+T15	Date 393 402	age of 13
+T16	Sign_symptom 414 421	syncope
+T17	Detailed_description 477 487	congenital
+T18	Sign_symptom 528 535	syncope
+T19	Clinical_event 540 549	diagnosed
+T20	Sign_symptom 597 608	tachycardia
+T21	Disease_disorder 616 624	epilepsy
+T22	Disease_disorder 671 681	hemorrhage
+T23	Date 689 698	age of 29
+T24	Clinical_event 715 724	presented
+T25	Nonbiological_location 728 740	our hospital
+T26	Medication 761 774	beta-blockers
+T27	History 789 806	history of asthma
+T28	Medication 849 858	phenytoin
+T29	Clinical_event 906 918	presentation
+T30	Medication 941 949	atenolol
+T31	Clinical_event 969 978	delivered
+T32	Subject 983 987	baby
+T33	Therapeutic_procedure 1013 1032	Caesarean operation
+T34	Nonbiological_location 1036 1048	our hospital
+T35	Date 1056 1065	age of 35
+T36	Clinical_event 1078 1087	delivered
+T37	Subject 1099 1103	baby
+T38	Therapeutic_procedure 1129 1148	Caesarean operation
+T39	Nonbiological_location 1152 1164	our hospital
+T40	Medication 1192 1205	beta-blockers
+T41	Date 1251 1260	age of 37
+T42	Medication 1343 1356	beta-blockers
+T43	Frequency 1447 1457	occasional
+T44	Sign_symptom 1458 1465	syncope
+T45	Therapeutic_procedure 1536 1545	operation
+T46	Age 1549 1564	38 years of age
+T47	Lab_value 1592 1598	stable
+T48	Date 1718 1732	within 1 month
+T49	Clinical_event 1739 1744	birth
+T50	Medication 1746 1759	beta blockers
+T51	Lab_value 1803 1809	stable
+T52	Subject 1868 1871	son
+T53	Date 1912 1927	one month after
+T54	Clinical_event 1928 1933	birth
+T55	Subject 1956 1962	sister
+T56	Clinical_event 1985 1990	birth
+T57	Subject 1996 2002	father
+T58	Subject 2013 2019	mother
+T59	Sign_symptom 2103 2110	syncope
+T60	Outcome 2114 2119	death
+T61	Subject 2159 2173	family members
+T62	Clinical_event 2242 2254	consultation
+T63	Subject 2278 2292	family members
+T64	Nonbiological_location 2317 2336	University Hospital
+T65	Diagnostic_procedure 2425 2428	ECG
+T66	Biological_structure 2430 2435	Blood
+T67	Subject 2484 2498	family members
+T68	Detailed_description 2629 2639	peripheral
+T69	Biological_structure 2640 2645	blood
+T70	Dosage 3802 3806	115G
+T71	Subject 4003 4009	mother
+T72	Subject 4122 4129	husband
+T73	Lab_value 4412 4420	negative

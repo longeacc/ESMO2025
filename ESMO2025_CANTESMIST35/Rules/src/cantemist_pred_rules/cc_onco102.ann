@@ -1,0 +1,33 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 35 58	allergie médicamenteuse
+T2	Statut_tabagique 67 77	ex-fumeuse
+T3	Statut_tabagique 92 115	indice cumulé 2 paquets
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 121 154	sans antécédent médical pertinent
+T5	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 160 263	antécédents familiaux comprennent un père décédé à 66 ans d'une néoplasie du côlon et un oncle maternel
+T6	Stade_metastatique_avec_localisations 434 463	adénopathie supraclaviculaire
+T7	Stade_OMS_ECOG_Karnofsky 607 613	ECOG 0
+T8	Stade_metastatique_avec_localisations 717 746	Adénopathie supraclaviculaire
+T9	Stade_metastatique_avec_localisations 1129 1158	adénopathie supraclaviculaire
+T10	Stade_metastatique_avec_localisations 1236 1265	adénopathie supraclaviculaire
+T11	Histologie_tumorale 1288 1316	carcinome à grandes cellules
+T12	Topographie_du_primitif 1320 1338	origine pulmonaire
+T13	Biomarqueurs_therapeutiques 1349 1374	TTF-1 intensément positif
+T14	Stade_metastatique_avec_localisations 1688 1714	adénopathies médiastinales
+T15	Histologie_tumorale 1864 1903	Carcinome pulmonaire à grandes cellules
+T16	Stade_metastatique_avec_localisations 1905 1911	T1N3M0
+T17	Traitement_specifique_du_cancer 2117 2145	traitement de chimiothérapie
+T18	Traitement_specifique_du_cancer 2174 2186	carboplatine
+T19	Traitement_specifique_du_cancer 2187 2197	paclitaxel
+T20	Traitement_specifique_du_cancer 2198 2209	bevacizumab
+T21	Reponse_a_la_chimiotherapie 2395 2425	réponse radiologique partielle
+T22	Stade_metastatique_avec_localisations 2476 2502	adénopathies médiastinales
+T23	Reponse_a_la_chimiotherapie 2633 2661	réponse métabolique complète
+T24	Evolutivite_en_lien_avec_le_cancer 2781 2808	intervalle sans progression
+T25	Biomarqueurs_therapeutiques 2982 2987	EGFR 
+T26	Biomarqueurs_therapeutiques 3022 3034	EGFR positif
+T27	Traitement_specifique_du_cancer 3161 3170	résection
+T28	Traitement_specifique_du_cancer 3315 3324	erlotinib
+T29	Stade_metastatique_avec_localisations 3452 3464	métastatique
+T30	Traitement_specifique_du_cancer 3491 3519	traitement de chimiothérapie
+T31	Traitement_specifique_du_cancer 3763 3772	erlotinib
+T32	Reponse_a_la_chimiotherapie 3800 3814	maladie stable
+T33	Signes_physiques 3829 3845	bon état général

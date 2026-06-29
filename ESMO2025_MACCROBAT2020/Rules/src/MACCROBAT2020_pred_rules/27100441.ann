@@ -1,73 +1,160 @@
-T1	Date 131 135	2013
-T2	Age 139 150	66-year-old
-T3	Distance 699 704	75 mm
-T4	Lab_value 745 757	75 beats/min
-T5	Lab_value 779 785	36.6°C
-T6	Frequency 810 818	18 times
-T7	Distance 930 936	1.0 cm
-T8	Duration 1019 1027	30 years
-T9	Distance 1108 1114	110 mm
-T10	Frequency 1259 1265	rarely
-T11	Lab_value 1537 1546	increased
-T12	Lab_value 1550 1563	150 beats/min
-T13	Lab_value 1666 1675	decreased
-T14	Lab_value 1679 1692	120 beats/min
-T15	Date 2003 2007	2013
-T16	Severity 2020 2026	slight
-T17	Lab_value 2081 2093	87 beats/min
-T18	Texture 2098 2102	flat
-T19	Frequency 2404 2416	occasionally
-T20	Date 2636 2640	1999
-T21	Texture 2691 2695	flat
-T22	Dosage 2856 2864	0.714 μg
-T23	Lab_value 2868 2874	normal
-T24	Dosage 2884 2891	0.06 μg
-T25	Lab_value 2954 2960	normal
-T26	Dosage 3006 3013	8.14 mg
-T27	Lab_value 3017 3023	normal
-T28	Dosage 3033 3040	0.55 mg
-T29	Lab_value 3066 3078	11.69 mmol/L
-T30	Lab_value 3080 3086	normal
-T31	Lab_value 3099 3110	7.20 mmol/L
-T32	Lab_value 3140 3153	144.00 μmol/L
-T33	Lab_value 3155 3161	normal
-T34	Lab_value 3172 3182	133 μmol/L
-T35	Lab_value 3211 3224	611.40 μmol/L
-T36	Lab_value 3226 3232	normal
-T37	Lab_value 3244 3254	432 μmol/L
-T38	Volume 3302 3310	57.90 mL
-T39	Lab_value 3316 3322	normal
-T40	Volume 3331 3336	80 mL
-T41	Severity 3570 3576	slight
-T42	Severity 3592 3598	slight
-T43	Severity 3625 3633	moderate
-T44	Severity 3637 3643	severe
-T45	Lab_value 3713 3720	reduced
-T46	Administration 4135 4142	tablets
-T47	Dosage 4144 4158	23.75 mg daily
-T48	Administration 4160 4163	p.o
-T49	Dosage 4179 4191	200 mg daily
-T50	Administration 4193 4196	p.o
-T51	Dosage 4212 4223	20 mg daily
-T52	Administration 4225 4228	i.v
-T53	Administration 4256 4263	tablets
-T54	Dosage 4265 4277	2.52 g daily
-T55	Administration 4279 4282	p.o
-T56	Shape 4485 4493	circular
-T57	Shape 4677 4683	linear
-T58	Lab_value 4956 4968	61 beats/min
-T59	Date 5123 5128	day 9
-T60	Administration 5186 5193	tablets
-T61	Dosage 5195 5209	23.75 mg daily
-T62	Administration 5211 5214	p.o
-T63	Administration 5243 5250	tablets
-T64	Dosage 5252 5264	200 mg daily
-T65	Administration 5266 5269	p.o
-T66	Administration 5288 5295	tablets
-T67	Dosage 5297 5308	40 mg daily
-T68	Administration 5310 5313	p.o
-T69	Administration 5339 5346	tablets
-T70	Dosage 5348 5359	10 mg daily
-T71	Administration 5361 5364	p.o
-T72	Date 5396 5410	3 months after
-T73	Frequency 5432 5441	recurrent
+T1	Nonbiological_location 57 65	Hospital
+T2	Date 131 135	2013
+T3	Age 139 150	66-year-old
+T4	Occupation 151 157	farmer
+T5	Disease_disorder 176 199	ventricular tachycardia
+T6	Disease_disorder 201 203	VT
+T7	Clinical_event 222 231	presented
+T8	Nonbiological_location 239 259	Emergency Department
+T9	Sign_symptom 276 287	palpitation
+T10	Biological_structure 289 294	chest
+T11	Sign_symptom 314 322	sweating
+T12	Sign_symptom 327 333	nausea
+T13	Diagnostic_procedure 412 426	blood pressure
+T14	Detailed_description 431 436	acute
+T15	Sign_symptom 437 446	confusion
+T16	Sign_symptom 536 544	symptoms
+T17	Clinical_event 578 589	transferred
+T18	Diagnostic_procedure 676 690	blood pressure
+T19	Distance 699 704	75 mm
+T20	Clinical_event 713 722	admission
+T21	Diagnostic_procedure 731 741	heart rate
+T22	Lab_value 745 757	75 beats/min
+T23	Diagnostic_procedure 759 775	body temperature
+T24	Lab_value 779 785	36.6°C
+T25	Frequency 810 818	18 times
+T26	Biological_structure 828 833	heart
+T27	Distance 930 936	1.0 cm
+T28	Detailed_description 937 944	lateral
+T29	History 990 1028	history of hypertension over 30 years 
+T30	Medication 1061 1071	medication
+T31	Diagnostic_procedure 1085 1099	blood pressure
+T32	Distance 1108 1114	110 mm
+T33	Family_history 1129 1180	no family history of early coronary artery disease 
+T34	Biological_structure 1190 1197	cardiac
+T35	Outcome 1198 1203	death
+T36	Activity 1240 1253	illicit drugs
+T37	Frequency 1259 1265	rarely
+T38	Diagnostic_procedure 1379 1396	electrocardiogram
+T39	Diagnostic_procedure 1398 1401	ECG
+T40	Disease_disorder 1406 1408	VT
+T41	Disease_disorder 1438 1440	VT
+T42	Biological_structure 1512 1527	tricuspid valve
+T43	Disease_disorder 1534 1536	VT
+T44	Lab_value 1537 1546	increased
+T45	Lab_value 1550 1563	150 beats/min
+T46	Disease_disorder 1663 1665	VT
+T47	Lab_value 1666 1675	decreased
+T48	Lab_value 1679 1692	120 beats/min
+T49	Diagnostic_procedure 1984 1987	ECG
+T50	Date 2003 2007	2013
+T51	Severity 2020 2026	slight
+T52	Diagnostic_procedure 2067 2077	heart rate
+T53	Lab_value 2081 2093	87 beats/min
+T54	Texture 2098 2102	flat
+T55	Frequency 2404 2416	occasionally
+T56	Diagnostic_procedure 2608 2611	ECG
+T57	Date 2636 2640	1999
+T58	Texture 2691 2695	flat
+T59	Biological_structure 2827 2834	cardiac
+T60	Diagnostic_procedure 2835 2843	troponin
+T61	Dosage 2856 2864	0.714 μg
+T62	Lab_value 2868 2874	normal
+T63	Dosage 2884 2891	0.06 μg
+T64	Biological_structure 2896 2901	serum
+T65	Lab_value 2954 2960	normal
+T66	Biological_structure 2982 2987	serum
+T67	Diagnostic_procedure 2988 2995	d-dimer
+T68	Dosage 3006 3013	8.14 mg
+T69	Lab_value 3017 3023	normal
+T70	Dosage 3033 3040	0.55 mg
+T71	Biological_structure 3045 3050	blood
+T72	Lab_value 3066 3078	11.69 mmol/L
+T73	Lab_value 3080 3086	normal
+T74	Lab_value 3099 3110	7.20 mmol/L
+T75	Biological_structure 3113 3118	serum
+T76	Diagnostic_procedure 3119 3129	creatinine
+T77	Lab_value 3140 3153	144.00 μmol/L
+T78	Lab_value 3155 3161	normal
+T79	Lab_value 3172 3182	133 μmol/L
+T80	Biological_structure 3185 3190	serum
+T81	Lab_value 3211 3224	611.40 μmol/L
+T82	Lab_value 3226 3232	normal
+T83	Lab_value 3244 3254	432 μmol/L
+T84	Diagnostic_procedure 3272 3282	creatinine
+T85	Volume 3302 3310	57.90 mL
+T86	Lab_value 3316 3322	normal
+T87	Volume 3331 3336	80 mL
+T88	Sign_symptom 3373 3381	enlarged
+T89	Biological_structure 3382 3394	right atrium
+T90	Biological_structure 3399 3414	right ventricle
+T91	Biological_structure 3540 3552	aortic valve
+T92	Severity 3570 3576	slight
+T93	Severity 3592 3598	slight
+T94	Disease_disorder 3599 3619	mitral regurgitation
+T95	Severity 3625 3633	moderate
+T96	Severity 3637 3643	severe
+T97	Detailed_description 3690 3699	diastolic
+T98	Lab_value 3713 3720	reduced
+T99	Sign_symptom 3792 3800	stenosis
+T100	Detailed_description 3908 3917	bilateral
+T101	Sign_symptom 3930 3938	dilation
+T102	Therapeutic_procedure 4016 4020	diet
+T103	Medication 4096 4116	metoprolol succinate
+T104	Administration 4135 4142	tablets
+T105	Dosage 4144 4158	23.75 mg daily
+T106	Administration 4160 4163	p.o
+T107	Medication 4167 4177	amiodarone
+T108	Dosage 4179 4191	200 mg daily
+T109	Administration 4193 4196	p.o
+T110	Medication 4200 4210	furosemide
+T111	Dosage 4212 4223	20 mg daily
+T112	Administration 4225 4228	i.v
+T113	Administration 4256 4263	tablets
+T114	Dosage 4265 4277	2.52 g daily
+T115	Administration 4279 4282	p.o
+T116	Therapeutic_procedure 4379 4387	ablation
+T117	Detailed_description 4448 4456	anterior
+T118	Shape 4485 4493	circular
+T119	Disease_disorder 4543 4545	VT
+T120	Therapeutic_procedure 4573 4581	ablation
+T121	Shape 4677 4683	linear
+T122	Detailed_description 4688 4693	focal
+T123	Therapeutic_procedure 4694 4703	ablations
+T124	Disease_disorder 4801 4803	VT
+T125	Coreference 4810 4823	the procedure
+T126	Therapeutic_procedure 4865 4874	operation
+T127	Diagnostic_procedure 4880 4883	ECG
+T128	Therapeutic_procedure 4905 4913	ablation
+T129	Diagnostic_procedure 4942 4952	heart rate
+T130	Lab_value 4956 4968	61 beats/min
+T131	Clinical_event 5095 5105	discharged
+T132	Nonbiological_location 5111 5119	hospital
+T133	Date 5123 5128	day 9
+T134	Medication 5147 5167	metoprolol succinate
+T135	Administration 5186 5193	tablets
+T136	Dosage 5195 5209	23.75 mg daily
+T137	Administration 5211 5214	p.o
+T138	Medication 5218 5228	amiodarone
+T139	Administration 5243 5250	tablets
+T140	Dosage 5252 5264	200 mg daily
+T141	Administration 5266 5269	p.o
+T142	Medication 5273 5287	spironolactone
+T143	Administration 5288 5295	tablets
+T144	Dosage 5297 5308	40 mg daily
+T145	Administration 5310 5313	p.o
+T146	Diagnostic_procedure 5332 5338	sodium
+T147	Administration 5339 5346	tablets
+T148	Dosage 5348 5359	10 mg daily
+T149	Administration 5361 5364	p.o
+T150	Clinical_event 5384 5395	followed up
+T151	Date 5396 5410	3 months after
+T152	Clinical_event 5411 5420	discharge
+T153	Frequency 5432 5441	recurrent
+T154	Sign_symptom 5442 5453	palpitation
+T155	Biological_structure 5455 5460	chest
+T156	Sign_symptom 5480 5488	sweating
+T157	Sign_symptom 5492 5498	nausea
+T158	Clinical_event 5527 5536	diagnosis
+T159	Clinical_event 5575 5587	presentation
+T160	Biological_structure 5676 5681	heart

@@ -1,48 +1,90 @@
 T1	Age 10 21	53-year-old
 T2	Sex 22 26	male
-T3	Severity 84 91	massive
-T4	Duration 109 114	1 day
-T5	Dosage 180 186	180 μg
-T6	Dosage 204 215	1200 mg/day
-T7	Date 264 268	2014
-T8	Dosage 394 400	106 IU
-T9	Dosage 503 509	106 IU
-T10	Dosage 560 566	103 IU
-T11	Dosage 626 631	15 IU
-T12	Lab_value 889 901	103 cells/μL
-T13	Lab_value 906 914	elevated
-T14	Lab_value 924 936	103 cells/μL
-T15	Date 937 949	1 week later
-T16	Severity 998 1005	massive
-T17	Lab_value 1231 1242	103cells/μL
-T18	Lab_value 1271 1277	normal
-T19	Color 1437 1440	red
-T20	Lab_value 1471 1479	abnormal
-T21	Lab_value 1630 1638	negative
-T22	Lab_value 1689 1697	positive
-T23	Lab_value 1729 1735	normal
-T24	Lab_value 1785 1791	normal
-T25	Date 1901 1905	2006
-T26	Lab_value 2191 2195	poor
-T27	Time 2245 2257	the next day
-T28	Administration 2342 2353	intravenous
-T29	Dosage 2382 2387	40 mg
-T30	Frequency 2389 2396	3 times
-T31	Frequency 2397 2402	daily
-T32	Lab_value 2497 2508	improvement
-T33	Dosage 2524 2530	100 mg
-T34	Administration 2532 2536	oral
-T35	Frequency 2538 2548	once daily
-T36	Dosage 2598 2604	400 mg
-T37	Administration 2606 2610	oral
-T38	Frequency 2612 2622	once daily
-T39	Lab_value 2651 2659	positive
-T40	Lab_value 2715 2724	increased
-T41	Lab_value 2733 2745	103 cells/μL
-T42	Date 2746 2759	17 days after
-T43	Administration 2808 2812	oral
-T44	Lab_value 2892 2898	stable
-T45	Lab_value 2949 2961	103 cells/μL
-T46	Date 3000 3014	after 5 months
-T47	Lab_value 3081 3093	103 cells/μL
-T48	Lab_value 3099 3108	decreased
+T3	Nonbiological_location 47 59	our hospital
+T4	Severity 84 91	massive
+T5	Sign_symptom 96 104	bleeding
+T6	Duration 109 114	1 day
+T7	Detailed_description 145 152	chronic
+T8	Disease_disorder 153 164	hepatitis C
+T9	Dosage 180 186	180 μg
+T10	Medication 193 202	ribavirin
+T11	Dosage 204 215	1200 mg/day
+T12	Date 264 268	2014
+T13	Dosage 394 400	106 IU
+T14	Dosage 503 509	106 IU
+T15	Dosage 560 566	103 IU
+T16	Dosage 626 631	15 IU
+T17	Sign_symptom 668 675	fatigue
+T18	Sign_symptom 677 683	anemia
+T19	Diagnostic_procedure 858 872	platelet count
+T20	Lab_value 889 901	103 cells/μL
+T21	Lab_value 906 914	elevated
+T22	Lab_value 924 936	103 cells/μL
+T23	Date 937 949	1 week later
+T24	Severity 998 1005	massive
+T25	Sign_symptom 1010 1018	bleeding
+T26	Diagnostic_procedure 1024 1044	physical examination
+T27	Detailed_description 1056 1064	multiple
+T28	Sign_symptom 1065 1074	petechiae
+T29	Disease_disorder 1129 1139	hemorrhage
+T30	Sign_symptom 1158 1166	bleeding
+T31	Sign_symptom 1186 1194	bleeding
+T32	Diagnostic_procedure 1208 1222	platelet count
+T33	Lab_value 1231 1242	103cells/μL
+T34	Lab_value 1271 1277	normal
+T35	Diagnostic_procedure 1335 1345	fibrinogen
+T36	Diagnostic_procedure 1347 1354	d-dimer
+T37	Detailed_description 1388 1398	Peripheral
+T38	Biological_structure 1399 1404	blood
+T39	Color 1437 1440	red
+T40	Biological_structure 1441 1446	blood
+T41	Lab_value 1471 1479	abnormal
+T42	Medication 1480 1488	platelet
+T43	Lab_value 1630 1638	negative
+T44	Lab_value 1689 1697	positive
+T45	Lab_value 1729 1735	normal
+T46	Lab_value 1785 1791	normal
+T47	Date 1901 1905	2006
+T48	Biological_structure 1926 1930	Bone
+T49	Diagnostic_procedure 1938 1944	biopsy
+T50	Activity 2090 2095	drugs
+T51	Medication 2111 2119	platelet
+T52	Therapeutic_procedure 2142 2159	Blood transfusion
+T53	Medication 2163 2171	platelet
+T54	Lab_value 2191 2195	poor
+T55	Diagnostic_procedure 2227 2241	platelet count
+T56	Time 2245 2257	the next day
+T57	Therapeutic_procedure 2261 2272	transfusion
+T58	Clinical_event 2276 2285	diagnosis
+T59	Sign_symptom 2313 2320	purpura
+T60	Administration 2342 2353	intravenous
+T61	Medication 2354 2372	methylprednisolone
+T62	Dosage 2382 2387	40 mg
+T63	Frequency 2389 2396	3 times
+T64	Frequency 2397 2402	daily
+T65	Medication 2433 2441	platelet
+T66	Therapeutic_procedure 2442 2453	transfusion
+T67	Lab_value 2497 2508	improvement
+T68	Medication 2510 2522	Azathioprine
+T69	Dosage 2524 2530	100 mg
+T70	Administration 2532 2536	oral
+T71	Frequency 2538 2548	once daily
+T72	Dosage 2598 2604	400 mg
+T73	Administration 2606 2610	oral
+T74	Frequency 2612 2622	once daily
+T75	Lab_value 2651 2659	positive
+T76	Diagnostic_procedure 2690 2704	Platelet count
+T77	Lab_value 2715 2724	increased
+T78	Lab_value 2733 2745	103 cells/μL
+T79	Date 2746 2759	17 days after
+T80	Clinical_event 2760 2769	admission
+T81	Medication 2774 2792	methylprednisolone
+T82	Administration 2808 2812	oral
+T83	Clinical_event 2874 2884	discharged
+T84	Lab_value 2892 2898	stable
+T85	Medication 2914 2922	platelet
+T86	Lab_value 2949 2961	103 cells/μL
+T87	Date 3000 3014	after 5 months
+T88	Diagnostic_procedure 3054 3068	platelet count
+T89	Lab_value 3081 3093	103 cells/μL
+T90	Lab_value 3099 3108	decreased

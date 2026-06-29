@@ -1,15 +1,56 @@
 T1	Age 2 14	27 years old
 T2	Sex 16 20	male
-T3	Duration 55 62	2 years
-T4	Frequency 79 87	frequent
-T5	Duration 589 597	1 minute
-T6	Lab_value 755 764	increased
-T7	Dosage 918 928	250 mg/day
-T8	Dosage 947 957	100 mg/day
-T9	Lab_value 1117 1123	normal
-T10	Distance 1312 1316	15mm
-T11	Color 1802 1808	yellow
-T12	Color 1809 1813	gray
-T13	Severity 1845 1853	moderate
-T14	Date 2078 2096	three months after
-T15	Dosage 2176 2179	1 G
+T3	Clinical_event 40 48	admitted
+T4	Duration 55 62	2 years
+T5	Frequency 79 87	frequent
+T6	Sign_symptom 97 105	seizures
+T7	Sign_symptom 139 147	symptoms
+T8	Biological_structure 182 186	face
+T9	Sign_symptom 191 200	dizziness
+T10	Sign_symptom 219 226	seizure
+T11	Sign_symptom 280 288	seizures
+T12	Sign_symptom 379 386	seizure
+T13	Sign_symptom 456 464	seizures
+T14	Biological_structure 509 517	left arm
+T15	Duration 589 597	1 minute
+T16	Activity 668 674	smoker
+T17	Sign_symptom 723 731	seizures
+T18	Lab_value 755 764	increased
+T19	Sign_symptom 803 811	seizures
+T20	Clinical_event 867 876	admission
+T21	Medication 900 913	Levetiracetam
+T22	Dosage 918 928	250 mg/day
+T23	Medication 933 942	Phenytoin
+T24	Dosage 947 957	100 mg/day
+T25	Sign_symptom 1058 1066	seizures
+T26	Diagnostic_procedure 1080 1083	EEG
+T27	Diagnostic_procedure 1088 1112	neurological examination
+T28	Lab_value 1117 1123	normal
+T29	Clinical_event 1125 1134	Diagnosis
+T30	Diagnostic_procedure 1154 1156	CT
+T31	Sign_symptom 1206 1212	lesion
+T32	Biological_structure 1226 1234	cerebral
+T33	Diagnostic_procedure 1235 1238	MRI
+T34	Detailed_description 1287 1298	homogeneous
+T35	Sign_symptom 1299 1305	lesion
+T36	Distance 1312 1316	15mm
+T37	Sign_symptom 1380 1385	edema
+T38	Sign_symptom 1390 1394	mass
+T39	Biological_structure 1484 1492	cerebral
+T40	Sign_symptom 1493 1499	lesion
+T41	Diagnostic_procedure 1523 1526	EEG
+T42	Diagnostic_procedure 1537 1540	EEG
+T43	Sign_symptom 1555 1563	seizures
+T44	Color 1802 1808	yellow
+T45	Color 1809 1813	gray
+T46	Sign_symptom 1828 1834	tumour
+T47	Severity 1845 1853	moderate
+T48	Therapeutic_procedure 1902 1909	removed
+T49	Outcome 1989 1998	recovered
+T50	Sign_symptom 2040 2048	seizures
+T51	Date 2078 2096	three months after
+T52	Therapeutic_procedure 2097 2106	operation
+T53	Sign_symptom 2127 2135	seizures
+T54	Diagnostic_procedure 2154 2156	CT
+T55	Sign_symptom 2169 2174	tumor
+T56	Dosage 2176 2179	1 G

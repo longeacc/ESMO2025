@@ -1,0 +1,25 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 53 69	sans antécédent 
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 93 130	Antécédents obstétrico-gynécologiques
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 200 221	Antécédents familiaux
+T4	Histologie_tumorale 328 336	mélanome
+T5	Histologie_tumorale 395 425	carcinome canalaire infiltrant
+T6	Biomarqueurs_therapeutiques 831 838	Ki-6710
+T7	Biomarqueurs_therapeutiques 844 848	Her2
+T8	Stade_metastatique_avec_localisations 875 882	pT2N0M0
+T9	Traitement_specifique_du_cancer 909 937	traitement de chimiothérapie
+T10	Traitement_specifique_du_cancer 1001 1012	adriamycine
+T11	Traitement_specifique_du_cancer 1247 1260	radiothérapie
+T12	Traitement_specifique_du_cancer 1285 1294	chirurgie
+T13	Signes_physiques 1633 1644	adénopathie
+T14	Signes_physiques 1716 1732	Bon état général
+T15	Stade_OMS_ECOG_Karnofsky 1734 1740	ECOG 0
+T16	Stade_metastatique_avec_localisations 1787 1816	adénopathie supraclaviculaire
+T17	Biomarqueurs_therapeutiques 2061 2081	récepteurs hormonaux
+T18	Traitement_specifique_du_cancer 3310 3318	excision
+T19	Biomarqueurs_therapeutiques 3568 3588	récepteurs hormonaux
+T20	Biomarqueurs_therapeutiques 3601 3613	Her2 négatif
+T21	Traitement_specifique_du_cancer 3736 3755	traitement adjuvant
+T22	Traitement_specifique_du_cancer 3879 3882	QT 
+T23	Traitement_specifique_du_cancer 3890 3900	paclitaxel
+T24	Traitement_specifique_du_cancer 4117 4120	QT 
+T25	Traitement_specifique_du_cancer 4128 4138	paclitaxel

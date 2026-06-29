@@ -1,0 +1,11 @@
+Corpus,entity,n_mentions,L_Rules,recall_Rules,L_TBM,recall_TBM,L_LLM,recall_LLM,n_effective,Q_stat,p_cochran,p_mcnemar_rules_tbm,p_mcnemar_rules_llm,p_mcnemar_tbm_llm,motif,decision
+quaero,DISO,515,169,0.3282,259,0.5029,242,0.4699,404.0,37.4809,0.0,1e-06,6.8e-05,0.068247,"Egalite McNemar ['TBM', 'LLM'] -> TBM retenu par frugalite",TBM
+quaero,PROC,300,123,0.41,179,0.5967,151,0.5033,240.0,26.427,2e-06,1e-06,0.025448,0.002539,McNemar significatif pour TBM (2 paire(s)),TBM
+quaero,ANAT,259,81,0.3127,97,0.3745,60,0.2317,176.0,12.0116,0.002464,0.220671,0.080567,6e-06,McNemar significatif pour TBM (1 paire(s)),TBM
+quaero,CHEM,168,33,0.1964,118,0.7024,110,0.6548,144.0,100.9008,0.0,0.0,0.0,0.201243,"Egalite McNemar ['TBM', 'LLM'] -> TBM retenu par frugalite",TBM
+quaero,DEVI,20,8,0.4,0,0.0,6,0.3,13.0,8.0,0.018316,0.007812,0.774414,0.03125,McNemar significatif pour Rules (1 paire(s)),Rules
+quaero,LIVB,169,72,0.426,108,0.6391,86,0.5089,129.0,24.7,4e-06,9e-06,0.076881,0.001546,McNemar significatif pour TBM (2 paire(s)),TBM
+quaero,PHYS,75,22,0.2933,10,0.1333,24,0.32,40.0,9.2973,0.009575,0.007538,0.850107,0.014019,"Egalite McNemar ['Rules', 'LLM'] -> Rules retenu par frugalite",Rules
+quaero,PHEN,25,9,0.36,0,0.0,0,0.0,,,,,,,Exclu: n_effective=9 < 10 (après retrait lignes tout-0),Rules
+quaero,GEOG,21,19,0.9048,12,0.5714,11,0.5238,20.0,8.7692,0.012468,0.015625,0.021484,1.0,McNemar significatif pour Rules (1 paire(s)),Rules
+quaero,OBJC,15,6,0.4,0,0.0,2,0.1333,,,,,,,Exclu: n_effective=7 < 10 (après retrait lignes tout-0),Rules

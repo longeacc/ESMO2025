@@ -1,14 +1,68 @@
 T1	Age 2 13	62-year-old
 T2	Sex 14 20	female
-T3	Frequency 149 158	recurrent
-T4	Duration 359 365	5years
-T5	Lab_value 683 689	normal
-T6	Texture 924 928	soft
-T7	Lab_value 1117 1123	normal
-T8	Distance 1574 1579	40 cm
-T9	Distance 1943 1948	40 cm
-T10	Distance 2148 2154	1.0 cm
-T11	Distance 2409 2414	75 mm
-T12	Shape 2415 2421	linear
-T13	Date 2969 2982	2 weeks after
-T14	Duration 3063 3072	10 months
+T3	Clinical_event 21 30	presented
+T4	Detailed_description 69 76	Central
+T5	Nonbiological_location 77 85	Hospital
+T6	Frequency 149 158	recurrent
+T7	Disease_disorder 159 169	infections
+T8	Biological_structure 208 217	abdominal
+T9	Sign_symptom 218 222	pain
+T10	Clinical_event 275 284	discharge
+T11	Sign_symptom 309 317	symptoms
+T12	Duration 359 365	5years
+T13	Sign_symptom 517 526	diarrhoea
+T14	Sign_symptom 528 540	constipation
+T15	Biological_structure 550 559	abdominal
+T16	History 623 638	medical history
+T17	Diagnostic_procedure 653 673	physical examination
+T18	Lab_value 683 689	normal
+T19	Diagnostic_procedure 690 701	vital signs
+T20	Sign_symptom 715 722	fistula
+T21	Biological_structure 791 795	skin
+T22	Diagnostic_procedure 811 822	examination
+T23	Sign_symptom 838 845	fistula
+T24	Biological_structure 905 914	abdominal
+T25	Texture 924 928	soft
+T26	Sign_symptom 938 948	tenderness
+T27	Sign_symptom 1041 1048	fistula
+T28	Lab_value 1117 1123	normal
+T29	Diagnostic_procedure 1127 1129	CT
+T30	Biological_structure 1142 1149	abdomen
+T31	Biological_structure 1211 1220	abdominal
+T32	Sign_symptom 1265 1276	obstruction
+T33	Clinical_event 1313 1322	diagnosis
+T34	Clinical_event 1348 1357	diagnosis
+T35	Detailed_description 1547 1553	distal
+T36	Biological_structure 1554 1559	ileum
+T37	Distance 1574 1579	40 cm
+T38	Therapeutic_procedure 1654 1661	surgery
+T39	Therapeutic_procedure 1838 1848	laparotomy
+T40	Biological_structure 1854 1863	abdominal
+T41	Biological_structure 1922 1927	ileum
+T42	Distance 1943 1948	40 cm
+T43	Detailed_description 1949 1957	proximal
+T44	Biological_structure 2119 2128	abdominal
+T45	Distance 2148 2154	1.0 cm
+T46	Biological_structure 2362 2367	ileal
+T47	Therapeutic_procedure 2368 2379	anastomosis
+T48	Distance 2409 2414	75 mm
+T49	Shape 2415 2421	linear
+T50	Biological_structure 2453 2458	ileum
+T51	Therapeutic_procedure 2519 2526	sutures
+T52	Therapeutic_procedure 2547 2553	repair
+T53	Disease_disorder 2592 2601	infection
+T54	Biological_structure 2612 2621	abdominal
+T55	Therapeutic_procedure 2687 2700	drainage tube
+T56	Biological_structure 2719 2725	pelvis
+T57	Therapeutic_procedure 2747 2754	removed
+T58	Therapeutic_procedure 2806 2813	sutures
+T59	Biological_structure 2842 2849	abdomen
+T60	Clinical_event 2869 2878	diagnosis
+T61	Clinical_event 2899 2909	presenting
+T62	Detailed_description 2913 2924	spontaneous
+T63	Clinical_event 2958 2968	discharged
+T64	Date 2969 2982	2 weeks after
+T65	Therapeutic_procedure 2983 2990	surgery
+T66	Sign_symptom 3032 3042	recurrence
+T67	Duration 3063 3072	10 months
+T68	Clinical_event 3076 3085	follow-up

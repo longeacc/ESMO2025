@@ -1,13 +1,62 @@
 T1	Age 2 13	73-year-old
 T2	Sex 14 17	man
-T3	Duration 229 237	50 years
-T4	Shape 309 322	string-shaped
-T5	Texture 461 467	smooth
-T6	Distance 477 482	50-mm
-T7	Color 513 518	white
-T8	Area 897 903	7×6 cm
-T9	Lab_value 1063 1071	negative
-T10	Administration 1543 1545	IV
-T11	Lab_value 1764 1768	good
-T12	Dosage 1834 1842	9 cycles
-T13	Frequency 1997 2006	regularly
+T3	Clinical_event 31 42	transferred
+T4	Nonbiological_location 50 64	emergency room
+T5	Biological_structure 79 84	chest
+T6	Sign_symptom 85 89	pain
+T7	Clinical_event 94 103	diagnosed
+T8	Disease_disorder 130 151	myocardial infarction
+T9	Disease_disorder 153 158	STEMI
+T10	History 206 237	history of smoking for 50 years
+T11	Detailed_description 239 246	Primary
+T12	Shape 309 322	string-shaped
+T13	Detailed_description 364 372	anterior
+T14	Texture 461 467	smooth
+T15	Distance 477 482	50-mm
+T16	Personal_background 513 518	white
+T17	Sign_symptom 701 709	thrombus
+T18	Nonbiological_location 756 764	hospital
+T19	Biological_structure 770 783	transthoracic
+T20	Diagnostic_procedure 784 800	echocardiography
+T21	Biological_structure 839 850	left atrium
+T22	Diagnostic_procedure 861 880	computed tomography
+T23	Area 897 903	7×6 cm
+T24	Sign_symptom 904 908	mass
+T25	Clinical_event 932 941	admission
+T26	Biological_structure 961 970	pulmonary
+T27	Biological_structure 988 997	pulmonary
+T28	Sign_symptom 1003 1011	invasion
+T29	Lab_value 1063 1071	negative
+T30	Biological_structure 1078 1082	lung
+T31	Sign_symptom 1083 1088	tumor
+T32	Diagnostic_procedure 1108 1119	examination
+T33	Biological_structure 1174 1178	lung
+T34	Disease_disorder 1179 1188	carcinoma
+T35	Clinical_event 1214 1223	diagnosed
+T36	Disease_disorder 1229 1234	STEMI
+T37	Biological_structure 1280 1284	lung
+T38	Disease_disorder 1285 1294	carcinoma
+T39	Biological_structure 1296 1301	Brain
+T40	Diagnostic_procedure 1302 1305	MRI
+T41	Outcome 1339 1351	asymptomatic
+T42	Disease_disorder 1352 1371	cerebral infarction
+T43	Sign_symptom 1424 1430	lesion
+T44	Clinical_event 1435 1444	diagnosed
+T45	Sign_symptom 1451 1461	metastasis
+T46	Clinical_event 1500 1509	diagnosed
+T47	Biological_structure 1521 1525	lung
+T48	Disease_disorder 1526 1535	carcinoma
+T49	Administration 1543 1545	IV
+T50	Medication 1592 1604	chemotherapy
+T51	Medication 1615 1626	carboplatin
+T52	Medication 1629 1639	paclitaxel
+T53	Biological_structure 1708 1712	lung
+T54	Disease_disorder 1713 1719	cancer
+T55	Lab_value 1764 1768	good
+T56	Medication 1805 1817	Chemotherapy
+T57	Dosage 1834 1842	9 cycles
+T58	Disease_disorder 1880 1889	carcinoma
+T59	Outcome 1930 1940	doing well
+T60	Therapeutic_procedure 1968 1971	PCI
+T61	Clinical_event 1985 1996	followed-up
+T62	Frequency 1997 2006	regularly

@@ -1,0 +1,30 @@
+T1	Symptomes 351 441	diarrhée légère à modérée qui durait depuis plusieurs semaines, accompagnée d'hématochezie
+T2	Histologie_tumorale 580 627	adénocarcinome modérément différencié du rectum
+T3	Topographie_du_primitif 580 627	adénocarcinome modérément différencié du rectum
+T4	Traitement_specifique_du_cancer 806 909	traitement néoadjuvant à base de capécitabine à la dose de 1 250 mg/m2 et de radiothérapie concomitante
+T5	Traitement_specifique_du_cancer 1069 1138	résection antérieure ultra-basse avec iléostomie latérale protectrice
+T6	Traitement_specifique_du_cancer 1185 1213	capécitabine et oxaliplatine
+T7	Reponse_a_la_chimiotherapie 1334 1415	progression bilatérale des ganglions lymphatiques pulmonaires et rétropéritonéaux
+T8	Traitement_specifique_du_cancer 1638 1658	FOLFIRI et cétuximab
+T9	Reponse_a_la_chimiotherapie 1734 1757	stabilité de la maladie
+T10	Symptomes 1838 1860	photodésopsie subaiguë
+T11	Stade_metastatique_avec_localisations 1999 2019	métastase occipitale
+T12	Traitement_specifique_du_cancer 2075 2101	adiothérapie holocrânienne
+T13	Reponse_a_la_chimiotherapie 2233 2253	progression tumorale
+T14	Traitement_specifique_du_cancer 2330 2356	FOLFOX 6 et du bevacizumab
+T15	Traitement_specifique_du_cancer 2721 2729	ECOG 1-2
+T16	Traitement_specifique_du_cancer 2816 2888	oxaliplatine et de 5-fluorouracile, en maintenant la dose de bevacizumab
+T17	Symptomes 3028 3153	nausées et de vomissements d'aspect bilieux depuis 5 jours, ainsi que des selles liquides verdâtres provenant de l'iléostomie
+T18	Signes_physiques 3299 3387	mauvais état général, une peau pâle et une déshydratation modérée de la muqueuse buccale
+T19	Symptomes 3561 3586	selles liquides verdâtres
+T20	Signes_physiques 3655 3752	diminution du souffle vésiculaire dans l'hémithorax gauche avec des crépitements à la base droite
+T21	Histologie_tumorale 4742 4763	Adénocarcinome rectal
+T22	Topographie_du_primitif 4742 4763	Adénocarcinome rectal
+T23	Reponse_a_la_chimiotherapie 4809 4886	Rechute bilatérale des ganglions lymphatiques pulmonaires et rétropéritonéaux
+T24	Reponse_a_la_chimiotherapie 4902 4923	Progression cérébrale
+T25	Signes_physiques 5585 5648	épisode de dyspnée et de diminution de la saturation en oxygène
+T26	Signes_physiques 5885 5989	crépitements jusqu'aux deux sommets à l'auscultation pulmonaire et un léger œdème des membres inférieurs
+T27	Symptomes 7112 7197	dyspnée, cette fois associée à une fièvre pouvant atteindre 38 ºC et à une toux sèche
+T28	Symptomes 7614 7666	pics de fièvre et un mauvais état général persistant
+T29	Symptomes 8636 8657	meilleur état général
+T30	Symptomes 8680 8688	asthénie

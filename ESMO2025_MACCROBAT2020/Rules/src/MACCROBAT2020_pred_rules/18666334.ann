@@ -1,4 +1,21 @@
 T1	Age 2 13	19-year-old
 T2	Sex 14 17	man
-T3	Time 57 67	12 h after
-T4	Distance 736 741	40 mm
+T3	Clinical_event 18 27	presented
+T4	Nonbiological_location 35 55	emergency department
+T5	Time 57 67	12 h after
+T6	Biological_structure 135 141	rectum
+T7	Biological_structure 151 160	abdominal
+T8	Diagnostic_procedure 161 171	radiograph
+T9	Medication 323 331	sedation
+T10	Detailed_description 507 517	endoscopic
+T11	Detailed_description 645 653	proximal
+T12	Therapeutic_procedure 711 718	removed
+T13	Distance 736 741	40 mm
+T14	Sign_symptom 752 762	dilatation
+T15	Therapeutic_procedure 993 1001	catheter
+T16	Detailed_description 1026 1036	endoscopic
+T17	Detailed_description 1059 1065	distal
+T18	Biological_structure 1094 1100	rectum
+T19	Therapeutic_procedure 1145 1153	catheter
+T20	Therapeutic_procedure 1190 1197	removed
+T21	Detailed_description 1221 1231	endoscopic

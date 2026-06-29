@@ -1,0 +1,26 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 27 40	Cryptorchidie
+T2	Statut_tabagique 87 96	ex-fumeur
+T3	Traitement_specifique_du_cancer 403 416	orchidectomie
+T4	Signes_physiques 844 850	ascite
+T5	Topographie_du_primitif 928 947	tumeur testiculaire
+T6	Stade_metastatique_avec_localisations 1188 1218	adénopathies rétropéritonéales
+T7	Stade_metastatique_avec_localisations 1285 1302	nodule pulmonaire
+T8	Traitement_specifique_du_cancer 1339 1352	Orchidectomie
+T9	Topographie_du_primitif 1660 1689	Tumeur germinale testiculaire
+T10	Stade_metastatique_avec_localisations 1693 1702	stade III
+T11	Traitement_specifique_du_cancer 1899 1909	bléomycine
+T12	Traitement_specifique_du_cancer 1911 1920	étoposide
+T13	Traitement_specifique_du_cancer 1924 1934	cisplatine
+T14	Traitement_specifique_du_cancer 2123 2137	chimiothérapie
+T15	Traitement_specifique_du_cancer 2331 2341	paclitaxel
+T16	Traitement_specifique_du_cancer 2357 2367	cisplatine
+T17	Traitement_specifique_du_cancer 2381 2395	chimiothérapie
+T18	Reponse_a_la_chimiotherapie 2728 2748	réponse radiologique
+T19	Traitement_specifique_du_cancer 2884 2898	chimiothérapie
+T20	Traitement_specifique_du_cancer 2903 2915	oxaliplatine
+T21	Traitement_specifique_du_cancer 2916 2927	gemcitabine
+T22	Traitement_specifique_du_cancer 2928 2933	taxol
+T23	Traitement_specifique_du_cancer 3262 3274	carboplatine
+T24	Traitement_specifique_du_cancer 3278 3287	étoposide
+T25	Traitement_specifique_du_cancer 3821 3830	Chirurgie
+T26	Traitement_specifique_du_cancer 4514 4528	chimiothérapie

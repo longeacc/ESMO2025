@@ -1,17 +1,65 @@
 T1	Age 2 13	33-year-old
 T2	Sex 14 17	man
-T3	Volume 190 214	2.8 cm × 2.8 cm × 2.5 cm
-T4	Lab_value 267 275	abnormal
-T5	Date 391 395	2005
-T6	Volume 453 478	11.5 cm × 6.5 cm × 4.5 cm
-T7	Color 506 513	grayish
-T8	Color 514 519	brown
-T9	Volume 534 558	3.5 cm × 2.5 cm × 2.2 cm
-T10	Texture 687 695	granular
-T11	Shape 726 731	round
-T12	Shape 735 739	oval
-T13	Date 1267 1283	Nine years after
-T14	Area 1355 1368	2 cm × 1.8 cm
-T15	Severity 1672 1680	moderate
-T16	Lab_value 1815 1823	positive
-T17	Lab_value 1864 1872	negative
+T3	Clinical_event 18 27	presented
+T4	Biological_structure 62 71	abdominal
+T5	Diagnostic_procedure 72 91	computed tomography
+T6	Biological_structure 101 106	renal
+T7	Sign_symptom 107 111	mass
+T8	Biological_structure 145 151	kidney
+T9	Sign_symptom 172 176	mass
+T10	Volume 190 214	2.8 cm × 2.8 cm × 2.5 cm
+T11	Lab_value 267 275	abnormal
+T12	Sign_symptom 312 322	metastasis
+T13	Biological_structure 326 336	lymph node
+T14	Sign_symptom 337 347	metastasis
+T15	Therapeutic_procedure 357 368	nephrectomy
+T16	Date 391 395	2005
+T17	Diagnostic_procedure 406 417	examination
+T18	Therapeutic_procedure 423 434	nephrectomy
+T19	Volume 453 478	11.5 cm × 6.5 cm × 4.5 cm
+T20	Sign_symptom 487 492	tumor
+T21	Color 506 513	grayish
+T22	Color 514 519	brown
+T23	Sign_symptom 520 524	mass
+T24	Volume 534 558	3.5 cm × 2.5 cm × 2.2 cm
+T25	Diagnostic_procedure 579 590	examination
+T26	Texture 687 695	granular
+T27	Shape 726 731	round
+T28	Shape 735 739	oval
+T29	Biological_attribute 796 804	nucleoli
+T30	Diagnostic_procedure 893 904	examination
+T31	Detailed_description 916 935	well-differentiated
+T32	Sign_symptom 963 968	tumor
+T33	Biological_structure 985 991	kidney
+T34	Therapeutic_procedure 1221 1230	radiation
+T35	Medication 1235 1247	chemotherapy
+T36	Date 1267 1283	Nine years after
+T37	Therapeutic_procedure 1292 1303	nephrectomy
+T38	Diagnostic_procedure 1305 1324	computed tomography
+T39	Biological_structure 1332 1339	abdomen
+T40	Area 1355 1368	2 cm × 1.8 cm
+T41	Sign_symptom 1374 1378	mass
+T42	Biological_structure 1392 1397	liver
+T43	Detailed_description 1402 1410	multiple
+T44	Biological_structure 1434 1445	gallbladder
+T45	Sign_symptom 1450 1458	enlarged
+T46	Biological_structure 1459 1470	lymph nodes
+T47	Biological_structure 1489 1498	abdominal
+T48	Therapeutic_procedure 1507 1522	Cholecystectomy
+T49	Biological_structure 1543 1550	hepatic
+T50	Therapeutic_procedure 1586 1593	surgery
+T51	Diagnostic_procedure 1606 1617	examination
+T52	Severity 1672 1680	moderate
+T53	Sign_symptom 1804 1810	lesion
+T54	Lab_value 1815 1823	positive
+T55	Lab_value 1864 1872	negative
+T56	Sign_symptom 1968 1973	tumor
+T57	Detailed_description 2033 2040	primary
+T58	Biological_structure 2041 2046	renal
+T59	Sign_symptom 2057 2062	tumor
+T60	Biological_structure 2067 2072	liver
+T61	Sign_symptom 2073 2078	tumor
+T62	Sign_symptom 2129 2134	tumor
+T63	Biological_structure 2147 2153	kidney
+T64	Biological_structure 2159 2164	liver
+T65	Sign_symptom 2165 2175	metastasis

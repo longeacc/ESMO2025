@@ -1,20 +1,116 @@
 T1	Date 3 16	February 2010
 T2	Age 20 31	77-year-old
 T3	Sex 32 35	man
-T4	Duration 167 174	6-month
-T5	Severity 405 411	severe
-T6	Lab_value 458 465	70 mmHg
-T7	Lab_value 489 496	45 mmHg
-T8	Severity 541 547	severe
-T9	Severity 576 584	severely
-T10	Lab_value 678 686	resolved
-T11	Shape 1402 1409	annular
-T12	Severity 1465 1473	severely
-T13	Distance 1650 1654	3-cm
-T14	Distance 2118 2122	5-cm
-T15	Distance 3027 3032	27-mm
-T16	Distance 3286 3290	1-cm
-T17	Lab_value 3822 3830	resolved
-T18	Date 3889 3894	day 6
-T19	Date 3925 3935	March 2011
-T20	Lab_value 3986 3993	grade 1
+T4	Disease_disorder 54 60	stroke
+T5	Detailed_description 65 75	peripheral
+T6	Clinical_event 93 102	presented
+T7	Nonbiological_location 110 130	emergency department
+T8	Disease_disorder 141 156	pulmonary edema
+T9	Duration 167 174	6-month
+T10	History 175 215	history of worsening dyspnea on exertion
+T11	Sign_symptom 255 260	edema
+T12	Diagnostic_procedure 267 287	physical examination
+T13	Detailed_description 296 303	diffuse
+T14	Sign_symptom 304 309	rales
+T15	Sign_symptom 316 322	murmur
+T16	Biological_structure 326 332	aortic
+T17	Sign_symptom 333 341	stenosis
+T18	Detailed_description 359 366	Doppler
+T19	Biological_structure 367 380	transthoracic
+T20	Severity 405 411	severe
+T21	Biological_structure 412 424	aortic valve
+T22	Sign_symptom 425 433	stenosis
+T23	Lab_value 458 465	70 mmHg
+T24	Lab_value 489 496	45 mmHg
+T25	Biological_structure 511 523	aortic valve
+T26	Severity 541 547	severe
+T27	Disease_disorder 548 568	mitral regurgitation
+T28	Severity 576 584	severely
+T29	Sign_symptom 585 592	dilated
+T30	Biological_structure 593 607	left ventricle
+T31	Biological_structure 609 611	LV
+T32	Diagnostic_procedure 621 638	ejection fraction
+T33	Disease_disorder 658 673	pulmonary edema
+T34	Lab_value 678 686	resolved
+T35	Diagnostic_procedure 688 711	cardiac catheterization
+T36	Disease_disorder 779 802	coronary artery disease
+T37	Therapeutic_procedure 997 1007	intubation
+T38	Biological_structure 1052 1061	bronchial
+T39	Detailed_description 1071 1085	Intraoperative
+T40	Diagnostic_procedure 1102 1118	echocardiography
+T41	Diagnostic_procedure 1120 1123	TEE
+T42	Biological_structure 1180 1192	mitral valve
+T43	Disease_disorder 1248 1268	mitral regurgitation
+T44	Biological_structure 1308 1320	mitral valve
+T45	Disease_disorder 1334 1354	mitral regurgitation
+T46	Shape 1402 1409	annular
+T47	Sign_symptom 1410 1418	dilation
+T48	Severity 1465 1473	severely
+T49	Sign_symptom 1474 1481	dilated
+T50	Biological_structure 1482 1484	LV
+T51	Therapeutic_procedure 1521 1527	repair
+T52	Biological_structure 1535 1547	mitral valve
+T53	Biological_structure 1579 1586	femoral
+T54	Therapeutic_procedure 1618 1640	cardiopulmonary bypass
+T55	Distance 1650 1654	3-cm
+T56	Therapeutic_procedure 1655 1663	incision
+T57	Biological_structure 1685 1693	inguinal
+T58	Therapeutic_procedure 1729 1735	suture
+T59	Biological_structure 1814 1821	femoral
+T60	Biological_structure 1848 1855	femoral
+T61	Therapeutic_procedure 1867 1877	cannulated
+T62	Biological_structure 1893 1901	arterial
+T63	Biological_structure 1920 1927	femoral
+T64	Therapeutic_procedure 1937 1947	cannulated
+T65	Biological_structure 1972 1979	femoral
+T66	Biological_structure 1980 1986	venous
+T67	Biological_structure 2066 2075	vena cava
+T68	Diagnostic_procedure 2092 2095	TEE
+T69	Distance 2118 2122	5-cm
+T70	Therapeutic_procedure 2146 2154	incision
+T71	Biological_structure 2268 2273	aorta
+T72	Biological_structure 2324 2335	left atrium
+T73	Biological_structure 2362 2373	pericardium
+T74	Biological_structure 2422 2427	aorta
+T75	Therapeutic_procedure 2480 2488	catheter
+T76	Therapeutic_procedure 2523 2531	incision
+T77	Therapeutic_procedure 2552 2558	suture
+T78	Biological_structure 2577 2589	right atrium
+T79	Biological_structure 2593 2595	LV
+T80	Therapeutic_procedure 2633 2639	suture
+T81	Biological_structure 2662 2671	pulmonary
+T82	Biological_structure 2729 2741	aortic valve
+T83	Therapeutic_procedure 2753 2760	removed
+T84	Biological_structure 2812 2824	mitral valve
+T85	Therapeutic_procedure 2862 2868	repair
+T86	Therapeutic_procedure 2913 2919	suture
+T87	Biological_structure 2945 2956	pericardial
+T88	Biological_structure 2997 3009	mitral valve
+T89	Distance 3027 3032	27-mm
+T90	Biological_structure 3059 3071	aortic valve
+T91	Therapeutic_procedure 3206 3228	cardiopulmonary bypass
+T92	Biological_structure 3245 3248	rib
+T93	Biological_structure 3271 3278	sternum
+T94	Distance 3286 3290	1-cm
+T95	Biological_structure 3396 3401	chest
+T96	Biological_structure 3423 3430	pleural
+T97	Therapeutic_procedure 3442 3453	thoracotomy
+T98	Diagnostic_procedure 3499 3502	TEE
+T99	Disease_disorder 3513 3533	mitral regurgitation
+T100	Detailed_description 3561 3569	anterior
+T101	Detailed_description 3622 3630	anterior
+T102	Detailed_description 3646 3655	posterior
+T103	Biological_structure 3696 3708	mitral valve
+T104	Therapeutic_procedure 3745 3751	repair
+T105	Therapeutic_procedure 3767 3774	surgery
+T106	Sign_symptom 3802 3821	shortness of breath
+T107	Lab_value 3822 3830	resolved
+T108	Clinical_event 3843 3853	discharged
+T109	Nonbiological_location 3863 3871	hospital
+T110	Date 3889 3894	day 6
+T111	Clinical_event 3901 3910	follow-up
+T112	Date 3925 3935	March 2011
+T113	Outcome 3944 3956	asymptomatic
+T114	Diagnostic_procedure 3962 3978	echocardiography
+T115	Lab_value 3986 3993	grade 1
+T116	Disease_disorder 3995 4015	mitral regurgitation

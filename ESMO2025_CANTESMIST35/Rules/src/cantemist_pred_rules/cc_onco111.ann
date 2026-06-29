@@ -1,0 +1,22 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 41 131	antécédents cardiologiques de cardiopathie hypertensive et de fibrillation auriculaire, a 
+T2	Signes_physiques 323 339	Bon état général
+T3	Signes_physiques 348 373	lymphadénopathie palpable
+T4	Stade_metastatique_avec_localisations 854 887	Lymphadénopathie rétropéritonéale
+T5	Signes_physiques 1040 1096	Adénopathie de la chaîne iliaque externe droite de 11 mm
+T6	Stade_metastatique_avec_localisations 1109 1132	adénopathies inguinales
+T7	Stade_metastatique_avec_localisations 1501 1520	nodules pulmonaires
+T8	Stade_metastatique_avec_localisations 1747 1780	Lymphadénopathie rétropéritonéale
+T9	Stade_metastatique_avec_localisations 1848 1856	stade IV
+T10	Stade_metastatique_avec_localisations 2053 2083	adénopathies rétropéritonéales
+T11	Stade_metastatique_avec_localisations 2199 2211	métastatique
+T12	Traitement_specifique_du_cancer 2216 2244	traitement de chimiothérapie
+T13	Traitement_specifique_du_cancer 2284 2296	carboplatine
+T14	Traitement_specifique_du_cancer 2297 2306	étoposide
+T15	Signes_physiques 2598 2634	adénopathie abdominale est confirmée
+T16	Traitement_specifique_du_cancer 2816 2829	radiothérapie
+T17	Traitement_specifique_du_cancer 2861 2874	radiothérapie
+T18	Stade_metastatique_avec_localisations 3263 3330	métastases au niveau pulmonaire et une douteuse au niveau hépatique
+T19	Traitement_specifique_du_cancer 3416 3425	topotécan
+T20	Traitement_specifique_du_cancer 3472 3481	topotécan
+T21	Traitement_specifique_du_cancer 3550 3564	chimiothérapie
+T22	Traitement_specifique_du_cancer 3584 3595	adriamycine

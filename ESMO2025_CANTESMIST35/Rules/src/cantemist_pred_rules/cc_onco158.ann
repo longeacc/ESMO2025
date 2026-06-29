@@ -1,0 +1,18 @@
+T1	Symptomes 232 255	hypertension artérielle
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 333 374	antécédent médico-chirurgical intéressant
+T3	Symptomes 425 476	perte de poids de 3 kg au cours des 3 derniers mois
+T4	Symptomes 496 504	asthénie
+T5	Symptomes 561 569	asthénie
+T6	Signes_physiques 680 686	ictère
+T7	Symptomes 863 869	Fièvre
+T8	Signes_physiques 1064 1108	Hépatomégalie de trois croisements de doigts
+T9	Biomarqueurs_therapeutiques 2449 2452	CK7
+T10	Biomarqueurs_therapeutiques 2529 2534	TTF-1
+T11	Histologie_tumorale 2581 2595	adénocarcinome
+T12	Histologie_tumorale 2612 2626	Adénocarcinome
+T13	Stade_metastatique_avec_localisations 2648 2656	Stade IV
+T14	Signes_physiques 2864 2883	ictère et de prurit
+T15	Traitement_specifique_du_cancer 4119 4133	chimiothérapie
+T16	Traitement_specifique_du_cancer 4178 4189	gemcitabine
+T17	Stade_OMS_ECOG_Karnofsky 4255 4261	ECOG 0
+T18	Stade_OMS_ECOG_Karnofsky 4393 4402	ECOG de 0

@@ -1,0 +1,21 @@
+T1	Histologie_tumorale 148 178	carcinome canalaire infiltrant
+T2	Topographie_du_primitif 148 193	carcinome canalaire infiltrant du sein gauche
+T3	Stade_metastatique_avec_localisations 201 208	pT1N2M0
+T4	Traitement_specifique_du_cancer 260 360	mastectomie et lymphadénectomie accompagnée d'un schéma FEC (5-FU + épirrubucinna * cyclophosphamide
+T5	Traitement_specifique_du_cancer 389 420	rémission complète de la maladi
+T6	Traitement_specifique_du_cancer 446 466	tamoxifène + zaladex
+T7	Symptomes 630 659	prurit et une fièvre nocturne
+T8	Traitement_specifique_du_cancer 1446 1466	mastectomie radicale
+T9	Histologie_tumorale 1898 1931	adénocarcinome d'origine mammaire
+T10	Topographie_du_primitif 1898 1931	adénocarcinome d'origine mammaire
+T11	Biomarqueurs_therapeutiques 1932 1956	ER et RP+, Her-2 négatif
+T12	Histologie_tumorale 2042 2065	leucémie myéloïde aiguë
+T13	Traitement_specifique_du_cancer 2194 2221	clofarabine et lacitarabine
+T14	Traitement_specifique_du_cancer 2244 2254	allogreffe
+T15	Reponse_a_la_chimiotherapie 2316 2334	rémission complète
+T16	Symptomes 2685 2731	douleurs osseuses dans plusieurs articulations
+T17	Traitement_specifique_du_cancer 3190 3198	létrexol
+T18	Stade_metastatique_avec_localisations 3265 3287	métastases pulmonaires
+T19	Reponse_a_la_chimiotherapie 3236 3287	régressant même le nombre de métastases pulmonaires
+T20	Traitement_specifique_du_cancer 3383 3457	segmentectomie du LSI a été réalisée, suivie d'un adjuvant avec exémestane
+T21	Stade_OMS_ECOG_Karnofsky 3518 3524	ECOG 0

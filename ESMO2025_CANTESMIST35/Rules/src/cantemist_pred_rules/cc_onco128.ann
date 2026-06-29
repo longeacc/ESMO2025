@@ -1,0 +1,41 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 120 127	diabète
+T2	Histologie_tumorale 152 160	lymphome
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 192 215	allergie médicamenteuse
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 297 309	hypertension
+T5	Signes_physiques 536 556	adénopathie palpable
+T6	Biomarqueurs_therapeutiques 1033 1046	Chromogranine
+T7	Stade_metastatique_avec_localisations 1212 1242	adénopathies rétropéritonéales
+T8	Biomarqueurs_therapeutiques 1586 1599	chromogranine
+T9	Biomarqueurs_therapeutiques 1606 1620	synaptophysine
+T10	Biomarqueurs_therapeutiques 1622 1626	Ki67
+T11	Histologie_tumorale 1777 1798	tumeur neuroendocrine
+T12	Stade_metastatique_avec_localisations 1831 1839	stade IV
+T13	Biomarqueurs_therapeutiques 2060 2065	Ki-67
+T14	Traitement_specifique_du_cancer 2137 2151	chimiothérapie
+T15	Traitement_specifique_du_cancer 2153 2163	cisplatine
+T16	Traitement_specifique_du_cancer 2183 2192	étoposide
+T17	Symptomes 2264 2272	alopécie
+T18	Traitement_specifique_du_cancer 2383 2395	témozolamide
+T19	Traitement_specifique_du_cancer 2433 2445	capécitabine
+T20	Symptomes 2798 2804	mucite
+T21	Reponse_a_la_chimiotherapie 2980 2986	RECIST
+T22	Traitement_specifique_du_cancer 3126 3146	schéma thérapeutique
+T23	Traitement_specifique_du_cancer 3508 3520	doxorubicine
+T24	Traitement_specifique_du_cancer 3650 3662	doxorubicine
+T25	Traitement_specifique_du_cancer 3802 3825	10 cycles de traitement
+T26	Traitement_specifique_du_cancer 3896 3908	15 cycles au
+T27	Biomarqueurs_therapeutiques 4197 4203	Ki-67 
+T28	Stade_OMS_ECOG_Karnofsky 4261 4277	Karnofsky > 80 %
+T29	Biomarqueurs_therapeutiques 4470 4481	Ki-67 de 11
+T30	Traitement_specifique_du_cancer 4730 4739	sunitinib
+T31	Symptomes 4853 4861	diarrhée
+T32	Symptomes 4869 4875	mucite
+T33	Symptomes 4885 4908	hypertension artérielle
+T34	Reponse_a_la_chimiotherapie 4964 4978	maladie stable
+T35	Reponse_a_la_chimiotherapie 4995 5009	maladie stable
+T36	Reponse_a_la_chimiotherapie 5020 5026	RECIST
+T37	Traitement_specifique_du_cancer 5091 5100	sunitinib
+T38	Reponse_a_la_chimiotherapie 5144 5165	progression hépatique
+T39	Reponse_a_la_chimiotherapie 5211 5217	RECIST
+T40	Traitement_specifique_du_cancer 5299 5309	évérolimus
+T41	Reponse_a_la_chimiotherapie 5482 5488	RECIST

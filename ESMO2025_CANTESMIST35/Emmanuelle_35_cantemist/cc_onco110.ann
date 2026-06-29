@@ -1,0 +1,27 @@
+T1	Symptomes 77 119	diarrhée avec mucus et saignements rectaux
+T2	Symptomes 135 155	douleurs abdominales
+T3	Signes_physiques 163 206	perte de poids d'environ 6 kg depuis 3 mois
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 211 259	Antécédents personnels : hypertension artérielle
+T5	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 261 314	Aucun autre antécédent médico-chirurgical intéressant
+T6	Signes_physiques 387 465	abdomen mou, déprimable, non douloureux et sans signe d'irritation péritonéale
+T7	Signes_physiques 470 529	toucher rectal a été réalisé, palpant une tumeur mamelonnée
+T8	Topographie_du_primitif 650 679	tumeur de la même marge anale
+T9	Topographie_du_primitif 828 874	néoformation entre 1 et 8 cm de la marge anale
+T10	Topographie_du_primitif 1387 1408	Adénocarcinome rectal
+T11	Histologie_tumorale 1387 1408	Adénocarcinome rectal
+T12	Traitement_specifique_du_cancer 1473 1537	5-FU et une radiothérapie concomitante (Rt) à visée néoadjuvante
+T13	Traitement_specifique_du_cancer 1955 1994	amputation abdomino-périnéale du rectum
+T14	Reponse_a_la_chimiotherapie 1999 2087	résultat anatomopathologique de l'échantillon rapporte une réponse pathologique complète
+T15	Traitement_specifique_du_cancer 2151 2199	chimiothérapie adjuvante avec 5-FU + leucovorine
+T16	Stade_metastatique_avec_localisations 2890 3057	face à l’évolution de la lésion pulmonaire, il a été décidé de procéder à une intervention chirurgicale. Résultat AP : métastase d'adénocarcinome d'origine colorectale
+T17	Biomarqueurs_therapeutiques 3059 3080	Analyse KRAS : native
+T18	Traitement_specifique_du_cancer 3124 3160	traitement adjuvant par capécitabine
+T19	Traitement_specifique_du_cancer 3316 3364	progression s'est produite au niveau des poumons
+T20	Traitement_specifique_du_cancer 3391 3441	résection chirurgicale de deux nodules pulmonaires
+T21	Traitement_specifique_du_cancer 3489 3545	traitement adjuvant XELOX (capécitabine et oxaliplatine)
+T22	Stade_metastatique_avec_localisations 3837 3886	deux lésions polypoïdes enlevées par endoscopie.
+T24	Stade_metastatique_avec_localisations 3921 3969	métastase d'adénocarcinome d'origine colorectale
+T25	Reponse_a_la_chimiotherapie 4104 4163	récidive endobronchique avec apparition de nouveaux polypes
+T26	Traitement_specifique_du_cancer 4256 4296	résection des métastases endobronchiques
+T27	Reponse_a_la_chimiotherapie 4363 4407	apparition de nodules pulmonaires bilatéraux
+T28	Traitement_specifique_du_cancer 4462 4565	chimiothérapie de première intention par FOLFIRI (5-FU, irinotécan et leucovorine) associé au cétuximab

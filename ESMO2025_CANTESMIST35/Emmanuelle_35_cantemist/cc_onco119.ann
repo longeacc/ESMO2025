@@ -1,0 +1,51 @@
+T1	Statut_tabagique 42 88	fumeuse active (dose cumulée de 20 paquets/an)
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 92 125	sourde et muette depuis l'enfance
+T3	Symptomes 648 687	autopalpation du nodule mammaire gauche
+T5	Stade_OMS_ECOG_Karnofsky 1123 1129	(PS) 1
+T6	Signes_physiques 1133 1311	examen a révélé un nodule de 35 mm dans le quadrant inférieur externe du sein gauche et un autre nodule de 20 mm dans le sillon sous-mammaire avec atteinte cutanée et œdème local
+T7	Signes_physiques 1327 1390	à l’examen deux adénopathies axillaires homolatérales suspectes
+T8	Histologie_tumorale 1957 1976	carcinome nucléaire
+T9	Histologie_tumorale 2000 2030	carcinome canalaire infiltrant
+T10	Biomarqueurs_therapeutiques 2047 2137	ER positif dans 90 % des noyaux tumoraux, récepteur de progestérone (PR) positif dans 15 %
+T11	Biomarqueurs_therapeutiques 2153 2170	HER-2/NEU négatif
+T12	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 2738 2754	sourde et muette
+T13	Biomarqueurs_therapeutiques 2780 2829	RE 90 %, RP 15 %, Ki-67 15 %, début Her-2 négatif
+T14	Stade_metastatique_avec_localisations 2830 2872	stade IV, T4bN1M1 avec métastases osseuses
+T4	Stade_OMS_ECOG_Karnofsky 765 773	ECOG PS0
+T15	Stade_OMS_ECOG_Karnofsky 2927 2935	ECOG PS0
+T16	Traitement_specifique_du_cancer 3072 3106	tamoxifène et analogues de la LHRH
+T17	Reponse_a_la_chimiotherapie 3189 3211	réponse partielle (PR)
+T18	Traitement_specifique_du_cancer 3427 3436	létrozole
+T19	Traitement_specifique_du_cancer 3586 3617	progression pleurale bilatérale
+T20	Traitement_specifique_du_cancer 3651 3677	chimiothérapie de type FAC
+T21	Symptomes 3895 3959	symptômes de myodésopsie et deux épisodes de perte de conscience
+T22	Symptomes 3975 4007	perception d'odeurs désagréables
+T23	Symptomes 4027 4048	probables convulsions
+T24	Stade_OMS_ECOG_Karnofsky 4101 4105	PS 1
+T25	Signes_physiques 4143 4169	œdème papillaire bilatéral
+T26	Reponse_a_la_chimiotherapie 5167 5263	disparition de l'épanchement pleural avec stabilité du nodule pulmonaire et des lésions osseuses
+T27	Traitement_specifique_du_cancer 5323 5337	CT de type FAC
+T28	Traitement_specifique_du_cancer 3846 3869	2 cycles de QT avec FAC
+T29	Traitement_specifique_du_cancer 5372 5396	méthotrexate intrathécal
+T30	Traitement_specifique_du_cancer 5416 5431	7 cycles de FAC
+T31	Traitement_specifique_du_cancer 5494 5539	thérapie intrathécale (TIT) avec méthotrexate
+T32	Reponse_a_la_chimiotherapie 5613 5787	maintien de la réponse au niveau pleural, avec stabilité pulmonaire et osseuse, et réponse partielle au niveau du SNC par IRM avec diminution des signes de carcinose méningée
+T33	Traitement_specifique_du_cancer 5880 5925	analogues de la LHRH et 500 mg de fulvestrant
+T34	Reponse_a_la_chimiotherapie 5941 5973	réponse clinique et radiologique
+T35	Reponse_a_la_chimiotherapie 6032 6082	progression de la carcinose était évidente à l'IRM
+T36	Reponse_a_la_chimiotherapie 6156 6177	progression hépatique
+T37	Stade_OMS_ECOG_Karnofsky 6193 6197	PS 1
+T38	Traitement_specifique_du_cancer 6269 6291	paclitaxel-gemcitabine
+T39	Reponse_a_la_chimiotherapie 6322 6413	réponse hépatique complète, une stabilité des os, des poumons et des lésions leptoméningées
+T40	Reponse_a_la_chimiotherapie 6664 6700	maintenant la CR au niveau hépatique
+T41	Traitement_specifique_du_cancer 6746 6767	exémestane et zoladex
+T42	Reponse_a_la_chimiotherapie 6791 6865	progression hépatique et une carcinose ont été à nouveau observées par IRM
+T43	Stade_OMS_ECOG_Karnofsky 6923 6926	PS1
+T44	Traitement_specifique_du_cancer 6932 6944	capécitabine
+T45	Traitement_specifique_du_cancer 7049 7068	inhibiteurs de PARP
+T46	Reponse_a_la_chimiotherapie 7111 7135	carcinose en progression
+T47	Traitement_specifique_du_cancer 7184 7196	capécitabine
+T48	Symptomes 7278 7311	érythrodysesthésie palmoplantaire
+T49	Symptomes 7342 7350	diarrhée
+T50	Biomarqueurs_therapeutiques 2616 2659	mutation c6275_6276delTT dans le gène BRCA2
+T51	Biomarqueurs_therapeutiques 2937 2976	Porteur de mutation dans le gène BRCA 2

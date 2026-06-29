@@ -1,0 +1,14 @@
+T1	Statut_tabagique 176 229	Fumeur actif avec un taux cumulé de 15 paquets-années
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 269 321	Infection par le VIH-1 diagnostiquée en juillet 2006
+T3	Symptomes 963 1109	tremblements principalement dans les membres supérieurs et d'une instabilité de la démarche qui ont provoqué des chutes fréquentes pendant un mois
+T4	Signes_physiques 1402 1910	examen neurologique a révélé des mouvements saccadiques lents, des tremblements de la tête et de la langue, des tremblements au repos des quatre extrémités (principalement gauches) et des tremblements posturaux ; rigidité des membres supérieurs, bradykinésie légère prédominante dans le membre supérieur gauche, Babinsky gauche douteux, démarche avec base d'appui accrue, mouvement des bras préservé avec tendance à l'antéropulsion, claudication du membre inférieur droit et altération des réflexes posturaux
+T5	Histologie_tumorale 4958 4975	Lymphome cérébral
+T6	Topographie_du_primitif 4958 4975	Lymphome cérébral
+T7	Reponse_a_la_chimiotherapie 7416 7854	diminution significative du nombre et de la taille des lésions cérébrales, avec seulement de petits foyers de rehaussement sous-cortical persistant dans la région frontale gauche de 5 mm et dans la région frontale droite du gyrus précentral de 3 mm et des rehaussements. des lignes linéaires dans le corps calleux et un léger épaississement de la tige pituitaire et des zones d'encéphalomalacie frontobasale gauche avec un aspect résiduel
+T8	Symptomes 7916 7958	aggravation de ses symptômes neurologiques
+T9	Signes_physiques 8017 8084	ne plus pouvoir marcher sans support en raison d'une ataxie notable
+T10	Reponse_a_la_chimiotherapie 8137 8169	lésions ont montré une stabilité
+T11	Histologie_tumorale 8344 8385	lymphome primitif à cellules T cérébrales
+T12	Topographie_du_primitif 8344 8385	lymphome primitif à cellules T cérébrales
+T13	Stade_OMS_ECOG_Karnofsky 8667 8671	PS 3
+T14	Traitement_specifique_du_cancer 8723 8750	radiothérapie holocrânienne

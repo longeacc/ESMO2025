@@ -1,0 +1,58 @@
+T1	Statut_tabagique 124 134	non fumeur
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 136 152	sans antécédent 
+T3	Symptomes 320 328	hématome
+T4	Histologie_tumorale 522 530	mélanome
+T5	Traitement_specifique_du_cancer 1017 1025	excision
+T6	Histologie_tumorale 1101 1109	mélanome
+T7	Stade_metastatique_avec_localisations 1171 1178	pT4N1M0
+T8	Stade_metastatique_avec_localisations 1180 1190	Stade IIIB
+T9	Biomarqueurs_therapeutiques 1197 1202	BRAF 
+T10	Signes_physiques 1634 1650	bon état général
+T11	Stade_OMS_ECOG_Karnofsky 1656 1662	ECOG 0
+T12	Histologie_tumorale 2090 2098	Mélanome
+T13	Stade_metastatique_avec_localisations 2106 2113	pT4N1M0
+T14	Stade_metastatique_avec_localisations 2115 2125	Stade IIIB
+T15	Traitement_specifique_du_cancer 2228 2264	traitement adjuvant par interféron à
+T16	Traitement_specifique_du_cancer 2320 2338	interféron alfa 2b
+T17	Stade_metastatique_avec_localisations 3124 3145	adénopathie inguinale
+T18	Histologie_tumorale 3242 3256	tumeur maligne
+T19	Stade_metastatique_avec_localisations 3303 3324	adénopathie inguinale
+T20	Traitement_specifique_du_cancer 3445 3456	dacarbazine
+T21	Reponse_a_la_chimiotherapie 3551 3569	rémission complète
+T22	Histologie_tumorale 3799 3807	mélanome
+T23	Traitement_specifique_du_cancer 3956 3968	carboplatine
+T24	Reponse_a_la_chimiotherapie 4119 4144	progression de la maladie
+T25	Traitement_specifique_du_cancer 4289 4294	taxol
+T26	Traitement_specifique_du_cancer 4331 4342	bevacizumab
+T27	Reponse_a_la_chimiotherapie 4398 4415	réponse dissociée
+T28	Biomarqueurs_therapeutiques 4723 4729	C-KIT 
+T29	Reponse_a_la_chimiotherapie 4804 4829	progression de la maladie
+T30	Reponse_a_la_chimiotherapie 4869 4882	bonne réponse
+T31	Traitement_specifique_du_cancer 4899 4910	dacarbazine
+T32	Traitement_specifique_du_cancer 4930 4942	témozolamide
+T33	Reponse_a_la_chimiotherapie 5082 5099	réponse partielle
+T34	Reponse_a_la_chimiotherapie 5173 5200	stabilisation de la réponse
+T35	Reponse_a_la_chimiotherapie 5315 5336	progression au niveau
+T36	Stade_OMS_ECOG_Karnofsky 5508 5514	ECOG 0
+T37	Traitement_specifique_du_cancer 5534 5544	ipilimumab
+T38	Reponse_a_la_chimiotherapie 5830 5847	réponse dissociée
+T39	Traitement_specifique_du_cancer 5982 5992	ipilimumab
+T40	Reponse_a_la_chimiotherapie 6054 6071	nette progression
+T41	Stade_OMS_ECOG_Karnofsky 6328 6334	ECOG 0
+T42	Histologie_tumorale 6349 6357	mélanome
+T43	Stade_metastatique_avec_localisations 6358 6370	métastatique
+T44	Biomarqueurs_therapeutiques 6385 6389	BRAF
+T45	Biomarqueurs_therapeutiques 6391 6396	NRAS 
+T46	Biomarqueurs_therapeutiques 6399 6404	C-KIT
+T47	Traitement_specifique_du_cancer 6484 6495	fotémustine
+T48	Reponse_a_la_chimiotherapie 6734 6751	réponse partielle
+T49	Reponse_a_la_chimiotherapie 6812 6825	bonne réponse
+T50	Traitement_specifique_du_cancer 6923 6945	résection chirurgicale
+T51	Traitement_specifique_du_cancer 6992 7001	résection
+T52	Traitement_specifique_du_cancer 7024 7036	omentectomie
+T53	Histologie_tumorale 7332 7340	mélanome
+T54	Stade_metastatique_avec_localisations 7385 7405	origine métastatique
+T55	Traitement_specifique_du_cancer 7512 7525	radiothérapie
+T56	Symptomes 7657 7671	asymptomatique
+T57	Stade_OMS_ECOG_Karnofsky 7677 7683	ECOG 0
+T58	Reponse_a_la_chimiotherapie 7753 7782	réponse radiologique complète

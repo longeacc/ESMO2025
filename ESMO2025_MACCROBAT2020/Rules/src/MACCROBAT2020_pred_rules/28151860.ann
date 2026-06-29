@@ -1,13 +1,46 @@
 T1	Age 2 13	60-year-old
 T2	Sex 14 19	woman
-T3	Date 69 73	2016
-T4	Frequency 85 93	frequent
-T5	Duration 121 128	2 weeks
-T6	Frequency 170 178	frequent
-T7	Severity 188 194	severe
-T8	Date 507 518	2 weeks ago
-T9	Volume 560 566	500 mL
-T10	Lab_value 842 849	reduced
-T11	Distance 887 891	1-cm
-T12	Distance 925 929	2 cm
-T13	Date 1331 1343	1 week later
+T3	Clinical_event 32 40	admitted
+T4	Nonbiological_location 44 56	our hospital
+T5	Date 69 73	2016
+T6	Frequency 85 93	frequent
+T7	Sign_symptom 106 116	hemoptysis
+T8	Duration 121 128	2 weeks
+T9	Frequency 170 178	frequent
+T10	Severity 188 194	severe
+T11	Sign_symptom 207 217	hemoptysis
+T12	Disease_disorder 279 288	infection
+T13	Diagnostic_procedure 312 323	examination
+T14	Sign_symptom 382 390	bleeding
+T15	Diagnostic_procedure 392 394	CT
+T16	Biological_structure 395 400	chest
+T17	Disease_disorder 497 506	infection
+T18	Date 507 518	2 weeks ago
+T19	Volume 560 566	500 mL
+T20	Biological_structure 576 581	blood
+T21	Sign_symptom 599 609	hemoptysis
+T22	History 678 717	history of smoking and illicit drug use
+T23	Disease_disorder 761 773	coagulopathy
+T24	Clinical_event 780 789	admission
+T25	Diagnostic_procedure 791 811	physical examination
+T26	Lab_value 842 849	reduced
+T27	Diagnostic_procedure 865 877	Bronchoscopy
+T28	Distance 887 891	1-cm
+T29	Sign_symptom 892 898	lesion
+T30	Biological_structure 917 924	trachea
+T31	Distance 925 929	2 cm
+T32	Biological_structure 954 959	blood
+T33	Biological_structure 1014 1021	trachea
+T34	Diagnostic_procedure 1031 1033	CT
+T35	Diagnostic_procedure 1034 1045	angiography
+T36	Biological_structure 1134 1139	aorta
+T37	Clinical_event 1151 1160	diagnosis
+T38	Biological_structure 1189 1196	trachea
+T39	Biological_structure 1224 1229	blood
+T40	Sign_symptom 1273 1283	hemoptysis
+T41	Biological_structure 1295 1303	arterial
+T42	Date 1331 1343	1 week later
+T43	Detailed_description 1365 1370	acute
+T44	Sign_symptom 1371 1381	hemoptysis
+T45	Clinical_event 1427 1438	followed up
+T46	Nonbiological_location 1578 1586	Hospital

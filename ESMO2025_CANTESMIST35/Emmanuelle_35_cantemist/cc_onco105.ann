@@ -1,0 +1,15 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 37 178	antécédents de déficit modéré en facteur VII de coagulation au niveau hémostatique et d'hypothyroïdie auto-immune associée à une thrombopénie
+T2	Symptomes 271 285	asymptomatique
+T3	Symptomes 653 675	lombalgies bilatérales
+T4	Signes_physiques 774 843	bon état général, bien hydraté, nourri, perfusé et de couleur normale
+T5	Signes_physiques 1276 1336	zone de plus grande consistance intratesticulaire est palpée
+T6	Histologie_tumorale 2845 2864	néoplasie germinale
+T7	Stade_metastatique_avec_localisations 1788 1940	conglomérat adénopathique abdominal de 5,5 cm en situation précavale et une lymphadénopathie rétropéritonéale importante en situation cave interaortique
+T8	Stade_metastatique_avec_localisations 2082 2242	nodules pulmonaires ont été observés dans le lobe supérieur gauche (12 mm), le lobe inférieur droit (8 mm), le lobe inférieur gauche (8 mm) et le lingula (7 mm)
+T9	Traitement_specifique_du_cancer 2489 2511	orchidectomie radicale
+T10	Histologie_tumorale 3126 3154	tumeur à cellules germinales
+T11	Topographie_du_primitif 3193 3212	Tumeur testiculaire
+T12	Traitement_specifique_du_cancer 3515 3633	BEP x 4 cycles (bléomycine 30 U IV les jours 1, 8, 15, étoposide 100 mg/m2/j les jours 1 à 5 et cisplatine 20 mg/m2/j)
+T13	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 573 601	cryptorchidie dans l'enfance
+T14	Signes_physiques 1338 1370	Aucune lymphadénopathie palpable
+T15	Signes_physiques 1213 1250	Testicule droit plus petit que gauche

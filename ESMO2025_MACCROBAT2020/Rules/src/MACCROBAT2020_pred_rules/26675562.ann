@@ -1,18 +1,64 @@
 T1	Age 18 29	50-year old
 T2	Sex 30 33	man
-T3	Distance 217 222	24-mm
-T4	Date 236 240	2006
-T5	Date 249 258	age of 41
-T6	Frequency 298 312	every 6 months
-T7	Severity 324 328	mild
-T8	Date 357 370	After 8 years
-T9	Severity 462 468	severe
-T10	Distance 725 730	42 mm
-T11	Administration 810 818	infusion
-T12	Severity 1122 1128	severe
-T13	Severity 1357 1363	severe
-T14	Distance 1454 1459	21 mm
-T15	Dosage 1621 1630	low doses
-T16	Lab_value 1824 1831	20 mmHg
-T17	Date 1879 1893	after 3 months
-T18	Lab_value 2013 2020	22 mmHg
+T3	Biological_structure 48 60	aortic valve
+T4	Biological_structure 89 94	aorta
+T5	Sign_symptom 95 105	dilatation
+T6	Biological_structure 136 142	aortic
+T7	Distance 217 222	24-mm
+T8	Date 236 240	2006
+T9	Date 249 258	age of 41
+T10	Clinical_event 261 270	Follow-up
+T11	Frequency 298 312	every 6 months
+T12	Severity 324 328	mild
+T13	Biological_structure 329 341	aortic valve
+T14	Date 357 370	After 8 years
+T15	Clinical_event 374 383	follow-up
+T16	Clinical_event 397 406	presented
+T17	Nonbiological_location 410 418	hospital
+T18	Sign_symptom 424 429	fever
+T19	Diagnostic_procedure 438 454	echocardiography
+T20	Severity 462 468	severe
+T21	Biological_structure 469 475	aortic
+T22	Biological_structure 558 565	cardiac
+T23	Diagnostic_procedure 602 619	ejection fraction
+T24	Diagnostic_procedure 621 625	LVEF
+T25	Sign_symptom 651 661	dilatation
+T26	Biological_structure 669 683	left ventricle
+T27	Distance 725 730	42 mm
+T28	Clinical_event 759 768	presented
+T29	Sign_symptom 769 779	orthopnoea
+T30	Sign_symptom 784 795	hypotension
+T31	Administration 810 818	infusion
+T32	Medication 822 830	dopamine
+T33	Medication 835 844	diuretics
+T34	Diagnostic_procedure 846 865	Computed tomography
+T35	Sign_symptom 878 892	calcifications
+T36	Biological_structure 911 918	pleural
+T37	Sign_symptom 945 965	pericardial effusion
+T38	Clinical_event 1047 1056	diagnosis
+T39	Severity 1122 1128	severe
+T40	Sign_symptom 1129 1142	calcification
+T41	Therapeutic_procedure 1156 1165	operation
+T42	Biological_structure 1226 1231	aorta
+T43	Biological_structure 1232 1244	right atrium
+T44	Detailed_description 1245 1252	central
+T45	Therapeutic_procedure 1253 1264	cannulation
+T46	Clinical_event 1347 1356	presented
+T47	Severity 1357 1363	severe
+T48	Sign_symptom 1364 1378	calcifications
+T49	Distance 1454 1459	21 mm
+T50	Therapeutic_procedure 1533 1555	cardiopulmonary bypass
+T51	Medication 1594 1602	dopamine
+T52	Dosage 1621 1630	low doses
+T53	Diagnostic_procedure 1710 1726	Echocardiography
+T54	Clinical_event 1738 1747	discharge
+T55	Biological_structure 1802 1808	aortic
+T56	Lab_value 1824 1831	20 mmHg
+T57	Diagnostic_procedure 1839 1843	LVEF
+T58	Clinical_event 1852 1861	Follow-up
+T59	Diagnostic_procedure 1862 1878	echocardiography
+T60	Date 1879 1893	after 3 months
+T61	Therapeutic_procedure 1903 1912	operation
+T62	Lab_value 2013 2020	22 mmHg
+T63	Diagnostic_procedure 2049 2053	LVEF
+T64	Outcome 2080 2092	asymptomatic

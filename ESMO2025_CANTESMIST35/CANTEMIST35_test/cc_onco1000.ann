@@ -1,0 +1,21 @@
+T1	Histologie_tumorale 351 398	lymphome diffus extranodal à grandes cellules B
+T2	Traitement_specifique_du_cancer 527 533	R-CHOP
+T3	Traitement_specifique_du_cancer 589 614	méthotrexate à forte dose
+T4	Signes_physiques 135 172	palpation d'une tumeur aux deux seins
+T5	Signes_physiques 1269 1277	douleurs
+T6	Signes_physiques 1285 1331	induration au niveau de la queue du sein droit
+T7	Traitement_specifique_du_cancer 1703 1723	radiothérapie locale
+T9	Evolutivite_en_lien_avec_le_cancer 1726 1775	Rechute ultérieure en juillet 2015 au sein gauche
+T8	Histologie_tumorale 2086 2116	carcinome canalaire infiltrant
+T10	Traitement_specifique_du_cancer 2229 2327	chimiothérapie néoadjuvante avec un schéma AC pendant 2 cycles suivi de docétaxel pendant 4 cycles
+T11	Traitement_specifique_du_cancer 2381 2403	mastectomie bilatérale
+T12	Reponse_a_la_chimiotherapie 2444 2530	réponse pathologique complète au sein gauche et aucun signe de néoplasie au sein droit
+T13	Stade_metastatique_avec_localisations 2687 3130	épaississement cutané nodulaire dans la paroi thoracique gauche de 1,9 cm (SUVmax 16,9), dans le lobe hépatique droit une lésion hypermétabolique de 4,6 x 4,2 cm (SUVmax 14,7), hypertrophie surrénalienne gauche de 3 x 2,2 cm (SUVmax 12,1), adénopathie pathologique iliaque externe droite de 1,4 cm (SUVmax 14) et adénopathie radiculaire cuisse droite mesurant 1 cm (SUVmax 8,4), le tout d'entre eux nouveaux et compatibles avec les métastases.
+T15	Reponse_a_la_chimiotherapie 3169 3284	apparition de métastases et l’excellente réponse pathologique du carcinome canalaire infiltrant à la chimiothérapie
+T14	Histologie_tumorale 3378 3431	lymphome diffus à grandes cellules B de sous-type ABC
+T16	Reponse_a_la_chimiotherapie 3518 3722	excellente réponse clinique initiale après le premier cycle, mais avec une progression immédiate avant le deuxième cycle avec l'apparition d'une masse indurée d'environ 10 cm au niveau de la cuisse droite
+T17	Traitement_specifique_du_cancer 3780 3787	R-GEMOX
+T18	Reponse_a_la_chimiotherapie 3822 3915	la lésion de la paroi thoracique a progressé (avec stabilité du reste des lésions au scanner)
+T19	Traitement_specifique_du_cancer 4194 4216	rituximab-lénalidomide
+T20	Reponse_a_la_chimiotherapie 4264 4331	détérioration respiratoire liée à une progression tumorale probable
+T21	Traitement_specifique_du_cancer 276 299	tumorectomie bilatérale

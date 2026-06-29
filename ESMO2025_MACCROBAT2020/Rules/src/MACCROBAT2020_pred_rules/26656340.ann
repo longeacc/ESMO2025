@@ -1,8 +1,35 @@
-T1	Age 201 211	4-year-old
-T2	Sex 212 218	female
-T3	Sex 344 348	girl
-T4	Age 367 378	2 years old
-T5	Texture 508 512	hard
-T6	Texture 560 566	smooth
-T7	Lab_value 595 603	increase
-T8	Texture 1131 1135	soft
+T1	Detailed_description 68 75	Central
+T2	Nonbiological_location 76 84	Hospital
+T3	Subject 103 110	parents
+T4	Age 201 211	4-year-old
+T5	Sex 212 218	female
+T6	Clinical_event 225 234	presented
+T7	Sign_symptom 310 318	swelling
+T8	Sex 344 348	girl
+T9	Age 367 378	2 years old
+T10	Subject 384 391	parents
+T11	Biological_structure 416 422	facial
+T12	Diagnostic_procedure 469 478	palpation
+T13	Texture 508 512	hard
+T14	Biological_structure 533 537	skin
+T15	Sign_symptom 547 555	swelling
+T16	Texture 560 566	smooth
+T17	Lab_value 595 603	increase
+T18	History 641 662	history of any trauma
+T19	Sign_symptom 664 668	pain
+T20	Clinical_event 674 683	discharge
+T21	Biological_structure 685 690	blood
+T22	Clinical_event 691 700	discharge
+T23	Sign_symptom 702 707	fever
+T24	Sign_symptom 735 746	weight loss
+T25	Diagnostic_procedure 1048 1067	computed tomography
+T26	Sign_symptom 1111 1118	lesions
+T27	Texture 1131 1135	soft
+T28	Sign_symptom 1239 1246	lesions
+T29	Diagnostic_procedure 1292 1298	biopsy
+T30	Detailed_description 1321 1328	central
+T31	Diagnostic_procedure 1363 1374	examination
+T32	Biological_structure 1531 1536	blood
+T33	Sign_symptom 1584 1591	lesions
+T34	Therapeutic_procedure 1672 1693	surgical intervention
+T35	Clinical_event 1730 1741	followed up

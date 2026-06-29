@@ -1,16 +1,61 @@
 T1	Age 2 13	28-year-old
 T2	Sex 14 19	woman
-T3	Duration 40 46	4-week
-T4	Severity 70 78	moderate
-T5	Weight 155 160	10 kg
-T6	Duration 166 174	3 months
-T7	Date 368 386	7 years previously
-T8	Administration 493 497	oral
-T9	Distance 776 782	2.5 cm
-T10	Severity 902 911	extensive
-T11	Duration 1248 1256	3 second
-T12	Duration 1397 1404	6 weeks
-T13	Severity 1559 1569	moderately
-T14	Severity 1625 1631	severe
-T15	Date 1742 1757	18 months after
-T16	Lab_value 1798 1810	unremarkable
+T3	Clinical_event 24 32	referred
+T4	Duration 40 46	4-week
+T5	History 47 68	history of continuous
+T6	Severity 70 78	moderate
+T7	Sign_symptom 100 104	pain
+T8	Sign_symptom 121 129	jaundice
+T9	Sign_symptom 142 153	weight loss
+T10	Duration 166 174	3 months
+T11	Biological_structure 182 187	liver
+T12	Sign_symptom 188 192	mass
+T13	Diagnostic_procedure 207 222	ultrasonography
+T14	Sign_symptom 228 232	pain
+T15	Detailed_description 339 351	laparoscopic
+T16	Therapeutic_procedure 352 367	cholecystectomy
+T17	Date 368 386	7 years previously
+T18	Diagnostic_procedure 391 411	physical examination
+T19	Sign_symptom 433 437	mass
+T20	Sign_symptom 456 463	icterus
+T21	Administration 493 497	oral
+T22	Biological_structure 509 513	skin
+T23	Diagnostic_procedure 543 562	computed tomography
+T24	Diagnostic_procedure 564 566	CT
+T25	Diagnostic_procedure 599 602	PET
+T26	Detailed_description 608 618	endoscopic
+T27	Therapeutic_procedure 694 704	laparotomy
+T28	Detailed_description 706 720	Intraoperative
+T29	Diagnostic_procedure 721 736	ultrasonography
+T30	Sign_symptom 755 761	lesion
+T31	Distance 776 782	2.5 cm
+T32	Detailed_description 794 801	central
+T33	Biological_structure 817 822	liver
+T34	Detailed_description 824 832	anterior
+T35	Detailed_description 855 869	Intraoperative
+T36	Severity 902 911	extensive
+T37	Sign_symptom 912 921	stricture
+T38	Biological_structure 944 951	hepatic
+T39	Biological_structure 994 1001	hepatic
+T40	Therapeutic_procedure 1025 1034	lobectomy
+T41	Diagnostic_procedure 1099 1110	examination
+T42	Therapeutic_procedure 1131 1138	excised
+T43	Detailed_description 1161 1170	malignant
+T44	Therapeutic_procedure 1178 1192	Reconstruction
+T45	Duration 1248 1256	3 second
+T46	Biological_structure 1257 1266	bile duct
+T47	Biological_structure 1283 1293	right side
+T48	Therapeutic_procedure 1313 1325	radiotherapy
+T49	Duration 1397 1404	6 weeks
+T50	Therapeutic_procedure 1435 1444	radiation
+T51	Therapeutic_procedure 1460 1469	resection
+T52	Therapeutic_procedure 1488 1495	surgery
+T53	Sign_symptom 1532 1538	tumour
+T54	Severity 1559 1569	moderately
+T55	Disease_disorder 1585 1608	squamous cell carcinoma
+T56	Severity 1625 1631	severe
+T57	Outcome 1691 1700	recovered
+T58	Outcome 1731 1741	doing well
+T59	Date 1742 1757	18 months after
+T60	Lab_value 1798 1810	unremarkable
+T61	Diagnostic_procedure 1811 1813	CT

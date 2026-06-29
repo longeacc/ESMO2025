@@ -1,0 +1,3226 @@
+{
+    "ent_cat": {
+        "histologie_tumorale": [
+            "category?",
+            "['adénocarcinome']",
+            "['à grandes cellules']",
+            "['neuroendocrinienne', 'insulinome', 'neuroendocrine', 'neuroendocrinien']",
+            "['tumeur mésenchymateuse']",
+            "['tumeur germinale', 'tératome', 'tumeur...20germinale', 'néoplasie germinale', 'séminome', 'testiculaire']",
+            "['carcinome épidermoïde']",
+            "['mélanome']",
+            "['carcinome canalaire infiltrant', 'carcinome canalaire', 'carcinome lobulaire', 'luminal', 'carcinome infiltrant', 'carcinome mammaire']",
+            "['adénocarcinome séreux papillaire']",
+            "['merkel']",
+            "['lymphome', 'leucémie']",
+            "['mucineux', 'mucineuse']",
+            "['urothélial']"
+        ],
+        "traitement_specifique_du_cancer": [
+            "category?",
+            "['chimiothérapie']",
+            "['radiothérapie']",
+            "['pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide']",
+            "['tumorectomie', 'orchidectomie', 'mastectomie', 'pancréatectomie', 'amputation abdomino', 'lobectomie', 'néphrectomie', 'métastasectomie', 'oesophagectomie']",
+            "['ipilimumab', 'nivolumab', 'pembrolizumab', 'trastuzumab', 'pertuzumab']",
+            "['létrozole', 'letrozole', 'tamoxifène', 'tamoxifene', 'faslodex', 'anastrozole', 'fulvestrant']",
+            "['chimioembolisation']",
+            "['allogreffe', 'autogreffe']"
+        ],
+        "signes_physiques": [
+            "category?",
+            "['pâleur']",
+            "['hypoglycémie']",
+            "['œdème']",
+            "['douleur']"
+        ],
+        "evolutivite_en_lien_avec_le_cancer": [
+            "category?"
+        ],
+        "reponse_a_la_chimiotherapie": [
+            "category?",
+            "['rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse']",
+            "['progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute']",
+            "['stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale']",
+            "['réponse...15dissociée']"
+        ],
+        "stade_metastatique_avec_localisations": [
+            "category?",
+            "['métastase', 'métastatique']",
+            "['stade iv', 'stade 4', 'stade IV']",
+            "['lésions...20secondaires', 'lésions...20secondaire']",
+            "['m0', 'm1']",
+            "['implants péritonéaux', 'implant péritonéal']",
+            "['carcinose']",
+            "['t.n.m.', 'pt.n.m.', 'ct.n.m.', 'pt..n.m.']"
+        ],
+        "statut_tabagique": [
+            "category?",
+            "['paquet', 'paquets/an', 'paquets-années']",
+            "['ex-fumeuse', 'ex-fumeur']",
+            "['fumeuse', 'fumeur']"
+        ],
+        "atcd_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge": [
+            "category?",
+            "['sans antécédent', \"pas d'antécédent\", 'aucun antécédent']",
+            "['sans allergie', \"pas d'allergie\", 'aucune allergie']",
+            "['hypertension']"
+        ],
+        "stade_oms_ecog_karnofsky": [
+            "category?",
+            "['oms1', 'oms2', 'oms3', 'oms4', 'oms0']",
+            "['oms 1', 'oms 2', 'oms 3', 'oms 4', 'oms 0']",
+            "['ecog1', 'ecog2', 'ecog3', 'ecog4', 'ecog0']",
+            "['ps0', 'ps1', 'ps2', 'ps3', 'ps4']",
+            "['ps 0', 'ps 1', 'ps 2', 'ps 3', 'ps 4']",
+            "['ecog 0', 'ecog 1', 'ecog 2', 'ecog 3', 'ecog 4']",
+            "['karnofsky 0', 'karnofsky 1', 'karnofsky 2', 'karnofsky 3', 'karnofsky 4']",
+            "['karnofsky...5 0', 'karnosky...5 1', 'karnosky...5 2', 'karnofsky...5 3', 'karnofsky...5 4']"
+        ],
+        "biomarqueurs_therapeutiques": [
+            "category?",
+            "['her-2/neu négatif', 'her-2 négatif', 'her2 négatif']",
+            "['récepteurs hormonaux positifs', 'récepteurs hormonaux négatifs']",
+            "['mutation...15 brca', 'brca...5 muté']",
+            "['mutation....15 braf', 'raf...15 muté']",
+            "['mutation...15 ras', 'ras... 15 muté']"
+        ],
+        "topographie_du_primitif": [
+            "category?",
+            "['carcinome...10 pancréas', 'carcinome...40 pancréas', 'adénocarcinome ...40 pancréas']",
+            "['adénocarcinome ...20 rectum', 'adénocarcinome ...20 rectal']",
+            "['adénocarcinome de la jonction', 'adénocarcinome gastrique', 'adénocarcinome ...20 jonction']",
+            "['carcinome ...20 col']",
+            "['carcinome pulmonaire', 'cancer ...10 poumon', 'adénocarcinome ...20 pulmonaire', 'adénocarcinome ...20 poumon']",
+            "['carcinome ...30 mammaire', 'cancer ...30 sein', 'carcinome ...30 sein', 'cancer ...30 sein']",
+            "['tumeur ...20 testiculaire', 'tumeur ...20 testicule']",
+            "['mésothéliome pleural']",
+            "['adénocarcinome ovarien', 'adénocarcinome ...20 ovarien', 'adénocarcinome ...40 ovaire']",
+            "['tumeur ...20 marge anale', 'néoformation ...25 marge anale']",
+            "['insulinome pancréatique', 'tumeur neuroendocrine ...10 pancréas', 'tumeur neuroendocrine ...10 pancréatique']",
+            "['mélanome']",
+            "['lymphome ...20 cérébral', 'lymphome ...25 cérébral']",
+            "['adénocarcinome ...20 endomètre', 'adénocarcinome ...25 endomètre']"
+        ],
+        "symptomes": [
+            "category?",
+            "['douleur']",
+            "['perte de poids']",
+            "['selles liquides verdâtres', 'selles méléniques', 'diarrhée', 'selles liquides']",
+            "['crampes']",
+            "['alopécie']",
+            "['asthénie']",
+            "['nausées']"
+        ]
+    },
+    "list_isNotFP": [
+        [
+            "'antécédent', 'antécédents'",
+            "TP(corr)",
+            true,
+            false,
+            "...mnèse\r\nune patiente de 33 ans, sans allergie médicamenteuse connue ni antécédent médical intéressant, a consulté en avril 2010 pour palpation d'une tu...",
+            "cc_onco1000.txt",
+            [
+                73,
+                83
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...ne biopsie a été réalisée avec un résultat anatomopathologique (ap) d'adénocarcinome colorectal.\r\n» endoscopie basse (19/07/2006) : néoformation entre 1 e...",
+            "cc_onco110.txt",
+            [
+                766,
+                780
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...e procéder à une intervention chirurgicale. résultat ap : métastase d'adénocarcinome d'origine colorectale. analyse kras : native. après cette interventio...",
+            "cc_onco110.txt",
+            [
+                3021,
+                3035
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...c.329del » du gène msh2) avec des antécédents de diagnostic en 2002 d'adénocarcinome du côlon droit pt3n1m0 traité par hémicolectomie droite et chimiothér...",
+            "cc_onco120.txt",
+            [
+                181,
+                195
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...levées par endoscopie.\r\n\r\nrésultat ap compatible avec une métastase d'adénocarcinome d'origine colorectale.\r\n\r\nun pet-ct a été réalisé ultérieurement, san...",
+            "cc_onco110.txt",
+            [
+                3933,
+                3947
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...ne tumeur rétropéritonéale droite. ganglion lymphatique : métastase d'adénocarcinome avec différenciation mucineuse. immunohistochimie : cellules positive...",
+            "cc_onco120.txt",
+            [
+                2212,
+                2226
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...ervicale gauche fnac : cytologie positive pour malignité. métastase d'adénocarcinome. immunohistochimie : ck (ae1/ae3) : positivité cytoplasmique d'intens...",
+            "cc_onco120.txt",
+            [
+                3649,
+                3663
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "...on ont été réalisées, avec des résultats pathologiques : métastases d'adénocarcinome intestinal intensément nécrotique.\r\naprès l'intervention chirurgicale...",
+            "cc_onco138.txt",
+            [
+                3343,
+                3357
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'adénocarcinome'",
+            "TP(corr)",
+            true,
+            false,
+            "..., ayant des antécédents de diabète sucré de type 2 bien contrôlé et d'adénocarcinome du côlon de stade c de dukes 14 ans auparavant, traitée par chirurgie...",
+            "cc_onco141.txt",
+            [
+                140,
+                154
+            ],
+            "no annotation",
+            "adénocarcinome"
+        ],
+        [
+            "'tumeur mésenchymateuse'",
+            "TP(corr)",
+            true,
+            false,
+            "... de 6 cm, superficielle au muscle deltoïde droit, compatible avec une tumeur mésenchymateuse. nodules pulmonaires de 3 mm, dans le lingula1, le lii3 et le segment...",
+            "cc_onco133.txt",
+            [
+                1306,
+                1328
+            ],
+            "no annotation",
+            "tumeur mésenchymateuse"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...entaires\r\nen cas de suspicion de métastase cutanée, de lymphome ou de mélanome, une biopsie de l'une des lésions décrites a été réalisée, qui rappor...",
+            "cc_onco115.txt",
+            [
+                1530,
+                1538
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...ée d'un cancer du sein (bc) et la cousine paternelle est décédée d'un mélanome.\r\n\r\nen août 2009, la patiente a été diagnostiquée avec un carcinome c...",
+            "cc_onco109.txt",
+            [
+                328,
+                336
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "..., la métastase surrénale a été réséquée avec des cas de métastases de mélanome.\r\nen juin 2009, le scanner de contrôle révèle deux lésions de 2 cm, l...",
+            "cc_onco140.txt",
+            [
+                3799,
+                3807
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'carcinome canalaire infiltrant', 'carcinome canalaire', 'carcinome lobulaire', 'luminal', 'carcinome infiltrant', 'carcinome mammaire'",
+            "TP(corr)",
+            true,
+            false,
+            "...re l’apparition de métastases et l’excellente réponse pathologique du carcinome canalaire infiltrant à la chimiothérapie, une biopsie de la paroi thoracique gauche a été ...",
+            "cc_onco1000.txt",
+            [
+                3234,
+                3264
+            ],
+            "no annotation",
+            "carcinome canalaire infiltrant"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...astre mesurant 1 cm, la biopsie était positive pour des métastases de mélanome ; les nodules ont été retirés, confirmant l'origine métastatique, l'a...",
+            "cc_onco140.txt",
+            [
+                7332,
+                7340
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'merkel'",
+            "TP(corr)",
+            true,
+            false,
+            "...e est donc réalisée, aboutissant à nouveau à une tumeur à cellules de merkel. au scanner de réévaluation, la disparition de l'adénopathie abdomina...",
+            "cc_onco111.txt",
+            [
+                2542,
+                2548
+            ],
+            "no annotation",
+            "merkel"
+        ],
+        [
+            "'neuroendocrinienne', 'insulinome', 'neuroendocrine', 'neuroendocrinien'",
+            "TP(corr)",
+            true,
+            false,
+            "...immunohistochimie a montré une positivité pour les marqueurs tumoraux neuroendocrines cd56, la synaptophysine et la chromogranine. la positivité de ttf1 et...",
+            "cc_onco103.txt",
+            [
+                1661,
+                1676
+            ],
+            "no annotation",
+            "neuroendocrines"
+        ],
+        [
+            "'neuroendocrinienne', 'insulinome', 'neuroendocrine', 'neuroendocrinien'",
+            "TP(corr)",
+            true,
+            false,
+            "... pathologique, des cellules compatibles avec les métastases tumorales neuroendocrines sont obtenues.\r\n» une scintigraphie à l'octéotride est demandée, qui ...",
+            "cc_onco118.txt",
+            [
+                911,
+                926
+            ],
+            "no annotation",
+            "neuroendocrines"
+        ],
+        [
+            "'tumeur germinale', 'tératome', 'tumeur...20germinale', 'néoplasie germinale', 'tumeur...20germinales', 'séminome', 'testiculaire'",
+            "TP(corr)",
+            true,
+            false,
+            "... cicatricielle était compatible avec une tumeur à cellules germinales testiculaires brûlées.\r\n\r\ndiagnostic\r\ntumeur testiculaire brûlée avec élévation iso...",
+            "cc_onco105.txt",
+            [
+                3155,
+                3168
+            ],
+            "no annotation",
+            "testiculaires"
+        ],
+        [
+            "'tumeur germinale', 'tératome', 'tumeur...20germinale', 'néoplasie germinale', 'tumeur...20germinales', 'séminome', 'testiculaire'",
+            "TP(corr)",
+            true,
+            false,
+            "...ur à cellules germinales testiculaires brûlées.\r\n\r\ndiagnostic\r\ntumeur testiculaire brûlée avec élévation isolée de l'alpha-fœtoprotéine, igccc à risque ...",
+            "cc_onco105.txt",
+            [
+                3200,
+                3212
+            ],
+            "no annotation",
+            "testiculaire"
+        ],
+        [
+            "'carcinome canalaire infiltrant', 'carcinome canalaire', 'carcinome lobulaire', 'luminal', 'carcinome infiltrant', 'carcinome mammaire'",
+            "TP(corr)",
+            true,
+            false,
+            "...e adp supraclaviculaire droite (fnac) : métastases provenant d'un dci mammaire à récepteurs hormonaux positifs.\r\n» analytique : cea 10,23 ng/ml (val...",
+            "cc_onco109.txt",
+            [
+                2050,
+                2058
+            ],
+            "no annotation",
+            "mammaire"
+        ],
+        [
+            "'lymphome', 'leucémie'",
+            "TP(corr)",
+            true,
+            false,
+            "... biopsie de la moelle osseuse, qui n’a pas démontré d’infiltration de lymphome et aucune population clonale pathologique b ou t n’a été détectée.\r\n\r...",
+            "cc_onco16.txt",
+            [
+                6903,
+                6911
+            ],
+            "no annotation",
+            "lymphome"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...xcellente réponse pathologique du carcinome canalaire infiltrant à la chimiothérapie, une biopsie de la paroi thoracique gauche a été réalisée avec pour r...",
+            "cc_onco1000.txt",
+            [
+                3270,
+                3284
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... d'environ 10 cm au niveau de la cuisse droite, une nouvelle ligne de chimiothérapie commence donc avec r-gemox. après deux cycles de traitement, la lésio...",
+            "cc_onco1000.txt",
+            [
+                3746,
+                3760
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...et le suivi. compte tenu du diagnostic susmentionné, un traitement de chimiothérapie a été débuté avec le schéma carboplatine-paclitaxel-bevacizumab, avec...",
+            "cc_onco102.txt",
+            [
+                2131,
+                2145
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...lement avancé ou métastatique après échec d'au moins un traitement de chimiothérapie antérieur. cela commence par une dose de 150 mg/jour, qui doit être r...",
+            "cc_onco102.txt",
+            [
+                3505,
+                3519
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...clusivement pleurale et ganglionnaire, se prêtant à un traitement par chimiothérapie (ct) à visée palliative.\r\n\r\ntraitement\r\nil a commencé un traitement e...",
+            "cc_onco103.txt",
+            [
+                2346,
+                2360
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...ogression était très court, la maladie avait parfaitement répondu aux chimiothérapies précédentes. etant donné que l'efficacité des deuxièmes lignes dans c...",
+            "cc_onco103.txt",
+            [
+                3929,
+                3944
+            ],
+            "no annotation",
+            "chimiothérapies"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... mais < 10), stade royal marsden ivl.\r\n\r\ntraitement\r\nle traitement de chimiothérapie devait débuter par un schéma bep x 4 cycles (bléomycine 30 u iv les j...",
+            "cc_onco105.txt",
+            [
+                3471,
+                3485
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...de sa demi-vie.\r\nactuellement, le patient a terminé son traitement de chimiothérapie et est en attente d'une réévaluation par scanner cervico-thoraco-abdo...",
+            "cc_onco105.txt",
+            [
+                4147,
+                4161
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...in. après stabilisation clinique, le 10/07/2014, la première ligne de chimiothérapie a été administrée selon le schéma taxol 100 mg (m2) + gemcitabine 1 0...",
+            "cc_onco107.txt",
+            [
+                7952,
+                7966
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...ostic\r\nadénocarcinome rectal ut3 n1 mx. stade iii.\r\n\r\ntraitement\r\nune chimiothérapie (qt) au 5-fu et une radiothérapie concomitante (rt) à visée néoadjuva...",
+            "cc_onco110.txt",
+            [
+                1450,
+                1464
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...lle a été classée comme ayant un stade métastatique. le traitement de chimiothérapie a débuté le 25/06/2014 selon le schéma carboplatine-étoposide tous le...",
+            "cc_onco111.txt",
+            [
+                2230,
+                2244
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... par chimiothérapie de type fac a donc été débuté, car aucun essai de chimiothérapie de première ligne n'était disponible à ce moment-là.\r\n\r\névolution\r\nen...",
+            "cc_onco119.txt",
+            [
+                3716,
+                3730
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... 20 %, le traitement a été débuté en août de la même année (2011) par chimiothérapie, cisplatine 75 mg/m2 jour 1 et étoposide 100 mg/m2 jours 1, 2 et 3 ch...",
+            "cc_onco128.txt",
+            [
+                2137,
+                2151
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...ion néoplasique.\r\n» evolution analytique au début du premier cycle de chimiothérapie :\r\n- hémoglobine 9,5 -> 9,2 -> 8,8 -> 9,1.\r\n- plaquettes 84 000 -> 62...",
+            "cc_onco129.txt",
+            [
+                4345,
+                4359
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...-> 294 -> 491 -> 688.\r\n» evolution analytique après deuxième cycle de chimiothérapie :\r\n- hémoglobine 8,9 -> 10,2 -> 9,0 -> 8,8.\r\n- plaquettes 36 000 -> 3...",
+            "cc_onco129.txt",
+            [
+                4625,
+                4639
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...oxicité. le traitement par acide zolédronique a été instauré avant la chimiothérapie.\r\n\r\névolution\r\nen raison de l'atteinte osseuse étendue, le patient pr...",
+            "cc_onco129.txt",
+            [
+                6156,
+                6170
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...n fonction de la réponse.\r\n\r\ntraitement\r\nil a débuté un traitement de chimiothérapie par cddp en monothérapie à la dose de 100 mg/m2, dont il a reçu un to...",
+            "cc_onco13.txt",
+            [
+                3507,
+                3521
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...quatrième cycle : ldh 353, afp 2 326, bêta-hgc 2).\r\n\r\nle scanner post-chimiothérapie a montré une réduction minime de la masse, le patient a donc été réfé...",
+            "cc_onco148.txt",
+            [
+                2123,
+                2137
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...'oncologie pédiatrique, il a été décidé de commencer un traitement de chimiothérapie d'intensification avec intention néoadjuvante et une chirurgie radica...",
+            "cc_onco13.txt",
+            [
+                3338,
+                3352
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...e trois cycles entre juillet et septembre 2014. après trois cycles de chimiothérapie par cddp, le patient présentait une maladie radiologiquement stable.\r...",
+            "cc_onco13.txt",
+            [
+                3666,
+                3680
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...biliaire interne-externe. après normalisation du bt, le traitement de chimiothérapie a débuté (bloc a1) le 12 novembre 2014 et le bloc a3 (jour +78) s'est...",
+            "cc_onco13.txt",
+            [
+                4657,
+                4671
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'radiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...le biopsie (anatomie pathologique compatible avec dlbcl), traitée par radiothérapie locale exclusive.\r\nle suivi ultérieur a commencé sans signe de maladi...",
+            "cc_onco1000.txt",
+            [
+                1861,
+                1874
+            ],
+            "no annotation",
+            "radiothérapie"
+        ],
+        [
+            "'radiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...avec un œdème périlésionnel modéré compatible avec des métastases. la radiothérapie holocrânienne (dose totale 20 gy) a été réalisée en 10 fractions, ave...",
+            "cc_onco107.txt",
+            [
+                8730,
+                8743
+            ],
+            "no annotation",
+            "radiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...\r\n\r\ntraitement\r\nil a été décidé de débuter un traitement adjuvant par chimiothérapie fluorouracile, épirubicine et cyclophosphamide (fec) pendant 6 cycles...",
+            "cc_onco150.txt",
+            [
+                2753,
+                2767
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...vacizumab.\r\n\r\nmaladie actuelle\r\ndouze jours après le dernier cycle de chimiothérapie, le patient s'est présenté aux urgences avec des antécédents de nausé...",
+            "cc_onco159.txt",
+            [
+                2949,
+                2963
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... et l'ont renvoyé dans notre centre. en avril 2014, il a commencé une chimiothérapie par oxaliplatine-gemcitabine-taxol, dont il a reçu quatre cycles, ave...",
+            "cc_onco148.txt",
+            [
+                2884,
+                2898
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... les consultations d'oncologie.\r\nen septembre 2012, il a commencé une chimiothérapie de première intention par doxorubicine 75 mg/m2 (dt : 150 mg).\r\nil a ...",
+            "cc_onco133.txt",
+            [
+                3888,
+                3902
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "... pt3an0m1.\r\n\r\ntraitement\r\nil a été décidé de débuter un traitement de chimiothérapie palliative le 9/12/2014 avec adriamycine 75 mg/m2 jour 1 + ifosfamide...",
+            "cc_onco134.txt",
+            [
+                2782,
+                2796
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...de le sortir et d'effectuer une surveillance en clinique externe.\r\nla chimiothérapie a été débutée par un schéma hebdomadaire de gemcitabine, dont il a re...",
+            "cc_onco158.txt",
+            [
+                4119,
+                4133
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...ouvelle progression tumorale, en novembre 2014, une nouvelle ligne de chimiothérapie a été démarrée avec folfox 6 et du bevacizumab bihebdomadaire aux dos...",
+            "cc_onco159.txt",
+            [
+                2295,
+                2309
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'chimiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...on. en revoyant l'analyse précédente, par rapport au dernier cycle de chimiothérapie, la créatinine était de 0,67 mg/dl et le potassium de 4,1 mmol/l.\r\n» ...",
+            "cc_onco159.txt",
+            [
+                4398,
+                4412
+            ],
+            "no annotation",
+            "chimiothérapie"
+        ],
+        [
+            "'radiothérapie'",
+            "TP(corr)",
+            true,
+            false,
+            "...tase occipitale. une fois la résection exclue, elle a été traitée par radiothérapie holocrânienne, avec une dose totale de 30 gy administrée en dix séanc...",
+            "cc_onco159.txt",
+            [
+                2074,
+                2087
+            ],
+            "no annotation",
+            "radiothérapie"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...raissant.\r\naprès 4 ans et 11 mois depuis le début du traitement par l'erlotinib, le patient reste avec une maladie stable, avec un très bon état géné...",
+            "cc_onco102.txt",
+            [
+                3763,
+                3772
+            ],
+            "no annotation",
+            "erlotinib"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "... traitement adjuvant xelox (capécitabine et oxaliplatine), retirant l'oxaliplatine du cycle numéro 2 en raison d'une neurotoxicité persistante de grade ...",
+            "cc_onco110.txt",
+            [
+                3558,
+                3570
+            ],
+            "no annotation",
+            "oxaliplatine"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...e traitement de chimiothérapie a débuté le 25/06/2014 selon le schéma carboplatine-étoposide tous les 21 jours.\r\n\r\névolution\r\naprès le quatrième cycle, ...",
+            "cc_onco111.txt",
+            [
+                2284,
+                2296
+            ],
+            "no annotation",
+            "carboplatine"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...de chimiothérapie a débuté le 25/06/2014 selon le schéma carboplatine-étoposide tous les 21 jours.\r\n\r\névolution\r\naprès le quatrième cycle, des lésion...",
+            "cc_onco111.txt",
+            [
+                2297,
+                2306
+            ],
+            "no annotation",
+            "étoposide"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "... oncologie et en optant donc pour un traitement d'intensification aux anthracyclines et platine, 80 mg/m2 de cddp a été administré le 24 septembre 2014 et...",
+            "cc_onco13.txt",
+            [
+                4009,
+                4023
+            ],
+            "no annotation",
+            "anthracyclines"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...24 heures. jours +8 et +15, cddp 70 mg/m2 en cp 24 h. jours +8 et +9, doxorubicine 30 mg/m2.\r\n» bloc a2 : jours +29, 36 et +43, cddp 70 mg/m2 en cp 24 h...",
+            "cc_onco13.txt",
+            [
+                4283,
+                4295
+            ],
+            "no annotation",
+            "doxorubicine"
+        ],
+        [
+            "'létrozole', 'letrozole', 'tamoxifène', 'tamoxifene', 'faslodex', 'anastrozole', 'fulvestrant'",
+            "TP(corr)",
+            true,
+            false,
+            "...ifène pendant 2 ans (de mars 2010 à mars 2012), en continuant avec le tamoxifène jusqu'à la fin de 5 ans. en mars 2015, alors qu'il était encore sous ...",
+            "cc_onco109.txt",
+            [
+                1475,
+                1485
+            ],
+            "no annotation",
+            "tamoxifène"
+        ],
+        [
+            "'tumorectomie', 'orchidectomie', 'mastectomie', 'pancréatectomie', 'amputation abdomino', 'lobectomie', 'néphrectomie', 'métastasectomie', 'oesophagectomie'",
+            "TP(corr)",
+            true,
+            false,
+            "...ésité-hypoventilation et d'hypothyroïdie auto-immune. elle a subi une néphrectomie gauche pour pyélonéphrite granulomateuse secondaire à un calcul colar...",
+            "cc_onco153.txt",
+            [
+                171,
+                183
+            ],
+            "no annotation",
+            "néphrectomie"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...2 : jours +29, 36 et +43, cddp 70 mg/m2 en cp 24 h. jours +36 et +37, doxorubicine 30 mg/m2.\r\n» bloc a3 : jours +57 et +64, cddp 70 mg/m2 en cp 24 h. jo...",
+            "cc_onco13.txt",
+            [
+                4385,
+                4397
+            ],
+            "no annotation",
+            "doxorubicine"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...oc a3 : jours +57 et +64, cddp 70 mg/m2 en cp 24 h. jours +57 et +58, doxorubicine 30 mg/m2.\r\nil a été décidé, préalablement à la chimiothérapie, de met...",
+            "cc_onco13.txt",
+            [
+                4483,
+                4495
+            ],
+            "no annotation",
+            "doxorubicine"
+        ],
+        [
+            "'pertuzumab + trastuzumab + docétaxel', 'oxaliplatine', 'docétaxel', 'cisplatine', 'capécitabine', 'pazopanib', 'sunitinib', '5-fluorouracile', 'topotécan', 'everolimus', 'évérolimus', 'topotecan', 'doxorubicine', 'vinorelbine', 'docetaxel', 'paclitaxel', 'vismodégib', 'vismodegib', 'gemcitabine', 'r-chop', 'r-gemox', 'erlotinib', 'carboplatine', 'fac', 'taxol', 'gemox', 'dacarbazine', 'temozolamide', 'témozolamide', 'méthotrexate', 'fluorouracile', 'folfiri', 'mfolfox', 'folfox', 'vémurafenib', 'vémurafénib', 'anthracycline', 'adriamycine', 'étoposide', 'etoposide', 'cyclophosphamide', 'mfolfox4', 'mfolfox6', 'ifosfamide'",
+            "TP(corr)",
+            true,
+            false,
+            "...nner évocatrices d'une toxicité pulmonaire probablement secondaire au docétaxel ; pour cette raison, la dose a été réduite de 20 % à partir du quatri...",
+            "cc_onco133.txt",
+            [
+                4822,
+                4831
+            ],
+            "no annotation",
+            "docétaxel"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "...pie à base de platine, en raison de la sensibilité présentée et de la réponse obtenue. cependant, l’émergence de mécanismes de résistance est inévi...",
+            "cc_onco103.txt",
+            [
+                4968,
+                4975
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "...e chimioembolisation hépatique a été réalisée à quatre reprises, sans réponse tumorale cytoréductrice.\r\nune laparotomie exploratoire avec pancréate...",
+            "cc_onco118.txt",
+            [
+                1942,
+                1949
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "...nstauré. elle présentait la réponse partielle (pr) comme la meilleure réponse, jusqu'en juillet 2012, date à laquelle une progression clinique loca...",
+            "cc_onco119.txt",
+            [
+                3231,
+                3238
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "...l maintient actuellement avoir atteint la meilleure réponse, soit une réduction de 17 %, c'est-à-dire qu'il n'y a aucun changement dû aux critères re...",
+            "cc_onco128.txt",
+            [
+                5405,
+                5414
+            ],
+            "no annotation",
+            "réduction"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "... sc avec une bonne tolérance. l'évaluation après six cycles était une rémission complète de toutes les lésions, à l'exclusion des métastases surrénal...",
+            "cc_onco140.txt",
+            [
+                3551,
+                3560
+            ],
+            "no annotation",
+            "rémission"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "...lle, puisque la masse mesure désormais 36 mm. compte tenu de la bonne réponse et de la localisation unique dans l'hypochondre gauche confirmée par ...",
+            "cc_onco140.txt",
+            [
+                6818,
+                6825
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "... (5-fu + épirrubucinna * cyclophosphamide). par la suite, et avec une rémission complète de la maladie, elle a été traitée par tamoxifène + zaladex j...",
+            "cc_onco143.txt",
+            [
+                389,
+                398
+            ],
+            "no annotation",
+            "rémission"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...e de traitement avec r-gpd pendant 6 cycles et radiothérapie locale.\r\nrechute ultérieure en juillet 2015 au sein gauche avec une nouvelle biopsie (...",
+            "cc_onco1000.txt",
+            [
+                1726,
+                1733
+            ],
+            "no annotation",
+            "rechute"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...ste des nodules, ils restent stables.\r\n\r\névolution\r\ncompte tenu de la stabilité de la maladie, il a été décidé de poursuivre le traitement par le paz...",
+            "cc_onco133.txt",
+            [
+                5677,
+                5686
+            ],
+            "no annotation",
+            "stabilité"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...nne. l'évaluation de la réponse selon les critères recist 1.1 est une maladie stable, avec une thrombose portale persistante et une atteinte pancréatique ...",
+            "cc_onco13.txt",
+            [
+                5486,
+                5500
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...ès trois cycles de chimiothérapie par cddp, le patient présentait une maladie radiologiquement stable.\r\ncompte tenu de l'augmentation de l'ictère avec cholurie, acholie et...",
+            "cc_onco13.txt",
+            [
+                3717,
+                3748
+            ],
+            "no annotation",
+            "maladie radiologiquement stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...eptembre 2014, le scanner a montré une maladie stable en raison d'une maladie stable. critères recist et réponse selon les critères choi.\r\nil a continué à...",
+            "cc_onco128.txt",
+            [
+                4995,
+                5009
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "... une progression clinique locale et marqueur était évidente, avec une stabilité radiologique. une deuxième ligne hormonale est alors débutée avec du ...",
+            "cc_onco119.txt",
+            [
+                3348,
+                3357
+            ],
+            "no annotation",
+            "stabilité"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...linothérapie.\r\n\r\nle traitement par évérolimus a été réintroduit et la maladie est restée stable et l'hypoglycémie bien contrôlée par le diazoxyde et la dexaméthasone...",
+            "cc_onco118.txt",
+            [
+                3979,
+                4004
+            ],
+            "no annotation",
+            "maladie est restée stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...doses du régime taxol/gemcitabine, avec des critères radiologiques de maladie stable jusqu'au 19/11/2014, date à laquelle la progression ganglionnaire, os...",
+            "cc_onco107.txt",
+            [
+                9085,
+                9099
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "... prolongée de grade 2 et d'une diarrhée de grade 2. elle présente une réponse marqueur, en attendant des études d'imagerie....",
+            "cc_onco119.txt",
+            [
+                7381,
+                7388
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'réponse', 'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille'",
+            "TP(corr)",
+            true,
+            false,
+            "...par vp-16 oral (50 mg/jour) a été instauré. en raison de l'absence de réponse des marqueurs, la dose orale de cyclophosphamide à 50 mg par jour a é...",
+            "cc_onco148.txt",
+            [
+                3676,
+                3683
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...omme la meilleure réponse, jusqu'en juillet 2012, date à laquelle une progression clinique locale et marqueur était évidente, avec une stabilité radiol...",
+            "cc_onco119.txt",
+            [
+                3283,
+                3294
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...ans aucun signe de maladie jusqu'en juillet 2009, date à laquelle une progression s'est produite au niveau des poumons, de sorte qu'une nouvelle résect...",
+            "cc_onco110.txt",
+            [
+                3316,
+                3327
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable'",
+            "TP(corr)",
+            true,
+            false,
+            "...une sc de 1,92 m2. il a reçu 10 cycles avec des critères cliniques de maladie stable.\r\ndeuxième ligne de traitement (19/11/2014) par vinorelbine à la dose...",
+            "cc_onco107.txt",
+            [
+                5838,
+                5852
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...e pneumologie, dans un hôpital privé, en février 2009, en raison de l'apparition d'une adénopathie supraclaviculaire gauche et d'une masse pulmonaire ...",
+            "cc_onco102.txt",
+            [
+                417,
+                427
+            ],
+            "no annotation",
+            "apparition"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...ore sous traitement hormonal, il se rendit à un contrôle constatant l'apparition d'une adénopathie (adp) dans la région sus-claviculaire droite.\r\n\r\nex...",
+            "cc_onco109.txt",
+            [
+                1616,
+                1626
+            ],
+            "no annotation",
+            "apparition"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "... fièvre non neutropénique à foyer respiratoire.\r\nen janvier 2014, une progression pulmonaire a été observée, une troisième ligne a donc été débutée ave...",
+            "cc_onco133.txt",
+            [
+                4443,
+                4454
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "... apparition de nouvelles lésions. selon les critères mass et choi, la progression n’a pas été prise en compte.\r\nle 02/03/2015, le patient a présenté un...",
+            "cc_onco15.txt",
+            [
+                2481,
+                2492
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "... mois après le début de la deuxième ligne, la patiente a présenté une progression pleurale bilatérale symptomatique, un traitement par chimiothérapie d...",
+            "cc_onco119.txt",
+            [
+                3586,
+                3597
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...l), la ldh était dans la plage normale. compte tenu de cette nouvelle progression chez un patient ecog 0 présentant un mélanome métastatique non muté p...",
+            "cc_onco140.txt",
+            [
+                6300,
+                6311
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "... l'altération v600e du gène braf.\r\n\r\ndiagnostic\r\nil s'agit donc d'une rechute de mélanome diagnostiqué en 1992, métastatique, et avec la mutation v...",
+            "cc_onco157.txt",
+            [
+                1681,
+                1688
+            ],
+            "no annotation",
+            "rechute"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...c les métastases. compte tenu de la discordance entre l’apparition de métastases et l’excellente réponse pathologique du carcinome canalaire infiltran...",
+            "cc_onco1000.txt",
+            [
+                3183,
+                3193
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...ésumé, il s’agit d’un patient atteint d’un carcinome neuroendocrinien métastatique à grandes cellules, d’origine pulmonaire probable, avec une présentat...",
+            "cc_onco103.txt",
+            [
+                4636,
+                4648
+            ],
+            "no annotation",
+            "métastatique"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...oscopie bronchoscopique. en janvier 2012, une troisième résection des métastases endobronchiques a été réalisée, suivie d'un scanner thoraco-abdominop...",
+            "cc_onco110.txt",
+            [
+                4270,
+                4280
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...thie latérocervicale gauche fnac : cytologie positive pour malignité. métastase d'adénocarcinome. immunohistochimie : ck (ae1/ae3) : positivité cytop...",
+            "cc_onco120.txt",
+            [
+                3637,
+                3646
+            ],
+            "no annotation",
+            "métastase"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...4,5 cm dans la tête du pancréas, sans dilatation des voies biliaires, métastases hépatiques multiples, adénopathies rétropéritonéales d'environ 1 cm e...",
+            "cc_onco128.txt",
+            [
+                1179,
+                1189
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...te de tous les segments hépatiques, e+ (atteinte extrahépatique), m+ (métastase pancréatique) et afp < 100 ng/ml, et après revue du protocole siopel ...",
+            "cc_onco13.txt",
+            [
+                3156,
+                3165
+            ],
+            "no annotation",
+            "métastase"
+        ],
+        [
+            "'métastase', 'métastatique', 'métastases'",
+            "TP(corr)",
+            true,
+            false,
+            "...t), d'intervention sur la tumeur primitive et sur la lésion cérébrale métastatique unique.\r\nle 03/06/2008, le patient a subi une œsophagectomie subtotal...",
+            "cc_onco138.txt",
+            [
+                2759,
+                2771
+            ],
+            "no annotation",
+            "métastatique"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...n post-chirurgicale (octobre 2016), de nouvelles lésions suspectes de métastases ont été détectées, avec un tep-tdm concordant : épaississement cutané...",
+            "cc_onco1000.txt",
+            [
+                2628,
+                2638
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...c les métastases. compte tenu de la discordance entre l’apparition de métastases et l’excellente réponse pathologique du carcinome canalaire infiltran...",
+            "cc_onco1000.txt",
+            [
+                3183,
+                3193
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...nts d'un cancer du poumon non à petites cellules localement avancé ou métastatique après échec d'au moins un traitement de chimiothérapie antérieur. cel...",
+            "cc_onco102.txt",
+            [
+                3452,
+                3464
+            ],
+            "no annotation",
+            "métastatique"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...ésumé, il s’agit d’un patient atteint d’un carcinome neuroendocrinien métastatique à grandes cellules, d’origine pulmonaire probable, avec une présentat...",
+            "cc_onco103.txt",
+            [
+                4636,
+                4648
+            ],
+            "no annotation",
+            "métastatique"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...lle, il ne peut être totalement exclu que la lésion corresponde à une métastase avec hémorragie secondaire.\r\n» urine de 24 heures (23/06/2014) : prot...",
+            "cc_onco107.txt",
+            [
+                4210,
+                4219
+            ],
+            "no annotation",
+            "métastase"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...’effet de masse significatif. ces résultats sont compatibles avec des métastases.\r\n\r\ndiagnostic\r\n» carcinome pulmonaire à grandes cellules de stade iv...",
+            "cc_onco107.txt",
+            [
+                5389,
+                5399
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...érébral gauche avec un œdème périlésionnel modéré compatible avec des métastases. la radiothérapie holocrânienne (dose totale 20 gy) a été réalisée en...",
+            "cc_onco107.txt",
+            [
+                8715,
+                8725
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "... tenu de l'histoire néoplasique, serait susceptible de correspondre à métastases possibles. vous êtes admis en oncologie pour terminer l'étude.\r\n\r\nexp...",
+            "cc_onco108.txt",
+            [
+                1790,
+                1800
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...oscopie bronchoscopique. en janvier 2012, une troisième résection des métastases endobronchiques a été réalisée, suivie d'un scanner thoraco-abdominop...",
+            "cc_onco110.txt",
+            [
+                4270,
+                4280
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...naires de quelques millimètres dans les deux hémithorax évocateurs de métastases. dans le segment hépatique iv, on observe une image hypoatténuante ma...",
+            "cc_onco111.txt",
+            [
+                1584,
+                1594
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "... abdominal a été demandé (2/11/2015), avec des lésions évocatrices de métastases au niveau pulmonaire et une douteuse au niveau hépatique. compte tenu...",
+            "cc_onco111.txt",
+            [
+                3263,
+                3273
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...iées. dans l'anatomie pathologique, des cellules compatibles avec les métastases tumorales neuroendocrines sont obtenues.\r\n» une scintigraphie à l'oct...",
+            "cc_onco118.txt",
+            [
+                890,
+                900
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...thie latérocervicale gauche fnac : cytologie positive pour malignité. métastase d'adénocarcinome. immunohistochimie : ck (ae1/ae3) : positivité cytop...",
+            "cc_onco120.txt",
+            [
+                3637,
+                3646
+            ],
+            "no annotation",
+            "métastase"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...4,5 cm dans la tête du pancréas, sans dilatation des voies biliaires, métastases hépatiques multiples, adénopathies rétropéritonéales d'environ 1 cm e...",
+            "cc_onco128.txt",
+            [
+                1179,
+                1189
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...te de tous les segments hépatiques, e+ (atteinte extrahépatique), m+ (métastase pancréatique) et afp < 100 ng/ml, et après revue du protocole siopel ...",
+            "cc_onco13.txt",
+            [
+                3156,
+                3165
+            ],
+            "no annotation",
+            "métastase"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...e la présence d'une thrombose portale et de la présence d'une maladie métastatique pancréatique, et il était candidat au cycle b du protocole siopel-4 à...",
+            "cc_onco13.txt",
+            [
+                5803,
+                5815
+            ],
+            "no annotation",
+            "métastatique"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...t), d'intervention sur la tumeur primitive et sur la lésion cérébrale métastatique unique.\r\nle 03/06/2008, le patient a subi une œsophagectomie subtotal...",
+            "cc_onco138.txt",
+            [
+                2759,
+                2771
+            ],
+            "no annotation",
+            "métastatique"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...était une rémission complète de toutes les lésions, à l'exclusion des métastases surrénaliennes ; la seule localisation surrénalienne a été confirmée ...",
+            "cc_onco140.txt",
+            [
+                3611,
+                3621
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...onfirmée par tep-tdm, il a été décidé de résection chirurgicale de la métastase. le 2 juillet 2012, une large résection de la tumeur plus une omentec...",
+            "cc_onco140.txt",
+            [
+                6952,
+                6961
+            ],
+            "no annotation",
+            "métastase"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...laire gauche, mammaire interne, supraclaviculaire et cervicale et des métastases pulmonaires bilatérales.\r\n» pe (5/2014) : a confirmé la croissance et...",
+            "cc_onco147.txt",
+            [
+                3922,
+                3932
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "... avec réévaluation ct (9/2014) : croissance subtile et persistante de métastases hématogènes parenchymateuses pulmonaires de part et d'autre avec appa...",
+            "cc_onco147.txt",
+            [
+                4440,
+                4450
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...ateux qui n'existaient pas dans l'étude précédente), et au niveau des métastases pulmonaires bilatérales, qui ont augmenté en volume et en nombre par ...",
+            "cc_onco147.txt",
+            [
+                4933,
+                4943
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...ession de sa maladie, avec augmentation du nombre et de la taille des métastases pulmonaires et des formations ganglionnaires métastatiques au niveau ...",
+            "cc_onco147.txt",
+            [
+                5789,
+                5799
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...la taille des métastases pulmonaires et des formations ganglionnaires métastatiques au niveau du thorax.\r\n» actuellement en attente d'une réévaluation ct...",
+            "cc_onco147.txt",
+            [
+                5845,
+                5858
+            ],
+            "no annotation",
+            "métastatiques"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...es à évaluer dans des contrôles évolutifs. aucune image évocatrice de métastases.\r\n» scanner osseux corporel : pas de captations pathologiques ni d'as...",
+            "cc_onco150.txt",
+            [
+                1203,
+                1213
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...roendocrinienne, grade 2, scarff 6 (d3p2m1), bords libres, absence de métastases au ganglion sentinelle, 6 mitoses/champ.\r\n» rapports d'immunohistochi...",
+            "cc_onco150.txt",
+            [
+                1898,
+                1908
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...n de la tumeur pancréatique à l'irm avec atteinte rétropéritonéale et métastases hépatiques dans le segment ivb et signes de carcinose.\r\n\r\nil a contin...",
+            "cc_onco155.txt",
+            [
+                11525,
+                11535
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'métastase', 'métastatique'",
+            "TP(corr)",
+            true,
+            false,
+            "...n nodule péritonéal sous-diaphragmatique et une réponse partielle des métastases de la vésicule biliaire, de la peau et des ganglions lymphatiques. il...",
+            "cc_onco157.txt",
+            [
+                2310,
+                2320
+            ],
+            "no annotation",
+            "métastases"
+        ],
+        [
+            "'stade iv', 'stade 4', 'stade IV'",
+            "TP(corr)",
+            true,
+            false,
+            "...tastases.\r\n\r\ndiagnostic\r\n» carcinome pulmonaire à grandes cellules de stade iv (t2b n3 m1b)\r\n» syndrome néphrotique d'origine paranéoplasique\r\n» déf...",
+            "cc_onco107.txt",
+            [
+                5461,
+                5469
+            ],
+            "no annotation",
+            "stade iv"
+        ],
+        [
+            "'stade iv', 'stade 4', 'stade IV'",
+            "TP(corr)",
+            true,
+            false,
+            "...le subcentimétrique.\r\n\r\ndiagnostic\r\ncarcinome à cellules de merkel de stade iv.\r\n\r\ntraitement\r\nle patient a subi l'ablation de la lésion le 10/04/20...",
+            "cc_onco111.txt",
+            [
+                1848,
+                1856
+            ],
+            "no annotation",
+            "stade iv"
+        ],
+        [
+            "'m0', 'm1'",
+            "TP(corr)",
+            true,
+            false,
+            "...me du sein her-2 positif, récepteurs hormonaux négatifs e-iv (ct2 cn1 m1).\r\n\r\ntraitement\r\nle patient a débuté un traitement de première intent...",
+            "cc_onco153.txt",
+            [
+                1842,
+                1844
+            ],
+            "no annotation",
+            "m1"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...e dural et leptoméningé, supra et infratentorial, compatible avec une carcinose méningée.\r\n\r\nle patient est évalué dans l'unité de neuro-oncologie de...",
+            "cc_onco119.txt",
+            [
+                4537,
+                4546
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...onse partielle au niveau du snc par irm avec diminution des signes de carcinose méningée.\r\n\r\nen mars 2013, après avoir terminé la tomodensitométrie, ...",
+            "cc_onco119.txt",
+            [
+                5769,
+                5778
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...e traitement pendant 9 mois.\r\n\r\nen janvier 2014, la progression de la carcinose était évidente à l'irm, sans symptômes neurologiques et cytologie nég...",
+            "cc_onco119.txt",
+            [
+                6050,
+                6059
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...estane et zoladex.\r\n\r\nen avril 2015, une progression hépatique et une carcinose ont été à nouveau observées par irm (asymptomatiques), maintenant un ...",
+            "cc_onco119.txt",
+            [
+                6820,
+                6829
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...péritonéale et métastases hépatiques dans le segment ivb et signes de carcinose.\r\n\r\nil a continué à être suivi jusqu'en juin 2014, date à laquelle le...",
+            "cc_onco155.txt",
+            [
+                11580,
+                11589
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...tré une croissance de la lésion pancréatique et une progression de la carcinose péritonéale. augmentation des adénopathies cervicales et supraclavicu...",
+            "cc_onco155.txt",
+            [
+                11743,
+                11752
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'carcinose'",
+            "TP(corr)",
+            true,
+            false,
+            "...les. dilatation marquée des voies biliaires intra et extrahépatiques. carcinose péritonéale en progression. adénopathie rétrocrurale d’apparition réc...",
+            "cc_onco155.txt",
+            [
+                12321,
+                12330
+            ],
+            "no annotation",
+            "carcinose"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 't..n.m.', 'pt..n.m.', 'ct..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "...gestérone 100 % positifs, ki-6710 % et her2 négatifs), un stade iia. (pt2n0m0). . la patiente a reçu un traitement de chimiothérapie adjuvante (ct)...",
+            "cc_onco109.txt",
+            [
+                875,
+                882
+            ],
+            "no annotation",
+            "pt2n0m0"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 't..n.m.', 'pt..n.m.', 'ct..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "...des antécédents de diagnostic en 2002 d'adénocarcinome du côlon droit pt3n1m0 traité par hémicolectomie droite et chimiothérapie adjuvante, qui il ...",
+            "cc_onco120.txt",
+            [
+                211,
+                218
+            ],
+            "no annotation",
+            "pt3n1m0"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 't..n.m.', 'pt..n.m.', 'ct..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "...ie.\r\ndans l'anatomie pathologique de la lobectomie : 90 % de nécrose. t1n1m0.\r\n\r\névolution\r\naprès un intervalle de 15 mois sans progression, en ja...",
+            "cc_onco141.txt",
+            [
+                2109,
+                2115
+            ],
+            "no annotation",
+            "t1n1m0"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 't..n.m.', 'pt..n.m.', 'ct..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "... : adénocarcinome à cellules claires, infiltrant le fascia de gerota (pt3nxmx). architecture de type alvéolaire prédominante. pas d'embolisation tu...",
+            "cc_onco15.txt",
+            [
+                620,
+                627
+            ],
+            "no annotation",
+            "pt3nxmx"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...mnèse\r\nune patiente de 33 ans, sans allergie médicamenteuse connue ni antécédent médical intéressant, a consulté en avril 2010 pour palpation d'une tu...",
+            "cc_onco1000.txt",
+            [
+                73,
+                83
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nune patiente de 54 ans sans antécédents médicaux ou chirurgicaux pertinents a subi une intervention chirurgic...",
+            "cc_onco108.txt",
+            [
+                38,
+                49
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatiente de 29 ans sans allergie connue et sans antécédent personnel intéressant.\r\nantécédents obstétrico-gynécologiques : prémé...",
+            "cc_onco109.txt",
+            [
+                58,
+                68
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...9 ans sans allergie connue et sans antécédent personnel intéressant.\r\nantécédents obstétrico-gynécologiques : préménopausique avec premières règles à 1...",
+            "cc_onco109.txt",
+            [
+                93,
+                104
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatient de 36 ans sans allergie médicamenteuse. antécédents chirurgicaux : résection d'un polype de la corde vocale, salpingectom...",
+            "cc_onco134.txt",
+            [
+                58,
+                69
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...eur modéré d'alcool, sans allergie médicamenteuse connue et ayant des antécédents de diabète sucré de type ii, de maladie de dupuytren, de cataracte de...",
+            "cc_onco138.txt",
+            [
+                142,
+                153
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nantécédents oncologiques : patiente de 39 ans, sans allergie médicamenteuse connue, ex-fumeuse depuis des années, sans autre habit...",
+            "cc_onco155.txt",
+            [
+                62,
+                70
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatient de 36 ans sans allergie médicamenteuse. antécédents chirurgicaux : résection d'un polype de l...",
+            "cc_onco134.txt",
+            [
+                33,
+                41
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "... ex-fumeur (80 paquets/an), ancien consommateur modéré d'alcool, sans allergie médicamenteuse connue et ayant des antécédents de diabète sucré de ty...",
+            "cc_onco138.txt",
+            [
+                98,
+                106
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nun homme de 62 ans, sans allergie médicamenteuse connue, avec des antécédents médicaux d'hypertension a...",
+            "cc_onco15.txt",
+            [
+                35,
+                43
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatiente de 29 ans sans allergie connue et sans antécédent personnel intéressant.\r\nantécédents obstétr...",
+            "cc_onco109.txt",
+            [
+                34,
+                42
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatiente de 48 ans, sans allergie médicamenteuse connue, ex-fumeuse depuis 9 ans (indice cumulé 2 paque...",
+            "cc_onco102.txt",
+            [
+                35,
+                43
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'allergie'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nune patiente de 33 ans, sans allergie médicamenteuse connue ni antécédent médical intéressant, a consulté e...",
+            "cc_onco1000.txt",
+            [
+                39,
+                47
+            ],
+            "no annotation",
+            "allergie"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...ension artérielle, traitée par énalapril et hydrochlorothiazide, seul antécédent personnel notable.\r\ndébut 2012, la patiente s'est adressée à son méde...",
+            "cc_onco159.txt",
+            [
+                242,
+                252
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nantécédents personnels et antécédents oncologiques\r\nle cas présenté ci-dessous est celui d'une femme de 58 ...",
+            "cc_onco159.txt",
+            [
+                36,
+                47
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nantécédents personnels et antécédents oncologiques\r\nle cas présenté ci-dessous es...",
+            "cc_onco159.txt",
+            [
+                10,
+                21
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...ous traitement par énalapril 20 mg, un comprimé par jour. aucun autre antécédent médico-chirurgical intéressant.\r\nle patient s'est présenté aux urgenc...",
+            "cc_onco158.txt",
+            [
+                333,
+                343
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...e de la vie quotidienne et avec des fonctions cognitives préservées.\r\nantécédents personnels d'hypertension artérielle (htn) sous traitement par énalap...",
+            "cc_onco158.txt",
+            [
+                207,
+                218
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatiente de 64 ans ayant des antécédents de diabète sucré non insulino-dépendant, d'hypertension artérielle et...",
+            "cc_onco157.txt",
+            [
+                39,
+                50
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...e consultation à l'hôpital médical de jour d'oncologie.\r\n\r\névolution\r\nantécédents oncologiques depuis la sortie\r\nle patient poursuit les contrôles dans...",
+            "cc_onco155.txt",
+            [
+                10784,
+                10795
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...outeuse, opérée de l'endométriose et de l'appendicectomie, sans autre antécédent médico-chirurgical d'intérêt. suite à une gêne abdominale et à l'auto...",
+            "cc_onco155.txt",
+            [
+                254,
+                264
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...gical : kyste du sein droit opéré et deux curetages pour métrorragie. antécédents gynécobstétricaux : premières règles à 11 ans, g2p2, fm 5/28 jours fu...",
+            "cc_onco147.txt",
+            [
+                301,
+                312
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nantécédents oncologiques : patiente de 39 ans, sans allergie médicamenteuse connu...",
+            "cc_onco155.txt",
+            [
+                10,
+                21
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nfemme de 51 ans, sans antécédent médical pertinent, mais familial : la mère est décédée à l'âge de 47 ...",
+            "cc_onco152.txt",
+            [
+                32,
+                42
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nfemme de 50 ans, sans antécédent personnel intéressant, à qui, après une mammographie de dépistage réa...",
+            "cc_onco143.txt",
+            [
+                32,
+                42
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "... diagnostiqué un carcinome épidermoïde du col de l'utérus, sans autre antécédent d'intérêt, qui a signalé des maux de tête et une hypertension artérie...",
+            "cc_onco14.txt",
+            [
+                138,
+                148
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...acizumab a été administré, c'était le 14/10/2014. il n’a pas d’autres antécédents médico-chirurgicaux intéressants.\r\nle 04/11/2014, le patient s'est pr...",
+            "cc_onco14.txt",
+            [
+                1564,
+                1575
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...s’agit d’un patient de sexe masculin, âgé de 63 ans, non fumeur, sans antécédent clinique d’intérêt.\r\nen tant qu'histoire familiale, il convient de so...",
+            "cc_onco140.txt",
+            [
+                141,
+                151
+            ],
+            "no annotation",
+            "antécédent"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...se\r\nun homme de 62 ans, sans allergie médicamenteuse connue, avec des antécédents médicaux d'hypertension artérielle. en traitement habituel par amlodi...",
+            "cc_onco15.txt",
+            [
+                76,
+                87
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'antécédents', 'antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nune femme de 58 ans, ayant des antécédents de mammoplastie d'augmentation rétropectorale à 38 ans et d'annexhyst...",
+            "cc_onco150.txt",
+            [
+                41,
+                52
+            ],
+            "no annotation",
+            "antécédents"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "...pie à base de platine, en raison de la sensibilité présentée et de la réponse obtenue. cependant, l’émergence de mécanismes de résistance est inévi...",
+            "cc_onco103.txt",
+            [
+                4968,
+                4975
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "...e chimioembolisation hépatique a été réalisée à quatre reprises, sans réponse tumorale cytoréductrice.\r\nune laparotomie exploratoire avec pancréate...",
+            "cc_onco118.txt",
+            [
+                1942,
+                1949
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "... prolongée de grade 2 et d'une diarrhée de grade 2. elle présente une réponse marqueur, en attendant des études d'imagerie....",
+            "cc_onco119.txt",
+            [
+                7381,
+                7388
+            ],
+            "no annotation",
+            "réponse"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "...ste des nodules, ils restent stables.\r\n\r\névolution\r\ncompte tenu de la stabilité de la maladie, il a été décidé de poursuivre le traitement par le paz...",
+            "cc_onco133.txt",
+            [
+                5677,
+                5686
+            ],
+            "no annotation",
+            "stabilité"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "...nne. l'évaluation de la réponse selon les critères recist 1.1 est une maladie stable, avec une thrombose portale persistante et une atteinte pancréatique ...",
+            "cc_onco13.txt",
+            [
+                5486,
+                5500
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "...ès trois cycles de chimiothérapie par cddp, le patient présentait une maladie radiologiquement stable.\r\ncompte tenu de l'augmentation de l'ictère avec cholurie, acholie et...",
+            "cc_onco13.txt",
+            [
+                3717,
+                3748
+            ],
+            "no annotation",
+            "maladie radiologiquement stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "...eptembre 2014, le scanner a montré une maladie stable en raison d'une maladie stable. critères recist et réponse selon les critères choi.\r\nil a continué à...",
+            "cc_onco128.txt",
+            [
+                4995,
+                5009
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "... une progression clinique locale et marqueur était évidente, avec une stabilité radiologique. une deuxième ligne hormonale est alors débutée avec du ...",
+            "cc_onco119.txt",
+            [
+                3348,
+                3357
+            ],
+            "no annotation",
+            "stabilité"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "...linothérapie.\r\n\r\nle traitement par évérolimus a été réintroduit et la maladie est restée stable et l'hypoglycémie bien contrôlée par le diazoxyde et la dexaméthasone...",
+            "cc_onco118.txt",
+            [
+                3979,
+                4004
+            ],
+            "no annotation",
+            "maladie est restée stable"
+        ],
+        [
+            "'stabilité', 'maladie stable', 'tumeur stable', 'contrôle tumoral', 'maladie...20stable', 'stabilisation tumorale'",
+            "TP(corr)",
+            true,
+            false,
+            "...doses du régime taxol/gemcitabine, avec des critères radiologiques de maladie stable jusqu'au 19/11/2014, date à laquelle la progression ganglionnaire, os...",
+            "cc_onco107.txt",
+            [
+                9085,
+                9099
+            ],
+            "no annotation",
+            "maladie stable"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...013 à mai 2015. on parle donc d'une survie sans progression depuis sa rechute en février 2012 de 37 mois.\r\ndurant cette période, plusieurs effets l...",
+            "cc_onco157.txt",
+            [
+                2607,
+                2614
+            ],
+            "no annotation",
+            "rechute"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "...patient a un indice de karnofsky > 80 % depuis trois ans et qu'aucune progression significative n'a été observée à aucun niveau. une réévaluation de la...",
+            "cc_onco128.txt",
+            [
+                4308,
+                4319
+            ],
+            "no annotation",
+            "progression"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "...orable après contrôle des niveaux de tension artérielle, obtenant une rémission complète de la sémiologie neurologique. compte tenu de la dégradation...",
+            "cc_onco14.txt",
+            [
+                4737,
+                4746
+            ],
+            "no annotation",
+            "rémission"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "... sc avec une bonne tolérance. l'évaluation après six cycles était une rémission complète de toutes les lésions, à l'exclusion des métastases surrénal...",
+            "cc_onco140.txt",
+            [
+                3551,
+                3560
+            ],
+            "no annotation",
+            "rémission"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "...partielle, puisque la masse mesure désormais 36 mm. compte tenu de la bonne réponse et de la localisation unique dans l'hypochondre gauche confirmée par ...",
+            "cc_onco140.txt",
+            [
+                6812,
+                6825
+            ],
+            "no annotation",
+            "bonne réponse"
+        ],
+        [
+            "'rémission', 'maladie...20répondu', 'cr', 'disparition', 'disparait', 'disparaissent', 'diminution de taille', 'bonne réponse', 'excellente réponse', 'répondu', 'réponse...15complète', 'réponse...15partielle', 'réponse excellente', 'régression complète', 'régression partielle', 'meilleure réponse', 'taille a diminué', 'diminué en taille', 'diminution...15taille', 'diminution...15nombre', 'réponse'",
+            "TP(corr)",
+            true,
+            false,
+            "... (5-fu + épirrubucinna * cyclophosphamide). par la suite, et avec une rémission complète de la maladie, elle a été traitée par tamoxifène + zaladex j...",
+            "cc_onco143.txt",
+            [
+                389,
+                398
+            ],
+            "no annotation",
+            "rémission"
+        ],
+        [
+            "'progression', 'augmentation de taille...20tumeur', 'apparition', 'apparaissent', 'apparait', 'apparaît', 'augmentation de taille', 'rechute'",
+            "TP(corr)",
+            true,
+            false,
+            "... exclure un résultat faussement positif. la tep-tdm n'a observé que l'apparition d'une captation pathologique avec suvmax : 4,8, compatible avec des m...",
+            "cc_onco109.txt",
+            [
+                2677,
+                2687
+            ],
+            "no annotation",
+            "apparition"
+        ],
+        [
+            "'sans antécédent', \"pas d'antécédent\", 'aucun antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\nune patiente de 54 ans sans antécédents médicaux ou chirurgicaux pertinents a subi une intervention chirurgic...",
+            "cc_onco108.txt",
+            [
+                33,
+                49
+            ],
+            "no annotation",
+            "sans antécédents"
+        ],
+        [
+            "'sans antécédent', \"pas d'antécédent\", 'aucun antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...anamnèse\r\npatiente de 29 ans sans allergie connue et sans antécédent personnel intéressant.\r\nantécédents obstétrico-gynécologiques : prémé...",
+            "cc_onco109.txt",
+            [
+                53,
+                68
+            ],
+            "no annotation",
+            "sans antécédent"
+        ],
+        [
+            "'sans antécédent', \"pas d'antécédent\", 'aucun antécédent'",
+            "TP(corr)",
+            true,
+            false,
+            "...\r\nil s’agit d’un patient de sexe masculin, âgé de 63 ans, non fumeur, sans antécédent clinique d’intérêt.\r\nen tant qu'histoire familiale, il convient de so...",
+            "cc_onco140.txt",
+            [
+                136,
+                151
+            ],
+            "no annotation",
+            "sans antécédent"
+        ],
+        [
+            "'ecog 0', 'ecog 1', 'ecog 2', 'ecog 3', 'ecog 4'",
+            "TP(corr)",
+            true,
+            false,
+            "...vier 2015, le patient est revenu à la clinique partiellement rétabli (ecog 1-2), et le deuxième cycle a ensuite été administré, avec une réduction...",
+            "cc_onco159.txt",
+            [
+                2721,
+                2727
+            ],
+            "no annotation",
+            "ecog 1"
+        ],
+        [
+            "'pancréas', 'pancréatique'",
+            "TP(corr)",
+            true,
+            false,
+            "... tomodensitométrie abdominale (tdm) : masse de 4,5 cm dans la tête du pancréas, sans dilatation des voies biliaires, métastases hépatiques multiples...",
+            "cc_onco128.txt",
+            [
+                1132,
+                1140
+            ],
+            "no annotation",
+            "pancréas"
+        ],
+        [
+            "'adénocarcinome ...20 rectum', 'adénocarcinome ...20 rectal'",
+            "TP(corr)",
+            true,
+            false,
+            "...ne biopsie a été réalisée avec un résultat anatomopathologique (ap) d'adénocarcinome colorectal.\r\n» endoscopie basse (19/07/2006) : néoformation entre 1 et 8 cm de l...",
+            "cc_onco110.txt",
+            [
+                766,
+                791
+            ],
+            "no annotation",
+            "adénocarcinome colorectal"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "... traitement.\r\nhistoire oncologique\r\nen 1992, on lui a diagnostiqué un mélanome avec un indice de breslow de 2,4 mm, non ulcéré, sous-scapulaire gauc...",
+            "cc_onco157.txt",
+            [
+                211,
+                219
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...00e du gène braf.\r\n\r\ntraitement\r\naprès le diagnostic, s'agissant d'un mélanome métastatique présentant la mutation susmentionnée, il a été décidé de...",
+            "cc_onco157.txt",
+            [
+                1829,
+                1837
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...\n» après sa biopsie, elle est classée comme métastase sous-cutanée de mélanome.\r\n» un scanner d'extension est réalisé, qui montre de multiples métas...",
+            "cc_onco157.txt",
+            [
+                1360,
+                1368
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...on v600e du gène braf.\r\n\r\ndiagnostic\r\nil s'agit donc d'une rechute de mélanome diagnostiqué en 1992, métastatique, et avec la mutation v600e du gène...",
+            "cc_onco157.txt",
+            [
+                1692,
+                1700
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'mélanome'",
+            "TP(corr)",
+            true,
+            false,
+            "...nu de cette nouvelle progression chez un patient ecog 0 présentant un mélanome métastatique non muté pour braf, nras et c-kit, avec de multiples tra...",
+            "cc_onco140.txt",
+            [
+                6349,
+                6357
+            ],
+            "no annotation",
+            "mélanome"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 'pt..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "...gestérone 100 % positifs, ki-6710 % et her2 négatifs), un stade iia. (pt2n0m0). . la patiente a reçu un traitement de chimiothérapie adjuvante (ct)...",
+            "cc_onco109.txt",
+            [
+                875,
+                882
+            ],
+            "no annotation",
+            "pt2n0m0"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 'pt..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "...des antécédents de diagnostic en 2002 d'adénocarcinome du côlon droit pt3n1m0 traité par hémicolectomie droite et chimiothérapie adjuvante, qui il ...",
+            "cc_onco120.txt",
+            [
+                211,
+                218
+            ],
+            "no annotation",
+            "pt3n1m0"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 'pt..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "...ie.\r\ndans l'anatomie pathologique de la lobectomie : 90 % de nécrose. t1n1m0.\r\n\r\névolution\r\naprès un intervalle de 15 mois sans progression, en ja...",
+            "cc_onco141.txt",
+            [
+                2109,
+                2115
+            ],
+            "no annotation",
+            "t1n1m0"
+        ],
+        [
+            "'t.n.m.', 'pt.n.m.', 'ct.n.m.', 'pt..n.m.'",
+            "TP(corr)",
+            true,
+            false,
+            "... : adénocarcinome à cellules claires, infiltrant le fascia de gerota (pt3nxmx). architecture de type alvéolaire prédominante. pas d'embolisation tu...",
+            "cc_onco15.txt",
+            [
+                620,
+                627
+            ],
+            "no annotation",
+            "pt3nxmx"
+        ]
+    ],
+    "list_isNotFN": [
+        [
+            "['antécédent', 'antécédents']",
+            "Discarded",
+            false,
+            true,
+            "...enteuse connue, ex-fumeuse depuis 9 ans (indice cumulé 2 paquets/an), sans antécédent médical pertinent. les antécédents familiaux comprennent un père décédé à 66 ans d'une ...",
+            "cc_onco102.txt",
+            [
+                121,
+                154
+            ],
+            "sans antécédent médical pertinent",
+            "no motif"
+        ]
+    ],
+    "ban_words_entities": {
+        "histologie_tumorale": [
+            "None"
+        ],
+        "traitement_specifique_du_cancer": [
+            "None"
+        ],
+        "signes_physiques": [
+            "None"
+        ],
+        "evolutivite_en_lien_avec_le_cancer": [
+            "None"
+        ],
+        "reponse_a_la_chimiotherapie": [
+            "None",
+            "intervalle sans progression",
+            "survie sans progression"
+        ],
+        "stade_metastatique_avec_localisations": [
+            "None"
+        ],
+        "statut_tabagique": [
+            "None"
+        ],
+        "atcd_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge": [
+            "None"
+        ],
+        "stade_oms_ecog_karnofsky": [
+            "None"
+        ],
+        "biomarqueurs_therapeutiques": [
+            "None"
+        ],
+        "topographie_du_primitif": [
+            "None"
+        ],
+        "symptomes": [
+            "None"
+        ]
+    },
+    "df_results": [
+        [
+            "histologie_tumorale",
+            0.79,
+            37,
+            77,
+            18,
+            0.32,
+            0.22,
+            0.44,
+            0.84,
+            0.75,
+            0.92,
+            0.67,
+            0.52,
+            0.82
+        ],
+        [
+            "traitement_specifique_du_cancer",
+            0.79,
+            203,
+            6,
+            43,
+            0.97,
+            0.94,
+            1.0,
+            0.83,
+            0.76,
+            0.88,
+            0.83,
+            0.76,
+            0.88
+        ],
+        [
+            "signes_physiques",
+            0.29,
+            15,
+            31,
+            57,
+            0.33,
+            0.19,
+            0.46,
+            0.25,
+            0.12,
+            0.37,
+            0.21,
+            0.09,
+            0.33
+        ],
+        [
+            "evolutivite_en_lien_avec_le_cancer",
+            0.01,
+            0,
+            0,
+            2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            "reponse_a_la_chimiotherapie",
+            0.82,
+            127,
+            24,
+            21,
+            0.84,
+            0.75,
+            0.91,
+            0.86,
+            0.8,
+            0.92,
+            0.86,
+            0.8,
+            0.91
+        ],
+        [
+            "stade_metastatique_avec_localisations",
+            0.6,
+            67,
+            4,
+            38,
+            0.94,
+            0.89,
+            0.99,
+            0.89,
+            0.81,
+            0.95,
+            0.64,
+            0.53,
+            0.74
+        ],
+        [
+            "statut_tabagique",
+            0.62,
+            14,
+            0,
+            0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        [
+            "atcd_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge",
+            0.11,
+            8,
+            22,
+            23,
+            0.27,
+            0.11,
+            0.46,
+            0.31,
+            0.17,
+            0.5,
+            0.26,
+            0.12,
+            0.42
+        ],
+        [
+            "stade_oms_ecog_karnofsky",
+            0.91,
+            26,
+            0,
+            5,
+            1.0,
+            1.0,
+            1.0,
+            0.84,
+            0.7,
+            0.95,
+            0.84,
+            0.68,
+            0.95
+        ],
+        [
+            "biomarqueurs_therapeutiques",
+            0.67,
+            11,
+            1,
+            18,
+            0.92,
+            0.81,
+            1.0,
+            0.48,
+            0.26,
+            0.69,
+            0.38,
+            0.17,
+            0.57
+        ],
+        [
+            "topographie_du_primitif",
+            0.57,
+            44,
+            6,
+            21,
+            0.88,
+            0.76,
+            0.97,
+            0.68,
+            0.53,
+            0.81,
+            0.68,
+            0.53,
+            0.81
+        ],
+        [
+            "symptomes",
+            0.4,
+            35,
+            15,
+            69,
+            0.7,
+            0.46,
+            0.89,
+            0.43,
+            0.28,
+            0.61,
+            0.34,
+            0.18,
+            0.51
+        ]
+    ],
+    "df_columns": [
+        "entity",
+        "homogeneity",
+        "TP",
+        "FP",
+        "FN",
+        "precision",
+        "precision_conf_inter_down",
+        "precision_conf_inter_up",
+        "coverage",
+        "coverage_conf_inter_down",
+        "coverage_conf_inter_up",
+        "recall",
+        "recall_conf_inter_down",
+        "recall_conf_inter_up"
+    ]
+}

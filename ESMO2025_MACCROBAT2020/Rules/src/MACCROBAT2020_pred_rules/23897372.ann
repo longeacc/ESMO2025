@@ -1,24 +1,96 @@
 T1	Age 2 13	60-year-old
-T2	Sex 24 29	woman
-T3	Duration 151 165	several months
-T4	Texture 268 271	dry
-T5	Frequency 346 358	intermittent
-T6	Lab_value 410 418	negative
-T7	Lab_value 483 495	unremarkable
-T8	Lab_value 753 759	normal
-T9	Lab_value 967 975	elevated
-T10	Distance 1015 1020	36 mm
-T11	Lab_value 1028 1036	abnormal
-T12	Texture 1071 1079	granular
-T13	Lab_value 1138 1144	normal
-T14	Lab_value 1352 1358	normal
-T15	Lab_value 1595 1603	positive
-T16	Color 1614 1617	red
-T17	Lab_value 1680 1688	elevated
-T18	Dosage 1711 1718	86.3 mg
-T19	Lab_value 1722 1728	normal
-T20	Dosage 1734 1741	26.3 mg
-T21	Lab_value 1750 1758	positive
-T22	Dosage 1780 1786	0.37 g
-T23	Lab_value 1941 1947	normal
-T24	Lab_value 2174 2178	poor
+T2	Personal_background 14 23	Caucasian
+T3	Sex 24 29	woman
+T4	History 35 65	no significant medical history
+T5	Activity 76 84	exercise
+T6	Sign_symptom 98 105	fatigue
+T7	Sign_symptom 110 129	shortness of breath
+T8	Activity 133 141	exertion
+T9	Duration 151 165	several months
+T10	Clinical_event 179 191	presentation
+T11	Nonbiological_location 199 216	outpatient clinic
+T12	Clinical_event 233 245	presentation
+T13	Texture 268 271	dry
+T14	Sign_symptom 272 277	cough
+T15	Sign_symptom 311 319	dyspnoea
+T16	Sign_symptom 333 341	weakness
+T17	Frequency 346 358	intermittent
+T18	Sign_symptom 359 367	numbness
+T19	Lab_value 410 418	negative
+T20	Activity 423 430	smoking
+T21	Activity 443 456	illicit drugs
+T22	Diagnostic_procedure 458 478	Physical examination
+T23	Lab_value 483 495	unremarkable
+T24	Biological_structure 508 515	jugular
+T25	Biological_structure 516 522	venous
+T26	Sign_symptom 523 533	distension
+T27	Detailed_description 561 570	bilateral
+T28	Sign_symptom 571 579	crackles
+T29	Biological_structure 583 587	lung
+T30	Diagnostic_procedure 588 600	auscultation
+T31	Detailed_description 605 614	bilateral
+T32	Sign_symptom 623 629	oedema
+T33	Biological_structure 631 636	Chest
+T34	Diagnostic_procedure 637 642	X-ray
+T35	Sign_symptom 650 662	cardiomegaly
+T36	Disease_disorder 664 680	pulmonary oedema
+T37	Detailed_description 697 706	bilateral
+T38	Biological_structure 707 714	pleural
+T39	Diagnostic_procedure 736 739	ECG
+T40	Lab_value 753 759	normal
+T41	Biological_structure 841 854	Transthoracic
+T42	Diagnostic_procedure 871 874	TTE
+T43	Sign_symptom 914 925	hypertrophy
+T44	Diagnostic_procedure 941 958	ejection fraction
+T45	Lab_value 967 975	elevated
+T46	Detailed_description 994 1002	systolic
+T47	Distance 1015 1020	36 mm
+T48	Lab_value 1028 1036	abnormal
+T49	Biological_structure 1037 1047	myocardial
+T50	Texture 1071 1079	granular
+T51	Diagnostic_procedure 1112 1114	CT
+T52	Lab_value 1138 1144	normal
+T53	Biological_structure 1154 1162	arteries
+T54	Biological_structure 1178 1185	cardiac
+T55	Diagnostic_procedure 1186 1189	MRI
+T56	Detailed_description 1213 1220	diffuse
+T57	Biological_structure 1285 1295	myocardial
+T58	Detailed_description 1312 1319	diffuse
+T59	Sign_symptom 1334 1345	hypertrophy
+T60	Lab_value 1352 1358	normal
+T61	Diagnostic_procedure 1359 1376	ejection fraction
+T62	Biological_structure 1417 1422	heart
+T63	Therapeutic_procedure 1423 1438	catheterisation
+T64	Diagnostic_procedure 1459 1465	biopsy
+T65	Detailed_description 1477 1484	diffuse
+T66	Disease_disorder 1485 1496	amyloidosis
+T67	Biological_structure 1542 1549	cardiac
+T68	Biological_structure 1570 1575	blood
+T69	Lab_value 1595 1603	positive
+T70	Color 1614 1617	red
+T71	Lab_value 1680 1688	elevated
+T72	Dosage 1711 1718	86.3 mg
+T73	Lab_value 1722 1728	normal
+T74	Dosage 1734 1741	26.3 mg
+T75	Lab_value 1750 1758	positive
+T76	Dosage 1780 1786	0.37 g
+T77	Biological_structure 1807 1811	Bone
+T78	Diagnostic_procedure 1819 1825	biopsy
+T79	Sign_symptom 1852 1864	infiltration
+T80	Biological_structure 1887 1893	plasma
+T81	Lab_value 1941 1947	normal
+T82	Clinical_event 2002 2011	diagnosed
+T83	Disease_disorder 2026 2040	AL amyloidosis
+T84	Biological_structure 2067 2074	cardiac
+T85	Disease_disorder 2075 2086	amyloidosis
+T86	Biological_structure 2128 2135	cardiac
+T87	Disease_disorder 2136 2147	amyloidosis
+T88	Lab_value 2174 2178	poor
+T89	Therapeutic_procedure 2214 2229	transplantation
+T90	Medication 2267 2279	chemotherapy
+T91	Medication 2299 2312	dexamethasone
+T92	Disease_disorder 2353 2366	heart failure
+T93	Medication 2377 2386	diuretics
+T94	Medication 2403 2417	ACE inhibitors
+T95	Biological_structure 2490 2497	cardiac
+T96	Outcome 2498 2503	death

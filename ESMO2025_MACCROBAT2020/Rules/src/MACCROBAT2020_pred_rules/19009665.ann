@@ -1,19 +1,70 @@
 T1	Age 2 13	49-year-old
 T2	Sex 14 19	woman
-T3	Date 124 136	October 2004
-T4	Lab_value 250 262	1185.3 ng/mL
-T5	Distance 320 325	10-cm
-T6	Distance 384 390	1.5-cm
-T7	Volume 783 788	35 mL
-T8	Volume 793 797	3 mL
-T9	Lab_value 972 982	uneventful
-T10	Date 993 1008	One month later
-T11	Duration 1010 1018	a second
-T12	Volume 1081 1086	40 mL
-T13	Time 1123 1135	the next day
-T14	Lab_value 1212 1221	decreased
-T15	Lab_value 1258 1267	increased
-T16	Dosage 1458 1463	10 mg
-T17	Administration 1478 1481	i.v
-T18	Date 1573 1587	Two days later
-T19	Date 1904 1918	One week later
+T3	Clinical_event 24 32	admitted
+T4	Nonbiological_location 89 97	Hospital
+T5	Date 124 136	October 2004
+T6	Sign_symptom 163 167	pain
+T7	Sign_symptom 172 183	weight loss
+T8	Disease_disorder 195 206	hepatitis B
+T9	Lab_value 250 262	1185.3 ng/mL
+T10	Diagnostic_procedure 264 279	Ultrasonography
+T11	Diagnostic_procedure 284 303	computed tomography
+T12	Diagnostic_procedure 305 307	CT
+T13	Distance 320 325	10-cm
+T14	Sign_symptom 326 330	mass
+T15	Detailed_description 338 347	posterior
+T16	Biological_structure 370 375	liver
+T17	Distance 384 390	1.5-cm
+T18	Sign_symptom 391 395	mass
+T19	Detailed_description 423 430	lateral
+T20	Disease_disorder 503 506	HCC
+T21	Disease_disorder 530 539	cirrhosis
+T22	Biological_structure 608 615	hepatic
+T23	Biological_structure 624 630	venous
+T24	Detailed_description 642 650	multiple
+T25	Sign_symptom 659 665	masses
+T26	Biological_structure 687 692	liver
+T27	Medication 709 720	oxaliplatin
+T28	Volume 783 788	35 mL
+T29	Volume 793 797	3 mL
+T30	Biological_structure 870 877	hepatic
+T31	Sign_symptom 945 949	pain
+T32	Lab_value 972 982	uneventful
+T33	Date 993 1008	One month later
+T34	Duration 1010 1018	a second
+T35	Biological_structure 1062 1069	hepatic
+T36	Volume 1081 1086	40 mL
+T37	Time 1123 1135	the next day
+T38	Detailed_description 1160 1165	acute
+T39	Sign_symptom 1166 1174	dyspnoea
+T40	Detailed_description 1183 1193	peripheral
+T41	Diagnostic_procedure 1194 1211	oxygen saturation
+T42	Lab_value 1212 1221	decreased
+T43	Biological_structure 1234 1239	chest
+T44	Diagnostic_procedure 1240 1245	X-ray
+T45	Lab_value 1258 1267	increased
+T46	Biological_structure 1298 1302	lung
+T47	Biological_structure 1341 1346	chest
+T48	Diagnostic_procedure 1347 1349	CT
+T49	Detailed_description 1364 1372	multiple
+T50	Biological_structure 1434 1438	lung
+T51	Dosage 1458 1463	10 mg
+T52	Medication 1464 1477	dexamethasone
+T53	Administration 1478 1481	i.v
+T54	Sign_symptom 1549 1556	symptom
+T55	Date 1573 1587	Two days later
+T56	Sign_symptom 1625 1633	headache
+T57	Sign_symptom 1681 1687	nausea
+T58	Sign_symptom 1692 1700	vomiting
+T59	Sign_symptom 1713 1722	confusion
+T60	Biological_structure 1724 1739	lower extremity
+T61	Sign_symptom 1740 1748	weakness
+T62	Detailed_description 1754 1771	contrast enhanced
+T63	Diagnostic_procedure 1772 1774	CT
+T64	Detailed_description 1791 1799	multiple
+T65	Sign_symptom 1827 1834	lesions
+T66	Biological_structure 1842 1847	brain
+T67	Date 1904 1918	One week later
+T68	Sign_symptom 1951 1959	symptoms
+T69	Clinical_event 1996 2006	discharged
+T70	Sign_symptom 2105 2113	symptoms

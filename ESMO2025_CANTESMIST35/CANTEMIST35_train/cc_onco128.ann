@@ -1,0 +1,38 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 187 222	sans allergie médicamenteuse connue
+T2	Statut_tabagique 228 251	fume un paquet par jour
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 283 309	qui souffre d’hypertension
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 337 368	Affecté par l'asthme bronchique
+T5	Stade_OMS_ECOG_Karnofsky 492 514	Indice Karnofsky : 90%
+T6	Signes_physiques 558 611	Masse cervicale postérieure compatible avec un lipome
+T7	Stade_metastatique_avec_localisations 1495 1516	métastases hépatiques
+T8	Histologie_tumorale 1495 1620	métastases hépatiques a été réalisée avec une immunohistochimie fortement positive pour la chromogranine et la synaptophysine
+T9	Histologie_tumorale 1777 1798	tumeur neuroendocrine
+T10	Topographie_du_primitif 1777 1811	tumeur neuroendocrine pancréatique
+T11	Stade_metastatique_avec_localisations 1777 1839	tumeur neuroendocrine pancréatique (PNET) de grade 3, stade IV
+T12	Stade_metastatique_avec_localisations 1893 1932	métastases hépatiques et ganglionnaires
+T13	Traitement_specifique_du_cancer 2153 2202	cisplatine 75 mg/m2 jour 1 et étoposide 100 mg/m2
+T14	Symptomes 2264 2272	alopécie
+T15	Traitement_specifique_du_cancer 2383 2395	témozolamide
+T16	Traitement_specifique_du_cancer 2433 2445	capécitabine
+T17	Reponse_a_la_chimiotherapie 2556 2595	progression dans le scanner de contrôle
+T18	Symptomes 2798 2804	mucite
+T19	Reponse_a_la_chimiotherapie 2820 2986	scanner de contrôle a été réalisé où une réponse presque complète a été observée au niveau de la tumeur primitive et une croissance minimale selon les critères RECIST
+T20	Reponse_a_la_chimiotherapie 3312 3363	scanner a été réalisé qui a confirmé la progression
+T21	Traitement_specifique_du_cancer 3484 3499	streptozotocine
+T22	Traitement_specifique_du_cancer 3508 3520	doxorubicine
+T23	Reponse_a_la_chimiotherapie 3577 3627	meilleure réponse à la stabilisation de la maladie
+T24	Traitement_specifique_du_cancer 3650 3662	doxorubicine
+T25	Traitement_specifique_du_cancer 3685 3718	anthracycline liposomale (caelyx)
+T26	Traitement_specifique_du_cancer 3917 3952	anthracycline et de streptozotocine
+T27	Reponse_a_la_chimiotherapie 4012 4136	progression minime a été observée dans les lésions hépatiques avec stabilisation de la maladie dans les autres localisations
+T28	Stade_OMS_ECOG_Karnofsky 4261 4277	Karnofsky > 80 %
+T29	Traitement_specifique_du_cancer 4730 4739	sunitinib
+T30	Symptomes 4853 4861	diarrhée
+T31	Symptomes 4869 4875	mucite
+T32	Reponse_a_la_chimiotherapie 4943 4978	scanner a montré une maladie stable
+T33	Reponse_a_la_chimiotherapie 5011 5061	Critères RECIST et réponse selon les critères CHOI
+T34	Traitement_specifique_du_cancer 5091 5100	sunitinib
+T35	Reponse_a_la_chimiotherapie 5144 5165	progression hépatique
+T36	Traitement_specifique_du_cancer 5299 5309	évérolimus
+T37	Reponse_a_la_chimiotherapie 5337 5394	maintient actuellement avoir atteint la meilleure réponse
+T38	Reponse_a_la_chimiotherapie 5449 5488	aucun changement dû aux critères RECIST

@@ -29,9 +29,6 @@ from gliner import GLiNER
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
-# ---------------------------------------------------------------------------
-# Config
-# ---------------------------------------------------------------------------
 
 DATA_DIR   = Path(__file__).parent
 OUTPUT_DIR = DATA_DIR / "fine_tuned"
@@ -41,7 +38,6 @@ MODELS = [
     "almanach/camembert-bio-gliner",
 ]
 
-# Labels = exact strings from the corpus — passed as-is at inference
 QUAERO_LABELS = ["DISO", "PROC", "ANAT", "CHEM", "DEVI", "LIVB", "PHYS", "PHEN", "GEOG", "OBJC"]
 
 THRESHOLDS = [0.3, 0.4, 0.5, 0.6]
@@ -69,10 +65,6 @@ RESULTS_CSV    = DATA_DIR / "gliner_results.csv"
 PARAMS_CSV     = DATA_DIR / "gliner_train_params.csv"
 PLOTS_DIR      = DATA_DIR / "plots"
 
-
-# ---------------------------------------------------------------------------
-# Training metrics callback
-# ---------------------------------------------------------------------------
 
 def extract_metrics_from_trainer(trainer):
     train_loss, steps_train = [], []

@@ -1,0 +1,21 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 36 66	antécédents familiaux suivants
+T2	Statut_tabagique 140 149	ex-fumeur
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 175 195	Antécédents médicaux
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 301 330	Antécédents gynécobstétricaux
+T5	Biomarqueurs_therapeutiques 707 712	Her-2
+T6	Biomarqueurs_therapeutiques 719 727	Ki-67 50
+T7	Stade_OMS_ECOG_Karnofsky 773 779	ECOG 0
+T8	Biomarqueurs_therapeutiques 1732 1740	Ki-67 50
+T9	Biomarqueurs_therapeutiques 1771 1776	Her-2
+T10	Stade_metastatique_avec_localisations 2123 2142	nodules pulmonaires
+T11	Stade_metastatique_avec_localisations 2460 2472	métastatique
+T12	Biomarqueurs_therapeutiques 2557 2562	Her-2
+T13	Traitement_specifique_du_cancer 2642 2647	taxol
+T14	Traitement_specifique_du_cancer 2795 2807	capécitabine
+T15	Reponse_a_la_chimiotherapie 3784 3812	Réponse métabolique complète
+T16	Reponse_a_la_chimiotherapie 4090 4096	RECIST
+T17	Reponse_a_la_chimiotherapie 4263 4288	progression de la maladie
+T18	Traitement_specifique_du_cancer 4358 4370	capécitabine
+T19	Stade_metastatique_avec_localisations 4440 4491	métastases hématogènes parenchymateuses pulmonaires
+T20	Reponse_a_la_chimiotherapie 4693 4718	progression de la maladie
+T21	Stade_metastatique_avec_localisations 5432 5451	nodules pulmonaires

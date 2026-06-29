@@ -1,37 +1,106 @@
-T1	Age 25 36	22-year-old
-T2	Sex 37 42	woman
-T3	Distance 323 329	119 mm
-T4	Lab_value 351 358	123 bpm
-T5	Lab_value 590 598	elevated
-T6	Severity 884 892	severely
-T7	Severity 958 962	mild
-T8	Duration 1172 1179	24-hour
-T9	Duration 1433 1440	24-hour
-T10	Severity 1471 1479	markedly
-T11	Lab_value 1480 1488	elevated
-T12	Lab_value 1575 1581	normal
-T13	Duration 1602 1609	24-hour
-T14	Dosage 1625 1631	468 μg
-T15	Lab_value 1633 1639	normal
-T16	Duration 1656 1663	24-hour
-T17	Dosage 1676 1681	13 μg
-T18	Lab_value 1683 1689	normal
-T19	Duration 1704 1711	24-hour
-T20	Dosage 1733 1739	658 μg
-T21	Lab_value 1741 1747	normal
-T22	Duration 1765 1772	24-hour
-T23	Dosage 1791 1797	988 μg
-T24	Lab_value 1799 1805	normal
-T25	Duration 1823 1830	24-hour
-T26	Dosage 1852 1858	013 μg
-T27	Lab_value 1860 1866	normal
-T28	Distance 2332 2337	77 mm
-T29	Lab_value 2342 2348	78 bpm
-T30	Duration 2351 2358	24-hour
-T31	Lab_value 2400 2406	normal
-T32	Dosage 2429 2434	69 μg
-T33	Dosage 2461 2467	221 μg
-T34	Dosage 2490 2496	202 μg
-T35	Dosage 2525 2531	259 μg
-T36	Date 2602 2618	Six months after
-T37	Lab_value 2702 2708	normal
+T1	Clinical_event 3 10	present
+T2	Age 25 36	22-year-old
+T3	Sex 37 42	woman
+T4	Clinical_event 51 60	diagnosed
+T5	Detailed_description 104 112	multiple
+T6	Biological_structure 113 120	retinal
+T7	Biological_structure 131 141	pancreatic
+T8	Biological_structure 153 159	spinal
+T9	Biological_structure 164 174	cerebellar
+T10	Clinical_event 202 210	admitted
+T11	Nonbiological_location 214 226	our hospital
+T12	Detailed_description 242 253	progressive
+T13	Sign_symptom 266 278	palpitations
+T14	Diagnostic_procedure 283 294	examination
+T15	Diagnostic_procedure 300 314	blood pressure
+T16	Distance 323 329	119 mm
+T17	Lab_value 351 358	123 bpm
+T18	Diagnostic_procedure 360 380	Physical examination
+T19	Detailed_description 392 400	systolic
+T20	Sign_symptom 401 407	murmur
+T21	Biological_structure 452 458	axilla
+T22	Biological_structure 463 472	pulmonary
+T23	Sign_symptom 473 478	rales
+T24	Sign_symptom 550 561	tachycardia
+T25	Diagnostic_procedure 563 579	Laboratory tests
+T26	Lab_value 590 598	elevated
+T27	Biological_structure 614 619	brain
+T28	Biological_structure 644 649	chest
+T29	Diagnostic_procedure 650 655	X-ray
+T30	Biological_structure 672 681	pulmonary
+T31	Sign_symptom 695 700	edema
+T32	Clinical_event 718 726	admitted
+T33	Clinical_event 768 777	diagnosis
+T34	Detailed_description 781 786	acute
+T35	Disease_disorder 801 814	heart failure
+T36	Biological_structure 816 829	Transthoracic
+T37	Diagnostic_procedure 830 846	echocardiography
+T38	Sign_symptom 856 863	dilated
+T39	Biological_structure 864 878	left ventricle
+T40	Severity 884 892	severely
+T41	Diagnostic_procedure 903 920	ejection fraction
+T42	Sign_symptom 940 951	hypokinesia
+T43	Severity 958 962	mild
+T44	Disease_disorder 963 983	mitral regurgitation
+T45	Clinical_event 1001 1010	admission
+T46	Medication 1105 1114	diuretics
+T47	Biological_structure 1149 1156	adrenal
+T48	Duration 1172 1179	24-hour
+T49	Biological_structure 1241 1248	Cardiac
+T50	Diagnostic_procedure 1249 1252	MRI
+T51	Disease_disorder 1292 1306	cardiomyopathy
+T52	Biological_structure 1417 1422	renal
+T53	Sign_symptom 1423 1427	mass
+T54	Duration 1433 1440	24-hour
+T55	Diagnostic_procedure 1447 1463	laboratory tests
+T56	Severity 1471 1479	markedly
+T57	Lab_value 1480 1488	elevated
+T58	Medication 1499 1513	norepinephrine
+T59	Lab_value 1575 1581	normal
+T60	Duration 1602 1609	24-hour
+T61	Medication 1610 1624	norepinephrine
+T62	Dosage 1625 1631	468 μg
+T63	Lab_value 1633 1639	normal
+T64	Duration 1656 1663	24-hour
+T65	Dosage 1676 1681	13 μg
+T66	Lab_value 1683 1689	normal
+T67	Duration 1704 1711	24-hour
+T68	Dosage 1733 1739	658 μg
+T69	Lab_value 1741 1747	normal
+T70	Duration 1765 1772	24-hour
+T71	Dosage 1791 1797	988 μg
+T72	Lab_value 1799 1805	normal
+T73	Duration 1823 1830	24-hour
+T74	Dosage 1852 1858	013 μg
+T75	Lab_value 1860 1866	normal
+T76	Biological_structure 1898 1907	abdominal
+T77	Diagnostic_procedure 1908 1911	MRI
+T78	Sign_symptom 1967 1973	masses
+T79	Therapeutic_procedure 2017 2035	Surgical resection
+T80	Sign_symptom 2044 2050	masses
+T81	Detailed_description 2148 2160	laparoscopic
+T82	Clinical_event 2186 2195	diagnosis
+T83	Disease_disorder 2199 2215	pheochromocytoma
+T84	Biological_structure 2231 2236	renal
+T85	Disease_disorder 2237 2246	carcinoma
+T86	Clinical_event 2268 2277	follow-up
+T87	Diagnostic_procedure 2279 2293	blood pressure
+T88	Diagnostic_procedure 2298 2308	heart rate
+T89	Distance 2332 2337	77 mm
+T90	Lab_value 2342 2348	78 bpm
+T91	Duration 2351 2358	24-hour
+T92	Lab_value 2400 2406	normal
+T93	Medication 2414 2428	norepinephrine
+T94	Dosage 2429 2434	69 μg
+T95	Dosage 2461 2467	221 μg
+T96	Dosage 2490 2496	202 μg
+T97	Dosage 2525 2531	259 μg
+T98	Sign_symptom 2577 2589	palpitations
+T99	Date 2602 2618	Six months after
+T100	Therapeutic_procedure 2619 2637	surgical resection
+T101	Diagnostic_procedure 2639 2655	echocardiography
+T102	Biological_structure 2682 2696	left ventricle
+T103	Lab_value 2702 2708	normal
+T104	Diagnostic_procedure 2733 2750	ejection fraction
+T105	Sign_symptom 2836 2841	tumor
+T106	Family_history 2911 2935	no family history of VHL

@@ -1,0 +1,32 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 36 78	antécédents familiaux de syndrome de Lynch
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 145 218	antécédents de diagnostic en 2002 d'adénocarcinome du côlon droit pT3N1M0
+T3	Traitement_specifique_du_cancer 230 279	hémicolectomie droite et chimiothérapie adjuvante
+T4	Symptomes 452 486	douleur au membre inférieur gauche
+T5	Symptomes 644 665	gêne au niveau du MII
+T6	Symptomes 681 701	douleurs abdominales
+T7	Signes_physiques 1036 1098	Gonflement de l'IIM avec hyperémie et rougeur au niveau distal
+T8	Stade_metastatique_avec_localisations 2177 2226	Ganglion lymphatique : métastase d'adénocarcinome
+T9	Histologie_tumorale 2232 2257	différenciation mucineuse
+T10	Topographie_du_primitif 2418 2462	origine gynécologique de la tumeur primitive
+T11	Histologie_tumorale 2479 2545	Carcinome épithélial malin indifférencié avec composante mucineuse
+T12	Stade_metastatique_avec_localisations 2571 2665	atteinte des ganglions lymphatiques latérocervicaux, rétropéritonéaux et mésentériques gauches
+T13	Signes_physiques 2750 2982	Elle a été évaluée pour la première fois en oncologie médicale dans notre centre à la demande de la patiente avec les résultats mentionnés précédemment en juillet 2014, détectant une lymphadénopathie au niveau latéro-cervical gauche
+T14	Stade_metastatique_avec_localisations 3560 3635	Adénopathie latérocervicale gauche FNAC : cytologie positive pour malignité
+T15	Histologie_tumorale 4223 4287	tumeur épithéliale maligne indifférenciée à composante mucineuse
+T16	Topographie_du_primitif 4223 4356	tumeur épithéliale maligne indifférenciée à composante mucineuse et zones de nécrose évocatrices d'une possible origine gynécologique
+T17	Topographie_du_primitif 2479 2733	Carcinome épithélial malin indifférencié avec composante mucineuse et zones de nécrose avec atteinte des ganglions lymphatiques latérocervicaux, rétropéritonéaux et mésentériques gauches avec immunohistochimie suggérant une possible origine gynécologique
+T18	Histologie_tumorale 4381 4444	carcinome épithélial malin indifférencié à composante mucineuse
+T19	Stade_metastatique_avec_localisations 4381 4564	carcinome épithélial malin indifférencié à composante mucineuse et zones de nécrose avec atteinte des ganglions lymphatiques latérocervicaux, rétropéritonéaux et mésentériques gauches
+T20	Topographie_du_primitif 4381 4632	carcinome épithélial malin indifférencié à composante mucineuse et zones de nécrose avec atteinte des ganglions lymphatiques latérocervicaux, rétropéritonéaux et mésentériques gauches avec immunohistochimie suggérant une possible origine gynécologique
+T21	Traitement_specifique_du_cancer 4674 4699	chimiothérapie palliative
+T22	Traitement_specifique_du_cancer 4744 4768	carboplatine- paclitaxel
+T23	Symptomes 4922 4961	douleur et inflammation au niveau du MS
+T24	Traitement_specifique_du_cancer 5825 5863	chimiothérapie carboplatine-paclitaxel
+T25	Traitement_specifique_du_cancer 6057 6071	chimiothérapie
+T26	Traitement_specifique_du_cancer 6281 6295	chimiothérapie
+T27	Symptomes 6447 6457	dysarthrie
+T28	Signes_physiques 6463 6498	atteinte du nerf crânien gauche VII
+T29	Traitement_specifique_du_cancer 6846 6860	chimiothérapie
+T30	Signes_physiques 7616 7645	souffle inconnu a été détecté
+T31	Symptomes 8254 8308	hémiparésie gauche et d'un faible niveau de conscience
+T32	Traitement_specifique_du_cancer 9084 9106	traitement cytotoxique

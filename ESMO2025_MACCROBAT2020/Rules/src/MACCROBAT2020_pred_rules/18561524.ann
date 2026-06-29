@@ -1,44 +1,134 @@
 T1	Age 3 14	18-year-old
 T2	Sex 15 19	male
-T3	Date 90 94	2005
-T4	Dosage 200 212	900 mg daily
-T5	Date 216 226	April 2005
-T6	Dosage 259 270	54 mg daily
-T7	Date 274 288	September 2005
-T8	Date 310 321	August 2006
-T9	Severity 365 371	severe
-T10	Lab_value 460 467	80 mmHg
-T11	Lab_value 566 576	5.1 mmol/l
-T12	Lab_value 605 613	elevated
-T13	Lab_value 1018 1025	60 mmHg
-T14	Administration 1035 1043	infusion
-T15	Lab_value 1118 1125	38.4 °C
-T16	Distance 1292 1296	7 cm
-T17	Severity 1321 1329	severely
-T18	Severity 1433 1441	markedly
-T19	Lab_value 1442 1450	elevated
-T20	Severity 1468 1476	moderate
-T21	Frequency 1499 1511	Intermittent
-T22	Lab_value 1559 1567	improved
-T23	Severity 1568 1576	slightly
-T24	Date 1666 1682	After three days
-T25	Severity 1796 1802	marked
-T26	Lab_value 1872 1879	30 mmHg
-T27	Lab_value 2195 2203	negative
-T28	Date 2205 2221	After three days
-T29	Administration 2331 2340	infusions
-T30	Lab_value 2488 2494	normal
-T31	Lab_value 2679 2687	improved
-T32	Lab_value 2723 2729	normal
-T33	Lab_value 2755 2763	improved
-T34	Lab_value 2821 2830	98 μmol/l
-T35	Severity 2849 2857	markedly
-T36	Lab_value 2858 2865	reduced
-T37	Duration 2988 2995	26 days
-T38	Date 3001 3014	after 28 days
-T39	Lab_value 3104 3110	normal
-T40	Date 3224 3243	following two weeks
-T41	Lab_value 3264 3272	improved
-T42	Severity 3355 3363	markedly
-T43	Date 3406 3416	March 2007
-T44	Lab_value 3442 3450	improved
+T3	Clinical_event 24 33	diagnosed
+T4	Date 90 94	2005
+T5	Sign_symptom 126 130	mass
+T6	Medication 168 187	quetiapine fumarate
+T7	Dosage 200 212	900 mg daily
+T8	Date 216 226	April 2005
+T9	Medication 231 246	methylphenidate
+T10	Dosage 259 270	54 mg daily
+T11	Date 274 288	September 2005
+T12	Date 310 321	August 2006
+T13	Clinical_event 329 337	admitted
+T14	Nonbiological_location 345 359	local hospital
+T15	Severity 365 371	severe
+T16	Sign_symptom 372 380	dyspnoea
+T17	Sign_symptom 382 391	tachypnea
+T18	Sign_symptom 393 404	tachycardia
+T19	Sign_symptom 410 418	cyanosis
+T20	Clinical_event 423 432	admission
+T21	Diagnostic_procedure 437 451	blood pressure
+T22	Lab_value 460 467	80 mmHg
+T23	Biological_structure 477 485	arterial
+T24	Biological_structure 486 491	blood
+T25	Lab_value 566 576	5.1 mmol/l
+T26	Diagnostic_procedure 578 596	C-reactive protein
+T27	Lab_value 605 613	elevated
+T28	Biological_structure 619 624	chest
+T29	Diagnostic_procedure 625 630	X-ray
+T30	Sign_symptom 641 649	enlarged
+T31	Biological_structure 650 655	heart
+T32	Sign_symptom 670 680	hemoptysis
+T33	Medication 717 724	heparin
+T34	Biological_structure 741 750	pulmonary
+T35	Disease_disorder 751 759	embolism
+T36	Disease_disorder 787 804	cardiogenic shock
+T37	Activity 837 842	drugs
+T38	Biological_structure 897 902	liver
+T39	Clinical_event 931 939	referred
+T40	Nonbiological_location 943 955	our hospital
+T41	Clinical_event 982 991	admission
+T42	Diagnostic_procedure 996 1010	blood pressure
+T43	Lab_value 1018 1025	60 mmHg
+T44	Administration 1035 1043	infusion
+T45	Medication 1049 1062	noradrenaline
+T46	Diagnostic_procedure 1068 1078	heart rate
+T47	Lab_value 1118 1125	38.4 °C
+T48	Biological_structure 1129 1137	thoracic
+T49	Diagnostic_procedure 1138 1157	computed tomography
+T50	Biological_structure 1176 1185	pulmonary
+T51	Disease_disorder 1186 1194	embolism
+T52	Diagnostic_procedure 1196 1212	Echocardiography
+T53	Detailed_description 1269 1278	diastolic
+T54	Distance 1292 1296	7 cm
+T55	Biological_structure 1302 1316	left ventricle
+T56	Severity 1321 1329	severely
+T57	Diagnostic_procedure 1350 1367	ejection fraction
+T58	Detailed_description 1410 1419	diastolic
+T59	Severity 1433 1441	markedly
+T60	Lab_value 1442 1450	elevated
+T61	Severity 1468 1476	moderate
+T62	Disease_disorder 1477 1497	mitral regurgitation
+T63	Frequency 1499 1511	Intermittent
+T64	Therapeutic_procedure 1512 1524	hemodialysis
+T65	Diagnostic_procedure 1544 1558	liver function
+T66	Lab_value 1559 1567	improved
+T67	Severity 1568 1576	slightly
+T68	Therapeutic_procedure 1590 1598	dialysis
+T69	Diagnostic_procedure 1603 1617	renal function
+T70	Diagnostic_procedure 1647 1657	creatinine
+T71	Date 1666 1682	After three days
+T72	Detailed_description 1737 1745	systolic
+T73	Diagnostic_procedure 1763 1780	ejection fraction
+T74	Severity 1796 1802	marked
+T75	Disease_disorder 1803 1825	pulmonary hypertension
+T76	Detailed_description 1831 1839	systolic
+T77	Biological_structure 1840 1849	pulmonary
+T78	Lab_value 1872 1879	30 mmHg
+T79	Sign_symptom 1912 1919	dilated
+T80	Disease_disorder 1920 1934	cardiomyopathy
+T81	Biological_structure 1967 1972	renal
+T82	Biological_structure 1977 1982	liver
+T83	Activity 2005 2009	drug
+T84	Disease_disorder 2018 2032	cardiomyopathy
+T85	Medication 2037 2052	methylphenidate
+T86	Medication 2057 2076	quetiapine fumarate
+T87	Lab_value 2195 2203	negative
+T88	Date 2205 2221	After three days
+T89	Clinical_event 2229 2240	transferred
+T90	Nonbiological_location 2257 2265	Hospital
+T91	Medication 2302 2315	noradrenaline
+T92	Medication 2320 2330	dobutamine
+T93	Administration 2331 2340	infusions
+T94	Clinical_event 2356 2365	admission
+T95	Medication 2418 2431	noradrenaline
+T96	Medication 2448 2461	nitroprusside
+T97	Diagnostic_procedure 2463 2483	Coronary angiography
+T98	Lab_value 2488 2494	normal
+T99	Diagnostic_procedure 2511 2517	biopsy
+T100	Biological_structure 2527 2542	right ventricle
+T101	Biological_structure 2571 2581	myocardial
+T102	Medication 2617 2630	nitroprusside
+T103	Therapeutic_procedure 2636 2644	dialysis
+T104	Lab_value 2679 2687	improved
+T105	Diagnostic_procedure 2696 2710	liver function
+T106	Lab_value 2723 2729	normal
+T107	Diagnostic_procedure 2735 2749	renal function
+T108	Lab_value 2755 2763	improved
+T109	Diagnostic_procedure 2793 2803	creatinine
+T110	Lab_value 2821 2830	98 μmol/l
+T111	Severity 2849 2857	markedly
+T112	Lab_value 2858 2865	reduced
+T113	Biological_structure 2941 2946	heart
+T114	Therapeutic_procedure 2947 2957	transplant
+T115	Duration 2988 2995	26 days
+T116	Date 3001 3014	after 28 days
+T117	Clinical_event 3022 3033	transferred
+T118	Nonbiological_location 3042 3054	our hospital
+T119	Biological_structure 3073 3078	liver
+T120	Biological_structure 3083 3088	renal
+T121	Lab_value 3104 3110	normal
+T122	Medication 3184 3196	beta-blocker
+T123	Medication 3202 3211	diuretics
+T124	Date 3224 3243	following two weeks
+T125	Lab_value 3264 3272	improved
+T126	Clinical_event 3297 3307	discharged
+T127	Diagnostic_procedure 3325 3341	echocardiography
+T128	Severity 3355 3363	markedly
+T129	Sign_symptom 3364 3371	dilated
+T130	Biological_structure 3372 3386	left ventricle
+T131	Date 3406 3416	March 2007
+T132	Lab_value 3442 3450	improved
+T133	Biological_structure 3493 3498	Heart
+T134	Diagnostic_procedure 3536 3552	echocardiography

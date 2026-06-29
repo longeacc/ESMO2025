@@ -1,0 +1,10 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 34 57	allergie médicamenteuse
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 202 235	antécédents familiaux d'oncologie
+T3	Stade_OMS_ECOG_Karnofsky 1069 1075	ECOG 1
+T4	Signes_physiques 1347 1380	hépatomégalie ou de splénomégalie
+T5	Histologie_tumorale 1515 1523	lymphome
+T6	Histologie_tumorale 1530 1538	mélanome
+T7	Histologie_tumorale 1801 1815	tumeur maligne
+T8	Biomarqueurs_therapeutiques 2182 2186	CD56
+T9	Biomarqueurs_therapeutiques 2363 2368	Ki-67
+T10	Histologie_tumorale 2598 2606	lymphome

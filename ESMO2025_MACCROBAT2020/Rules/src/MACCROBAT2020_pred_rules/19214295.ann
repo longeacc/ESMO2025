@@ -1,24 +1,101 @@
 T1	Age 2 13	71-year-old
 T2	Sex 14 19	woman
-T3	Lab_value 123 132	decreased
-T4	Lab_value 205 212	40 mmHg
-T5	Severity 575 583	moderate
-T6	Severity 656 660	mild
-T7	Severity 664 672	moderate
-T8	Severity 803 807	mild
-T9	Lab_value 1083 1090	60 mmHg
-T10	Lab_value 1095 1102	65 mmHg
-T11	Lab_value 1133 1140	40 mmHg
-T12	Lab_value 1145 1152	45 mmHg
-T13	Lab_value 1514 1521	36 mmHg
-T14	Lab_value 1660 1667	92 mmHg
-T15	Date 1845 1854	first day
-T16	Lab_value 1911 1918	80 mmHg
-T17	Lab_value 1986 1993	74 mmHg
-T18	Lab_value 2013 2020	39 mmHg
-T19	Distance 2177 2184	1.25 mm
-T20	Administration 2215 2226	intravenous
-T21	Administration 2236 2245	injection
-T22	Lab_value 2741 2747	normal
-T23	Lab_value 2962 2968	stable
-T24	Lab_value 2993 2999	stable
+T3	Detailed_description 31 40	diastolic
+T4	Disease_disorder 41 65	congestive heart failure
+T5	Disease_disorder 67 70	CHF
+T6	Clinical_event 72 81	presented
+T7	Nonbiological_location 89 91	ER
+T8	Disease_disorder 113 116	CHF
+T9	Lab_value 123 132	decreased
+T10	Diagnostic_procedure 166 180	blood pressure
+T11	Lab_value 205 212	40 mmHg
+T12	Disease_disorder 274 277	CHF
+T13	History 283 298	medical history
+T14	Diagnostic_procedure 360 374	liver function
+T15	Biological_structure 376 386	esophageal
+T16	Sign_symptom 387 394	varices
+T17	Sign_symptom 402 410	bleeding
+T18	Medication 434 448	corticosteroid
+T19	Biological_structure 472 479	adrenal
+T20	Disease_disorder 502 519	diabetes mellitus
+T21	Disease_disorder 524 536	osteoporosis
+T22	Diagnostic_procedure 545 561	echocardiography
+T23	Severity 575 583	moderate
+T24	Detailed_description 584 594	concentric
+T25	Sign_symptom 612 623	hypertrophy
+T26	Detailed_description 629 638	diastolic
+T27	Severity 656 660	mild
+T28	Severity 664 672	moderate
+T29	Disease_disorder 673 693	mitral regurgitation
+T30	Diagnostic_procedure 695 718	Cardiac catheterization
+T31	Clinical_event 731 740	admission
+T32	Sign_symptom 758 766	stenosis
+T33	Severity 803 807	mild
+T34	Detailed_description 808 815	diffuse
+T35	Biological_structure 846 854	arteries
+T36	Diagnostic_procedure 889 895	biopsy
+T37	Disease_disorder 910 921	myocarditis
+T38	Disease_disorder 939 955	cardiomyopathies
+T39	Detailed_description 1059 1067	systolic
+T40	Lab_value 1083 1090	60 mmHg
+T41	Lab_value 1095 1102	65 mmHg
+T42	Detailed_description 1108 1117	diastolic
+T43	Lab_value 1133 1140	40 mmHg
+T44	Lab_value 1145 1152	45 mmHg
+T45	Therapeutic_procedure 1164 1174	intubation
+T46	Medication 1176 1184	dopamine
+T47	Sign_symptom 1201 1212	hypotension
+T48	Medication 1252 1265	noradrenaline
+T49	Disease_disorder 1289 1303	atrial flutter
+T50	Clinical_event 1399 1411	consultation
+T51	Clinical_event 1424 1433	admission
+T52	Nonbiological_location 1441 1459	coronary care unit
+T53	Nonbiological_location 1461 1464	CCU
+T54	Clinical_event 1470 1479	admission
+T55	Nonbiological_location 1487 1490	CCU
+T56	Lab_value 1514 1521	36 mmHg
+T57	Biological_structure 1529 1537	left arm
+T58	Biological_structure 1568 1577	right arm
+T59	Biological_structure 1582 1590	arterial
+T60	Biological_structure 1617 1624	femoral
+T61	Lab_value 1660 1667	92 mmHg
+T62	Biological_structure 1721 1728	femoral
+T63	Biological_structure 1729 1737	arterial
+T64	Biological_structure 1792 1800	left arm
+T65	Biological_structure 1813 1822	right arm
+T66	Date 1845 1854	first day
+T67	Nonbiological_location 1860 1863	CCU
+T68	Clinical_event 1864 1873	admission
+T69	Lab_value 1911 1918	80 mmHg
+T70	Biological_structure 1931 1939	arterial
+T71	Lab_value 1986 1993	74 mmHg
+T72	Lab_value 2013 2020	39 mmHg
+T73	Biological_structure 2028 2037	right arm
+T74	Biological_structure 2093 2100	femoral
+T75	Diagnostic_procedure 2114 2133	computed tomography
+T76	Diagnostic_procedure 2135 2137	CT
+T77	Distance 2177 2184	1.25 mm
+T78	Administration 2215 2226	intravenous
+T79	Administration 2236 2245	injection
+T80	Diagnostic_procedure 2367 2369	CT
+T81	Sign_symptom 2412 2420	thrombus
+T82	Biological_structure 2455 2463	arteries
+T83	Biological_structure 2485 2492	carotid
+T84	Diagnostic_procedure 2505 2507	CT
+T85	Sign_symptom 2586 2594	stenosis
+T86	Sign_symptom 2651 2659	stenosis
+T87	Biological_structure 2694 2701	carotid
+T88	Biological_structure 2715 2724	vertebral
+T89	Biological_structure 2725 2733	arteries
+T90	Lab_value 2741 2747	normal
+T91	Biological_structure 2827 2834	femoral
+T92	Biological_structure 2835 2843	arterial
+T93	Biological_structure 2862 2869	femoral
+T94	Medication 2887 2896	diuretics
+T95	Clinical_event 2948 2958	discharged
+T96	Lab_value 2962 2968	stable
+T97	Lab_value 2993 2999	stable
+T98	Clinical_event 3032 3041	discharge
+T99	Clinical_event 3059 3066	present
+T100	Disease_disorder 3119 3122	CHF
+T101	Nonbiological_location 3134 3136	ER

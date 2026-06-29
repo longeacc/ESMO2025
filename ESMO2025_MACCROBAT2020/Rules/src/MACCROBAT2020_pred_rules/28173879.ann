@@ -1,37 +1,79 @@
 T1	Age 2 13	54-year-old
-T2	Sex 20 23	man
-T3	Date 91 110	14 years previously
-T4	Lab_value 150 156	stable
-T5	Duration 161 169	14 years
-T6	Color 195 201	salmon
-T7	Color 202 206	pink
-T8	Lab_value 441 446	39 °C
-T9	Date 483 500	Two months before
-T10	Dosage 592 598	1.7 mg
-T11	Dosage 668 676	3 mg/day
-T12	Dosage 702 713	1500 mg/day
-T13	Dosage 732 736	4 mg
-T14	Frequency 737 752	every other day
-T15	Lab_value 795 804	6.3 ng/mL
-T16	Duration 845 853	12 years
-T17	Color 873 878	white
-T18	Lab_value 903 909	400/μL
-T19	Dosage 947 953	3.9 mg
-T20	Dosage 1019 1026	9 g/day
-T21	Administration 1027 1040	intravenously
-T22	Date 1043 1057	Two days after
-T23	Date 1107 1122	Four days later
-T24	Lab_value 1238 1246	negative
-T25	Lab_value 1763 1771	positive
-T26	Lab_value 1922 1930	negative
-T27	Duration 2402 2409	11 days
-T28	Lab_value 2414 2422	positive
-T29	Duration 2465 2472	15 days
-T30	Lab_value 2477 2485	negative
-T31	Lab_value 2522 2530	resolved
-T32	Duration 2590 2597	6 weeks
-T33	Duration 2634 2641	2 weeks
-T34	Administration 2646 2650	oral
-T35	Duration 2668 2675	4 weeks
-T36	Date 2703 2717	6 months after
-T37	Lab_value 2754 2762	negative
+T2	Personal_background 14 19	Asian
+T3	Sex 20 23	man
+T4	Subject 62 67	donor
+T5	Biological_structure 68 74	kidney
+T6	Therapeutic_procedure 75 90	transplantation
+T7	Date 91 110	14 years previously
+T8	Lab_value 150 156	stable
+T9	Duration 161 169	14 years
+T10	Detailed_description 184 194	multifocal
+T11	Color 195 201	salmon
+T12	Color 202 206	pink
+T13	Biological_structure 207 211	skin
+T14	Sign_symptom 231 239	swelling
+T15	Detailed_description 244 255	spontaneous
+T16	Sign_symptom 256 260	pain
+T17	Sign_symptom 291 299	symptoms
+T18	Clinical_event 387 395	admitted
+T19	Nonbiological_location 399 411	our hospital
+T20	Sign_symptom 434 439	fever
+T21	Lab_value 441 446	39 °C
+T22	Detailed_description 452 462	multifocal
+T23	Disease_disorder 463 473	cellulitis
+T24	Date 483 500	Two months before
+T25	Clinical_event 501 510	admission
+T26	Detailed_description 529 536	chronic
+T27	Biological_structure 551 556	serum
+T28	Diagnostic_procedure 557 567	creatinine
+T29	Dosage 592 598	1.7 mg
+T30	Therapeutic_procedure 619 644	immunosuppressive therapy
+T31	Medication 656 666	tacrolimus
+T32	Dosage 668 676	3 mg/day
+T33	Medication 679 700	mycophenolate mofetil
+T34	Dosage 702 713	1500 mg/day
+T35	Medication 720 730	prednisone
+T36	Dosage 732 736	4 mg
+T37	Frequency 737 752	every other day
+T38	Medication 759 769	tacrolimus
+T39	Lab_value 795 804	6.3 ng/mL
+T40	Occupation 833 840	breeder
+T41	Duration 845 853	12 years
+T42	Clinical_event 858 867	admission
+T43	Personal_background 873 878	white
+T44	Biological_structure 879 884	blood
+T45	Lab_value 903 909	400/μL
+T46	Diagnostic_procedure 918 936	C-reactive protein
+T47	Dosage 947 953	3.9 mg
+T48	Medication 997 1007	ampicillin
+T49	Dosage 1019 1026	9 g/day
+T50	Administration 1027 1040	intravenously
+T51	Date 1043 1057	Two days after
+T52	Date 1107 1122	Four days later
+T53	Biological_structure 1137 1142	blood
+T54	Lab_value 1238 1246	negative
+T55	Biological_structure 1300 1305	blood
+T56	Biological_structure 1534 1539	blood
+T57	Lab_value 1763 1771	positive
+T58	Biological_structure 1850 1855	blood
+T59	Lab_value 1922 1930	negative
+T60	Clinical_event 2159 2168	diagnosed
+T61	Disease_disorder 2213 2223	cellulitis
+T62	Biological_structure 2293 2298	blood
+T63	Biological_structure 2376 2381	blood
+T64	Duration 2402 2409	11 days
+T65	Lab_value 2414 2422	positive
+T66	Duration 2465 2472	15 days
+T67	Lab_value 2477 2485	negative
+T68	Disease_disorder 2501 2511	cellulitis
+T69	Lab_value 2522 2530	resolved
+T70	Medication 2554 2564	antibiotic
+T71	Duration 2590 2597	6 weeks
+T72	Medication 2599 2609	ampicillin
+T73	Duration 2634 2641	2 weeks
+T74	Administration 2646 2650	oral
+T75	Medication 2651 2663	levofloxacin
+T76	Duration 2668 2675	4 weeks
+T77	Sign_symptom 2692 2702	recurrence
+T78	Date 2703 2717	6 months after
+T79	Lab_value 2754 2762	negative

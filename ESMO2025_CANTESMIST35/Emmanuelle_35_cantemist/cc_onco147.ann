@@ -1,0 +1,36 @@
+T1	Statut_tabagique 140 170	ex-fumeur depuis plus de 5 ans
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 175 223	Antécédents médicaux : mastopathie fibrokystique
+T3	Symptomes 436 484	gêne non spécifique au niveau de son bras gauche
+T4	Histologie_tumorale 675 692	cancer infiltrant
+T5	Biomarqueurs_therapeutiques 693 716	ER(-), RP(-), Her-2 (3+
+T6	Stade_OMS_ECOG_Karnofsky 773 779	ECOG 0
+T7	Signes_physiques 1109 1207	ganglions lymphatiques pathologiques sont palpés aux niveaux axillaire gauche et supraclaviculaire
+T8	Signes_physiques 1035 1091	nodules rémittents sont palpés dans le CSE du sein droit
+T9	Histologie_tumorale 1578 1598	carcinome infiltrant
+T10	Histologie_tumorale 1663 1672	carcinome
+T11	Histologie_tumorale 1698 1715	carcinome du sein
+T12	Topographie_du_primitif 1698 1714	carcinome du sei
+T13	Biomarqueurs_therapeutiques 1718 1860	ER(-), RP(-), Ki-67 50-60%, axillaire (+), CK19 (+), Her-2 (voie 4B5) : positivité intense en membrane dans plus de 80 % de cellules (score 3+
+T14	Topographie_du_primitif 2445 2459	Cancer du sein
+T15	Stade_metastatique_avec_localisations 2445 2541	Cancer du sein métastatique dans le CSE du sein gauche avec atteinte pulmonaire et adénopathique
+T16	Traitement_specifique_du_cancer 2642 2671	taxol + herceptin + dasatinib
+T17	Traitement_specifique_du_cancer 2795 2819	capécitabine + lapatinib
+T18	Traitement_specifique_du_cancer 2896 2917	létrozole + lapatinib
+T19	Traitement_specifique_du_cancer 3049 3085	pertuzumab + trastuzumab + docétaxel
+T20	Reponse_a_la_chimiotherapie 3096 3150	mauvaise réponse au traitement avec progression locale
+T21	Signes_physiques 3361 3542	lésion cutanée érythémateuse aux bords irréguliers avec une lésion ulcéreuse qui draine une matière blanchâtre d'environ 8 cm de diamètre dans son grand axe au niveau du sein gauche
+T22	Reponse_a_la_chimiotherapie 3697 3782	réponse métabolique partielle de la lésion primaire située dans le CSE du sein gauche
+T23	Reponse_a_la_chimiotherapie 3784 3956	Réponse métabolique complète probable de l'atteinte lymphatique axillaire gauche, mammaire interne, supraclaviculaire et cervicale et des métastases pulmonaires bilatérales
+T24	Reponse_a_la_chimiotherapie 3989 4096	croissance et la PD de la maladie au niveau pulmonaire, notamment celui du poumon gauche (> 30% avec RECIST
+T25	Reponse_a_la_chimiotherapie 4263 4288	progression de la maladie
+T26	Traitement_specifique_du_cancer 4346 4370	lapatinib + capécitabine
+T27	Reponse_a_la_chimiotherapie 4403 4574	croissance subtile et persistante de métastases hématogènes parenchymateuses pulmonaires de part et d'autre avec apparition d'une nouvelle dans le segment antérieur du LSD
+T28	Traitement_specifique_du_cancer 4618 4639	létrozole + lapatinib
+T29	Reponse_a_la_chimiotherapie 4693 5008	progression de la maladie thoracique, tant au niveau du sein gauche (masse CSE plus importante, épaississement cutané plus important et nodules hypervasculaires parenchymateux qui n'existaient pas dans l'étude précédente), et au niveau des métastases pulmonaires bilatérales, qui ont augmenté en volume et en nombre
+T30	Traitement_specifique_du_cancer 5124 5160	pertuzumab + trastuzumab + docétaxel
+T31	Symptomes 5165 5210	douleur et la suppuration de la plaie au sein
+T32	Reponse_a_la_chimiotherapie 5249 5329	tumeur du sein gauche, dont la taille a diminué par rapport à l'étude précédente
+T33	Reponse_a_la_chimiotherapie 5370 5426	lymphadénopathie axillaire a également diminué en taille
+T34	Traitement_specifique_du_cancer 5614 5629	traitement TDM1
+T35	Reponse_a_la_chimiotherapie 5432 5514	nodules pulmonaires retrouvés dans les études précédentes ont pratiquement disparu
+T36	Reponse_a_la_chimiotherapie 5704 5858	signes de progression de sa maladie, avec augmentation du nombre et de la taille des métastases pulmonaires et des formations ganglionnaires métastatiques

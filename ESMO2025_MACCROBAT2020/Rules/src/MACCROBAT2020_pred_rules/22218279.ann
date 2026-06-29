@@ -1,19 +1,55 @@
 T1	Age 2 13	26-year-old
 T2	Sex 14 17	man
-T3	Severity 155 161	marked
-T4	Dosage 922 925	1 g
-T5	Administration 929 931	IV
-T6	Frequency 951 956	daily
-T7	Duration 961 967	5 days
-T8	Lab_value 981 992	improvement
-T9	Lab_value 1057 1068	improvement
-T10	Date 1121 1136	five days after
-T11	Lab_value 1291 1297	normal
-T12	Dosage 1332 1337	44 μg
-T13	Administration 1338 1352	subcutaneously
-T14	Frequency 1353 1367	3 times a week
-T15	Lab_value 1430 1434	good
-T16	Date 1445 1459	One year later
-T17	Lab_value 1504 1510	normal
-T18	Texture 2112 2117	dense
-T19	Texture 2168 2174	smooth
+T3	Personal_background 21 31	Portuguese
+T4	History 45 80	no significant past medical history
+T5	Clinical_event 81 89	presents
+T6	Detailed_description 95 103	subacute
+T7	Detailed_description 113 124	right-sided
+T8	Severity 155 161	marked
+T9	Diagnostic_procedure 236 247	Examination
+T10	Detailed_description 267 274	central
+T11	Biological_structure 275 281	facial
+T12	Sign_symptom 282 290	weakness
+T13	Biological_structure 314 323	right arm
+T14	Biological_structure 370 387	lower extremities
+T15	Detailed_description 435 446	right-sided
+T16	Diagnostic_procedure 466 469	MRI
+T17	Biological_structure 477 482	brain
+T18	Detailed_description 490 498	multiple
+T19	Detailed_description 499 508	bilateral
+T20	Detailed_description 509 519	concentric
+T21	Detailed_description 651 661	concentric
+T22	Sign_symptom 720 727	lesions
+T23	Sign_symptom 765 771	lesion
+T24	Dosage 922 925	1 g
+T25	Administration 929 931	IV
+T26	Medication 932 950	methylprednisolone
+T27	Frequency 951 956	daily
+T28	Duration 961 967	5 days
+T29	Lab_value 981 992	improvement
+T30	Lab_value 1057 1068	improvement
+T31	Date 1121 1136	five days after
+T32	Clinical_event 1137 1146	discharge
+T33	Diagnostic_procedure 1152 1163	examination
+T34	Detailed_description 1234 1245	right-sided
+T35	Sign_symptom 1257 1263	tremor
+T36	Lab_value 1291 1297	normal
+T37	Dosage 1332 1337	44 μg
+T38	Administration 1338 1352	subcutaneously
+T39	Frequency 1353 1367	3 times a week
+T40	Lab_value 1430 1434	good
+T41	Date 1445 1459	One year later
+T42	Diagnostic_procedure 1476 1487	examination
+T43	Lab_value 1504 1510	normal
+T44	Family_history 1522 1571	no family history of demyelinating or autoimmune 
+T45	Subject 1586 1592	mother
+T46	Sign_symptom 1622 1631	headaches
+T47	Biological_structure 1726 1734	cerebral
+T48	Subject 1832 1838	sister
+T49	Disease_disorder 1845 1851	stroke
+T50	Sign_symptom 1890 1899	headaches
+T51	Biological_structure 2084 2088	Skin
+T52	Diagnostic_procedure 2089 2095	biopsy
+T53	Texture 2112 2117	dense
+T54	Texture 2168 2174	smooth
+T55	Biological_structure 2175 2181	muscle

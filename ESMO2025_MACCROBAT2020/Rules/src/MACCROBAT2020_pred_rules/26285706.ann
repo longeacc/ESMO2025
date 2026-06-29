@@ -1,27 +1,90 @@
 T1	Age 2 13	65-year old
 T2	Sex 14 20	female
-T3	Duration 65 73	2 months
-T4	Weight 78 82	5 kg
-T5	Administration 183 190	tablets
-T6	Frequency 192 197	daily
-T7	Duration 203 210	5 years
-T8	Distance 257 261	4 cm
-T9	Color 262 269	whitish
-T10	Texture 270 274	firm
-T11	Shape 577 582	ovoid
-T12	Texture 684 690	smooth
-T13	Distance 1419 1423	4 cm
-T14	Shape 1425 1433	globular
-T15	Texture 1455 1460	dense
-T16	Color 1462 1469	whitish
-T17	Color 1492 1498	yellow
-T18	Color 1605 1609	gray
-T19	Texture 1618 1625	fibrous
-T20	Color 1667 1673	yellow
-T21	Texture 1833 1840	fibrous
-T22	Color 1869 1874	green
-T23	Shape 1916 1927	crystalline
-T24	Administration 2377 2384	tablets
-T25	Shape 2517 2528	crystalline
-T26	Date 2561 2576	One month later
-T27	Lab_value 2705 2711	normal
+T3	Clinical_event 25 33	admitted
+T4	Detailed_description 39 50	progressive
+T5	Sign_symptom 51 60	dysphagia
+T6	Duration 65 73	2 months
+T7	Sign_symptom 83 94	weight loss
+T8	History 100 120	past medical history
+T9	Disease_disorder 141 153	osteoporosis
+T10	Medication 167 182	calcium lactate
+T11	Administration 183 190	tablets
+T12	Frequency 192 197	daily
+T13	Duration 203 210	5 years
+T14	Diagnostic_procedure 235 244	endoscopy
+T15	Distance 257 261	4 cm
+T16	Color 262 269	whitish
+T17	Texture 270 274	firm
+T18	Sign_symptom 275 279	mass
+T19	Biological_structure 294 303	esophagus
+T20	Detailed_description 339 343	deep
+T21	Sign_symptom 344 349	ulcer
+T22	Diagnostic_procedure 412 421	endoscopy
+T23	Biological_structure 492 502	esophageal
+T24	Sign_symptom 503 507	mass
+T25	Shape 577 582	ovoid
+T26	Detailed_description 604 610	distal
+T27	Biological_structure 623 632	esophagus
+T28	Biological_structure 633 643	esophageal
+T29	Sign_symptom 665 679	calcifications
+T30	Texture 684 690	smooth
+T31	Activity 708 719	peristalsis
+T32	Biological_structure 776 786	esophageal
+T33	Sign_symptom 797 805	enlarged
+T34	Sign_symptom 813 824	diverticula
+T35	Detailed_description 844 853	posterior
+T36	Sign_symptom 923 928	tumor
+T37	Biological_structure 968 978	esophageal
+T38	Sign_symptom 979 983	mass
+T39	Diagnostic_procedure 997 1005	biopsies
+T40	Biological_structure 1024 1034	esophageal
+T41	Sign_symptom 1035 1044	ulcerated
+T42	Disease_disorder 1089 1099	malignancy
+T43	Detailed_description 1116 1126	endoscopic
+T44	Biological_structure 1200 1210	esophageal
+T45	Sign_symptom 1211 1222	diverticula
+T46	Sign_symptom 1242 1251	ulcerated
+T47	Biological_structure 1264 1274	esophageal
+T48	Sign_symptom 1275 1279	mass
+T49	Therapeutic_procedure 1284 1291	removed
+T50	Detailed_description 1300 1310	endoscopic
+T51	Distance 1419 1423	4 cm
+T52	Shape 1425 1433	globular
+T53	Sign_symptom 1434 1438	mass
+T54	Detailed_description 1440 1453	heterogeneous
+T55	Texture 1455 1460	dense
+T56	Color 1462 1469	whitish
+T57	Color 1492 1498	yellow
+T58	Sign_symptom 1528 1541	calcification
+T59	Diagnostic_procedure 1559 1570	examination
+T60	Color 1605 1609	gray
+T61	Texture 1618 1625	fibrous
+T62	Detailed_description 1652 1660	multiple
+T63	Color 1667 1673	yellow
+T64	Sign_symptom 1728 1732	mass
+T65	Diagnostic_procedure 1804 1815	examination
+T66	Texture 1833 1840	fibrous
+T67	Color 1869 1874	green
+T68	Shape 1916 1927	crystalline
+T69	Sign_symptom 2121 2125	mass
+T70	Clinical_event 2188 2197	diagnosis
+T71	Sign_symptom 2347 2353	lesion
+T72	Diagnostic_procedure 2369 2376	calcium
+T73	Administration 2377 2384	tablets
+T74	Sign_symptom 2410 2423	calcification
+T75	Shape 2517 2528	crystalline
+T76	Date 2561 2576	One month later
+T77	Outcome 2593 2605	asymptomatic
+T78	Diagnostic_procedure 2611 2620	endoscopy
+T79	Sign_symptom 2641 2649	enlarged
+T80	Biological_structure 2650 2659	esophagus
+T81	Biological_structure 2683 2693	esophageal
+T82	Lab_value 2705 2711	normal
+T83	Sign_symptom 2721 2732	ulcerations
+T84	Sign_symptom 2741 2752	diverticula
+T85	Biological_structure 2808 2818	esophageal
+T86	Medication 2875 2890	calcium lactate
+T87	Clinical_event 2928 2937	diagnosis
+T88	Biological_structure 2944 2954	esophageal
+T89	Detailed_description 2955 2961	benign
+T90	Sign_symptom 2986 2990	mass

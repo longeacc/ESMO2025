@@ -1,0 +1,23 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 40 73	antécédents de syndrome de Gorlin
+T2	Statut_tabagique 143 159	Fumeur de 10 a/p
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 350 483	Auparavant, elle avait subi plusieurs opérations sur des kératocystes mandibulaires et l'ablation de tumeurs cutanées basocellulaires
+T4	Histologie_tumorale 550 576	Carcinomes basocellulaires
+T5	Topographie_du_primitif 550 630	Carcinomes basocellulaires multiples > 1 cm au niveau des extrémités et du tronc
+T6	Traitement_specifique_du_cancer 1052 1062	vismodegib
+T7	Symptomes 1216 1224	alopécie
+T8	Symptomes 1420 1453	asthénie et d'une perte d'appétit
+T9	Symptomes 1554 1561	crampes
+T10	Symptomes 1243 1250	crampes
+T11	Symptomes 1350 1357	crampes
+T12	Symptomes 1370 1378	alopécie
+T13	Symptomes 1649 1657	alopécie
+T14	Reponse_a_la_chimiotherapie 1733 1809	réduction de toutes les lésions cutanées (certaines avec régression complète
+T15	Reponse_a_la_chimiotherapie 1814 1887	sans apparition de nouvelles lésions ni progression de kystes odontogènes
+T16	Symptomes 1994 2001	crampes
+T17	Symptomes 2059 2085	dysgueusie et de l'anosmie
+T18	Traitement_specifique_du_cancer 2193 2203	vismodegib
+T19	Symptomes 2548 2556	diarrhée
+T20	Symptomes 2580 2587	nausées
+T21	Symptomes 2604 2631	Il n'a présenté ni alopécie
+T22	Reponse_a_la_chimiotherapie 2677 2743	lésions cutanées continuent de réagir et sans signe de progression
+T23	Symptomes 2633 2643	ni crampes

@@ -1,9 +1,30 @@
 T1	Age 2 13	35-year-old
 T2	Sex 14 19	woman
-T3	Duration 150 157	2 years
-T4	Duration 219 227	19 years
-T5	Lab_value 351 371	within normal limits
-T6	Dosage 736 743	7443 µg
-T7	Lab_value 784 804	within normal limits
-T8	Dosage 898 905	0.25 mg
-T9	Frequency 906 920	twice per week
+T3	Clinical_event 20 29	presented
+T4	Sign_symptom 85 93	headache
+T5	Detailed_description 108 118	left-sided
+T6	Sign_symptom 136 145	epistaxis
+T7	Duration 150 157	2 years
+T8	History 159 174	Medical history
+T9	Detailed_description 184 193	secondary
+T10	Duration 219 227	19 years
+T11	Detailed_description 247 256	secondary
+T12	Lab_value 351 371	within normal limits
+T13	Diagnostic_procedure 379 390	examination
+T14	Detailed_description 402 412	left-sided
+T15	Sign_symptom 421 425	mass
+T16	Sign_symptom 434 438	mass
+T17	Sign_symptom 443 451	bleeding
+T18	Diagnostic_procedure 455 464	palpation
+T19	Diagnostic_procedure 508 514	biopsy
+T20	Diagnostic_procedure 516 519	MRI
+T21	Sign_symptom 565 569	mass
+T22	Clinical_event 634 642	referred
+T23	Biological_structure 706 711	serum
+T24	Dosage 736 743	7443 µg
+T25	Biological_structure 760 769	pituitary
+T26	Lab_value 784 804	within normal limits
+T27	Clinical_event 814 823	diagnosis
+T28	Disease_disorder 833 845	prolactinoma
+T29	Dosage 898 905	0.25 mg
+T30	Frequency 906 920	twice per week

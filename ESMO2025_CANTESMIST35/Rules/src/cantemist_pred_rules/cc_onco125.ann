@@ -1,0 +1,17 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 40 94	antécédents de syndrome de Gorlin diagnostiqué en 1996
+T2	Statut_tabagique 143 149	Fumeur
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 255 284	antécédent familial pertinent
+T4	Signes_physiques 510 526	Bon état général
+T5	Symptomes 1216 1224	alopécie
+T6	Symptomes 1243 1250	crampes
+T7	Symptomes 1350 1357	crampes
+T8	Symptomes 1370 1378	alopécie
+T9	Symptomes 1420 1428	asthénie
+T10	Symptomes 1554 1561	crampes
+T11	Symptomes 1649 1657	alopécie
+T12	Symptomes 1994 2001	crampes
+T13	Traitement_specifique_du_cancer 2280 2300	schéma thérapeutique
+T14	Symptomes 2548 2556	diarrhée
+T15	Symptomes 2580 2587	nausées
+T16	Symptomes 2623 2631	alopécie
+T17	Symptomes 2636 2643	crampes

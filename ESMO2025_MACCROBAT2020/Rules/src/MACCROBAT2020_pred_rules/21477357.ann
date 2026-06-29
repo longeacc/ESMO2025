@@ -1,19 +1,91 @@
 T1	Age 2 13	52-year-old
 T2	Sex 14 17	man
-T3	Administration 143 145	IV
-T4	Duration 168 175	5-month
-T5	Frequency 230 239	recurrent
-T6	Date 274 286	2 months ago
-T7	Lab_value 341 345	37°C
-T8	Lab_value 365 372	40 mmHg
-T9	Lab_value 661 669	elevated
-T10	Lab_value 719 725	normal
-T11	Lab_value 746 758	unremarkable
-T12	Lab_value 936 942	normal
-T13	Severity 1031 1037	severe
-T14	Distance 1115 1120	58 mm
-T15	Shape 1130 1139	spherical
-T16	Lab_value 1147 1156	decreased
-T17	Severity 1208 1214	severe
-T18	Area 1728 1740	2.6 × 1.0 cm
-T19	Lab_value 2174 2184	uneventful
+T3	Sign_symptom 60 67	dilated
+T4	Disease_disorder 68 82	cardiomyopathy
+T5	Clinical_event 94 102	admitted
+T6	Disease_disorder 117 130	heart failure
+T7	Administration 143 145	IV
+T8	Clinical_event 151 160	presented
+T9	Duration 168 175	5-month
+T10	Sign_symptom 187 192	cough
+T11	Detailed_description 194 205	progressive
+T12	Sign_symptom 206 214	dyspnoea
+T13	Frequency 230 239	recurrent
+T14	Biological_structure 246 255	abdominal
+T15	Sign_symptom 256 260	pain
+T16	Date 274 286	2 months ago
+T17	Diagnostic_procedure 291 302	examination
+T18	Diagnostic_procedure 307 318	vital signs
+T19	Diagnostic_procedure 324 340	body temperature
+T20	Lab_value 341 345	37°C
+T21	Diagnostic_procedure 347 361	blood pressure
+T22	Lab_value 365 372	40 mmHg
+T23	Diagnostic_procedure 374 390	respiratory rate
+T24	Diagnostic_procedure 418 435	electrocardiogram
+T25	Disease_disorder 443 462	atrial fibrillation
+T26	Diagnostic_procedure 468 478	heart rate
+T27	Diagnostic_procedure 500 520	Physical examination
+T28	Biological_structure 534 541	jugular
+T29	Biological_structure 542 548	venous
+T30	Sign_symptom 549 559	distension
+T31	Sign_symptom 580 592	hepatomegaly
+T32	Detailed_description 597 606	bilateral
+T33	Sign_symptom 615 620	edema
+T34	Biological_structure 624 635	lower limbs
+T35	Diagnostic_procedure 637 653	Laboratory tests
+T36	Lab_value 661 669	elevated
+T37	Biological_structure 677 682	brain
+T38	Lab_value 719 725	normal
+T39	Lab_value 746 758	unremarkable
+T40	Diagnostic_procedure 759 766	D-dimer
+T41	Diagnostic_procedure 768 773	X-ray
+T42	Diagnostic_procedure 778 797	computed tomography
+T43	Biological_structure 805 810	chest
+T44	Sign_symptom 824 837	consolidation
+T45	Detailed_description 841 850	bilateral
+T46	Disease_disorder 868 884	pleural effusion
+T47	Biological_structure 896 902	venous
+T48	Detailed_description 903 910	Doppler
+T49	Biological_structure 914 931	lower extremities
+T50	Lab_value 936 942	normal
+T51	Diagnostic_procedure 977 993	echocardiography
+T52	Severity 1031 1037	severe
+T53	Sign_symptom 1038 1045	dilated
+T54	Biological_structure 1046 1053	cardiac
+T55	Sign_symptom 1075 1086	enlargement
+T56	Biological_structure 1094 1108	left ventricle
+T57	Biological_structure 1110 1112	LV
+T58	Distance 1115 1120	58 mm
+T59	Shape 1130 1139	spherical
+T60	Lab_value 1147 1156	decreased
+T61	Diagnostic_procedure 1182 1199	ejection fraction
+T62	Severity 1208 1214	severe
+T63	Disease_disorder 1215 1235	mitral regurgitation
+T64	Biological_structure 1255 1268	transthoracic
+T65	Diagnostic_procedure 1269 1285	echocardiography
+T66	Sign_symptom 1381 1385	mass
+T67	Sign_symptom 1409 1417	thrombus
+T68	Biological_structure 1464 1471	cardiac
+T69	Biological_structure 1566 1579	transthoracic
+T70	Diagnostic_procedure 1580 1596	echocardiography
+T71	Sign_symptom 1655 1659	mass
+T72	Sign_symptom 1687 1695	thrombus
+T73	Area 1728 1740	2.6 × 1.0 cm
+T74	Biological_structure 1787 1796	vena cava
+T75	Biological_structure 1886 1901	right ventricle
+T76	Biological_structure 1903 1905	RV
+T77	Detailed_description 1907 1915	systolic
+T78	Diagnostic_procedure 1933 1950	ejection fraction
+T79	Medication 1991 1998	digoxin
+T80	Medication 2000 2014	spironolactone
+T81	Medication 2016 2026	furosemide
+T82	Medication 2040 2048	dopamine
+T83	Medication 2079 2094	anticoagulation
+T84	Medication 2133 2140	heparin
+T85	Medication 2145 2153	warfarin
+T86	Lab_value 2174 2184	uneventful
+T87	Nonbiological_location 2185 2193	hospital
+T88	Clinical_event 2214 2223	follow-up
+T89	Diagnostic_procedure 2224 2240	echocardiography
+T90	Therapeutic_procedure 2260 2267	removal
+T91	Sign_symptom 2275 2283	thrombus

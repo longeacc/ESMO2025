@@ -1,36 +1,66 @@
 T1	Age 18 28	7-year-old
-T2	Sex 37 40	boy
-T3	Lab_value 55 65	uneventful
-T4	Lab_value 79 85	normal
-T5	Date 103 112	age of 16
-T6	Lab_value 430 438	elevated
-T7	Dosage 466 473	47.8 IU
-T8	Lab_value 477 483	normal
-T9	Dosage 492 496	7 IU
-T10	Lab_value 552 558	normal
-T11	Lab_value 604 611	reduced
-T12	Lab_value 658 664	normal
-T13	Frequency 879 892	every 2 weeks
-T14	Date 900 909	age of 18
-T15	Date 959 968	age of 30
-T16	Duration 1319 1326	4 weeks
-T17	Dosage 1466 1490	100 mg three times daily
-T18	Date 1492 1505	after 1 month
-T19	Date 1512 1526	2 weeks before
-T20	Severity 1819 1823	mild
-T21	Lab_value 1887 1896	decreased
-T22	Frequency 2223 2237	every 6 months
-T23	Lab_value 2358 2366	decrease
-T24	Duration 2622 2631	12 months
-T25	Date 2638 2651	After 5 years
-T26	Date 2759 2772	February 2016
-T27	Lab_value 2885 2889	good
-T28	Lab_value 2918 2924	normal
-T29	Severity 2941 2947	slight
-T30	Lab_value 2981 2989	negative
-T31	Lab_value 3038 3044	normal
-T32	Lab_value 3145 3151	normal
-T33	Lab_value 3227 3233	normal
-T34	Frequency 3309 3318	regularly
-T35	Lab_value 3340 3344	good
-T36	Date 3367 3375	age of 5
+T2	Personal_background 29 36	Italian
+T3	Sex 37 40	boy
+T4	Clinical_event 41 45	born
+T5	Lab_value 55 65	uneventful
+T6	Lab_value 79 85	normal
+T7	Date 103 112	age of 16
+T8	Clinical_event 124 133	presented
+T9	Sign_symptom 160 168	enlarged
+T10	Biological_structure 169 176	abdomen
+T11	Clinical_event 185 193	referred
+T12	Diagnostic_procedure 210 221	examination
+T13	Sign_symptom 246 252	anemia
+T14	Sign_symptom 254 270	thrombocytopenia
+T15	Sign_symptom 276 288	splenomegaly
+T16	Biological_structure 292 296	bone
+T17	Diagnostic_procedure 304 310	biopsy
+T18	Lab_value 430 438	elevated
+T19	Dosage 466 473	47.8 IU
+T20	Lab_value 477 483	normal
+T21	Dosage 492 496	7 IU
+T22	Lab_value 552 558	normal
+T23	Lab_value 604 611	reduced
+T24	Lab_value 658 664	normal
+T25	Clinical_event 808 817	diagnosis
+T26	Detailed_description 821 828	chronic
+T27	Frequency 879 892	every 2 weeks
+T28	Date 900 909	age of 18
+T29	Date 959 968	age of 30
+T30	Medication 1017 1026	miglustat
+T31	Subject 1156 1163	parents
+T32	Medication 1215 1224	miglustat
+T33	Duration 1319 1326	4 weeks
+T34	Dosage 1466 1490	100 mg three times daily
+T35	Date 1492 1505	after 1 month
+T36	Date 1512 1526	2 weeks before
+T37	Medication 1536 1545	miglustat
+T38	Severity 1819 1823	mild
+T39	Medication 1862 1871	miglustat
+T40	Lab_value 1887 1896	decreased
+T41	Medication 1952 1961	miglustat
+T42	Sign_symptom 2012 2024	splenomegaly
+T43	Biological_structure 2081 2087	plasma
+T44	Biological_structure 2138 2144	Plasma
+T45	Clinical_event 2190 2199	diagnosis
+T46	Frequency 2223 2237	every 6 months
+T47	Clinical_event 2245 2254	follow-up
+T48	Lab_value 2358 2366	decrease
+T49	Medication 2389 2398	miglustat
+T50	Diagnostic_procedure 2517 2541	neurological examination
+T51	Duration 2622 2631	12 months
+T52	Date 2638 2651	After 5 years
+T53	Clinical_event 2679 2688	follow-up
+T54	Date 2759 2772	February 2016
+T55	Lab_value 2885 2889	good
+T56	Biological_structure 2890 2898	muscular
+T57	Lab_value 2918 2924	normal
+T58	Severity 2941 2947	slight
+T59	Lab_value 2981 2989	negative
+T60	Lab_value 3038 3044	normal
+T61	Lab_value 3145 3151	normal
+T62	Biological_structure 3201 3206	brain
+T63	Lab_value 3227 3233	normal
+T64	Frequency 3309 3318	regularly
+T65	Lab_value 3340 3344	good
+T66	Date 3367 3375	age of 5

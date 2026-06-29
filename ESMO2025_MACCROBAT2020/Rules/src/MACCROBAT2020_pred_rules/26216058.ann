@@ -1,10 +1,56 @@
 T1	Age 3 14	11-year-old
 T2	Sex 15 18	boy
-T3	Duration 96 110	several months
-T4	Administration 576 578	IV
-T5	Duration 1369 1376	4 weeks
-T6	Date 1763 1776	6 years after
-T7	Severity 1886 1894	slightly
-T8	Shape 1895 1904	lobulated
-T9	Severity 2007 2015	Moderate
-T10	Lab_value 2147 2155	positive
+T3	Clinical_event 19 28	presented
+T4	Sign_symptom 47 56	headaches
+T5	Sign_symptom 61 69	vomiting
+T6	Clinical_event 84 91	present
+T7	Duration 96 110	several months
+T8	Diagnostic_procedure 112 132	Physical examination
+T9	Diagnostic_procedure 209 235	Magnetic resonance imaging
+T10	Diagnostic_procedure 237 240	MRI
+T11	Sign_symptom 270 274	mass
+T12	Detailed_description 323 332	secondary
+T13	Disease_disorder 345 358	hydrocephalus
+T14	Sign_symptom 366 377	compression
+T15	Sign_symptom 399 405	lesion
+T16	Administration 576 578	IV
+T17	Diagnostic_procedure 641 660	Computed tomography
+T18	Diagnostic_procedure 662 664	CT
+T19	Biological_structure 684 688	bone
+T20	Therapeutic_procedure 719 728	operation
+T21	Detailed_description 787 794	lateral
+T22	Disease_disorder 818 831	hydrocephalus
+T23	Diagnostic_procedure 856 859	MRI
+T24	Sign_symptom 916 922	tumour
+T25	Therapeutic_procedure 932 940	resected
+T26	Sign_symptom 1048 1054	tumour
+T27	Sign_symptom 1060 1066	tumour
+T28	Biological_structure 1175 1182	cranial
+T29	Therapeutic_procedure 1227 1236	resection
+T30	Outcome 1343 1352	recovered
+T31	Duration 1369 1376	4 weeks
+T32	Diagnostic_procedure 1396 1399	MRI
+T33	Therapeutic_procedure 1418 1425	removal
+T34	Sign_symptom 1433 1439	tumour
+T35	Therapeutic_procedure 1564 1581	radiation therapy
+T36	Clinical_event 1586 1595	follow-up
+T37	Outcome 1663 1675	asymptomatic
+T38	Sign_symptom 1700 1706	tumour
+T39	Sign_symptom 1707 1717	recurrence
+T40	Diagnostic_procedure 1725 1728	MRI
+T41	Clinical_event 1740 1749	follow-up
+T42	Date 1763 1776	6 years after
+T43	Sign_symptom 1817 1823	tumour
+T44	Sign_symptom 1824 1834	recurrence
+T45	Diagnostic_procedure 1842 1845	MRI
+T46	Diagnostic_procedure 1865 1876	examination
+T47	Severity 1886 1894	slightly
+T48	Shape 1895 1904	lobulated
+T49	Sign_symptom 1905 1911	tumour
+T50	Sign_symptom 1954 1960	tumour
+T51	Sign_symptom 1991 1995	pale
+T52	Severity 2007 2015	Moderate
+T53	Sign_symptom 2096 2110	calcifications
+T54	Sign_symptom 2126 2132	tumour
+T55	Lab_value 2147 2155	positive
+T56	Clinical_event 2261 2270	diagnosis

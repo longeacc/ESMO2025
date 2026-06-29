@@ -1,0 +1,26 @@
+T1	Histologie_tumorale 85 106	carcinome épidermoïde
+T2	Symptomes 178 190	maux de tête
+T3	Symptomes 198 221	hypertension artérielle
+T4	Symptomes 266 281	saignement post
+T5	Histologie_tumorale 328 349	carcinome épidermoïde
+T6	Traitement_specifique_du_cancer 490 510	QT + RT concomitants
+T7	Traitement_specifique_du_cancer 531 541	cisplatine
+T8	Reponse_a_la_chimiotherapie 680 701	apparition de lésions
+T9	Stade_metastatique_avec_localisations 756 808	métastases viscérales au niveau pulmonaire et osseux
+T10	Traitement_specifique_du_cancer 946 972	platine-taxane-bevacizumab
+T11	Reponse_a_la_chimiotherapie 1190 1196	RECIST
+T12	Traitement_specifique_du_cancer 1303 1314	bevacizumab
+T13	Traitement_specifique_du_cancer 1321 1343	traitement d'entretien
+T14	Reponse_a_la_chimiotherapie 1426 1446	progression tumorale
+T15	Traitement_specifique_du_cancer 1491 1502	bevacizumab
+T16	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 1564 1608	antécédents médico-chirurgicaux intéressants
+T17	Symptomes 1729 1738	céphalées
+T18	Symptomes 1821 1880	perte de vision bilatérale et à une hypertension artérielle
+T19	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 1959 1971	hypertension
+T20	Symptomes 2222 2231	céphalées
+T21	Symptomes 2239 2254	perte de vision
+T22	Symptomes 2282 2303	crise tonico-clonique
+T23	Symptomes 3645 3668	hypertension artérielle
+T24	Symptomes 4090 4113	hypertension artérielle
+T25	Traitement_specifique_du_cancer 4472 4494	traitement d'entretien
+T26	Reponse_a_la_chimiotherapie 4737 4755	rémission complète

@@ -1,37 +1,92 @@
 T1	Age 2 13	54 year-old
 T2	Sex 23 28	woman
-T3	Duration 78 84	5 days
-T4	Lab_value 209 215	normal
-T5	Lab_value 342 348	normal
-T6	Distance 351 356	20 mm
-T7	Lab_value 378 384	normal
-T8	Dosage 387 393	1.0 mg
-T9	Date 399 415	Three days later
-T10	Distance 545 549	4 mm
-T11	Distance 591 595	4 mm
-T12	Color 762 765	red
-T13	Severity 775 779	mild
-T14	Lab_value 1015 1021	normal
-T15	Lab_value 1142 1154	unremarkable
-T16	Lab_value 1260 1268	worsened
-T17	Severity 1493 1502	extensive
-T18	Lab_value 1740 1748	positive
-T19	Administration 1807 1816	injection
-T20	Date 1832 1836	2000
-T21	Volume 1841 1847	0.5 ml
-T22	Administration 1865 1869	oral
-T23	Dosage 1880 1886	800 mg
-T24	Frequency 1887 1894	5 times
-T25	Frequency 1895 1900	daily
-T26	Duration 1905 1912	14 days
-T27	Administration 1917 1921	oral
-T28	Dosage 1933 1944	60 mg daily
-T29	Duration 1949 1955	7 days
-T30	Dosage 1968 1973	20 mg
-T31	Duration 1978 1984	7 days
-T32	Frequency 2080 2092	intermittent
-T33	Lab_value 2174 2180	normal
-T34	Lab_value 2377 2385	negative
-T35	Administration 2428 2439	intravenous
-T36	Dosage 2451 2459	10 mg/kg
-T37	Duration 2474 2481	14 days
+T3	Biological_structure 65 73	left eye
+T4	Duration 78 84	5 days
+T5	Sign_symptom 99 109	tenderness
+T6	Sign_symptom 113 121	headache
+T7	Biological_structure 152 161	right eye
+T8	Biological_structure 172 180	left eye
+T9	Lab_value 209 215	normal
+T10	Diagnostic_procedure 229 240	examination
+T11	Sign_symptom 267 272	edema
+T12	Disease_disorder 297 307	hemorrhage
+T13	Diagnostic_procedure 309 312	WBC
+T14	Diagnostic_procedure 331 334	ESR
+T15	Lab_value 342 348	normal
+T16	Distance 351 356	20 mm
+T17	Diagnostic_procedure 365 368	CRP
+T18	Lab_value 378 384	normal
+T19	Dosage 387 393	1.0 mg
+T20	Date 399 415	Three days later
+T21	Biological_structure 431 439	left eye
+T22	Sign_symptom 440 444	pain
+T23	Sign_symptom 503 507	pain
+T24	Distance 545 549	4 mm
+T25	Distance 591 595	4 mm
+T26	Color 762 765	red
+T27	Severity 775 779	mild
+T28	Sign_symptom 788 793	edema
+T29	Detailed_description 810 817	central
+T30	Biological_structure 818 825	retinal
+T31	Detailed_description 858 867	posterior
+T32	Detailed_description 876 886	peripheral
+T33	Biological_structure 887 894	retinal
+T34	Detailed_description 937 945	anterior
+T35	Diagnostic_procedure 993 996	WBC
+T36	Diagnostic_procedure 998 1001	ESR
+T37	Diagnostic_procedure 1006 1009	CRP
+T38	Lab_value 1015 1021	normal
+T39	Biological_structure 1086 1091	blood
+T40	Biological_structure 1110 1117	carotid
+T41	Detailed_description 1118 1125	Doppler
+T42	Diagnostic_procedure 1126 1136	ultrasound
+T43	Lab_value 1142 1154	unremarkable
+T44	Biological_structure 1156 1161	Brain
+T45	Diagnostic_procedure 1171 1174	MRI
+T46	Biological_structure 1235 1243	left eye
+T47	Sign_symptom 1244 1248	pain
+T48	Lab_value 1260 1268	worsened
+T49	Sign_symptom 1327 1331	pain
+T50	Biological_structure 1375 1383	left eye
+T51	Detailed_description 1411 1419	anterior
+T52	Diagnostic_procedure 1472 1483	examination
+T53	Severity 1493 1502	extensive
+T54	Biological_structure 1503 1510	retinal
+T55	Sign_symptom 1511 1519	necrosis
+T56	Detailed_description 1524 1531	diffuse
+T57	Detailed_description 1549 1557	multiple
+T58	Detailed_description 1567 1572	focal
+T59	Biological_structure 1573 1579	venous
+T60	Detailed_description 1613 1618	acute
+T61	Biological_structure 1619 1626	retinal
+T62	Sign_symptom 1627 1635	necrosis
+T63	Lab_value 1740 1748	positive
+T64	Administration 1807 1816	injection
+T65	Medication 1820 1831	ganciclovir
+T66	Date 1832 1836	2000
+T67	Volume 1841 1847	0.5 ml
+T68	Biological_structure 1855 1863	left eye
+T69	Administration 1865 1869	oral
+T70	Medication 1870 1879	acyclovir
+T71	Dosage 1880 1886	800 mg
+T72	Frequency 1887 1894	5 times
+T73	Frequency 1895 1900	daily
+T74	Duration 1905 1912	14 days
+T75	Administration 1917 1921	oral
+T76	Medication 1922 1932	prednisone
+T77	Dosage 1933 1944	60 mg daily
+T78	Duration 1949 1955	7 days
+T79	Dosage 1968 1973	20 mg
+T80	Duration 1978 1984	7 days
+T81	Frequency 2080 2092	intermittent
+T82	Sign_symptom 2099 2103	pain
+T83	Diagnostic_procedure 2123 2129	biopsy
+T84	Diagnostic_procedure 2158 2169	examination
+T85	Lab_value 2174 2180	normal
+T86	Biological_structure 2256 2264	arterial
+T87	Lab_value 2377 2385	negative
+T88	Administration 2428 2439	intravenous
+T89	Medication 2440 2449	acyclovir
+T90	Dosage 2451 2459	10 mg/kg
+T91	Duration 2474 2481	14 days
+T92	Medication 2487 2495	steroids

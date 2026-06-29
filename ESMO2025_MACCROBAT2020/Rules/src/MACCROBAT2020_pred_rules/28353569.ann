@@ -1,33 +1,110 @@
 T1	Age 2 13	41-year-old
 T2	Sex 14 17	man
-T3	Duration 51 59	10 years
+T3	History 25 64	history of alcoholism for 10 years and 
 T4	Duration 83 90	3 years
 T5	Frequency 92 101	recurrent
-T6	Duration 224 230	2 days
-T7	Date 276 291	3 years earlier
-T8	Distance 472 477	60 mm
-T9	Lab_value 490 502	60 beats/min
-T10	Texture 557 561	soft
-T11	Severity 575 579	mild
-T12	Dosage 763 769	12.5 g
-T13	Dosage 864 869	20 mg
-T14	Dosage 891 897	1.1 mg
-T15	Dosage 937 942	21 IU
-T16	Dosage 973 978	16 IU
-T17	Dosage 1000 1006	0.6 mg
-T18	Dosage 1034 1039	64 IU
-T19	Dosage 1121 1126	9.3 g
-T20	Administration 1182 1193	intravenous
-T21	Distance 1215 1219	5-cm
-T22	Lab_value 1348 1354	normal
-T23	Lab_value 1372 1378	normal
-T24	Color 1554 1559	white
-T25	Shape 1561 1570	polygonal
-T26	Severity 1693 1702	extensive
-T27	Shape 1905 1910	round
-T28	Distance 2070 2074	5-cm
-T29	Distance 2544 2550	2.2-cm
-T30	Date 2654 2671	Eight weeks later
-T31	Lab_value 2691 2697	stable
-T32	Severity 2799 2807	markedly
-T33	Lab_value 2808 2817	decreased
+T6	Disease_disorder 112 124	pancreatitis
+T7	Biological_structure 139 144	liver
+T8	Clinical_event 154 163	presented
+T9	Sign_symptom 189 200	hematemesis
+T10	Biological_structure 205 214	abdominal
+T11	Sign_symptom 215 219	pain
+T12	Duration 224 230	2 days
+T13	Date 276 291	3 years earlier
+T14	Biological_structure 296 305	abdominal
+T15	Sign_symptom 306 310	pain
+T16	Biological_structure 328 338	esophageal
+T17	Sign_symptom 339 346	varices
+T18	Biological_structure 348 355	gastric
+T19	Sign_symptom 356 363	varices
+T20	Sign_symptom 410 417	lesions
+T21	Diagnostic_procedure 419 439	Physical examination
+T22	Diagnostic_procedure 451 465	blood pressure
+T23	Distance 472 477	60 mm
+T24	Lab_value 490 502	60 beats/min
+T25	Sign_symptom 507 515	jaundice
+T26	Detailed_description 532 539	chronic
+T27	Biological_structure 540 545	liver
+T28	Texture 557 561	soft
+T29	Biological_structure 562 569	abdomen
+T30	Severity 575 579	mild
+T31	Sign_symptom 591 601	tenderness
+T32	Sign_symptom 617 627	tenderness
+T33	Biological_structure 632 641	abdominal
+T34	Biological_structure 666 675	abdominal
+T35	Sign_symptom 676 680	mass
+T36	Biological_structure 682 688	Rectal
+T37	Diagnostic_procedure 689 700	examination
+T38	Sign_symptom 716 722	melena
+T39	Diagnostic_procedure 724 740	Laboratory tests
+T40	Diagnostic_procedure 750 760	hemoglobin
+T41	Dosage 763 769	12.5 g
+T42	Medication 774 783	platelets
+T43	Diagnostic_procedure 798 801	INR
+T44	Biological_structure 842 847	blood
+T45	Dosage 864 869	20 mg
+T46	Diagnostic_procedure 878 888	creatinine
+T47	Dosage 891 897	1.1 mg
+T48	Biological_structure 902 907	Serum
+T49	Dosage 937 942	21 IU
+T50	Dosage 973 978	16 IU
+T51	Diagnostic_procedure 988 997	bilirubin
+T52	Dosage 1000 1006	0.6 mg
+T53	Dosage 1034 1039	64 IU
+T54	Diagnostic_procedure 1043 1050	albumin
+T55	Diagnostic_procedure 1090 1100	hemoglobin
+T56	Dosage 1121 1126	9.3 g
+T57	Biological_structure 1140 1146	pelvic
+T58	Diagnostic_procedure 1172 1174	CT
+T59	Administration 1182 1193	intravenous
+T60	Distance 1215 1219	5-cm
+T61	Biological_structure 1237 1247	pancreatic
+T62	Sign_symptom 1263 1267	mass
+T63	Biological_structure 1314 1321	stomach
+T64	Lab_value 1348 1354	normal
+T65	Biological_structure 1355 1366	portal vein
+T66	Lab_value 1372 1378	normal
+T67	Biological_structure 1379 1384	liver
+T68	Sign_symptom 1404 1415	compression
+T69	Detailed_description 1469 1477	proximal
+T70	Sign_symptom 1481 1491	dilatation
+T71	Detailed_description 1513 1521	proximal
+T72	Biological_structure 1522 1529	stomach
+T73	Sign_symptom 1549 1553	pale
+T74	Personal_background 1554 1559	white
+T75	Shape 1561 1570	polygonal
+T76	Severity 1693 1702	extensive
+T77	Biological_structure 1718 1723	blood
+T78	Biological_structure 1737 1744	stomach
+T79	Biological_structure 1752 1759	gastric
+T80	Sign_symptom 1779 1786	varices
+T81	Disease_disorder 1814 1824	hemorrhage
+T82	Biological_structure 1839 1849	esophageal
+T83	Sign_symptom 1850 1857	varices
+T84	Sign_symptom 1882 1886	mass
+T85	Shape 1905 1910	round
+T86	Detailed_description 1949 1957	proximal
+T87	Biological_structure 1958 1965	gastric
+T88	Distance 2070 2074	5-cm
+T89	Sign_symptom 2101 2105	mass
+T90	Biological_structure 2158 2165	gastric
+T91	Detailed_description 2187 2193	distal
+T92	Biological_structure 2194 2204	pancreatic
+T93	Biological_structure 2227 2234	stomach
+T94	Biological_structure 2337 2347	mesenteric
+T95	Biological_structure 2366 2375	Abdominal
+T96	Diagnostic_procedure 2376 2386	ultrasound
+T97	Detailed_description 2392 2399	Doppler
+T98	Biological_structure 2438 2446	arterial
+T99	Sign_symptom 2471 2475	mass
+T100	Distance 2544 2550	2.2-cm
+T101	Date 2654 2671	Eight weeks later
+T102	Lab_value 2691 2697	stable
+T103	Diagnostic_procedure 2698 2708	hemoglobin
+T104	Sign_symptom 2734 2742	bleeding
+T105	Biological_structure 2753 2759	pelvic
+T106	Diagnostic_procedure 2760 2762	CT
+T107	Diagnostic_procedure 2763 2774	angiography
+T108	Severity 2799 2807	markedly
+T109	Lab_value 2808 2817	decreased
+T110	Biological_structure 2873 2878	blood

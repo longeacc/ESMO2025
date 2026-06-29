@@ -1,29 +1,125 @@
 T1	Duration 2 10	14-month
 T2	Sex 15 18	boy
-T3	Date 171 183	October 2011
-T4	Weight 233 239	3.2 kg
-T5	Lab_value 392 401	decreased
-T6	Frequency 689 696	7 times
-T7	Duration 853 862	14 months
-T8	Weight 888 892	6 kg
-T9	Distance 939 944	71 cm
-T10	Lab_value 1127 1134	30 mmHg
-T11	Lab_value 1401 1407	800/µL
-T12	Lab_value 1421 1427	176/µL
-T13	Severity 1519 1523	mild
-T14	Shape 1700 1708	globular
-T15	Distance 1919 1926	37.7 mm
-T16	Dosage 1984 1990	75.6 g
-T17	Severity 2318 2328	high-grade
-T18	Volume 2385 2391	800 cc
-T19	Lab_value 2481 2490	decreased
-T20	Lab_value 2496 2502	290/µL
-T21	Lab_value 2511 2516	33/µL
-T22	Lab_value 2715 2723	negative
-T23	Lab_value 2763 2771	negative
-T24	Dosage 2820 2827	7.08 mg
-T25	Administration 2866 2877	intravenous
-T26	Lab_value 2949 2957	worsened
-T27	Lab_value 3148 3158	7.8 mmol/L
-T28	Distance 3178 3185	41.4 mm
-T29	Date 3420 3432	7 days after
+T3	Clinical_event 23 31	referred
+T4	Nonbiological_location 35 47	our hospital
+T5	Nonbiological_location 61 69	hospital
+T6	Sign_symptom 81 88	dilated
+T7	Sign_symptom 93 106	hypertrophied
+T8	Biological_structure 107 121	left ventricle
+T9	Biological_structure 123 125	LV
+T10	Sign_symptom 128 139	neutropenia
+T11	Disease_disorder 145 164	developmental delay
+T12	Date 171 183	October 2011
+T13	Clinical_event 192 196	born
+T14	Mass 218 239	body weight of 3.2 kg
+T15	Clinical_event 260 265	birth
+T16	Clinical_event 274 286	hospitalized
+T17	Detailed_description 296 306	persistent
+T18	Biological_structure 323 328	chest
+T19	Diagnostic_procedure 329 339	radiograph
+T20	Sign_symptom 347 359	cardiomegaly
+T21	Lab_value 392 401	decreased
+T22	Biological_structure 402 404	LV
+T23	Diagnostic_procedure 420 437	ejection fraction
+T24	Disease_disorder 469 480	myocarditis
+T25	Clinical_event 518 530	presentation
+T26	Nonbiological_location 534 546	our hospital
+T27	Disease_disorder 600 619	developmental delay
+T28	Clinical_event 625 630	birth
+T29	Clinical_event 639 647	referral
+T30	Clinical_event 661 669	admitted
+T31	Frequency 689 696	7 times
+T32	Disease_disorder 708 717	infection
+T33	Medication 742 752	furosemide
+T34	Medication 754 768	spironolactone
+T35	Medication 770 779	enalapril
+T36	Medication 785 795	carvedilol
+T37	Clinical_event 803 811	referral
+T38	Clinical_event 825 833	referred
+T39	Nonbiological_location 837 849	our hospital
+T40	Duration 853 862	14 months
+T41	Weight 888 892	6 kg
+T42	Height 939 944	71 cm
+T43	Diagnostic_procedure 1089 1103	blood pressure
+T44	Diagnostic_procedure 1108 1118	heart rate
+T45	Lab_value 1127 1134	30 mmHg
+T46	Diagnostic_procedure 1178 1198	physical examination
+T47	Biological_structure 1212 1217	heart
+T48	Sign_symptom 1218 1224	murmur
+T49	Biological_structure 1245 1250	liver
+T50	Detailed_description 1284 1294	persistent
+T51	Sign_symptom 1295 1306	neutropenia
+T52	Nonbiological_location 1354 1362	hospital
+T53	Diagnostic_procedure 1368 1371	WBC
+T54	Lab_value 1401 1407	800/µL
+T55	Lab_value 1421 1427	176/µL
+T56	Biological_structure 1495 1500	chest
+T57	Diagnostic_procedure 1501 1511	radiograph
+T58	Severity 1519 1523	mild
+T59	Sign_symptom 1524 1536	cardiomegaly
+T60	Diagnostic_procedure 1583 1600	electrocardiogram
+T61	Sign_symptom 1674 1681	dilated
+T62	Sign_symptom 1686 1699	hypertrophied
+T63	Shape 1700 1708	globular
+T64	Biological_structure 1709 1711	LV
+T65	Sign_symptom 1719 1732	hypertrophied
+T66	Biological_structure 1743 1749	muscle
+T67	Biological_structure 1810 1812	LV
+T68	Biological_structure 1885 1887	LV
+T69	Distance 1919 1926	37.7 mm
+T70	Diagnostic_procedure 1939 1956	ejection fraction
+T71	Biological_structure 1969 1971	LV
+T72	Sign_symptom 1972 1976	mass
+T73	Dosage 1984 1990	75.6 g
+T74	Sign_symptom 2048 2055	dilated
+T75	Sign_symptom 2060 2073	hypertrophied
+T76	Biological_structure 2074 2076	LV
+T77	Biological_structure 2101 2110	abdominal
+T78	Diagnostic_procedure 2133 2135	CT
+T79	Diagnostic_procedure 2137 2148	angiography
+T80	Diagnostic_procedure 2172 2174	CT
+T81	Biological_structure 2213 2219	kidney
+T82	Diagnostic_procedure 2276 2278	CT
+T83	Diagnostic_procedure 2279 2290	angiography
+T84	Severity 2318 2328	high-grade
+T85	Sign_symptom 2337 2342	fever
+T86	Volume 2385 2391	800 cc
+T87	Disease_disorder 2417 2435	metabolic acidosis
+T88	Diagnostic_procedure 2455 2458	WBC
+T89	Lab_value 2481 2490	decreased
+T90	Lab_value 2496 2502	290/µL
+T91	Lab_value 2511 2516	33/µL
+T92	Sign_symptom 2634 2642	symptoms
+T93	Lab_value 2715 2723	negative
+T94	Biological_structure 2733 2738	blood
+T95	Lab_value 2763 2771	negative
+T96	Diagnostic_procedure 2791 2809	C-reactive protein
+T97	Dosage 2820 2827	7.08 mg
+T98	Therapeutic_procedure 2840 2855	supportive care
+T99	Administration 2866 2877	intravenous
+T100	Therapeutic_procedure 2884 2897	resuscitation
+T101	Medication 2912 2923	antibiotics
+T102	Lab_value 2949 2957	worsened
+T103	Disease_disorder 2975 2993	metabolic acidosis
+T104	Clinical_event 3032 3040	transfer
+T105	Nonbiological_location 3048 3067	intensive care unit
+T106	Nonbiological_location 3069 3072	ICU
+T107	Nonbiological_location 3091 3094	ICU
+T108	Clinical_event 3095 3103	transfer
+T109	Biological_structure 3109 3114	serum
+T110	Medication 3129 3140	bicarbonate
+T111	Lab_value 3148 3158	7.8 mmol/L
+T112	Distance 3178 3185	41.4 mm
+T113	Therapeutic_procedure 3243 3253	ventilator
+T114	Medication 3268 3284	inotropic agents
+T115	Therapeutic_procedure 3296 3311	supportive care
+T116	Outcome 3336 3340	died
+T117	Disease_disorder 3361 3379	metabolic acidosis
+T118	Disease_disorder 3406 3419	heart failure
+T119	Date 3420 3432	7 days after
+T120	Nonbiological_location 3437 3440	ICU
+T121	Nonbiological_location 3466 3469	ICU
+T122	Disease_disorder 3551 3565	cardiomyopathy
+T123	Sign_symptom 3567 3578	neutropenia
+T124	Disease_disorder 3584 3603	developmental delay
+T125	Subject 3764 3770	mother

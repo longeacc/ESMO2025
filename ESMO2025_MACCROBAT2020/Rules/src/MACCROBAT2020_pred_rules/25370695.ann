@@ -1,26 +1,94 @@
 T1	Age 2 13	46-year-old
-T2	Sex 24 29	woman
-T3	Severity 96 102	severe
-T4	Lab_value 616 628	unremarkable
-T5	Administration 699 703	oral
-T6	Dosage 792 796	70mg
-T7	Frequency 797 803	weekly
-T8	Duration 808 815	2 years
-T9	Frequency 1016 1030	intermittently
-T10	Duration 1035 1048	several years
-T11	Date 1098 1112	20 years prior
-T12	Administration 1127 1138	intravenous
-T13	Administration 1139 1149	injections
-T14	Frequency 1150 1163	twice a month
-T15	Administration 1205 1213	infusion
-T16	Lab_value 1404 1424	within normal limits
-T17	Date 1663 1676	3 years prior
-T18	Lab_value 1741 1747	normal
-T19	Distance 2017 2020	6mm
-T20	Texture 3167 3171	soft
-T21	Texture 3240 3244	soft
-T22	Texture 3438 3445	fibrous
-T23	Lab_value 3610 3620	uneventful
-T24	Duration 3703 3710	1-month
-T25	Duration 3899 3905	1-year
-T26	Administration 3950 3954	oral
+T2	Personal_background 14 23	Caucasian
+T3	Sex 24 29	woman
+T4	Personal_background 33 49	Ashkenazi Jewish
+T5	Clinical_event 58 67	presented
+T6	Severity 96 102	severe
+T7	Sign_symptom 126 130	pain
+T8	Detailed_description 143 152	posterior
+T9	Sign_symptom 185 189	pain
+T10	Activity 208 215	chewing
+T11	Clinical_event 255 267	consultation
+T12	Clinical_event 268 273	visit
+T13	Sign_symptom 298 302	pain
+T14	Clinical_event 339 344	visit
+T15	History 346 366	Past medical history
+T16	Biological_structure 430 437	bladder
+T17	Therapeutic_procedure 438 445	removal
+T18	Biological_structure 462 468	spleen
+T19	Sign_symptom 469 476	abscess
+T20	Therapeutic_procedure 477 485	drainage
+T21	Disease_disorder 487 498	hepatitis C
+T22	Disease_disorder 499 508	infection
+T23	Quantitative_concept 557 570	20 pack-years
+T24	Activity 574 591	cigarette smoking
+T25	Lab_value 616 628	unremarkable
+T26	Medication 674 685	medications
+T27	Administration 699 703	oral
+T28	Activity 719 723	drug
+T29	Disease_disorder 746 758	osteoporosis
+T30	Dosage 792 796	70mg
+T31	Frequency 797 803	weekly
+T32	Duration 808 815	2 years
+T33	Medication 818 837	calcium supplements
+T34	Medication 866 878	esomeprazole
+T35	Medication 938 947	ibuprofen
+T36	Frequency 1016 1030	intermittently
+T37	Duration 1035 1048	several years
+T38	Clinical_event 1088 1097	diagnosed
+T39	Date 1098 1112	20 years prior
+T40	Administration 1127 1138	intravenous
+T41	Administration 1139 1149	injections
+T42	Frequency 1150 1163	twice a month
+T43	Sign_symptom 1186 1193	fatigue
+T44	Administration 1205 1213	infusion
+T45	Medication 1243 1253	antibiotic
+T46	Medication 1268 1279	medications
+T47	Sign_symptom 1288 1292	pain
+T48	Biological_structure 1339 1343	neck
+T49	Diagnostic_procedure 1344 1355	examination
+T50	Biological_structure 1357 1364	cranial
+T51	Diagnostic_procedure 1371 1382	examination
+T52	Diagnostic_procedure 1387 1398	vital signs
+T53	Lab_value 1404 1424	within normal limits
+T54	Diagnostic_procedure 1436 1447	examination
+T55	Detailed_description 1550 1559	posterior
+T56	Date 1663 1676	3 years prior
+T57	Lab_value 1741 1747	normal
+T58	Distance 2017 2020	6mm
+T59	Diagnostic_procedure 2096 2106	radiograph
+T60	Sign_symptom 2165 2172	lesions
+T61	Detailed_description 2176 2184	multiple
+T62	Detailed_description 2209 2220	bilaterally
+T63	Diagnostic_procedure 2279 2298	computed tomography
+T64	Sign_symptom 2351 2357	lesion
+T65	Detailed_description 2370 2379	posterior
+T66	Clinical_event 2480 2489	diagnosis
+T67	Detailed_description 2523 2530	chronic
+T68	Detailed_description 2569 2576	central
+T69	Disease_disorder 2588 2597	granuloma
+T70	Sign_symptom 2624 2629	tumor
+T71	History 2743 2758	medical history
+T72	Diagnostic_procedure 2851 2857	biopsy
+T73	Clinical_event 2921 2930	diagnosis
+T74	Detailed_description 2990 2999	posterior
+T75	Biological_structure 3074 3078	bone
+T76	Therapeutic_procedure 3083 3090	removed
+T77	Sign_symptom 3148 3154	lesion
+T78	Texture 3167 3171	soft
+T79	Texture 3240 3244	soft
+T80	Biological_structure 3267 3271	bone
+T81	Sign_symptom 3402 3414	infiltration
+T82	Texture 3438 3445	fibrous
+T83	Sign_symptom 3535 3542	abscess
+T84	Disease_disorder 3559 3568	granuloma
+T85	Disease_disorder 3572 3582	malignancy
+T86	Lab_value 3610 3620	uneventful
+T87	Outcome 3647 3657	resolution
+T88	Duration 3703 3710	1-month
+T89	Clinical_event 3711 3720	follow-up
+T90	Clinical_event 3730 3738	referred
+T91	Clinical_event 3760 3772	consultation
+T92	Duration 3899 3905	1-year
+T93	Sign_symptom 3930 3937	symptom
+T94	Administration 3950 3954	oral

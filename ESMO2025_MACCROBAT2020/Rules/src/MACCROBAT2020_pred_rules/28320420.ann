@@ -1,34 +1,102 @@
 T1	Age 3 14	18-year-old
-T2	Dosage 101 106	4.7 g
-T3	Weight 261 266	30 kg
-T4	Duration 293 301	6 months
-T5	Lab_value 396 416	within normal limits
-T6	Lab_value 432 440	elevated
-T7	Lab_value 453 459	98/min
-T8	Lab_value 522 534	unremarkable
-T9	Dosage 606 611	5.1 g
-T10	Dosage 628 633	10 ug
-T11	Lab_value 645 653	positive
-T12	Lab_value 841 847	normal
-T13	Severity 992 1000	slightly
-T14	Shape 1023 1030	rounded
-T15	Severity 1128 1136	slightly
-T16	Lab_value 1150 1156	normal
-T17	Texture 1287 1291	soft
-T18	Volume 1518 1531	11 × 8 × 2 cm
-T19	Shape 1532 1539	annular
-T20	Shape 1862 1871	polygonal
-T21	Shape 1963 1967	oval
-T22	Texture 1973 1982	vesicular
-T23	Frequency 2107 2115	Frequent
-T24	Lab_value 2273 2281	positive
-T25	Lab_value 2325 2333	positive
-T26	Texture 2454 2460	smooth
-T27	Lab_value 2525 2533	negative
-T28	Color 2854 2857	red
-T29	Color 2858 2863	green
-T30	Color 2865 2871	yellow
-T31	Color 2933 2936	red
-T32	Color 2945 2950	green
-T33	Duration 3105 3112	3 years
-T34	Duration 3291 3297	a year
+T2	Occupation 15 30	college student
+T3	Clinical_event 35 43	referred
+T4	Nonbiological_location 64 70	Clinic
+T5	Diagnostic_procedure 86 96	hemoglobin
+T6	Dosage 101 106	4.7 g
+T7	Clinical_event 163 172	presented
+T8	Sign_symptom 206 215	dizziness
+T9	Sign_symptom 217 228	palpitation
+T10	Sign_symptom 267 278	weight loss
+T11	Duration 293 301	6 months
+T12	Diagnostic_procedure 306 326	physical examination
+T13	Sign_symptom 338 342	pale
+T14	Diagnostic_procedure 375 386	vital signs
+T15	Lab_value 396 416	within normal limits
+T16	Lab_value 432 440	elevated
+T17	Diagnostic_procedure 441 451	heart rate
+T18	Lab_value 453 459	98/min
+T19	Biological_structure 494 503	abdominal
+T20	Lab_value 522 534	unremarkable
+T21	Detailed_description 536 543	Primary
+T22	Nonbiological_location 562 574	our hospital
+T23	Diagnostic_procedure 588 598	hemoglobin
+T24	Dosage 606 611	5.1 g
+T25	Dosage 628 633	10 ug
+T26	Lab_value 645 653	positive
+T27	Biological_structure 661 666	blood
+T28	Clinical_event 687 696	diagnosis
+T29	Sign_symptom 723 729	anemia
+T30	Biological_structure 759 763	Bone
+T31	Diagnostic_procedure 793 799	biopsy
+T32	Lab_value 841 847	normal
+T33	Diagnostic_procedure 883 892	endoscopy
+T34	Disease_disorder 915 924	gastritis
+T35	Sign_symptom 948 960	inflammation
+T36	Biological_structure 962 971	Abdominal
+T37	Diagnostic_procedure 972 982	ultrasound
+T38	Severity 992 1000	slightly
+T39	Sign_symptom 1001 1009	enlarged
+T40	Biological_structure 1010 1015	liver
+T41	Shape 1023 1030	rounded
+T42	Sign_symptom 1041 1047	lesion
+T43	Detailed_description 1055 1063	anterior
+T44	Biological_structure 1076 1086	right lobe
+T45	Biological_structure 1117 1123	spleen
+T46	Severity 1128 1136	slightly
+T47	Sign_symptom 1137 1145	enlarged
+T48	Lab_value 1150 1156	normal
+T49	Detailed_description 1181 1186	focal
+T50	Sign_symptom 1187 1194	lesions
+T51	Diagnostic_procedure 1196 1215	Computed Tomography
+T52	Diagnostic_procedure 1217 1219	CT
+T53	Biological_structure 1233 1240	abdomen
+T54	Biological_structure 1245 1251	pelvis
+T55	Texture 1287 1291	soft
+T56	Sign_symptom 1299 1303	mass
+T57	Detailed_description 1319 1327	anterior
+T58	Biological_structure 1334 1340	pelvis
+T59	Biological_structure 1355 1362	jejunal
+T60	Sign_symptom 1388 1398	thickening
+T61	Therapeutic_procedure 1437 1447	laparotomy
+T62	Therapeutic_procedure 1452 1460	excision
+T63	Biological_structure 1468 1475	jejunal
+T64	Sign_symptom 1476 1480	mass
+T65	Diagnostic_procedure 1494 1505	examination
+T66	Volume 1518 1531	11 × 8 × 2 cm
+T67	Shape 1532 1539	annular
+T68	Sign_symptom 1540 1544	mass
+T69	Biological_structure 1564 1571	jejunal
+T70	Diagnostic_procedure 1657 1668	examination
+T71	Sign_symptom 1680 1685	tumor
+T72	Shape 1862 1871	polygonal
+T73	Shape 1963 1967	oval
+T74	Texture 1973 1982	vesicular
+T75	Biological_attribute 2011 2019	nucleoli
+T76	Detailed_description 2021 2030	Scattered
+T77	Frequency 2107 2115	Frequent
+T78	Sign_symptom 2136 2144	necrosis
+T79	Biological_structure 2161 2172	lymph nodes
+T80	Sign_symptom 2194 2199	tumor
+T81	Lab_value 2273 2281	positive
+T82	Lab_value 2325 2333	positive
+T83	Texture 2454 2460	smooth
+T84	Biological_structure 2461 2467	muscle
+T85	Lab_value 2525 2533	negative
+T86	Sign_symptom 2658 2663	tumor
+T87	Color 2854 2857	red
+T88	Color 2858 2863	green
+T89	Color 2865 2871	yellow
+T90	Clinical_event 2916 2925	presented
+T91	Color 2933 2936	red
+T92	Color 2945 2950	green
+T93	Medication 3006 3018	chemotherapy
+T94	Therapeutic_procedure 3022 3034	radiotherapy
+T95	Clinical_event 3056 3065	follow up
+T96	Duration 3105 3112	3 years
+T97	Clinical_event 3122 3131	presented
+T98	Sign_symptom 3143 3153	recurrence
+T99	Therapeutic_procedure 3178 3196	surgical resection
+T100	Outcome 3271 3275	died
+T101	Coreference 3279 3290	the disease
+T102	Duration 3291 3297	a year

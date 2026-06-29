@@ -1,47 +1,133 @@
-T1	Age 25 36	16-year-old
-T2	Sex 37 41	girl
-T3	Severity 71 77	severe
-T4	Sex 166 170	girl
-T5	Date 308 322	2 years before
-T6	Date 385 395	1 year ago
-T7	Severity 415 421	severe
-T8	Dosage 676 682	219 μg
-T9	Date 746 760	3 weeks before
-T10	Dosage 881 889	113.2 μg
-T11	Date 928 941	4 days before
-T12	Administration 1003 1010	tablets
-T13	Frequency 1011 1016	daily
-T14	Color 1267 1271	blue
-T15	Weight 1341 1346	45 kg
-T16	Dosage 1439 1445	10.9 g
-T17	Lab_value 1515 1524	increased
-T18	Lab_value 1588 1597	158.9 U/L
-T19	Lab_value 1634 1640	63 U/L
-T20	Lab_value 1676 1683	128 U/L
-T21	Dosage 1741 1749	1.432 mg
-T22	Lab_value 1773 1783	132 mmol/L
-T23	Lab_value 1809 1820	2.85 mmol/L
-T24	Distance 1858 1864	156 mm
-T25	Distance 1891 1896	96 mm
-T26	Dosage 1926 1934	66.28 μg
-T27	Dosage 1959 1967	419.7 μg
-T28	Lab_value 1971 1977	normal
-T29	Dosage 1979 1984	50 μg
-T30	Dosage 2035 2042	7.66 mg
-T31	Lab_value 2046 2052	normal
-T32	Dosage 2054 2060	4.5 mg
-T33	Administration 2372 2379	tablets
-T34	Administration 2682 2685	i.v
-T35	Volume 2747 2755	3 liters
-T36	Duration 2760 2768	24 hours
-T37	Lab_value 2787 2796	decreased
-T38	Administration 3205 3218	intravenously
-T39	Severity 3377 3385	slightly
-T40	Date 3410 3422	3 days after
-T41	Severity 3471 3477	severe
-T42	Duration 3644 3651	10 days
-T43	Date 3673 3680	6th day
-T44	Dosage 3810 3818	45.57 μg
-T45	Dosage 3847 3855	836.4 μg
-T46	Date 3968 3981	After 14 days
-T47	Duration 4309 4318	24 months
+T1	Clinical_event 3 10	present
+T2	Age 25 36	16-year-old
+T3	Sex 37 41	girl
+T4	Clinical_event 43 51	admitted
+T5	Nonbiological_location 59 65	clinic
+T6	Severity 71 77	severe
+T7	Biological_structure 78 87	abdominal
+T8	Sign_symptom 88 92	pain
+T9	Sign_symptom 94 110	loss of appetite
+T10	Sign_symptom 112 118	nausea
+T11	Sign_symptom 124 132	vomiting
+T12	Sex 166 170	girl
+T13	Subject 265 271	father
+T14	Clinical_event 278 287	diagnosed
+T15	Date 308 322	2 years before
+T16	Date 385 395	1 year ago
+T17	Clinical_event 400 409	presented
+T18	Severity 415 421	severe
+T19	Biological_structure 422 431	abdominal
+T20	Sign_symptom 432 436	pain
+T21	Clinical_event 444 453	diagnosed
+T22	Detailed_description 459 464	acute
+T23	Sign_symptom 518 522	pain
+T24	Family_history 546 578	family history of lead poisoning
+T25	Clinical_event 631 640	diagnosed
+T26	Dosage 676 682	219 μg
+T27	Therapeutic_procedure 709 730	symptomatic treatment
+T28	Date 746 760	3 weeks before
+T29	Clinical_event 761 770	admission
+T30	Nonbiological_location 778 784	clinic
+T31	Clinical_event 794 802	admitted
+T32	Nonbiological_location 819 827	hospital
+T33	Biological_structure 869 874	blood
+T34	Dosage 881 889	113.2 μg
+T35	Medication 899 916	chelation therapy
+T36	Medication 922 926	EDTA
+T37	Date 928 941	4 days before
+T38	Clinical_event 946 955	admission
+T39	Nonbiological_location 963 969	clinic
+T40	Administration 1003 1010	tablets
+T41	Frequency 1011 1016	daily
+T42	Medication 1076 1095	calcium supplements
+T43	Diagnostic_procedure 1110 1121	examination
+T44	Clinical_event 1147 1156	admission
+T45	Biological_structure 1237 1241	face
+T46	Sign_symptom 1243 1251	jaundice
+T47	Color 1267 1271	blue
+T48	Sign_symptom 1299 1306	painful
+T49	Biological_structure 1307 1314	abdomen
+T50	Diagnostic_procedure 1318 1327	palpation
+T51	Diagnostic_procedure 1352 1367	laboratory test
+T52	Clinical_event 1383 1392	admission
+T53	Sign_symptom 1414 1420	anemia
+T54	Diagnostic_procedure 1422 1432	hemoglobin
+T55	Dosage 1439 1445	10.9 g
+T56	Diagnostic_procedure 1450 1460	hematocrit
+T57	Lab_value 1515 1524	increased
+T58	Biological_structure 1534 1539	liver
+T59	Lab_value 1588 1597	158.9 U/L
+T60	Lab_value 1634 1640	63 U/L
+T61	Diagnostic_procedure 1670 1673	GGT
+T62	Lab_value 1676 1683	128 U/L
+T63	Diagnostic_procedure 1724 1733	bilirubin
+T64	Dosage 1741 1749	1.432 mg
+T65	Lab_value 1773 1783	132 mmol/L
+T66	Lab_value 1809 1820	2.85 mmol/L
+T67	Detailed_description 1827 1835	systolic
+T68	Biological_structure 1836 1844	arterial
+T69	Distance 1858 1864	156 mm
+T70	Detailed_description 1877 1886	diastolic
+T71	Distance 1891 1896	96 mm
+T72	Biological_structure 1905 1910	blood
+T73	Dosage 1926 1934	66.28 μg
+T74	Dosage 1959 1967	419.7 μg
+T75	Lab_value 1971 1977	normal
+T76	Dosage 1979 1984	50 μg
+T77	Dosage 2035 2042	7.66 mg
+T78	Lab_value 2046 2052	normal
+T79	Dosage 2054 2060	4.5 mg
+T80	Biological_structure 2083 2092	abdominal
+T81	Diagnostic_procedure 2093 2103	ultrasound
+T82	Biological_structure 2203 2210	kidneys
+T83	Clinical_event 2225 2237	consultation
+T84	Medication 2318 2335	chelation therapy
+T85	Medication 2341 2345	EDTA
+T86	Administration 2372 2379	tablets
+T87	Clinical_event 2417 2429	consultation
+T88	Clinical_event 2466 2475	diagnosis
+T89	Diagnostic_procedure 2589 2608	laboratory findings
+T90	Clinical_event 2629 2638	diagnosis
+T91	Administration 2682 2685	i.v
+T92	Volume 2747 2755	3 liters
+T93	Duration 2760 2768	24 hours
+T94	Lab_value 2787 2796	decreased
+T95	Medication 2901 2910	diuretics
+T96	Medication 2922 2932	furosemide
+T97	Biological_structure 2964 2972	arterial
+T98	Medication 3061 3100	angiotensin-converting enzyme inhibitor
+T99	Biological_structure 3124 3132	arterial
+T100	Diagnostic_procedure 3161 3175	liver function
+T101	Administration 3205 3218	intravenously
+T102	Biological_structure 3236 3241	liver
+T103	Severity 3377 3385	slightly
+T104	Date 3410 3422	3 days after
+T105	Clinical_event 3427 3436	admission
+T106	Clinical_event 3463 3470	present
+T107	Severity 3471 3477	severe
+T108	Biological_structure 3478 3487	abdominal
+T109	Sign_symptom 3488 3492	pain
+T110	Sign_symptom 3494 3502	vomiting
+T111	Sign_symptom 3531 3535	pain
+T112	Clinical_event 3586 3595	presented
+T113	Duration 3644 3651	10 days
+T114	Date 3673 3680	6th day
+T115	Clinical_event 3684 3693	admission
+T116	Medication 3709 3726	chelation therapy
+T117	Medication 3732 3736	EDTA
+T118	Biological_structure 3759 3764	blood
+T119	Biological_structure 3794 3799	blood
+T120	Dosage 3810 3818	45.57 μg
+T121	Dosage 3847 3855	836.4 μg
+T122	Biological_structure 3894 3903	abdominal
+T123	Diagnostic_procedure 3904 3914	ultrasound
+T124	Date 3968 3981	After 14 days
+T125	Clinical_event 3985 3994	admission
+T126	Clinical_event 4012 4022	discharged
+T127	Biological_structure 4278 4283	blood
+T128	Duration 4309 4318	24 months
+T129	Biological_structure 4339 4344	renal
+T130	Diagnostic_procedure 4352 4362	creatinine
+T131	Biological_structure 4382 4389	hepatic
+T132	Diagnostic_procedure 4413 4416	GGT
+T133	Diagnostic_procedure 4418 4427	bilirubin

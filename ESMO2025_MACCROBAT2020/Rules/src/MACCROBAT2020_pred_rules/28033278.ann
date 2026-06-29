@@ -1,52 +1,148 @@
 T1	Age 4 15	36-year-old
 T2	Sex 16 20	male
 T3	Duration 48 54	6-year
-T4	Lab_value 186 190	poor
-T5	Duration 241 248	1 month
-T6	Duration 267 273	3 days
-T7	Distance 438 444	127 mm
-T8	Lab_value 449 455	88/min
-T9	Lab_value 461 467	22/min
-T10	Color 534 539	white
-T11	Lab_value 558 565	7730/μL
-T12	Lab_value 575 581	000/μL
-T13	Dosage 596 601	8.6 g
-T14	Dosage 609 613	16 g
-T15	Lab_value 635 643	87000/μL
-T16	Lab_value 657 663	000/μL
-T17	Dosage 687 692	78 mg
-T18	Dosage 699 704	21 mg
-T19	Dosage 722 728	8.9 mg
-T20	Dosage 737 743	1.5 mg
-T21	Dosage 758 764	8.2 mg
-T22	Dosage 773 780	10.3 mg
-T23	Dosage 798 804	5.4 mg
-T24	Dosage 813 819	4.5 mg
-T25	Dosage 839 846	6.56 mg
-T26	Dosage 854 860	200 mg
-T27	Lab_value 893 900	547 U/L
-T28	Lab_value 906 913	211 U/L
-T29	Dosage 973 979	200 mg
-T30	Color 985 990	white
-T31	Color 1037 1040	red
-T32	Lab_value 1168 1174	normal
-T33	Time 1177 1181	1:40
-T34	Lab_value 1290 1298	negative
-T35	Lab_value 1325 1334	decreased
-T36	Date 1501 1514	3 days before
-T37	Date 1908 1920	After 3 days
-T38	Severity 1990 1996	severe
-T39	Distance 2116 2122	180 mm
-T40	Date 2144 2157	3 weeks after
-T41	Lab_value 2437 2445	resolved
-T42	Frequency 2585 2598	thrice weekly
-T43	Date 2612 2624	1 week after
-T44	Distance 2836 2842	100 mm
-T45	Lab_value 2869 2875	000/μL
-T46	Lab_value 2890 2897	332 U/L
-T47	Lab_value 3093 3101	negative
-T48	Dosage 3405 3410	25 mg
-T49	Frequency 3411 3423	thrice daily
-T50	Lab_value 3571 3577	normal
-T51	Date 3578 3591	within 3 days
-T52	Date 3660 3674	2 months later
+T4	History 55 87	history of diffuse cutaneous SSc
+T5	Clinical_event 125 134	follow-up
+T6	Medication 138 148	medication
+T7	Sign_symptom 177 184	malaise
+T8	Lab_value 186 190	poor
+T9	Detailed_description 205 216	progressive
+T10	Sign_symptom 217 236	shortness of breath
+T11	Duration 241 248	1 month
+T12	Duration 267 273	3 days
+T13	Clinical_event 282 290	admitted
+T14	Nonbiological_location 294 306	our hospital
+T15	Disease_disorder 312 325	renal failure
+T16	Disease_disorder 330 345	pulmonary edema
+T17	Nonbiological_location 354 374	emergency department
+T18	Diagnostic_procedure 380 394	blood pressure
+T19	Diagnostic_procedure 396 406	pulse rate
+T20	Diagnostic_procedure 412 428	respiratory rate
+T21	Distance 438 444	127 mm
+T22	Lab_value 449 455	88/min
+T23	Lab_value 461 467	22/min
+T24	Personal_background 534 539	white
+T25	Biological_structure 540 545	blood
+T26	Lab_value 558 565	7730/μL
+T27	Lab_value 575 581	000/μL
+T28	Diagnostic_procedure 584 594	hemoglobin
+T29	Dosage 596 601	8.6 g
+T30	Dosage 609 613	16 g
+T31	Diagnostic_procedure 619 633	platelet count
+T32	Lab_value 635 643	87000/μL
+T33	Lab_value 657 663	000/μL
+T34	Biological_structure 666 671	blood
+T35	Dosage 687 692	78 mg
+T36	Dosage 699 704	21 mg
+T37	Diagnostic_procedure 710 720	creatinine
+T38	Dosage 722 728	8.9 mg
+T39	Dosage 737 743	1.5 mg
+T40	Diagnostic_procedure 749 756	calcium
+T41	Dosage 758 764	8.2 mg
+T42	Dosage 773 780	10.3 mg
+T43	Diagnostic_procedure 786 796	phosphorus
+T44	Dosage 798 804	5.4 mg
+T45	Dosage 813 819	4.5 mg
+T46	Dosage 839 846	6.56 mg
+T47	Dosage 854 860	200 mg
+T48	Diagnostic_procedure 870 877	lactate
+T49	Lab_value 893 900	547 U/L
+T50	Lab_value 906 913	211 U/L
+T51	Diagnostic_procedure 926 936	urinalysis
+T52	Sign_symptom 948 959	proteinuria
+T53	Dosage 973 979	200 mg
+T54	Personal_background 985 990	white
+T55	Biological_structure 991 996	blood
+T56	Diagnostic_procedure 1037 1057	red blood cell count
+T57	Lab_value 1168 1174	normal
+T58	Time 1177 1181	1:40
+T59	Lab_value 1290 1298	negative
+T60	Biological_structure 1300 1306	Kidney
+T61	Lab_value 1325 1334	decreased
+T62	Detailed_description 1335 1344	bilateral
+T63	Biological_structure 1345 1351	kidney
+T64	Detailed_description 1393 1400	chronic
+T65	Detailed_description 1460 1465	acute
+T66	Disease_disorder 1466 1481	pulmonary edema
+T67	Date 1501 1514	3 days before
+T68	Clinical_event 1515 1524	admission
+T69	Clinical_event 1550 1559	diagnosis
+T70	Detailed_description 1563 1568	acute
+T71	Detailed_description 1572 1579	chronic
+T72	Disease_disorder 1580 1593	renal failure
+T73	Clinical_event 1614 1623	diagnosis
+T74	Disease_disorder 1664 1677	renal failure
+T75	Sign_symptom 1710 1716	anemia
+T76	Medication 1766 1775	captopril
+T77	Diagnostic_procedure 1816 1830	renal function
+T78	Therapeutic_procedure 1879 1891	hemodialysis
+T79	Clinical_event 1897 1906	admission
+T80	Date 1908 1920	After 3 days
+T81	Medication 1922 1931	captopril
+T82	Medication 1947 1957	amlodipine
+T83	Severity 1990 1996	severe
+T84	Sign_symptom 2010 2015	cough
+T85	Medication 2046 2055	captopril
+T86	Detailed_description 2061 2069	systolic
+T87	Diagnostic_procedure 2070 2084	blood pressure
+T88	Distance 2116 2122	180 mm
+T89	Date 2144 2157	3 weeks after
+T90	Therapeutic_procedure 2188 2200	hemodialysis
+T91	Sign_symptom 2257 2264	seizure
+T92	Biological_structure 2277 2282	brain
+T93	Diagnostic_procedure 2283 2302	computed tomography
+T94	Diagnostic_procedure 2304 2306	CT
+T95	Disease_disorder 2338 2345	infarct
+T96	Biological_structure 2383 2395	intracranial
+T97	Disease_disorder 2396 2406	hemorrhage
+T98	Disease_disorder 2416 2423	infarct
+T99	Sign_symptom 2429 2436	seizure
+T100	Lab_value 2437 2445	resolved
+T101	Clinical_event 2513 2523	discharged
+T102	Therapeutic_procedure 2572 2584	hemodialysis
+T103	Frequency 2585 2598	thrice weekly
+T104	Date 2612 2624	1 week after
+T105	Clinical_event 2625 2634	discharge
+T106	Sign_symptom 2673 2681	headache
+T107	Sign_symptom 2686 2694	vomiting
+T108	Sign_symptom 2700 2709	confusion
+T109	Sign_symptom 2714 2724	recurrence
+T110	Sign_symptom 2757 2764	seizure
+T111	Clinical_event 2769 2778	presented
+T112	Nonbiological_location 2786 2806	emergency department
+T113	Diagnostic_procedure 2814 2828	blood pressure
+T114	Distance 2836 2842	100 mm
+T115	Diagnostic_procedure 2847 2861	platelet count
+T116	Lab_value 2869 2875	000/μL
+T117	Biological_structure 2877 2882	serum
+T118	Diagnostic_procedure 2883 2886	LDH
+T119	Lab_value 2890 2897	332 U/L
+T120	Detailed_description 2905 2915	peripheral
+T121	Biological_structure 2916 2921	blood
+T122	Biological_structure 2968 2973	Brain
+T123	Diagnostic_procedure 2974 2976	CT
+T124	Therapeutic_procedure 3010 3025	lumbar puncture
+T125	Lab_value 3093 3101	negative
+T126	Biological_structure 3143 3148	Brain
+T127	Diagnostic_procedure 3149 3175	magnetic resonance imaging
+T128	Diagnostic_procedure 3177 3180	MRI
+T129	Detailed_description 3189 3198	bilateral
+T130	Clinical_event 3342 3351	diagnosed
+T131	Disease_disorder 3357 3361	PRES
+T132	Medication 3374 3383	captopril
+T133	Dosage 3405 3410	25 mg
+T134	Frequency 3411 3423	thrice daily
+T135	Therapeutic_procedure 3495 3510	plasma exchange
+T136	Lab_value 3571 3577	normal
+T137	Date 3578 3591	within 3 days
+T138	Therapeutic_procedure 3610 3625	plasma exchange
+T139	Clinical_event 3633 3642	follow-up
+T140	Diagnostic_procedure 3643 3646	MRI
+T141	Biological_structure 3654 3659	brain
+T142	Date 3660 3674	2 months later
+T143	Outcome 3691 3701	resolution
+T144	Biological_structure 3705 3713	cerebral
+T145	Sign_symptom 3714 3719	edema
+T146	Disease_disorder 3752 3756	PRES
+T147	Diagnostic_procedure 3837 3851	renal function
+T148	Therapeutic_procedure 3884 3892	dialysis

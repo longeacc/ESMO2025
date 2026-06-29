@@ -1,0 +1,18 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 41 127	antécédents cardiologiques de cardiopathie hypertensive et de fibrillation auriculaire
+T2	Symptomes 165 229	lésion cutanée d'apparition récente au niveau de la jambe droite
+T3	Stade_OMS_ECOG_Karnofsky 300 321	Etat de performance 0
+T4	Signes_physiques 404 521	Au membre inférieur droit : lésion excroissante, recouverte d'une croûte très hyperkératosique, sur fond érythémateux
+T5	Histologie_tumorale 1814 1844	Carcinome à cellules de Merkel
+T6	Traitement_specifique_du_cancer 1893 1914	ablation de la lésion
+T7	Histologie_tumorale 1965 1992	tumeur à cellules de Merkel
+T8	Stade_metastatique_avec_localisations 2053 2211	adénopathies rétropéritonéales et dans la chaîne iliaque externe droite ont été observées, c’est pourquoi elle a été classée comme ayant un stade métastatique
+T9	Reponse_a_la_chimiotherapie 2284 2306	carboplatine-étoposide
+T10	Reponse_a_la_chimiotherapie 2340 2548	Après le quatrième cycle, des lésions érythémateuses durcies apparaissent dans la zone périlésionnelle/péricicatricielle, une biopsie est donc réalisée, aboutissant à nouveau à une tumeur à cellules de Merkel
+T11	Reponse_a_la_chimiotherapie 2550 2620	Au scanner de réévaluation, la disparition de l'adénopathie abdominale
+T12	Traitement_specifique_du_cancer 2816 2838	radiothérapie radicale
+T13	Traitement_specifique_du_cancer 2847 2874	20 séances de radiothérapie
+T14	Reponse_a_la_chimiotherapie 3172 3294	scanner thoracique et abdominal a été demandé (2/11/2015), avec des lésions évocatrices de métastases au niveau pulmonaire
+T15	Traitement_specifique_du_cancer 3416 3425	topotécan
+T16	Traitement_specifique_du_cancer 3472 3481	topotécan
+T17	Reponse_a_la_chimiotherapie 3455 3516	quatre cycles de topotécan, montrant une nouvelle progression
+T18	Traitement_specifique_du_cancer 3550 3608	chimiothérapie (cyclophosphamide, adriamycine, vincristine

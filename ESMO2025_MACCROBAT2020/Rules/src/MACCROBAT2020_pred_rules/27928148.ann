@@ -1,19 +1,94 @@
 T1	Age 2 13	28-year-old
-T2	Sex 31 36	woman
-T3	Time 417 427	that night
-T4	Time 502 523	the following morning
-T5	Date 783 800	eight years prior
-T6	Date 906 921	five days prior
-T7	Lab_value 1014 1020	36.8°C
-T8	Distance 1041 1047	100 mm
-T9	Shape 1629 1634	round
-T10	Lab_value 1899 1907	elevated
-T11	Lab_value 2036 2056	within normal limits
-T12	Lab_value 2152 2160	positive
-T13	Date 2299 2313	two days later
-T14	Lab_value 2399 2407	negative
-T15	Lab_value 2691 2711	within normal limits
-T16	Lab_value 3161 3167	raised
-T17	Time 3213 3229	Four hours after
-T18	Lab_value 3578 3586	positive
-T19	Severity 3742 3751	extensive
+T2	Personal_background 14 30	African American
+T3	Sex 31 36	woman
+T4	Clinical_event 37 46	presented
+T5	Detailed_description 131 142	right-sided
+T6	Detailed_description 157 167	left-sided
+T7	Sign_symptom 256 264	symptoms
+T8	Activity 336 343	smoking
+T9	Outcome 404 416	asymptomatic
+T10	Time 417 427	that night
+T11	Time 502 523	the following morning
+T12	Sign_symptom 634 642	seizures
+T13	Sign_symptom 656 662	anemia
+T14	Sign_symptom 664 669	fever
+T15	Sign_symptom 705 709	pain
+T16	History 729 765	history of viral meningitis without 
+T17	Date 783 800	eight years prior
+T18	Biological_structure 802 809	gastric
+T19	Therapeutic_procedure 817 824	surgery
+T20	Therapeutic_procedure 830 845	cholecystectomy
+T21	Disease_disorder 896 905	infection
+T22	Date 906 921	five days prior
+T23	Clinical_event 925 934	admission
+T24	Diagnostic_procedure 973 984	vital signs
+T25	Lab_value 1014 1020	36.8°C
+T26	Diagnostic_procedure 1022 1036	blood pressure
+T27	Distance 1041 1047	100 mm
+T28	Diagnostic_procedure 1052 1062	heart rate
+T29	Diagnostic_procedure 1084 1100	respiratory rate
+T30	Diagnostic_procedure 1131 1148	oxygen saturation
+T31	Biological_structure 1254 1261	cranial
+T32	Biological_structure 1331 1346	lower extremity
+T33	Biological_structure 1364 1379	lower extremity
+T34	Detailed_description 1389 1400	bilaterally
+T35	Biological_structure 1408 1425	upper extremities
+T36	Shape 1629 1634	round
+T37	Sign_symptom 1667 1677	tenderness
+T38	Diagnostic_procedure 1681 1690	palpation
+T39	Biological_structure 1700 1708	cervical
+T40	Biological_structure 1710 1718	thoracic
+T41	Biological_structure 1731 1736	spine
+T42	Detailed_description 1815 1823	Multiple
+T43	Clinical_event 1863 1872	admission
+T44	Lab_value 1899 1907	elevated
+T45	Diagnostic_procedure 1908 1928	liver function tests
+T46	Biological_structure 1973 1978	blood
+T47	Lab_value 2036 2056	within normal limits
+T48	Lab_value 2152 2160	positive
+T49	Biological_structure 2170 2175	Blood
+T50	Clinical_event 2194 2203	admission
+T51	Date 2299 2313	two days later
+T52	Biological_structure 2379 2384	blood
+T53	Lab_value 2399 2407	negative
+T54	Medication 2451 2461	vancomycin
+T55	Medication 2516 2527	ceftriaxone
+T56	Lab_value 2691 2711	within normal limits
+T57	Clinical_event 2713 2722	Admission
+T58	Biological_structure 2759 2767	cervical
+T59	Biological_structure 2769 2777	thoracic
+T60	Biological_structure 2790 2795	spine
+T61	Biological_structure 2808 2814	spinal
+T62	Disease_disorder 2815 2824	fractures
+T63	Diagnostic_procedure 2826 2852	Magnetic resonance imaging
+T64	Diagnostic_procedure 2854 2857	MRI
+T65	Detailed_description 2871 2876	acute
+T66	Biological_structure 2877 2889	intracranial
+T67	Detailed_description 2932 2939	central
+T68	Biological_structure 2966 2972	spinal
+T69	Sign_symptom 2978 2983	edema
+T70	Detailed_description 3031 3040	bilateral
+T71	Detailed_description 3041 3050	posterior
+T72	Biological_structure 3051 3055	neck
+T73	Biological_structure 3056 3062	muscle
+T74	Sign_symptom 3063 3068	edema
+T75	Therapeutic_procedure 3072 3087	lumbar puncture
+T76	Clinical_event 3129 3138	admission
+T77	Lab_value 3161 3167	raised
+T78	Biological_structure 3168 3180	intracranial
+T79	Time 3213 3229	Four hours after
+T80	Clinical_event 3230 3242	presentation
+T81	Detailed_description 3351 3362	bilaterally
+T82	Clinical_event 3421 3429	admitted
+T83	Nonbiological_location 3449 3468	intensive care unit
+T84	Therapeutic_procedure 3530 3540	intubation
+T85	Disease_disorder 3548 3567	respiratory failure
+T86	Lab_value 3578 3586	positive
+T87	Biological_structure 3587 3592	blood
+T88	Therapeutic_procedure 3610 3625	lumbar puncture
+T89	Severity 3742 3751	extensive
+T90	Therapeutic_procedure 3845 3860	Plasma exchange
+T91	Clinical_event 3900 3909	diagnosis
+T92	Sign_symptom 4012 4016	pain
+T93	Therapeutic_procedure 4029 4041	tracheostomy
+T94	Disease_disorder 4059 4078	respiratory failure

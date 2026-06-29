@@ -1,47 +1,116 @@
 T1	Age 2 13	33-year-old
 T2	Sex 23 26	man
 T3	Duration 34 41	5-month
-T4	Lab_value 172 179	reduced
-T5	Texture 180 189	vesicular
-T6	Dosage 327 332	26 mg
-T7	Dosage 353 359	1.2 mg
-T8	Dosage 519 531	500 mg daily
-T9	Administration 532 534	iv
-T10	Date 563 570	3rd day
-T11	Color 693 698	White
-T12	Texture 728 740	ground glass
-T13	Severity 837 841	mild
-T14	Dosage 861 864	9 g
-T15	Distance 1030 1035	71 mm
-T16	Distance 1046 1051	51 mm
-T17	Lab_value 1062 1071	25 mmol/L
-T18	Dosage 1152 1161	high-dose
-T19	Dosage 1182 1191	1 g daily
-T20	Duration 1196 1202	3 days
-T21	Dosage 1207 1220	1 mg/kg daily
-T22	Dosage 1252 1257	1.2 g
-T23	Frequency 1264 1277	every 2 weeks
-T24	Administration 1312 1321	infusions
-T25	Frequency 1322 1335	every 3 weeks
-T26	Lab_value 1492 1503	improvement
-T27	Date 1605 1617	After 9 days
-T28	Date 1687 1703	Two months later
-T29	Dosage 1765 1778	0.3 mg/kg/day
-T30	Severity 1933 1937	mild
-T31	Distance 1966 1971	61 mm
-T32	Volume 2102 2107	35 mL
-T33	Dosage 2416 2425	high-dose
-T34	Dosage 2446 2455	1 g daily
-T35	Dosage 2495 2504	375 mg/m2
-T36	Frequency 2505 2511	weekly
-T37	Duration 2516 2523	4 weeks
-T38	Lab_value 2621 2632	improvement
-T39	Duration 2657 2663	1-year
-T40	Dosage 2735 2747	150 mg daily
-T41	Dosage 2765 2776	15 mg daily
-T42	Severity 2798 2806	markedly
-T43	Lab_value 2807 2815	improved
-T44	Volume 2854 2859	94 mL
-T45	Distance 2901 2906	86 mm
-T46	Distance 2917 2922	36 mm
-T47	Lab_value 2933 2942	23 mmol/L
+T4	Clinical_event 73 82	presented
+T5	Sign_symptom 101 108	myalgia
+T6	Sign_symptom 110 115	cough
+T7	Sign_symptom 121 131	hemoptysis
+T8	Biological_structure 133 141	Thoracic
+T9	Diagnostic_procedure 142 162	physical examination
+T10	Lab_value 172 179	reduced
+T11	Texture 180 189	vesicular
+T12	Sign_symptom 190 196	murmur
+T13	Biological_structure 202 207	chest
+T14	Diagnostic_procedure 208 213	X-ray
+T15	Detailed_description 221 230	bilateral
+T16	Detailed_description 231 238	diffuse
+T17	Sign_symptom 248 259	infiltrates
+T18	Detailed_description 301 306	acute
+T19	Diagnostic_procedure 323 326	CRP
+T20	Dosage 327 332	26 mg
+T21	Diagnostic_procedure 341 351	creatinine
+T22	Dosage 353 359	1.2 mg
+T23	Sign_symptom 382 393	proteinuria
+T24	Sign_symptom 421 430	hematuria
+T25	Medication 435 445	antibiotic
+T26	Detailed_description 468 476	acquired
+T27	Medication 506 518	levofloxacin
+T28	Dosage 519 531	500 mg daily
+T29	Administration 532 534	iv
+T30	Date 563 570	3rd day
+T31	Clinical_event 576 585	admission
+T32	Disease_disorder 608 627	respiratory failure
+T33	Therapeutic_procedure 656 667	ventilation
+T34	Therapeutic_procedure 682 691	intubated
+T35	Personal_background 693 698	White
+T36	Biological_structure 699 703	lung
+T37	Sign_symptom 709 723	consolidations
+T38	Texture 728 740	ground glass
+T39	Diagnostic_procedure 750 769	computed tomography
+T40	Detailed_description 784 791	diffuse
+T41	Sign_symptom 800 808	bleeding
+T42	Diagnostic_procedure 823 835	bronchoscopy
+T43	Severity 837 841	mild
+T44	Sign_symptom 853 859	anemia
+T45	Dosage 861 864	9 g
+T46	Clinical_event 931 940	diagnosis
+T47	Distance 1030 1035	71 mm
+T48	Distance 1046 1051	51 mm
+T49	Lab_value 1062 1071	25 mmol/L
+T50	Dosage 1152 1161	high-dose
+T51	Medication 1162 1180	methylprednisolone
+T52	Dosage 1182 1191	1 g daily
+T53	Duration 1196 1202	3 days
+T54	Dosage 1207 1220	1 mg/kg daily
+T55	Medication 1234 1250	cyclophosphamide
+T56	Dosage 1252 1257	1.2 g
+T57	Frequency 1264 1277	every 2 weeks
+T58	Administration 1312 1321	infusions
+T59	Frequency 1322 1335	every 3 weeks
+T60	Therapeutic_procedure 1364 1379	plasma exchange
+T61	Disease_disorder 1408 1418	vasculitis
+T62	Lab_value 1492 1503	improvement
+T63	Clinical_event 1569 1578	discharge
+T64	Nonbiological_location 1584 1603	intensive care unit
+T65	Date 1605 1617	After 9 days
+T66	Date 1687 1703	Two months later
+T67	Medication 1728 1744	cyclophosphamide
+T68	Medication 1754 1764	prednisone
+T69	Dosage 1765 1778	0.3 mg/kg/day
+T70	Sign_symptom 1832 1836	pain
+T71	Sign_symptom 1842 1847	edema
+T72	Sign_symptom 1849 1854	cough
+T73	Sign_symptom 1860 1879	shortness of breath
+T74	Diagnostic_procedure 1917 1931	renal function
+T75	Severity 1933 1937	mild
+T76	Sign_symptom 1938 1944	anemia
+T77	Sign_symptom 1950 1959	hypoxemia
+T78	Distance 1966 1971	61 mm
+T79	Diagnostic_procedure 2007 2017	ultrasound
+T80	Detailed_description 2038 2049	progressive
+T81	Disease_disorder 2050 2063	renal failure
+T82	Volume 2102 2107	35 mL
+T83	Biological_structure 2113 2118	renal
+T84	Diagnostic_procedure 2119 2125	biopsy
+T85	Detailed_description 2265 2270	focal
+T86	Sign_symptom 2281 2289	necrosis
+T87	Biological_structure 2299 2303	Lung
+T88	Diagnostic_procedure 2304 2323	computed tomography
+T89	Diagnostic_procedure 2344 2356	bronchoscopy
+T90	Disease_disorder 2381 2391	hemorrhage
+T91	Dosage 2416 2425	high-dose
+T92	Medication 2426 2444	methylprednisolone
+T93	Dosage 2446 2455	1 g daily
+T94	Medication 2484 2493	rituximab
+T95	Dosage 2495 2504	375 mg/m2
+T96	Frequency 2505 2511	weekly
+T97	Duration 2516 2523	4 weeks
+T98	Outcome 2548 2558	resolution
+T99	Biological_structure 2575 2584	pulmonary
+T100	Lab_value 2621 2632	improvement
+T101	Diagnostic_procedure 2636 2650	renal function
+T102	Duration 2657 2663	1-year
+T103	Clinical_event 2664 2673	follow-up
+T104	Medication 2721 2733	azathioprine
+T105	Dosage 2735 2747	150 mg daily
+T106	Medication 2753 2763	prednisone
+T107	Dosage 2765 2776	15 mg daily
+T108	Diagnostic_procedure 2779 2793	Renal function
+T109	Severity 2798 2806	markedly
+T110	Lab_value 2807 2815	improved
+T111	Volume 2854 2859	94 mL
+T112	Distance 2901 2906	86 mm
+T113	Distance 2917 2922	36 mm
+T114	Lab_value 2933 2942	23 mmol/L
+T115	Clinical_event 3025 3034	admission
+T116	Clinical_event 3038 3053	hospitalization

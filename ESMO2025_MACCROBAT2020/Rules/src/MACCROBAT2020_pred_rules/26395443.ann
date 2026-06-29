@@ -1,26 +1,91 @@
-T1	Age 43 54	28-year-old
-T2	Sex 55 60	woman
-T3	Lab_value 384 390	60mmHg
-T4	Lab_value 407 412	98bpm
-T5	Lab_value 439 443	35°C
-T6	Severity 453 461	severely
-T7	Lab_value 482 491	decreased
-T8	Dosage 562 567	12.3g
-T9	Lab_value 611 618	103/mm3
-T10	Dosage 675 679	98mg
-T11	Dosage 700 706	14.2mg
-T12	Dosage 728 733	3.4mg
-T13	Lab_value 777 783	306U/L
-T14	Lab_value 822 828	302U/L
-T15	Lab_value 851 858	11mEq/L
-T16	Dosage 892 896	65mg
-T17	Lab_value 918 928	1.02mmol/L
-T18	Distance 1690 1693	0mm
-T19	Dosage 1750 1754	4.0g
-T20	Volume 2083 2089	2000mL
-T21	Volume 2094 2099	200mL
-T22	Duration 2327 2335	A second
-T23	Severity 2434 2438	mild
-T24	Lab_value 2533 2539	stable
-T25	Date 2617 2629	3 days after
-T26	Date 2649 2661	3 days later
+T1	History 24 42	previously healthy
+T2	Age 43 54	28-year-old
+T3	Sex 55 60	woman
+T4	Personal_background 62 76	Afro-Brazilian
+T5	Medication 191 201	diclofenac
+T6	Clinical_event 207 216	presented
+T7	Nonbiological_location 224 244	emergency department
+T8	Detailed_description 253 258	acute
+T9	Biological_structure 268 277	abdominal
+T10	Sign_symptom 278 282	pain
+T11	Sign_symptom 284 292	jaundice
+T12	Sign_symptom 294 300	nausea
+T13	Sign_symptom 305 313	vomiting
+T14	Disease_disorder 332 346	encephalopathy
+T15	Biological_structure 352 360	arterial
+T16	Diagnostic_procedure 361 375	blood pressure
+T17	Lab_value 384 390	60mmHg
+T18	Diagnostic_procedure 392 402	heart rate
+T19	Lab_value 407 412	98bpm
+T20	Biological_structure 414 422	axillary
+T21	Lab_value 439 443	35°C
+T22	Severity 453 461	severely
+T23	Lab_value 482 491	decreased
+T24	Detailed_description 492 502	peripheral
+T25	Diagnostic_procedure 551 561	hemoglobin
+T26	Dosage 562 567	12.3g
+T27	Medication 596 605	platelets
+T28	Lab_value 611 618	103/mm3
+T29	Diagnostic_procedure 654 657	INR
+T30	Diagnostic_procedure 664 674	fibrinogen
+T31	Dosage 675 679	98mg
+T32	Diagnostic_procedure 690 699	bilirubin
+T33	Dosage 700 706	14.2mg
+T34	Biological_structure 711 716	serum
+T35	Diagnostic_procedure 717 727	creatinine
+T36	Dosage 728 733	3.4mg
+T37	Biological_structure 738 743	serum
+T38	Diagnostic_procedure 772 775	AST
+T39	Lab_value 777 783	306U/L
+T40	Biological_structure 785 790	serum
+T41	Diagnostic_procedure 817 820	ALP
+T42	Lab_value 822 828	302U/L
+T43	Biological_structure 830 838	arterial
+T44	Medication 839 850	bicarbonate
+T45	Lab_value 851 858	11mEq/L
+T46	Biological_structure 860 868	arterial
+T47	Biological_structure 878 883	blood
+T48	Diagnostic_procedure 884 891	glucose
+T49	Dosage 892 896	65mg
+T50	Diagnostic_procedure 910 917	calcium
+T51	Lab_value 918 928	1.02mmol/L
+T52	Biological_structure 933 942	abdominal
+T53	Diagnostic_procedure 943 953	ultrasound
+T54	Sign_symptom 969 981	infiltration
+T55	Biological_structure 989 994	liver
+T56	Medication 1074 1086	crystalloids
+T57	Diagnostic_procedure 1092 1099	calcium
+T58	Diagnostic_procedure 1101 1108	glucose
+T59	Clinical_event 1144 1153	diagnosis
+T60	Therapeutic_procedure 1227 1243	cesarean section
+T61	Therapeutic_procedure 1360 1367	surgery
+T62	Diagnostic_procedure 1521 1531	fibrinogen
+T63	Distance 1690 1693	0mm
+T64	Diagnostic_procedure 1729 1731	CT
+T65	Dosage 1750 1754	4.0g
+T66	Diagnostic_procedure 1758 1768	fibrinogen
+T67	Therapeutic_procedure 1974 1990	cesarean section
+T68	Medication 2009 2021	crystalloids
+T69	Volume 2083 2089	2000mL
+T70	Volume 2094 2099	200mL
+T71	Therapeutic_procedure 2105 2121	cesarean section
+T72	Sign_symptom 2146 2154	bleeding
+T73	Therapeutic_procedure 2210 2221	transfusion
+T74	Biological_structure 2244 2250	plasma
+T75	Medication 2275 2284	platelets
+T76	Biological_structure 2288 2293	blood
+T77	Duration 2327 2335	A second
+T78	Therapeutic_procedure 2392 2399	surgery
+T79	Severity 2434 2438	mild
+T80	Clinical_event 2478 2486	admitted
+T81	Nonbiological_location 2494 2513	intensive care unit
+T82	Nonbiological_location 2515 2518	ICU
+T83	Lab_value 2533 2539	stable
+T84	Sign_symptom 2549 2557	bleeding
+T85	Clinical_event 2593 2603	discharged
+T86	Nonbiological_location 2613 2616	ICU
+T87	Date 2617 2629	3 days after
+T88	Clinical_event 2630 2639	admission
+T89	Date 2649 2661	3 days later
+T90	Clinical_event 2670 2680	discharged
+T91	Nonbiological_location 2690 2698	hospital

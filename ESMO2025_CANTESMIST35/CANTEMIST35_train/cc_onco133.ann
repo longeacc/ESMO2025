@@ -1,0 +1,26 @@
+T1	Signes_physiques 35 125	augmentation de volume douloureuse à la palpation dans la région antérieure de la poitrine
+T2	Signes_physiques 207 235	bosse dans la région dorsale
+T3	Histologie_tumorale 567 578	enchondrome
+T5	Histologie_tumorale 1985 2044	tumeur mésenchymateuse maligne évocatrice d'origine neurale
+T4	Histologie_tumorale 2377 2436	Tumeur mésenchymateuse maligne évocatrice d'origine neurale
+T6	Topographie_du_primitif 2521 2566	tumeur mésenchymateuse de la paroi thoracique
+T7	Histologie_tumorale 2521 2543	tumeur mésenchymateuse
+T8	Histologie_tumorale 3122 3182	histiocytome fibreux malin (sarcome pléomorphe de haut grade
+T9	Histologie_tumorale 3261 3293	sarcome pléomorphe de haut grade
+T10	Stade_metastatique_avec_localisations 3481 3613	lésions pulmonaires nodulaires millimétriques comprises entre 0,3 et 0,9 mm, compatibles avec un ensemencement hématogène pulmonaire
+T11	Traitement_specifique_du_cancer 3755 3770	métastasectomie
+T13	Reponse_a_la_chimiotherapie 4060 4177	croissance iconographique des nodules pulmonaires connus (9 mm à 18 mm) était évidente sur le scanner de réévaluation
+T15	Evolutivite_en_lien_avec_le_cancer 4443 4465	progression pulmonaire
+T16	Traitement_specifique_du_cancer 4526 4577	docétaxel 100 mg/m2 j+1 (DT : 200 mg) + gemcitabine
+T17	Reponse_a_la_chimiotherapie 4915 4998	scanner de réévaluation a été réalisé en juin 2013, qui a révélé une maladie stable
+T18	Reponse_a_la_chimiotherapie 5081 5103	progression pulmonaire
+T19	Traitement_specifique_du_cancer 5162 5171	pazopanib
+T14	Traitement_specifique_du_cancer 4234 4244	ifosfamide
+T12	Traitement_specifique_du_cancer 3929 3941	doxorubicine
+T20	Reponse_a_la_chimiotherapie 5316 5395	apparition de zones de cavitation dans plusieurs nodules pulmonaires bilatéraux
+T21	Stade_metastatique_avec_localisations 5417 5452	métastases massives des tissus mous
+T22	Traitement_specifique_du_cancer 5753 5762	pazopanib
+T23	Stade_metastatique_avec_localisations 5834 5856	métastases pulmonaires
+T24	Traitement_specifique_du_cancer 5927 5936	pazopanib
+T25	Traitement_specifique_du_cancer 6181 6193	trabectidine
+T26	Stade_OMS_ECOG_Karnofsky 6324 6354	indice de performance est de 3

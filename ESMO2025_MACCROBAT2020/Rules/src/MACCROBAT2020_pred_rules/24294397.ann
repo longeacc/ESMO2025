@@ -1,6 +1,41 @@
 T1	Age 2 13	67-year-old
-T2	Sex 23 29	female
-T3	Date 111 125	1 year earlier
-T4	Color 226 238	skin-colored
-T5	Area 276 298	43 x 38 mm in diameter
-T6	Lab_value 2103 2111	positive
+T2	Personal_background 14 22	Japanese
+T3	Sex 23 29	female
+T4	Clinical_event 30 39	presented
+T5	Sign_symptom 60 65	tumor
+T6	Date 111 125	1 year earlier
+T7	Sign_symptom 154 162	enlarged
+T8	Diagnostic_procedure 164 184	Physical examination
+T9	Color 226 238	skin-colored
+T10	Sign_symptom 239 244	tumor
+T11	Area 276 298	43 x 38 mm in diameter
+T12	Diagnostic_procedure 325 331	biopsy
+T13	Disease_disorder 367 398	squamous cell carcinoma in situ
+T14	Therapeutic_procedure 425 434	resection
+T15	Sign_symptom 442 447	tumor
+T16	Therapeutic_procedure 494 502	resected
+T17	Sign_symptom 691 699	enlarged
+T18	Clinical_event 792 799	present
+T19	Detailed_description 822 831	scattered
+T20	Clinical_event 836 843	present
+T21	Sign_symptom 1018 1024	lesion
+T22	Disease_disorder 1078 1109	squamous cell carcinoma in situ
+T23	Detailed_description 1116 1127	superficial
+T24	Disease_disorder 1128 1147	sebaceous carcinoma
+T25	Clinical_event 1152 1159	present
+T26	Detailed_description 1167 1174	central
+T27	Sign_symptom 1187 1193	lesion
+T28	Biological_attribute 1346 1354	nucleoli
+T29	Disease_disorder 1378 1397	Sebaceous carcinoma
+T30	Detailed_description 1419 1430	superficial
+T31	Clinical_event 1523 1530	present
+T32	Sign_symptom 1542 1548	lesion
+T33	Disease_disorder 1584 1603	sebaceous carcinoma
+T34	Disease_disorder 1829 1848	sebaceous carcinoma
+T35	Sign_symptom 1952 1957	tumor
+T36	Disease_disorder 1971 1990	sebaceous carcinoma
+T37	Sign_symptom 2067 2073	lesion
+T38	Lab_value 2103 2111	positive
+T39	Disease_disorder 2196 2215	sebaceous carcinoma
+T40	Clinical_event 2262 2271	diagnosis
+T41	Disease_disorder 2275 2294	sebaceous carcinoma

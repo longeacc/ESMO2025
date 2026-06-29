@@ -1,38 +1,134 @@
 T1	Age 18 29	48-year-old
 T2	Sex 30 33	man
-T3	Age 92 107	42 years of age
-T4	Texture 194 206	ground-glass
-T5	Dosage 1042 1051	high-dose
-T6	Administration 1052 1063	intravenous
-T7	Dosage 1086 1098	000 mg daily
-T8	Duration 1104 1110	3 days
-T9	Dosage 1137 1148	25 mg daily
-T10	Age 1449 1464	46 years of age
-T11	Lab_value 1523 1534	improvement
-T12	Dosage 1592 1603	60 mg daily
-T13	Dosage 1609 1625	maintenance dose
-T14	Dosage 1629 1639	5 mg daily
-T15	Age 1644 1659	48 years of age
-T16	Dosage 1829 1839	3 mg daily
-T17	Weight 1871 1876	75 kg
-T18	Distance 1888 1894	167 cm
-T19	Lab_value 1949 1957	102 mmHg
-T20	Lab_value 1971 1984	109 beats/min
-T21	Lab_value 2041 2047	36.8°C
-T22	Administration 2130 2142	subcutaneous
-T23	Severity 2275 2279	Mild
-T24	Dosage 2313 2319	11.3 g
-T25	Dosage 2361 2367	14.6 g
-T26	Duration 2473 2482	5 seconds
-T27	Lab_value 2484 2490	normal
-T28	Duration 2506 2515	7 seconds
-T29	Dosage 2606 2612	299 mg
-T30	Lab_value 2736 2744	negative
-T31	Dosage 2827 2836	high-dose
-T32	Administration 2837 2848	intravenous
-T33	Duration 2872 2878	3 days
-T34	Dosage 2906 2917	60 mg daily
-T35	Lab_value 2934 2942	improved
-T36	Severity 3604 3612	moderate
-T37	Lab_value 3688 3696	resolved
-T38	Duration 3922 3929	3 years
+T3	Clinical_event 58 70	hospitalized
+T4	Sign_symptom 78 88	hemoptysis
+T5	Age 92 107	42 years of age
+T6	Biological_structure 125 130	chest
+T7	Diagnostic_procedure 131 141	radiograph
+T8	Biological_structure 146 151	chest
+T9	Diagnostic_procedure 152 171	computed tomography
+T10	Diagnostic_procedure 173 175	CT
+T11	Detailed_description 186 193	diffuse
+T12	Texture 194 206	ground-glass
+T13	Detailed_description 228 237	bilateral
+T14	Biological_structure 238 242	lung
+T15	Diagnostic_procedure 281 292	examination
+T16	Biological_structure 339 344	blood
+T17	Biological_structure 352 359	trachea
+T18	Biological_structure 364 371	bronchi
+T19	Diagnostic_procedure 548 565	electrocardiogram
+T20	Biological_structure 570 583	transthoracic
+T21	Family_history 728 762	family history of bleeding disease
+T22	Subject 798 805	brother
+T23	Clinical_event 819 828	diagnosed
+T24	Disease_disorder 834 845	hepatitis C
+T25	Activity 884 889	drugs
+T26	Disease_disorder 995 1005	vasculitis
+T27	Dosage 1042 1051	high-dose
+T28	Administration 1052 1063	intravenous
+T29	Medication 1064 1082	methylprednisolone
+T30	Dosage 1086 1098	000 mg daily
+T31	Duration 1104 1110	3 days
+T32	Medication 1123 1135	prednisolone
+T33	Dosage 1137 1148	25 mg daily
+T34	Sign_symptom 1183 1191	symptoms
+T35	Biological_structure 1193 1198	Chest
+T36	Diagnostic_procedure 1199 1201	CT
+T37	Outcome 1213 1223	resolution
+T38	Medication 1250 1262	prednisolone
+T39	Clinical_event 1342 1351	discharge
+T40	Nonbiological_location 1357 1369	our hospital
+T41	Clinical_event 1387 1397	readmitted
+T42	Nonbiological_location 1401 1413	our hospital
+T43	Sign_symptom 1421 1431	recurrence
+T44	Sign_symptom 1435 1445	hemoptysis
+T45	Age 1449 1464	46 years of age
+T46	Lab_value 1523 1534	improvement
+T47	Medication 1557 1569	prednisolone
+T48	Dosage 1592 1603	60 mg daily
+T49	Dosage 1609 1625	maintenance dose
+T50	Dosage 1629 1639	5 mg daily
+T51	Age 1644 1659	48 years of age
+T52	Clinical_event 1668 1678	readmitted
+T53	Nonbiological_location 1682 1694	our hospital
+T54	Sign_symptom 1710 1720	recurrence
+T55	Sign_symptom 1724 1734	hemoptysis
+T56	Medication 1758 1765	steroid
+T57	Disease_disorder 1774 1791	diabetes mellitus
+T58	Dosage 1829 1839	3 mg daily
+T59	Clinical_event 1845 1854	admission
+T60	Weight 1871 1876	75 kg
+T61	Distance 1888 1894	167 cm
+T62	Diagnostic_procedure 1900 1911	vital signs
+T63	Diagnostic_procedure 1929 1943	blood pressure
+T64	Lab_value 1949 1957	102 mmHg
+T65	Diagnostic_procedure 1959 1969	pulse rate
+T66	Lab_value 1971 1984	109 beats/min
+T67	Diagnostic_procedure 2023 2039	body temperature
+T68	Lab_value 2041 2047	36.8°C
+T69	Biological_structure 2049 2054	Chest
+T70	Diagnostic_procedure 2055 2067	auscultation
+T71	Sign_symptom 2082 2090	crackles
+T72	Biological_structure 2104 2108	lung
+T73	Biological_structure 2119 2123	skin
+T74	Sign_symptom 2124 2128	rash
+T75	Administration 2130 2142	subcutaneous
+T76	Sign_symptom 2143 2151	bleeding
+T77	Sign_symptom 2161 2169	swelling
+T78	Clinical_event 2175 2182	present
+T79	Biological_structure 2186 2191	chest
+T80	Diagnostic_procedure 2192 2202	radiograph
+T81	Diagnostic_procedure 2207 2209	CT
+T82	Detailed_description 2233 2240	diffuse
+T83	Detailed_description 2252 2261	bilateral
+T84	Biological_structure 2262 2266	lung
+T85	Severity 2275 2279	Mild
+T86	Sign_symptom 2280 2286	anemia
+T87	Diagnostic_procedure 2301 2311	hemoglobin
+T88	Dosage 2313 2319	11.3 g
+T89	Diagnostic_procedure 2334 2344	hemoglobin
+T90	Dosage 2361 2367	14.6 g
+T91	Sign_symptom 2384 2394	hemoptysis
+T92	Diagnostic_procedure 2447 2451	APTT
+T93	Duration 2473 2482	5 seconds
+T94	Lab_value 2484 2490	normal
+T95	Duration 2506 2515	7 seconds
+T96	Diagnostic_procedure 2518 2534	Laboratory tests
+T97	Biological_structure 2561 2566	blood
+T98	Diagnostic_procedure 2567 2574	glucose
+T99	Diagnostic_procedure 2579 2589	hemoglobin
+T100	Dosage 2606 2612	299 mg
+T101	Medication 2651 2658	steroid
+T102	Disease_disorder 2667 2684	diabetes mellitus
+T103	Lab_value 2736 2744	negative
+T104	Clinical_event 2757 2766	diagnosed
+T105	Coreference 2767 2780	the condition
+T106	Sign_symptom 2786 2796	recurrence
+T107	Dosage 2827 2836	high-dose
+T108	Administration 2837 2848	intravenous
+T109	Medication 2849 2867	methylprednisolone
+T110	Duration 2872 2878	3 days
+T111	Medication 2892 2904	prednisolone
+T112	Dosage 2906 2917	60 mg daily
+T113	Lab_value 2934 2942	improved
+T114	History 3046 3061	medical history
+T115	Occupation 3101 3108	student
+T116	Clinical_event 3122 3134	hospitalized
+T117	Therapeutic_procedure 3152 3170	blood transfusions
+T118	Sign_symptom 3204 3212	bleeding
+T119	Detailed_description 3257 3267	congenital
+T120	Sign_symptom 3268 3276	bleeding
+T121	Clinical_event 3299 3308	diagnosed
+T122	Subject 3361 3368	brother
+T123	Clinical_event 3378 3387	diagnosed
+T124	Biological_structure 3473 3478	blood
+T125	Clinical_event 3589 3598	diagnosed
+T126	Severity 3604 3612	moderate
+T127	Clinical_event 3647 3656	diagnosis
+T128	Lab_value 3688 3696	resolved
+T129	Medication 3706 3720	corticosteroid
+T130	Medication 3780 3792	prednisolone
+T131	Sign_symptom 3854 3864	recurrence
+T132	Sign_symptom 3887 3895	symptoms
+T133	Duration 3922 3929	3 years
+T134	Medication 3972 3984	prednisolone

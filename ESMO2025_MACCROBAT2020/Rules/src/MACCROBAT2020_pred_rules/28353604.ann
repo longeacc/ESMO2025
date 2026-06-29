@@ -1,51 +1,157 @@
 T1	Age 2 13	69-year-old
 T2	Sex 14 17	man
 T3	Date 69 78	July 2010
-T4	Duration 122 130	40 years
-T5	Lab_value 227 239	unremarkable
-T6	Severity 479 485	severe
-T7	Lab_value 541 549	104 mmHg
-T8	Distance 615 620	57 mm
-T9	Severity 819 825	severe
-T10	Dosage 1015 1029	2.5 mg per day
-T11	Dosage 1146 1165	20 mg twice per day
-T12	Severity 1203 1211	slightly
-T13	Duration 1251 1258	1 month
-T14	Lab_value 1304 1313	decreased
-T15	Lab_value 1317 1324	72 mmHg
-T16	Duration 1424 1432	6 months
-T17	Date 1437 1447	March 2011
-T18	Lab_value 1581 1588	47 mmHg
-T19	Lab_value 1637 1644	10 mmHg
-T20	Volume 1661 1666	4.3 L
-T21	Volume 1695 1701	2.36 L
-T22	Dosage 1938 1943	20 mg
-T23	Frequency 1944 1957	3 times a day
-T24	Dosage 1974 1980	400 mg
-T25	Frequency 1981 1991	once a day
-T26	Administration 2018 2022	oral
-T27	Dosage 2061 2076	3.75 mg per day
-T28	Frequency 2086 2091	daily
-T29	Lab_value 2244 2251	95 mmHg
-T30	Date 2256 2270	September 2011
-T31	Lab_value 2406 2413	63 mmHg
-T32	Severity 2472 2476	mild
-T33	Severity 2578 2584	severe
-T34	Duration 2666 2674	6-minute
-T35	Texture 2767 2773	smooth
-T36	Lab_value 2947 2954	53 mmHg
-T37	Lab_value 2973 2980	11 mmHg
-T38	Lab_value 3012 3020	negative
-T39	Lab_value 3062 3068	normal
-T40	Lab_value 3205 3213	elevated
-T41	Lab_value 3293 3299	normal
-T42	Frequency 3406 3418	continuously
-T43	Date 3591 3595	2014
-T44	Frequency 3680 3690	frequently
-T45	Lab_value 3882 3888	stable
-T46	Date 3979 3991	January 2015
-T47	Duration 4326 4332	a year
-T48	Severity 4338 4344	severe
-T49	Date 4455 4471	Six months later
-T50	Date 4665 4669	2015
-T51	Date 4946 4958	1 year after
+T4	History 89 130	history of smoking for more than 40 years
+T5	Subject 159 166	parents
+T6	Subject 173 180	brother
+T7	Biological_structure 185 189	lung
+T8	Disease_disorder 190 196	cancer
+T9	History 202 222	past medical history
+T10	Lab_value 227 239	unremarkable
+T11	Clinical_event 312 320	admitted
+T12	Nonbiological_location 337 345	Hospital
+T13	Diagnostic_procedure 369 385	echocardiography
+T14	Diagnostic_procedure 390 409	computed tomography
+T15	Biological_structure 410 419	pulmonary
+T16	Diagnostic_procedure 420 431	angiography
+T17	Diagnostic_procedure 440 456	Echocardiography
+T18	Severity 479 485	severe
+T19	Biological_structure 503 512	pulmonary
+T20	Biological_structure 513 521	arterial
+T21	Lab_value 541 549	104 mmHg
+T22	Biological_structure 565 570	heart
+T23	Sign_symptom 575 583	enlarged
+T24	Biological_structure 589 604	right ventricle
+T25	Distance 615 620	57 mm
+T26	Sign_symptom 672 680	thrombus
+T27	Biological_structure 719 723	lung
+T28	Biological_structure 752 756	lung
+T29	Severity 819 825	severe
+T30	Activity 887 895	drug use
+T31	Medication 908 920	chemotherapy
+T32	Clinical_event 949 958	diagnosed
+T33	Medication 1005 1013	warfarin
+T34	Dosage 1015 1029	2.5 mg per day
+T35	Diagnostic_procedure 1083 1086	INR
+T36	Dosage 1146 1165	20 mg twice per day
+T37	Severity 1203 1211	slightly
+T38	Medication 1235 1246	medications
+T39	Duration 1251 1258	1 month
+T40	Diagnostic_procedure 1283 1299	echocardiography
+T41	Lab_value 1304 1313	decreased
+T42	Lab_value 1317 1324	72 mmHg
+T43	Sign_symptom 1344 1352	symptoms
+T44	Medication 1408 1419	medications
+T45	Duration 1424 1432	6 months
+T46	Date 1437 1447	March 2011
+T47	Nonbiological_location 1493 1501	hospital
+T48	Biological_structure 1540 1545	heart
+T49	Diagnostic_procedure 1546 1561	catheterization
+T50	Lab_value 1581 1588	47 mmHg
+T51	Biological_structure 1590 1599	pulmonary
+T52	Lab_value 1637 1644	10 mmHg
+T53	Biological_structure 1646 1653	cardiac
+T54	Volume 1661 1666	4.3 L
+T55	Biological_structure 1672 1679	cardiac
+T56	Volume 1695 1701	2.36 L
+T57	Biological_structure 1714 1723	pulmonary
+T58	Sign_symptom 1806 1814	thrombus
+T59	Biological_structure 1853 1857	lung
+T60	Clinical_event 1884 1893	diagnosed
+T61	Dosage 1938 1943	20 mg
+T62	Frequency 1944 1957	3 times a day
+T63	Medication 1963 1972	sorafenib
+T64	Dosage 1974 1980	400 mg
+T65	Frequency 1981 1991	once a day
+T66	Administration 2018 2022	oral
+T67	Medication 2023 2031	warfarin
+T68	Medication 2032 2047	anticoagulation
+T69	Dosage 2061 2076	3.75 mg per day
+T70	Frequency 2086 2091	daily
+T71	Diagnostic_procedure 2113 2116	INR
+T72	Diagnostic_procedure 2216 2232	echocardiography
+T73	Lab_value 2244 2251	95 mmHg
+T74	Date 2256 2270	September 2011
+T75	Clinical_event 2275 2282	visited
+T76	Biological_structure 2296 2305	Pulmonary
+T77	Nonbiological_location 2306 2314	hospital
+T78	Biological_structure 2357 2365	Arterial
+T79	Biological_structure 2366 2371	blood
+T80	Lab_value 2406 2413	63 mmHg
+T81	Diagnostic_procedure 2419 2436	oxygen saturation
+T82	Biological_structure 2442 2446	lung
+T83	Severity 2472 2476	mild
+T84	Biological_structure 2508 2517	pulmonary
+T85	Therapeutic_procedure 2518 2529	ventilation
+T86	Severity 2578 2584	severe
+T87	Biological_structure 2628 2633	lungs
+T88	Duration 2666 2674	6-minute
+T89	Biological_structure 2696 2701	Chest
+T90	Outcome 2707 2717	resolution
+T91	Diagnostic_procedure 2718 2737	computed tomography
+T92	Texture 2767 2773	smooth
+T93	Sign_symptom 2774 2784	thickening
+T94	Detailed_description 2808 2815	diffuse
+T95	Sign_symptom 2830 2837	nodules
+T96	Sign_symptom 2847 2858	enlargement
+T97	Biological_structure 2862 2873	mediastinal
+T98	Biological_structure 2874 2885	lymph nodes
+T99	Biological_structure 2897 2902	heart
+T100	Diagnostic_procedure 2903 2918	catheterization
+T101	Lab_value 2947 2954	53 mmHg
+T102	Lab_value 2973 2980	11 mmHg
+T103	Detailed_description 2982 2987	Acute
+T104	Lab_value 3012 3020	negative
+T105	Diagnostic_procedure 3022 3042	Coronary angiography
+T106	Lab_value 3062 3068	normal
+T107	Biological_structure 3070 3079	pulmonary
+T108	Therapeutic_procedure 3080 3091	ventilation
+T109	Biological_structure 3110 3114	lung
+T110	Therapeutic_procedure 3137 3148	ventilation
+T111	Lab_value 3205 3213	elevated
+T112	Lab_value 3293 3299	normal
+T113	Clinical_event 3327 3336	diagnosed
+T114	Frequency 3406 3418	continuously
+T115	Medication 3491 3506	anticoagulation
+T116	Medication 3533 3541	warfarin
+T117	Medication 3542 3557	anticoagulation
+T118	Date 3591 3595	2014
+T119	Frequency 3680 3690	frequently
+T120	Diagnostic_procedure 3700 3703	INR
+T121	Biological_structure 3708 3713	blood
+T122	Medication 3777 3785	warfarin
+T123	Diagnostic_procedure 3821 3828	D-Dimer
+T124	Sign_symptom 3843 3853	recurrence
+T125	Lab_value 3882 3888	stable
+T126	Outcome 3921 3926	fatal
+T127	Disease_disorder 3940 3955	pulmonary edema
+T128	Date 3979 3991	January 2015
+T129	Nonbiological_location 4010 4018	hospital
+T130	Sign_symptom 4079 4087	thrombus
+T131	Biological_structure 4106 4115	pulmonary
+T132	Medication 4133 4144	Rivaroxaban
+T133	Medication 4166 4181	anticoagulation
+T134	Medication 4202 4212	medication
+T135	Duration 4326 4332	a year
+T136	Severity 4338 4344	severe
+T137	Biological_structure 4416 4420	lung
+T138	Therapeutic_procedure 4421 4436	transplantation
+T139	Date 4455 4471	Six months later
+T140	Detailed_description 4492 4501	bilateral
+T141	Biological_structure 4523 4527	lung
+T142	Therapeutic_procedure 4528 4543	transplantation
+T143	Biological_structure 4561 4569	arterial
+T144	Date 4665 4669	2015
+T145	Biological_structure 4698 4702	lung
+T146	Biological_structure 4719 4728	pulmonary
+T147	Biological_structure 4763 4772	pulmonary
+T148	Disease_disorder 4773 4781	embolism
+T149	Biological_structure 4795 4804	pulmonary
+T150	Date 4946 4958	1 year after
+T151	Biological_structure 4963 4967	lung
+T152	Therapeutic_procedure 4968 4983	transplantation
+T153	Diagnostic_procedure 4992 5008	echocardiography
+T154	Sign_symptom 5055 5063	enlarged
+T155	Biological_structure 5064 5079	right ventricle
+T156	Biological_structure 5087 5092	heart
+T157	Nonbiological_location 5158 5166	Hospital

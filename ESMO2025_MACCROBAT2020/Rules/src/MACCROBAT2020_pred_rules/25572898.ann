@@ -1,31 +1,81 @@
 T1	Age 2 13	42 year-old
 T2	Sex 14 17	man
-T3	Date 99 113	September 2013
-T4	Date 258 264	day 12
-T5	Lab_value 386 398	unremarkable
-T6	Duration 555 562	3 weeks
-T7	Lab_value 607 619	unremarkable
-T8	Color 724 727	red
-T9	Lab_value 752 762	2.4 mmol/L
-T10	Lab_value 764 770	normal
-T11	Lab_value 782 792	4.7 mmol/L
-T12	Dosage 803 808	61 mg
-T13	Lab_value 813 819	normal
-T14	Dosage 830 835	45 mg
-T15	Lab_value 928 936	negative
-T16	Dosage 1021 1030	high-dose
-T17	Dosage 1077 1083	2 g/kg
-T18	Administration 1084 1095	intravenous
-T19	Date 1339 1352	6 weeks after
-T20	Frequency 1447 1461	intermittently
-T21	Lab_value 1516 1522	106/μL
-T22	Lab_value 1524 1530	normal
-T23	Lab_value 1548 1554	106/μL
-T24	Lab_value 1586 1598	unremarkable
-T25	Dosage 1789 1798	high-dose
-T26	Severity 2288 2297	Extensive
-T27	Lab_value 2374 2382	negative
-T28	Date 2544 2556	January 2014
-T29	Date 2968 2978	March 2014
-T30	Date 3018 3032	4 months after
-T31	Date 3071 3085	5 months after
+T3	Detailed_description 23 30	chronic
+T4	Biological_structure 73 77	bone
+T5	Therapeutic_procedure 85 95	transplant
+T6	Date 99 113	September 2013
+T7	Date 258 264	day 12
+T8	Therapeutic_procedure 271 281	transplant
+T9	Detailed_description 294 304	persistent
+T10	Disease_disorder 345 354	infection
+T11	Lab_value 386 398	unremarkable
+T12	Detailed_description 456 467	progressive
+T13	Detailed_description 527 538	bilaterally
+T14	Duration 555 562	3 weeks
+T15	Biological_structure 564 569	Brain
+T16	Diagnostic_procedure 570 596	magnetic resonance imaging
+T17	Diagnostic_procedure 598 601	MRI
+T18	Lab_value 607 619	unremarkable
+T19	Color 724 727	red
+T20	Biological_structure 728 733	blood
+T21	Diagnostic_procedure 744 751	glucose
+T22	Lab_value 752 762	2.4 mmol/L
+T23	Lab_value 764 770	normal
+T24	Lab_value 782 792	4.7 mmol/L
+T25	Dosage 803 808	61 mg
+T26	Lab_value 813 819	normal
+T27	Dosage 830 835	45 mg
+T28	Lab_value 928 936	negative
+T29	Disease_disorder 969 978	infection
+T30	Dosage 1021 1030	high-dose
+T31	Medication 1060 1071	antibiotics
+T32	Dosage 1077 1083	2 g/kg
+T33	Administration 1084 1095	intravenous
+T34	Medication 1112 1116	IVIG
+T35	Sign_symptom 1165 1173	symptoms
+T36	Detailed_description 1177 1184	central
+T37	Sign_symptom 1203 1214	hypotension
+T38	Sign_symptom 1216 1222	nausea
+T39	Detailed_description 1298 1308	persistent
+T40	Date 1339 1352	6 weeks after
+T41	Sign_symptom 1353 1360	symptom
+T42	Frequency 1447 1461	intermittently
+T43	Lab_value 1516 1522	106/μL
+T44	Lab_value 1524 1530	normal
+T45	Lab_value 1548 1554	106/μL
+T46	Diagnostic_procedure 1558 1561	MRI
+T47	Biological_structure 1575 1580	brain
+T48	Lab_value 1586 1598	unremarkable
+T49	Biological_structure 1607 1612	serum
+T50	Diagnostic_procedure 1653 1673	electroencephalogram
+T51	Detailed_description 1688 1695	diffuse
+T52	Disease_disorder 1696 1710	encephalopathy
+T53	Dosage 1789 1798	high-dose
+T54	Medication 1830 1834	IVIG
+T55	Medication 1854 1860	fluids
+T56	Medication 1872 1882	medication
+T57	Diagnostic_procedure 1940 1943	MRI
+T58	Biological_structure 2057 2064	cranial
+T59	Diagnostic_procedure 2167 2173	biopsy
+T60	Detailed_description 2229 2236	diffuse
+T61	Sign_symptom 2237 2249	infiltration
+T62	Severity 2288 2297	Extensive
+T63	Diagnostic_procedure 2329 2335	biopsy
+T64	Lab_value 2374 2382	negative
+T65	Clinical_event 2431 2440	diagnosis
+T66	Detailed_description 2459 2470	progressive
+T67	Biological_structure 2507 2512	brain
+T68	Diagnostic_procedure 2513 2519	biopsy
+T69	Date 2544 2556	January 2014
+T70	Biological_structure 2630 2635	brain
+T71	Diagnostic_procedure 2636 2642	biopsy
+T72	Disease_disorder 2740 2749	infection
+T73	Medication 2816 2825	ribavirin
+T74	Medication 2830 2834	IVIG
+T75	Medication 2956 2964	sedation
+T76	Date 2968 2978	March 2014
+T77	Outcome 2994 2998	died
+T78	Date 3018 3032	4 months after
+T79	Clinical_event 3041 3050	diagnosis
+T80	Date 3071 3085	5 months after
+T81	Sign_symptom 3095 3103	symptoms

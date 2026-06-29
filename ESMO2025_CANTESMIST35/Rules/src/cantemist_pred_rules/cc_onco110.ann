@@ -1,0 +1,45 @@
+T1	Symptomes 77 85	diarrhée
+T2	Symptomes 135 155	douleurs abdominales
+T3	Signes_physiques 163 192	perte de poids d'environ 6 kg
+T4	Symptomes 236 259	hypertension artérielle
+T5	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 273 314	antécédent médico-chirurgical intéressant
+T6	Signes_physiques 387 398	abdomen mou
+T7	Signes_physiques 470 484	toucher rectal
+T8	Topographie_du_primitif 650 679	tumeur de la même marge anale
+T9	Histologie_tumorale 766 780	adénocarcinome
+T10	Topographie_du_primitif 828 874	néoformation entre 1 et 8 cm de la marge anale
+T11	Histologie_tumorale 1387 1408	Adénocarcinome rectal
+T12	Stade_metastatique_avec_localisations 1420 1429	Stade III
+T13	Traitement_specifique_du_cancer 1450 1464	chimiothérapie
+T14	Traitement_specifique_du_cancer 1466 1468	Qt
+T15	Traitement_specifique_du_cancer 1473 1477	5-FU
+T16	Traitement_specifique_du_cancer 1485 1498	radiothérapie
+T17	Traitement_specifique_du_cancer 1513 1515	Rt
+T18	Traitement_specifique_du_cancer 1856 1865	chirurgie
+T19	Traitement_specifique_du_cancer 1955 1984	amputation abdomino-périnéale
+T20	Reponse_a_la_chimiotherapie 2058 2087	réponse pathologique complète
+T21	Traitement_specifique_du_cancer 2151 2165	chimiothérapie
+T22	Traitement_specifique_du_cancer 2181 2185	5-FU
+T23	Traitement_specifique_du_cancer 2188 2199	leucovorine
+T24	Histologie_tumorale 3021 3035	adénocarcinome
+T25	Topographie_du_primitif 3038 3057	origine colorectale
+T26	Biomarqueurs_therapeutiques 3067 3071	KRAS
+T27	Traitement_specifique_du_cancer 3124 3162	traitement adjuvant par capécitabine a
+T28	Traitement_specifique_du_cancer 3391 3413	résection chirurgicale
+T29	Stade_metastatique_avec_localisations 3422 3441	nodules pulmonaires
+T30	Traitement_specifique_du_cancer 3489 3508	traitement adjuvant
+T31	Traitement_specifique_du_cancer 3509 3514	XELOX
+T32	Traitement_specifique_du_cancer 3516 3528	capécitabine
+T33	Traitement_specifique_du_cancer 3532 3544	oxaliplatine
+T34	Traitement_specifique_du_cancer 3558 3570	oxaliplatine
+T35	Histologie_tumorale 3933 3947	adénocarcinome
+T36	Topographie_du_primitif 3950 3969	origine colorectale
+T37	Reponse_a_la_chimiotherapie 4104 4127	récidive endobronchique
+T38	Traitement_specifique_du_cancer 4256 4265	résection
+T39	Stade_metastatique_avec_localisations 4377 4396	nodules pulmonaires
+T40	Traitement_specifique_du_cancer 4462 4476	chimiothérapie
+T41	Traitement_specifique_du_cancer 4503 4510	FOLFIRI
+T42	Traitement_specifique_du_cancer 4512 4516	5-FU
+T43	Traitement_specifique_du_cancer 4518 4528	irinotécan
+T44	Traitement_specifique_du_cancer 4532 4543	leucovorine
+T45	Traitement_specifique_du_cancer 4556 4565	cétuximab

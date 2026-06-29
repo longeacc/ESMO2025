@@ -1,0 +1,38 @@
+T1	Statut_tabagique 44 56	fumeur actif
+T2	Statut_tabagique 58 71	85 paquets/an
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 119 143	bronchite emphysémateuse
+T4	Traitement_specifique_du_cancer 279 288	résection
+T5	Symptomes 520 541	douleurs pleurétiques
+T6	Symptomes 551 558	dyspnée
+T7	Symptomes 615 631	syndrome toxique
+T8	Symptomes 642 669	perte de poids allant jusqu
+T9	Stade_OMS_ECOG_Karnofsky 733 739	ECOG 1
+T10	Signes_physiques 799 824	hypophonèse basale gauche
+T11	Signes_physiques 826 846	tachycarde à 100 bpm
+T12	Histologie_tumorale 1347 1373	mésothéliome pleural malin
+T13	Traitement_specifique_du_cancer 1408 1417	chirurgie
+T14	Biomarqueurs_therapeutiques 1591 1735	immunohistochimie a montré une positivité pour les marqueurs tumoraux neuroendocrines CD56, la synaptophysine et la chromogranine. La positivité
+T15	Biomarqueurs_therapeutiques 1739 1744	TTF1 
+T16	Biomarqueurs_therapeutiques 1747 1750	CK7
+T17	Topographie_du_primitif 1765 1783	origine pulmonaire
+T18	Histologie_tumorale 1828 1840	mésothéliome
+T19	Stade_metastatique_avec_localisations 2054 2080	adénopathies médiastinales
+T20	Histologie_tumorale 2177 2222	carcinome neuroendocrinien à grandes cellules
+T21	Topographie_du_primitif 2225 2243	origine pulmonaire
+T22	Traitement_specifique_du_cancer 2346 2360	chimiothérapie
+T23	Traitement_specifique_du_cancer 2449 2461	carboplatine
+T24	Traitement_specifique_du_cancer 2467 2476	étoposide
+T25	Symptomes 3013 3027	asymptomatique
+T26	Traitement_specifique_du_cancer 3191 3211	schéma thérapeutique
+T27	Reponse_a_la_chimiotherapie 3458 3475	réponse partielle
+T28	Reponse_a_la_chimiotherapie 3718 3739	progression au niveau
+T29	Evolutivite_en_lien_avec_le_cancer 3841 3868	intervalle sans progression
+T30	Traitement_specifique_du_cancer 4099 4111	carboplatine
+T31	Traitement_specifique_du_cancer 4112 4121	étoposide
+T32	Symptomes 4261 4281	douleurs thoraciques
+T33	Symptomes 4287 4294	dyspnée
+T34	Symptomes 4302 4310	asthénie
+T35	Traitement_specifique_du_cancer 4469 4478	topotécan
+T36	Histologie_tumorale 4609 4667	carcinome neuroendocrinien métastatique à grandes cellules
+T37	Topographie_du_primitif 4671 4689	origine pulmonaire
+T38	Traitement_specifique_du_cancer 4887 4901	chimiothérapie

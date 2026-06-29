@@ -1,16 +1,48 @@
 T1	Age 2 13	58-year-old
 T2	Sex 14 17	man
-T3	Severity 62 68	severe
-T4	Duration 80 94	several months
-T5	Dosage 123 128	6.6 g
-T6	Lab_value 133 139	normal
-T7	Dosage 150 154	16 g
-T8	Distance 342 346	2-cm
-T9	Administration 399 403	Oral
-T10	Distance 419 423	2-cm
-T11	Color 433 440	reddish
-T12	Distance 525 530	20 cm
-T13	Area 957 979	19 × 16 mm in diameter
-T14	Date 1153 1158	day 9
-T15	Lab_value 1195 1203	improved
-T16	Administration 1235 1239	oral
+T3	Sign_symptom 50 57	fatigue
+T4	Severity 62 68	severe
+T5	Sign_symptom 69 75	anemia
+T6	Duration 80 94	several months
+T7	Diagnostic_procedure 100 110	hemoglobin
+T8	Dosage 123 128	6.6 g
+T9	Lab_value 133 139	normal
+T10	Dosage 150 154	16 g
+T11	History 167 185	no medical history
+T12	Diagnostic_procedure 248 259	colonoscopy
+T13	Sign_symptom 291 299	bleeding
+T14	Biological_structure 301 310	Abdominal
+T15	Distance 342 346	2-cm
+T16	Sign_symptom 361 366	tumor
+T17	Administration 399 403	Oral
+T18	Distance 419 423	2-cm
+T19	Color 433 440	reddish
+T20	Sign_symptom 453 458	tumor
+T21	Sign_symptom 464 470	lesion
+T22	Biological_structure 502 509	jejunum
+T23	Distance 525 530	20 cm
+T24	Diagnostic_procedure 589 595	biopsy
+T25	Sign_symptom 632 640	bleeding
+T26	Sign_symptom 670 677	lesions
+T27	Clinical_event 689 698	diagnosis
+T28	Sign_symptom 716 721	tumor
+T29	Sign_symptom 748 753	tumor
+T30	Detailed_description 762 771	malignant
+T31	Disease_disorder 772 780	lymphoma
+T32	Disease_disorder 785 791	cancer
+T33	Detailed_description 806 818	laparoscopic
+T34	Therapeutic_procedure 838 847	resection
+T35	Biological_structure 855 862	jejunum
+T36	Disease_disorder 872 882	dissection
+T37	Biological_structure 886 897	lymph nodes
+T38	Diagnostic_procedure 899 910	Examination
+T39	Therapeutic_procedure 918 926	resected
+T40	Sign_symptom 927 932	tumor
+T41	Area 957 979	19 × 16 mm in diameter
+T42	Biological_structure 1029 1034	blood
+T43	Clinical_event 1125 1135	discharged
+T44	Date 1153 1158	day 9
+T45	Sign_symptom 1188 1194	anemia
+T46	Lab_value 1195 1203	improved
+T47	Administration 1235 1239	oral
+T48	Therapeutic_procedure 1251 1258	surgery

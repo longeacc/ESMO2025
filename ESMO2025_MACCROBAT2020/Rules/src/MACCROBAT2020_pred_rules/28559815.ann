@@ -1,22 +1,61 @@
 T1	Age 2 13	34-year-old
 T2	Sex 14 19	woman
 T3	Duration 21 27	1 week
-T4	Date 121 135	Two days after
-T5	Lab_value 497 507	uneventful
-T6	Weight 520 525	13 kg
-T7	Weight 574 579	72 kg
-T8	Sex 591 595	male
-T9	Duration 642 650	38 weeks
-T10	Lab_value 718 730	unremarkable
-T11	Lab_value 897 903	normal
-T12	Severity 1432 1438	severe
-T13	Administration 1453 1462	injection
-T14	Volume 1518 1523	10 mL
-T15	Administration 1564 1577	intramuscular
-T16	Administration 1578 1587	injection
-T17	Volume 1591 1595	5 mL
-T18	Date 1638 1654	Seven days later
-T19	Administration 1763 1772	injection
-T20	Date 1796 1809	after 12 days
-T21	Lab_value 1839 1847	improved
-T22	Administration 1995 2004	injection
+T4	Clinical_event 40 49	presented
+T5	Nonbiological_location 69 75	clinic
+T6	Sign_symptom 115 119	rash
+T7	Date 121 135	Two days after
+T8	Sign_symptom 190 194	rash
+T9	Biological_structure 202 209	abdomen
+T10	Clinical_event 214 223	discharge
+T11	Clinical_event 247 256	follow up
+T12	Sign_symptom 296 300	rash
+T13	Nonbiological_location 336 344	hospital
+T14	Sign_symptom 368 376	eruption
+T15	Lab_value 497 507	uneventful
+T16	Weight 574 579	72 kg
+T17	Sex 591 595	male
+T18	Subject 596 603	neonate
+T19	Clinical_event 608 617	delivered
+T20	Therapeutic_procedure 621 638	caesarean section
+T21	Duration 642 650	38 weeks
+T22	History 698 713	medical history
+T23	Lab_value 718 730	unremarkable
+T24	Medication 765 776	medications
+T25	Activity 804 808	drug
+T26	Diagnostic_procedure 823 843	physical examination
+T27	Diagnostic_procedure 878 892	blood pressure
+T28	Lab_value 897 903	normal
+T29	Diagnostic_procedure 905 916	Examination
+T30	Biological_structure 924 928	skin
+T31	Sign_symptom 951 958	papules
+T32	Biological_structure 996 1005	abdominal
+T33	Sign_symptom 1049 1056	lesions
+T34	Biological_structure 1107 1111	face
+T35	Sign_symptom 1150 1158	vesicles
+T36	Sign_symptom 1162 1170	pustules
+T37	Clinical_event 1220 1232	presentation
+T38	Clinical_event 1261 1270	diagnosed
+T39	Medication 1348 1359	medications
+T40	Medication 1390 1401	medications
+T41	Severity 1432 1438	severe
+T42	Sign_symptom 1439 1447	symptoms
+T43	Administration 1453 1462	injection
+T44	Biological_structure 1502 1508	Venous
+T45	Biological_structure 1509 1514	blood
+T46	Volume 1518 1523	10 mL
+T47	Administration 1564 1577	intramuscular
+T48	Administration 1578 1587	injection
+T49	Volume 1591 1595	5 mL
+T50	Biological_structure 1603 1608	blood
+T51	Date 1638 1654	Seven days later
+T52	Sign_symptom 1702 1710	symptoms
+T53	Administration 1763 1772	injection
+T54	Clinical_event 1786 1795	follow-up
+T55	Date 1796 1809	after 12 days
+T56	Sign_symptom 1826 1834	symptoms
+T57	Lab_value 1839 1847	improved
+T58	Disease_disorder 1932 1941	infection
+T59	Sign_symptom 1943 1950	abscess
+T60	Sign_symptom 1965 1973	hematoma
+T61	Administration 1995 2004	injection

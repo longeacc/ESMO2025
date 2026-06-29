@@ -2,30 +2,76 @@ T1	Sex 2 7	woman
 T2	Age 8 15	aged 31
 T3	Lab_value 73 77	good
 T4	Lab_value 100 106	normal
-T5	Lab_value 166 172	normal
-T6	Duration 217 225	38 weeks
-T7	Distance 337 343	100 mm
-T8	Duration 373 384	few minutes
-T9	Duration 426 434	12 hours
-T10	Sex 464 468	lady
-T11	Severity 481 487	severe
-T12	Administration 659 668	injection
-T13	Administration 681 683	IV
-T14	Lab_value 776 783	90 mmHg
-T15	Lab_value 951 959	positive
-T16	Duration 1031 1042	few seconds
-T17	Lab_value 1090 1096	raised
-T18	Dosage 1117 1123	525 IU
-T19	Dosage 1135 1141	214 IU
-T20	Dosage 1175 1179	7 mg
-T21	Lab_value 1337 1343	normal
-T22	Lab_value 1368 1376	negative
-T23	Color 1678 1681	red
-T24	Time 1768 1782	one hour after
-T25	Color 1959 1964	white
-T26	Severity 2069 2075	severe
-T27	Date 2183 2193	second day
-T28	Severity 2236 2242	marked
-T29	Lab_value 2385 2389	good
-T30	Date 2403 2408	day 5
-T31	Date 2510 2528	three months later
+T5	Diagnostic_procedure 126 140	blood pressure
+T6	Clinical_event 152 161	follow-up
+T7	Lab_value 166 172	normal
+T8	Clinical_event 174 182	admitted
+T9	Detailed_description 187 195	elective
+T10	Duration 217 225	38 weeks
+T11	Biological_structure 267 273	spinal
+T12	Clinical_event 297 306	presented
+T13	Distance 337 343	100 mm
+T14	Duration 373 384	few minutes
+T15	Duration 426 434	12 hours
+T16	Sex 464 468	lady
+T17	Clinical_event 469 478	presented
+T18	Severity 481 487	severe
+T19	Sign_symptom 488 496	headache
+T20	Therapeutic_procedure 641 654	resuscitation
+T21	Administration 659 668	injection
+T22	Administration 681 683	IV
+T23	Diagnostic_procedure 712 723	examination
+T24	Diagnostic_procedure 754 768	blood pressure
+T25	Lab_value 776 783	90 mmHg
+T26	Biological_structure 865 869	neck
+T27	Sign_symptom 870 878	rigidity
+T28	Diagnostic_procedure 908 919	examination
+T29	Lab_value 951 959	positive
+T30	Duration 1031 1042	few seconds
+T31	Diagnostic_procedure 1044 1063	Laboratory findings
+T32	Lab_value 1090 1096	raised
+T33	Biological_structure 1097 1102	liver
+T34	Dosage 1117 1123	525 IU
+T35	Dosage 1135 1141	214 IU
+T36	Dosage 1175 1179	7 mg
+T37	Diagnostic_procedure 1192 1206	platelet count
+T38	Medication 1215 1223	platelet
+T39	Diagnostic_procedure 1263 1277	renal function
+T40	Biological_structure 1315 1322	thyroid
+T41	Lab_value 1337 1343	normal
+T42	Lab_value 1368 1376	negative
+T43	Clinical_event 1394 1405	transferred
+T44	Nonbiological_location 1409 1428	intensive care unit
+T45	Diagnostic_procedure 1461 1470	magnesium
+T46	Medication 1493 1516	calcium channel blocker
+T47	Medication 1606 1613	heparin
+T48	Sign_symptom 1619 1625	anemia
+T49	Therapeutic_procedure 1656 1667	transfusion
+T50	Medication 1671 1693	packed red blood cells
+T51	Medication 1698 1706	platelet
+T52	Diagnostic_procedure 1725 1751	magnetic resonance imaging
+T53	Diagnostic_procedure 1753 1756	MRI
+T54	Time 1768 1782	one hour after
+T55	Biological_structure 1898 1906	cerebral
+T56	Personal_background 1959 1964	white
+T57	Biological_structure 1973 1985	Intracranial
+T58	Biological_structure 1986 1992	venous
+T59	Clinical_event 2021 2030	diagnosis
+T60	Disease_disorder 2038 2042	PRES
+T61	Detailed_description 2052 2061	secondary
+T62	Severity 2069 2075	severe
+T63	Diagnostic_procedure 2140 2160	electroencephalogram
+T64	Diagnostic_procedure 2162 2165	EEG
+T65	Date 2183 2193	second day
+T66	Severity 2236 2242	marked
+T67	Diagnostic_procedure 2267 2281	blood pressure
+T68	Clinical_event 2371 2381	discharged
+T69	Lab_value 2385 2389	good
+T70	Date 2403 2408	day 5
+T71	Medication 2415 2427	beta-blocker
+T72	Medication 2432 2448	sodium valproate
+T73	Diagnostic_procedure 2485 2488	MRI
+T74	Date 2510 2528	three months later
+T75	Outcome 2545 2555	resolution
+T76	Biological_structure 2559 2567	cerebral
+T77	Sign_symptom 2568 2573	edema

@@ -1,19 +1,57 @@
 T1	Age 22 33	58-year-old
-T2	Color 34 39	white
-T3	Sex 49 54	woman
-T4	Duration 184 191	10 days
-T5	Lab_value 266 286	within normal limits
-T6	Lab_value 297 304	136 U/L
-T7	Dosage 323 330	6.37 mg
-T8	Dosage 360 367	5.30 mg
-T9	Area 516 524	4 × 3 cm
-T10	Area 798 810	3.1 × 2.6 cm
-T11	Dosage 960 963	22G
-T12	Severity 1098 1104	marked
-T13	Shape 1159 1173	spindle-shaped
-T14	Shape 1202 1207	round
-T15	Color 1380 1388	brownish
-T16	Color 1389 1394	black
-T17	Color 1707 1712	brown
-T18	Lab_value 1810 1818	positive
-T19	Lab_value 1867 1875	negative
+T2	Personal_background 34 39	white
+T3	Personal_background 40 48	Hispanic
+T4	Sex 49 54	woman
+T5	Disease_disorder 79 87	melanoma
+T6	Biological_structure 95 104	right eye
+T7	Clinical_event 122 130	admitted
+T8	Nonbiological_location 138 146	hospital
+T9	Sign_symptom 152 160	jaundice
+T10	Biological_structure 165 174	abdominal
+T11	Sign_symptom 175 179	pain
+T12	Duration 184 191	10 days
+T13	Clinical_event 196 205	admission
+T14	Diagnostic_procedure 207 223	laboratory tests
+T15	Biological_structure 250 255	blood
+T16	Lab_value 266 286	within normal limits
+T17	Lab_value 297 304	136 U/L
+T18	Diagnostic_procedure 312 321	bilirubin
+T19	Dosage 323 330	6.37 mg
+T20	Dosage 360 367	5.30 mg
+T21	Biological_structure 390 399	abdominal
+T22	Diagnostic_procedure 400 419	computed tomography
+T23	Diagnostic_procedure 421 423	CT
+T24	Sign_symptom 465 471	lesion
+T25	Biological_structure 489 499	pancreatic
+T26	Area 516 524	4 × 3 cm
+T27	Detailed_description 555 561	distal
+T28	Biological_structure 562 571	bile duct
+T29	Sign_symptom 587 598	compression
+T30	Sign_symptom 758 764	lesion
+T31	Area 798 810	3.1 × 2.6 cm
+T32	Biological_structure 844 848	neck
+T33	Biological_structure 856 864	pancreas
+T34	Biological_structure 899 909	lymph node
+T35	Sign_symptom 910 918	invasion
+T36	Dosage 960 963	22G
+T37	Clinical_event 1045 1054	presented
+T38	Severity 1098 1104	marked
+T39	Shape 1159 1173	spindle-shaped
+T40	Shape 1202 1207	round
+T41	Detailed_description 1323 1331	multiple
+T42	Detailed_description 1375 1379	deep
+T43	Color 1380 1388	brownish
+T44	Color 1389 1394	black
+T45	Sign_symptom 1453 1461	necrosis
+T46	Disease_disorder 1466 1476	hemorrhage
+T47	Biological_structure 1506 1513	orbital
+T48	Color 1707 1712	brown
+T49	Biological_structure 1739 1747	pancreas
+T50	Biological_structure 1770 1778	duodenal
+T51	Lab_value 1810 1818	positive
+T52	Lab_value 1867 1875	negative
+T53	Detailed_description 1913 1923	metastatic
+T54	Detailed_description 1924 1933	malignant
+T55	Disease_disorder 1934 1942	melanoma
+T56	Medication 1993 2005	chemotherapy
+T57	Nonbiological_location 2029 2035	clinic

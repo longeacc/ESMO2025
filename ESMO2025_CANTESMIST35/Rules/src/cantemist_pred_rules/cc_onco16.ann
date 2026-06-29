@@ -1,0 +1,8 @@
+T1	Statut_tabagique 176 188	Fumeur actif
+T2	Statut_tabagique 212 229	15 paquets-années
+T3	Histologie_tumorale 4958 4966	Lymphome
+T4	Histologie_tumorale 6903 6911	lymphome
+T5	Histologie_tumorale 8344 8352	lymphome
+T6	Stade_OMS_ECOG_Karnofsky 8667 8671	PS 3
+T7	Traitement_specifique_du_cancer 8676 8704	traitement de chimiothérapie
+T8	Traitement_specifique_du_cancer 8723 8736	radiothérapie

@@ -1,25 +1,87 @@
 T1	Age 2 13	70-year-old
 T2	Sex 14 17	man
-T3	Lab_value 286 296	32.3 ng/mL
-T4	Lab_value 298 304	normal
-T5	Lab_value 314 322	15 ng/mL
-T6	Distance 482 486	5-cm
-T7	Severity 681 691	moderately
-T8	Shape 707 714	tubular
-T9	Area 1193 1208	5.8 cm × 3.2 cm
-T10	Severity 1250 1259	extensive
-T11	Color 1281 1285	gray
-T12	Area 1324 1339	2.5 cm × 2.0 cm
-T13	Severity 1388 1395	massive
-T14	Color 1596 1602	purple
-T15	Lab_value 1845 1853	positive
-T16	Severity 2117 2127	moderately
-T17	Shape 2143 2150	tubular
-T18	Lab_value 2276 2284	negative
-T19	Lab_value 2355 2365	uneventful
-T20	Date 2423 2428	day 9
-T21	Date 2430 2445	Two weeks later
-T22	Lab_value 2477 2483	normal
-T23	Lab_value 2526 2536	10.0 ng/mL
-T24	Dosage 2657 2675	2500 mg/m2 per day
-T25	Duration 2848 2854	4-year
+T3	Clinical_event 22 30	referred
+T4	Nonbiological_location 34 46	our hospital
+T5	Biological_structure 51 58	gastric
+T6	Disease_disorder 59 65	cancer
+T7	History 138 168	No significant medical history
+T8	Sign_symptom 192 199	dysuria
+T9	Biological_structure 210 217	bladder
+T10	Biological_structure 264 269	serum
+T11	Diagnostic_procedure 279 282	AFP
+T12	Lab_value 286 296	32.3 ng/mL
+T13	Lab_value 298 304	normal
+T14	Lab_value 314 322	15 ng/mL
+T15	Sign_symptom 372 377	tumor
+T16	Diagnostic_procedure 422 425	CEA
+T17	Diagnostic_procedure 458 464	CA19-9
+T18	Distance 482 486	5-cm
+T19	Sign_symptom 503 507	mass
+T20	Sign_symptom 544 550	ulcers
+T21	Biological_structure 583 590	gastric
+T22	Diagnostic_procedure 601 625	pathological examination
+T23	Detailed_description 629 639	endoscopic
+T24	Diagnostic_procedure 640 646	biopsy
+T25	Severity 681 691	moderately
+T26	Shape 707 714	tubular
+T27	Disease_disorder 715 729	adenocarcinoma
+T28	Diagnostic_procedure 757 776	computed tomography
+T29	Biological_structure 790 797	gastric
+T30	Sign_symptom 798 802	mass
+T31	Detailed_description 808 812	deep
+T32	Biological_structure 831 838	gastric
+T33	Biological_structure 863 873	lymph node
+T34	Sign_symptom 874 885	enlargement
+T35	Detailed_description 890 900	metastatic
+T36	Sign_symptom 901 908	lesions
+T37	Biological_structure 930 935	liver
+T38	Biological_structure 937 941	lung
+T39	Biological_structure 945 955	peritoneum
+T40	Biological_structure 961 966	chest
+T41	Therapeutic_procedure 1028 1039	gastrectomy
+T42	Therapeutic_procedure 1048 1069	lymph node dissection
+T43	Therapeutic_procedure 1133 1141	resected
+T44	Sign_symptom 1168 1175	lesions
+T45	Area 1193 1208	5.8 cm × 3.2 cm
+T46	Sign_symptom 1225 1229	mass
+T47	Severity 1250 1259	extensive
+T48	Disease_disorder 1260 1270	hemorrhage
+T49	Color 1281 1285	gray
+T50	Sign_symptom 1286 1294	fibrosis
+T51	Area 1324 1339	2.5 cm × 2.0 cm
+T52	Sign_symptom 1351 1357	lesion
+T53	Severity 1388 1395	massive
+T54	Sign_symptom 1428 1433	tumor
+T55	Disease_disorder 1445 1455	hemorrhage
+T56	Sign_symptom 1527 1533	lesion
+T57	Color 1596 1602	purple
+T58	Sign_symptom 1698 1703	tumor
+T59	Biological_structure 1724 1730	muscle
+T60	Sign_symptom 1747 1757	metastasis
+T61	Biological_structure 1791 1802	lymph nodes
+T62	Lab_value 1845 1853	positive
+T63	Detailed_description 1929 1934	focal
+T64	Diagnostic_procedure 1950 1953	AFP
+T65	Biological_structure 2009 2016	gastric
+T66	Diagnostic_procedure 2065 2068	AFP
+T67	Disease_disorder 2079 2093	adenocarcinoma
+T68	Sign_symptom 2106 2112	lesion
+T69	Severity 2117 2127	moderately
+T70	Shape 2143 2150	tubular
+T71	Disease_disorder 2151 2165	adenocarcinoma
+T72	Sign_symptom 2258 2264	lesion
+T73	Lab_value 2276 2284	negative
+T74	Diagnostic_procedure 2331 2334	AFP
+T75	Lab_value 2355 2365	uneventful
+T76	Clinical_event 2395 2405	discharged
+T77	Date 2423 2428	day 9
+T78	Date 2430 2445	Two weeks later
+T79	Lab_value 2477 2483	normal
+T80	Diagnostic_procedure 2512 2515	AFP
+T81	Lab_value 2526 2536	10.0 ng/mL
+T82	Medication 2561 2573	chemotherapy
+T83	Dosage 2657 2675	2500 mg/m2 per day
+T84	Sign_symptom 2795 2805	recurrence
+T85	Sign_symptom 2817 2827	metastasis
+T86	Duration 2848 2854	4-year
+T87	Clinical_event 2869 2878	follow-up

@@ -1,14 +1,95 @@
 T1	Sex 2 8	female
-T2	Age 154 169	65 years of age
-T3	Lab_value 740 749	increased
-T4	Lab_value 766 777	780.2 ng/ml
-T5	Distance 899 904	27 mm
-T6	Color 1555 1558	red
-T7	Lab_value 2742 2752	uneventful
-T8	Date 2794 2799	day 8
-T9	Lab_value 2830 2839	decreased
-T10	Texture 2951 2957	smooth
-T11	Color 2981 2990	yellowish
-T12	Lab_value 3166 3174	positive
-T13	Lab_value 3187 3195	negative
-T14	Date 3425 3440	13 months after
+T2	Clinical_event 45 52	visited
+T3	Nonbiological_location 53 65	our hospital
+T4	Disease_disorder 77 92	liver cirrhosis
+T5	Disease_disorder 108 119	hepatitis B
+T6	Age 154 169	65 years of age
+T7	Disease_disorder 189 192	HCC
+T8	Diagnostic_procedure 222 236	liver function
+T9	Detailed_description 304 311	lateral
+T10	Disease_disorder 330 333	HCC
+T11	Sign_symptom 419 427	fibrosis
+T12	Biological_structure 456 461	Serum
+T13	Diagnostic_procedure 472 489	alpha-fetoprotein
+T14	Diagnostic_procedure 491 494	AFP
+T15	Detailed_description 557 564	primary
+T16	Therapeutic_procedure 565 574	resection
+T17	Sign_symptom 613 623	metastasis
+T18	Detailed_description 652 659	primary
+T19	Therapeutic_procedure 660 669	resection
+T20	Disease_disorder 673 676	HCC
+T21	Diagnostic_procedure 730 733	AFP
+T22	Lab_value 740 749	increased
+T23	Lab_value 766 777	780.2 ng/ml
+T24	Sign_symptom 789 795	lesion
+T25	Detailed_description 834 851	contrast-enhanced
+T26	Diagnostic_procedure 852 878	magnetic resonance imaging
+T27	Sign_symptom 884 889	tumor
+T28	Distance 899 904	27 mm
+T29	Biological_structure 954 960	kidney
+T30	Detailed_description 965 982	contrast-enhanced
+T31	Diagnostic_procedure 983 1002	computed tomography
+T32	Sign_symptom 1008 1013	tumor
+T33	Biological_structure 1047 1055	arterial
+T34	Disease_disorder 1206 1209	HCC
+T35	Diagnostic_procedure 1252 1278	magnetic resonance imaging
+T36	Diagnostic_procedure 1283 1302	computed tomography
+T37	Detailed_description 1351 1361	metastatic
+T38	Sign_symptom 1487 1492	tumor
+T39	Biological_structure 1536 1546	mesenteric
+T40	Color 1555 1558	red
+T41	Biological_structure 1611 1621	mesenteric
+T42	Diagnostic_procedure 1706 1709	PET
+T43	Diagnostic_procedure 1744 1763	computed tomography
+T44	Sign_symptom 1783 1788	tumor
+T45	Diagnostic_procedure 1850 1869	computed tomography
+T46	Detailed_description 1900 1910	metastatic
+T47	Sign_symptom 1911 1917	tumors
+T48	Sign_symptom 1991 2001	metastasis
+T49	Sign_symptom 2016 2021	tumor
+T50	Clinical_event 2045 2054	diagnosis
+T51	Detailed_description 2059 2067	solitary
+T52	Sign_symptom 2068 2078	metastasis
+T53	Disease_disorder 2100 2103	HCC
+T54	Detailed_description 2166 2174	solitary
+T55	Sign_symptom 2197 2207	metastasis
+T56	Sign_symptom 2286 2291	tumor
+T57	Detailed_description 2296 2304	solitary
+T58	Sign_symptom 2334 2344	metastases
+T59	Therapeutic_procedure 2419 2437	surgical resection
+T60	Sign_symptom 2469 2476	nodules
+T61	Sign_symptom 2478 2493	lymphadenopathy
+T62	Sign_symptom 2498 2505	ascites
+T63	Therapeutic_procedure 2526 2533	surgery
+T64	Sign_symptom 2539 2544	tumor
+T65	Biological_structure 2611 2616	colon
+T66	Therapeutic_procedure 2630 2639	resection
+T67	Biological_structure 2658 2663	colon
+T68	Lab_value 2742 2752	uneventful
+T69	Clinical_event 2766 2776	discharged
+T70	Date 2794 2799	day 8
+T71	Biological_structure 2801 2806	Serum
+T72	Sign_symptom 2817 2822	tumor
+T73	Lab_value 2830 2839	decreased
+T74	Therapeutic_procedure 2858 2865	surgery
+T75	Sign_symptom 2909 2914	tumor
+T76	Sign_symptom 2939 2943	mass
+T77	Texture 2951 2957	smooth
+T78	Color 2981 2990	yellowish
+T79	Sign_symptom 2991 2997	nodule
+T80	Sign_symptom 3051 3059	enlarged
+T81	Detailed_description 3073 3083	metastatic
+T82	Disease_disorder 3084 3087	HCC
+T83	Sign_symptom 3156 3161	tumor
+T84	Lab_value 3166 3174	positive
+T85	Diagnostic_procedure 3179 3182	AFP
+T86	Lab_value 3187 3195	negative
+T87	Detailed_description 3248 3255	primary
+T88	Disease_disorder 3256 3259	HCC
+T89	Clinical_event 3295 3304	diagnosis
+T90	Detailed_description 3309 3319	metastatic
+T91	Disease_disorder 3320 3323	HCC
+T92	Sign_symptom 3410 3420	recurrence
+T93	Date 3425 3440	13 months after
+T94	Therapeutic_procedure 3452 3459	surgery
+T95	Clinical_event 3489 3500	followed up

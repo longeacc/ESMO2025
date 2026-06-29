@@ -1,34 +1,65 @@
 T1	Age 15 25	9 year-old
-T2	Sex 36 42	female
-T3	Date 85 93	at age 3
-T4	Duration 411 417	14-day
-T5	Dosage 426 442	180mg/m2 per day
-T6	Duration 452 460	13-month
-T7	Dosage 496 502	360 mg
-T8	Dosage 507 516	640 mg/m2
-T9	Date 557 565	at age 5
-T10	Duration 566 573	6 years
-T11	Date 575 583	At age 6
-T12	Lab_value 805 813	abnormal
-T13	Distance 833 840	0.94 cm
-T14	Date 889 897	at age 7
-T15	Dosage 905 914	0.3 mg/kg
-T16	Lab_value 937 946	increased
-T17	Distance 966 972	3.6 cm
-T18	Date 1003 1021	seven months after
-T19	Lab_value 1040 1049	increased
-T20	Distance 1141 1147	1.6 cm
-T21	Distance 1286 1293	1.75 cm
-T22	Distance 1329 1336	24.9 cm
-T23	Distance 1350 1357	19.6 cm
-T24	Distance 1381 1388	44.5 cm
-T25	Distance 1401 1409	25.25 cm
-T26	Distance 1422 1427	21 cm
-T27	Distance 1454 1462	46.25 cm
-T28	Distance 1500 1506	102 cm
-T29	Distance 1532 1538	102 cm
-T30	Date 1601 1619	seven months after
-T31	Lab_value 1631 1640	increased
-T32	Distance 1652 1660	105.6 cm
-T33	Lab_value 1695 1703	increase
-T34	Distance 1716 1724	109.2 cm
+T2	Personal_background 26 35	Caucasian
+T3	Sex 36 42	female
+T4	Clinical_event 54 63	diagnosed
+T5	Date 85 93	at age 3
+T6	Therapeutic_procedure 120 138	surgical resection
+T7	Sign_symptom 146 151	tumor
+T8	Medication 173 185	chemotherapy
+T9	Medication 187 198	Vincristine
+T10	Medication 211 220	Cisplatin
+T11	Medication 222 233	Carboplatin
+T12	Medication 235 251	Cyclophosphamide
+T13	Medication 253 262	Etoposide
+T14	Therapeutic_procedure 282 291	radiation
+T15	Detailed_description 322 331	posterior
+T16	Duration 411 417	14-day
+T17	Dosage 426 442	180mg/m2 per day
+T18	Duration 452 460	13-month
+T19	Dosage 496 502	360 mg
+T20	Dosage 507 516	640 mg/m2
+T21	Date 557 565	at age 5
+T22	Duration 566 573	6 years
+T23	Date 575 583	At age 6
+T24	Clinical_event 599 608	diagnosed
+T25	Therapeutic_procedure 614 623	radiation
+T26	Detailed_description 632 639	central
+T27	Disease_disorder 640 654	hypothyroidism
+T28	Medication 713 726	levothyroxine
+T29	Sign_symptom 775 780	tumor
+T30	Lab_value 805 813	abnormal
+T31	Distance 833 840	0.94 cm
+T32	Date 889 897	at age 7
+T33	Dosage 905 914	0.3 mg/kg
+T34	Lab_value 937 946	increased
+T35	Distance 966 972	3.6 cm
+T36	Date 1003 1021	seven months after
+T37	Lab_value 1040 1049	increased
+T38	Qualitative_concept 1114 1123	declining
+T39	Distance 1141 1147	1.6 cm
+T40	Diagnostic_procedure 1169 1189	Physical examination
+T41	Biological_structure 1261 1276	lower extremity
+T42	Distance 1286 1293	1.75 cm
+T43	Biological_structure 1323 1328	femur
+T44	Distance 1329 1336	24.9 cm
+T45	Biological_structure 1344 1349	tibia
+T46	Distance 1350 1357	19.6 cm
+T47	Biological_structure 1365 1380	lower extremity
+T48	Distance 1381 1388	44.5 cm
+T49	Biological_structure 1395 1400	femur
+T50	Distance 1401 1409	25.25 cm
+T51	Biological_structure 1416 1421	tibia
+T52	Distance 1422 1427	21 cm
+T53	Biological_structure 1438 1453	lower extremity
+T54	Distance 1454 1462	46.25 cm
+T55	Distance 1500 1506	102 cm
+T56	Distance 1532 1538	102 cm
+T57	Date 1601 1619	seven months after
+T58	Lab_value 1631 1640	increased
+T59	Distance 1652 1660	105.6 cm
+T60	Lab_value 1695 1703	increase
+T61	Distance 1716 1724	109.2 cm
+T62	Detailed_description 1845 1851	distal
+T63	Detailed_description 1856 1864	proximal
+T64	Biological_structure 1956 1966	lower limb
+T65	Biological_structure 2067 2071	bone

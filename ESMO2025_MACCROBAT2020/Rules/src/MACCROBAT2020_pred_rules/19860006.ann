@@ -1,12 +1,40 @@
 T1	Age 2 13	72-year-old
 T2	Sex 14 19	woman
-T3	Lab_value 339 345	stable
-T4	Time 347 361	One hour later
-T5	Lab_value 385 393	worsened
-T6	Dosage 543 546	7 g
-T7	Severity 554 562	markedly
-T8	Lab_value 563 571	elevated
-T9	Administration 655 670	intraperitoneal
-T10	Lab_value 1034 1043	increased
-T11	Lab_value 1185 1191	stable
-T12	Time 1252 1262	24 h later
+T3	Therapeutic_procedure 33 41	ablation
+T4	Detailed_description 78 86	solitary
+T5	Biological_structure 87 92	liver
+T6	Sign_symptom 93 103	metastasis
+T7	Biological_structure 109 115	rectal
+T8	Disease_disorder 116 130	adenocarcinoma
+T9	Therapeutic_procedure 186 203	chemoradiotherapy
+T10	Detailed_description 208 216	anterior
+T11	Therapeutic_procedure 217 226	resection
+T12	Sign_symptom 232 238	lesion
+T13	Coreference 268 281	The procedure
+T14	Lab_value 339 345	stable
+T15	Time 347 361	One hour later
+T16	Lab_value 385 393	worsened
+T17	Sign_symptom 428 435	fatigue
+T18	Sign_symptom 440 446	pallor
+T19	Sign_symptom 460 471	hypotension
+T20	Sign_symptom 476 487	tachycardia
+T21	Detailed_description 489 498	Emergency
+T22	Biological_structure 499 504	blood
+T23	Dosage 543 546	7 g
+T24	Severity 554 562	markedly
+T25	Lab_value 563 571	elevated
+T26	Diagnostic_procedure 595 614	computed tomography
+T27	Diagnostic_procedure 615 626	examination
+T28	Administration 655 670	intraperitoneal
+T29	Biological_structure 684 690	pelvis
+T30	Biological_structure 699 704	liver
+T31	Biological_structure 739 744	liver
+T32	Lab_value 1034 1043	increased
+T33	Biological_structure 1044 1053	abdominal
+T34	Sign_symptom 1067 1073	tumour
+T35	Therapeutic_procedure 1120 1137	blood transfusion
+T36	Lab_value 1185 1191	stable
+T37	Therapeutic_procedure 1209 1226	blood transfusion
+T38	Outcome 1242 1251	recovered
+T39	Time 1252 1262	24 h later
+T40	Therapeutic_procedure 1305 1326	surgical intervention

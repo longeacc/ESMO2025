@@ -1,19 +1,76 @@
 T1	Age 2 13	23 year old
-T2	Color 14 19	white
+T2	Personal_background 14 19	white
 T3	Sex 20 24	male
 T4	Duration 32 38	4 year
-T5	Date 566 582	4 months earlier
-T6	Date 584 601	One month earlier
-T7	Date 698 715	two weeks earlier
-T8	Duration 840 846	a year
-T9	Duration 935 942	2 years
-T10	Administration 1068 1077	infusions
-T11	Duration 1092 1098	a year
-T12	Lab_value 1304 1310	normal
-T13	Color 1742 1747	white
-T14	Dosage 1817 1824	37.7 mg
-T15	Distance 1862 1867	69 mm
-T16	Lab_value 1942 1948	normal
-T17	Lab_value 2074 2082	negative
-T18	Dosage 2409 2414	60 mg
-T19	Date 2641 2658	following 3 years
+T5	History 39 55	history of Crohn
+T6	Clinical_event 66 75	presented
+T7	Detailed_description 84 89	acute
+T8	Sign_symptom 109 116	malaise
+T9	Sign_symptom 118 123	fever
+T10	Biological_structure 125 134	abdominal
+T11	Sign_symptom 135 139	pain
+T12	Sign_symptom 141 149	vomiting
+T13	Sign_symptom 161 170	diarrhoea
+T14	Sign_symptom 195 200	pains
+T15	Sign_symptom 299 303	rash
+T16	Sign_symptom 403 410	lesions
+T17	History 446 480	history of sexual exposure or any 
+T18	Disease_disorder 493 502	infection
+T19	Medication 525 535	medication
+T20	Date 566 582	4 months earlier
+T21	Date 584 601	One month earlier
+T22	Therapeutic_procedure 621 631	laparotomy
+T23	Sign_symptom 667 674	fistula
+T24	Date 698 715	two weeks earlier
+T25	Detailed_description 770 780	persistent
+T26	Biological_structure 781 790	abdominal
+T27	Sign_symptom 791 795	pain
+T28	Sign_symptom 811 818	fistula
+T29	Clinical_event 828 835	present
+T30	Duration 840 846	a year
+T31	Biological_structure 883 888	ileal
+T32	Sign_symptom 889 898	stricture
+T33	Biological_structure 908 914	rectal
+T34	Sign_symptom 915 922	fistula
+T35	Duration 935 942	2 years
+T36	Activity 1011 1016	drugs
+T37	Medication 1027 1039	azathioprine
+T38	Administration 1068 1077	infusions
+T39	Medication 1081 1091	Infliximab
+T40	Duration 1092 1098	a year
+T41	Clinical_event 1162 1171	admission
+T42	Nonbiological_location 1179 1187	hospital
+T43	Sign_symptom 1226 1237	tachycardia
+T44	Diagnostic_procedure 1288 1299	examination
+T45	Lab_value 1304 1310	normal
+T46	Biological_structure 1316 1323	abdomen
+T47	Sign_symptom 1394 1404	tenderness
+T48	Diagnostic_procedure 1406 1417	Examination
+T49	Biological_structure 1425 1429	skin
+T50	Sign_symptom 1444 1452	pustules
+T51	Detailed_description 1595 1603	proximal
+T52	Diagnostic_procedure 1689 1705	laboratory tests
+T53	Personal_background 1742 1747	white
+T54	Biological_structure 1748 1753	blood
+T55	Medication 1774 1783	platelets
+T56	Dosage 1817 1824	37.7 mg
+T57	Diagnostic_procedure 1831 1861	erythrocyte sedimentation rate
+T58	Distance 1862 1867	69 mm
+T59	Diagnostic_procedure 1907 1921	urine analysis
+T60	Lab_value 1942 1948	normal
+T61	Disease_disorder 2042 2053	Hepatitis B
+T62	Lab_value 2074 2082	negative
+T63	Biological_structure 2084 2097	Transthoracic
+T64	Detailed_description 2150 2158	multiple
+T65	Biological_structure 2159 2164	blood
+T66	Biological_structure 2190 2194	skin
+T67	Diagnostic_procedure 2195 2201	biopsy
+T68	Sign_symptom 2259 2269	infiltrate
+T69	Sign_symptom 2322 2330	necrosis
+T70	Disease_disorder 2377 2387	vasculitis
+T71	Dosage 2409 2414	60 mg
+T72	Medication 2415 2427	prednisolone
+T73	Outcome 2467 2477	resolution
+T74	Medication 2507 2519	prednisolone
+T75	Sign_symptom 2621 2631	recurrence
+T76	Date 2641 2658	following 3 years

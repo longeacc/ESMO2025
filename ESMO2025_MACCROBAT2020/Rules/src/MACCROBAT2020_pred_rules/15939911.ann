@@ -1,12 +1,42 @@
 T1	Age 8 19	28-year-old
-T2	Sex 39 42	man
-T3	Duration 60 66	6-week
-T4	Frequency 129 145	3 times per week
-T5	Duration 160 170	30 minutes
-T6	Lab_value 228 237	grade 2/6
-T7	Lab_value 382 394	unremarkable
-T8	Lab_value 441 447	normal
-T9	Color 485 490	White
-T10	Shape 911 920	elongated
-T11	Lab_value 1528 1536	abnormal
-T12	Date 1657 1671	6 months after
+T2	History 20 38	previously healthy
+T3	Sex 39 42	man
+T4	Clinical_event 43 52	presented
+T5	Duration 60 66	6-week
+T6	Sign_symptom 78 90	palpitations
+T7	Sign_symptom 96 104	symptoms
+T8	Frequency 129 145	3 times per week
+T9	Duration 160 170	30 minutes
+T10	Lab_value 228 237	grade 2/6
+T11	Sign_symptom 275 281	murmur
+T12	Biological_structure 306 313	sternal
+T13	Diagnostic_procedure 353 373	physical examination
+T14	Lab_value 382 394	unremarkable
+T15	Diagnostic_procedure 408 425	electrocardiogram
+T16	Diagnostic_procedure 427 430	ECG
+T17	Lab_value 441 447	normal
+T18	Personal_background 485 490	White
+T19	Detailed_description 542 553	right-sided
+T20	Biological_structure 573 586	Transthoracic
+T21	Diagnostic_procedure 587 603	echocardiography
+T22	Biological_structure 658 673	tricuspid valve
+T23	Biological_structure 746 761	right ventricle
+T24	Biological_structure 793 805	right atrium
+T25	Biological_structure 844 859	right ventricle
+T26	Detailed_description 874 882	anterior
+T27	Biological_structure 883 898	tricuspid valve
+T28	Shape 911 920	elongated
+T29	Diagnostic_procedure 1011 1027	echocardiography
+T30	Biological_structure 1120 1131	left atrium
+T31	Therapeutic_procedure 1258 1266	ablation
+T32	Therapeutic_procedure 1363 1371	ablation
+T33	Therapeutic_procedure 1372 1380	catheter
+T34	Therapeutic_procedure 1392 1400	ablation
+T35	Diagnostic_procedure 1401 1404	ECG
+T36	Lab_value 1528 1536	abnormal
+T37	Biological_structure 1576 1591	right ventricle
+T38	Sign_symptom 1617 1627	recurrence
+T39	Sign_symptom 1631 1643	palpitations
+T40	Clinical_event 1647 1656	follow-up
+T41	Date 1657 1671	6 months after
+T42	Therapeutic_procedure 1676 1684	ablation

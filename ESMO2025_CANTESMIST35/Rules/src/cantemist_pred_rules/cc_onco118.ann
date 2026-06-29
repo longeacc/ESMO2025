@@ -1,0 +1,30 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 30 66	sans antécédents médicaux pertinents
+T2	Symptomes 112 118	fièvre
+T3	Symptomes 126 146	douleurs abdominales
+T4	Stade_metastatique_avec_localisations 1027 1039	métastatique
+T5	Histologie_tumorale 1569 1595	carcinome neuroendocrinien
+T6	Histologie_tumorale 1596 1612	bien différencié
+T7	Biomarqueurs_therapeutiques 1668 1681	chromogranine
+T8	Biomarqueurs_therapeutiques 1685 1699	synaptophysine
+T9	Biomarqueurs_therapeutiques 1701 1705	CD56
+T10	Biomarqueurs_therapeutiques 1727 1730	CK7
+T11	Biomarqueurs_therapeutiques 1764 1771	Ki-67 3
+T12	Stade_metastatique_avec_localisations 1809 1817	stade IV
+T13	Stade_metastatique_avec_localisations 1819 1852	métastases osseuses et hépatiques
+T14	Stade_metastatique_avec_localisations 2256 2289	métastases hépatiques et osseuses
+T15	Traitement_specifique_du_cancer 2345 2373	traitement de chimiothérapie
+T16	Evolutivite_en_lien_avec_le_cancer 2555 2582	intervalle sans progression
+T17	Traitement_specifique_du_cancer 2636 2645	sunitinib
+T18	Reponse_a_la_chimiotherapie 2961 2985	progression radiologique
+T19	Traitement_specifique_du_cancer 3111 3121	évérolimus
+T20	Reponse_a_la_chimiotherapie 3277 3301	progression radiologique
+T21	Traitement_specifique_du_cancer 3328 3342	chimiothérapie
+T22	Traitement_specifique_du_cancer 3360 3372	capécitabine
+T23	Reponse_a_la_chimiotherapie 3485 3509	progression radiologique
+T24	Traitement_specifique_du_cancer 3944 3954	évérolimus
+T25	Evolutivite_en_lien_avec_le_cancer 4084 4111	intervalle sans progression
+T26	Traitement_specifique_du_cancer 4520 4534	chimiothérapie
+T27	Traitement_specifique_du_cancer 4539 4551	carboplatine
+T28	Traitement_specifique_du_cancer 4552 4561	étoposide
+T29	Symptomes 4637 4643	fièvre
+T30	Stade_OMS_ECOG_Karnofsky 4782 4788	ECOG 4

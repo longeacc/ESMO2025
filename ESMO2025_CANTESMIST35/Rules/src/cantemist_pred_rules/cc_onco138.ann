@@ -1,0 +1,34 @@
+T1	Statut_tabagique 29 38	ex-fumeur
+T2	Statut_tabagique 40 53	80 paquets/an
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 98 121	allergie médicamenteuse
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 142 237	antécédents de diabète sucré de type II, de maladie de Dupuytren, de cataracte de l'œil gauche 
+T5	Symptomes 428 479	perte de poids de 7 kg au cours des 4 derniers mois
+T6	Signes_physiques 506 522	Bon état général
+T7	Stade_OMS_ECOG_Karnofsky 524 530	ECOG 0
+T8	Histologie_tumorale 1464 1478	adénocarcinome
+T9	Histologie_tumorale 1575 1589	Adénocarcinome
+T10	Stade_metastatique_avec_localisations 1639 1645	T3N0M0
+T11	Histologie_tumorale 1695 1709	adénocarcinome
+T12	Traitement_specifique_du_cancer 1786 1800	chimiothérapie
+T13	Traitement_specifique_du_cancer 1870 1880	cisplatine
+T14	Traitement_specifique_du_cancer 1893 1897	5-FU
+T15	Traitement_specifique_du_cancer 2063 2072	chirurgie
+T16	Traitement_specifique_du_cancer 2078 2087	résection
+T17	Stade_metastatique_avec_localisations 2540 2552	métastatique
+T18	Traitement_specifique_du_cancer 2659 2672	radiothérapie
+T19	Traitement_specifique_du_cancer 2688 2690	RT
+T20	Stade_metastatique_avec_localisations 2759 2771	métastatique
+T21	Histologie_tumorale 2939 2953	adénocarcinome
+T22	Histologie_tumorale 3060 3076	bien différencié
+T23	Traitement_specifique_du_cancer 3254 3262	excision
+T24	Histologie_tumorale 3343 3357	adénocarcinome
+T25	Traitement_specifique_du_cancer 3432 3460	traitement de chimiothérapie
+T26	Reponse_a_la_chimiotherapie 3952 3967	récidive locale
+T27	Traitement_specifique_du_cancer 4318 4326	excision
+T28	Histologie_tumorale 4433 4447	adénocarcinome
+T29	Histologie_tumorale 4448 4471	moyennement différencié
+T30	Histologie_tumorale 4534 4548	adénocarcinome
+T31	Stade_metastatique_avec_localisations 4584 4592	stade IV
+T32	Stade_metastatique_avec_localisations 4601 4607	T3N0M1
+T33	Reponse_a_la_chimiotherapie 5014 5039	progression de la maladie
+T34	Evolutivite_en_lien_avec_le_cancer 5067 5094	intervalle sans progression

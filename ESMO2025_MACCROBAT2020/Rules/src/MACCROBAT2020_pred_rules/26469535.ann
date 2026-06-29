@@ -1,24 +1,39 @@
 T1	Age 2 13	73-year-old
 T2	Sex 14 19	woman
-T3	Date 43 58	19 months prior
-T4	Color 130 135	green
-T5	Lab_value 328 337	decreased
-T6	Color 451 460	yellowish
-T7	Shape 598 607	elongated
-T8	Administration 703 713	injections
-T9	Date 838 849	2 days post
-T10	Administration 850 859	injection
-T11	Duration 889 895	1 week
-T12	Duration 900 907	2 weeks
-T13	Lab_value 947 954	reduced
-T14	Lab_value 976 985	decreased
-T15	Date 1091 1104	4 weeks after
-T16	Administration 1115 1124	injection
-T17	Date 1138 1151	6 weeks after
-T18	Administration 1163 1172	injection
-T19	Administration 1424 1433	injection
-T20	Duration 1669 1676	2 weeks
-T21	Duration 1771 1778	4 weeks
-T22	Duration 1828 1835	2 weeks
-T23	Date 1953 1966	6 weeks after
-T24	Administration 1975 1984	injection
+T3	Clinical_event 34 42	referred
+T4	Date 43 58	19 months prior
+T5	Clinical_event 74 86	presentation
+T6	Color 130 135	green
+T7	Diagnostic_procedure 136 147	angiography
+T8	Biological_structure 199 207	left eye
+T9	Clinical_event 299 311	presentation
+T10	Lab_value 328 337	decreased
+T11	Biological_structure 352 360	left eye
+T12	Diagnostic_procedure 424 435	examination
+T13	Color 451 460	yellowish
+T14	Biological_structure 496 503	retinal
+T15	Sign_symptom 504 509	edema
+T16	Biological_structure 539 546	retinal
+T17	Shape 598 607	elongated
+T18	Administration 703 713	injections
+T19	Date 838 849	2 days post
+T20	Administration 850 859	injection
+T21	Duration 889 895	1 week
+T22	Duration 900 907	2 weeks
+T23	Lab_value 947 954	reduced
+T24	Lab_value 976 985	decreased
+T25	Date 1091 1104	4 weeks after
+T26	Administration 1115 1124	injection
+T27	Date 1138 1151	6 weeks after
+T28	Administration 1163 1172	injection
+T29	Sign_symptom 1205 1213	enlarged
+T30	Sign_symptom 1297 1307	recurrence
+T31	Administration 1424 1433	injection
+T32	Diagnostic_procedure 1584 1595	angiography
+T33	Duration 1669 1676	2 weeks
+T34	Biological_structure 1701 1708	Retinal
+T35	Duration 1771 1778	4 weeks
+T36	Duration 1828 1835	2 weeks
+T37	Biological_structure 1946 1952	retina
+T38	Date 1953 1966	6 weeks after
+T39	Administration 1975 1984	injection

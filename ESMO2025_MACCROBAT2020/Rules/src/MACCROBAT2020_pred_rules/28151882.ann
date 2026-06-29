@@ -1,27 +1,96 @@
 T1	Age 2 13	65-year-old
 T2	Sex 14 19	woman
-T3	Duration 61 69	3 months
-T4	Severity 93 99	severe
-T5	Severity 149 157	slightly
-T6	Lab_value 715 727	unremarkable
-T7	Lab_value 1079 1088	decreased
-T8	Lab_value 1219 1228	increased
-T9	Duration 2482 2493	150 minutes
-T10	Volume 2528 2534	600 mL
-T11	Duration 2611 2616	1 day
-T12	Duration 2637 2643	3 days
-T13	Duration 2675 2681	1 week
-T14	Duration 2716 2722	3 days
-T15	Volume 2775 2780	50 mL
-T16	Duration 2785 2793	24 hours
-T17	Date 2865 2877	1 week after
-T18	Duration 2932 2940	3 months
-T19	Date 2985 2998	12 days after
-T20	Date 3141 3153	1 week after
-T21	Date 3169 3181	1 year after
-T22	Lab_value 3273 3284	improvement
-T23	Lab_value 3306 3312	normal
-T24	Date 3348 3362	3 months after
-T25	Date 3412 3424	1 week after
-T26	Date 3440 3452	1 year after
-T27	Lab_value 3531 3542	improvement
+T3	Detailed_description 29 39	persistent
+T4	Sign_symptom 45 49	pain
+T5	Duration 61 69	3 months
+T6	Sign_symptom 75 83	symptoms
+T7	Severity 93 99	severe
+T8	Activity 106 113	walking
+T9	Severity 149 157	slightly
+T10	Sign_symptom 217 221	pain
+T11	Sign_symptom 225 233	numbness
+T12	Biological_structure 278 285	bladder
+T13	History 329 349	past medical history
+T14	Biological_structure 376 381	heart
+T15	Disease_disorder 391 410	cerebral infarction
+T16	Biological_structure 502 510	thoracic
+T17	Biological_structure 511 516	spine
+T18	Biological_structure 549 557	vertebra
+T19	Sign_symptom 639 643	pain
+T20	Diagnostic_procedure 699 710	examination
+T21	Lab_value 715 727	unremarkable
+T22	Biological_structure 741 756	lower extremity
+T23	Diagnostic_procedure 806 811	X-ray
+T24	Diagnostic_procedure 813 832	computed tomography
+T25	Diagnostic_procedure 834 836	CT
+T26	Diagnostic_procedure 843 869	magnetic resonance imaging
+T27	Diagnostic_procedure 871 874	MRI
+T28	Nonbiological_location 918 926	hospital
+T29	Detailed_description 940 947	lateral
+T30	Diagnostic_procedure 948 953	X-ray
+T31	Disease_disorder 965 973	fracture
+T32	Diagnostic_procedure 1004 1006	CT
+T33	Diagnostic_procedure 1066 1069	MRI
+T34	Lab_value 1079 1088	decreased
+T35	Detailed_description 1128 1137	posterior
+T36	Sign_symptom 1164 1175	compression
+T37	Diagnostic_procedure 1205 1208	MRI
+T38	Lab_value 1219 1228	increased
+T39	Clinical_event 1288 1297	diagnosed
+T40	Therapeutic_procedure 1339 1348	operation
+T41	Detailed_description 1419 1428	posterior
+T42	Biological_structure 1445 1450	spine
+T43	Biological_structure 1501 1510	vertebrae
+T44	Biological_structure 1591 1600	left side
+T45	Biological_structure 1699 1705	spinal
+T46	Disease_disorder 1738 1748	dissection
+T47	Biological_structure 1772 1782	right side
+T48	Detailed_description 1799 1806	lateral
+T49	Biological_structure 1823 1832	vertebral
+T50	Detailed_description 1848 1856	anterior
+T51	Biological_structure 1881 1891	right side
+T52	Biological_structure 1933 1942	vertebral
+T53	Therapeutic_procedure 1953 1960	removed
+T54	Therapeutic_procedure 2012 2019	removed
+T55	Biological_structure 2119 2123	bone
+T56	Biological_structure 2247 2257	right side
+T57	Therapeutic_procedure 2339 2352	Drainage tube
+T58	Biological_structure 2430 2434	skin
+T59	Therapeutic_procedure 2435 2443	incision
+T60	Duration 2482 2493	150 minutes
+T61	Biological_structure 2509 2514	blood
+T62	Volume 2528 2534	600 mL
+T63	Medication 2586 2596	antibiotic
+T64	Duration 2611 2616	1 day
+T65	Sign_symptom 2618 2622	pain
+T66	Duration 2637 2643	3 days
+T67	Medication 2649 2662	anticoagulant
+T68	Duration 2675 2681	1 week
+T69	Therapeutic_procedure 2687 2700	drainage tube
+T70	Therapeutic_procedure 2705 2712	removed
+T71	Duration 2716 2722	3 days
+T72	Therapeutic_procedure 2752 2760	drainage
+T73	Volume 2775 2780	50 mL
+T74	Duration 2785 2793	24 hours
+T75	Date 2865 2877	1 week after
+T76	Therapeutic_procedure 2878 2887	operation
+T77	Duration 2932 2940	3 months
+T78	Nonbiological_location 2973 2981	hospital
+T79	Date 2985 2998	12 days after
+T80	Therapeutic_procedure 2999 3008	operation
+T81	Therapeutic_procedure 3023 3029	suture
+T82	Therapeutic_procedure 3039 3046	removed
+T83	Sign_symptom 3048 3052	Pain
+T84	Date 3141 3153	1 week after
+T85	Therapeutic_procedure 3154 3163	operation
+T86	Date 3169 3181	1 year after
+T87	Therapeutic_procedure 3182 3191	operation
+T88	Lab_value 3273 3284	improvement
+T89	Lab_value 3306 3312	normal
+T90	Date 3348 3362	3 months after
+T91	Therapeutic_procedure 3363 3372	operation
+T92	Date 3412 3424	1 week after
+T93	Therapeutic_procedure 3425 3434	operation
+T94	Date 3440 3452	1 year after
+T95	Therapeutic_procedure 3453 3462	operation
+T96	Lab_value 3531 3542	improvement

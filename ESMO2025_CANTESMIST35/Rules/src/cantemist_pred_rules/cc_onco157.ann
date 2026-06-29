@@ -1,0 +1,19 @@
+T1	Symptomes 94 117	hypertension artérielle
+T2	Histologie_tumorale 211 219	mélanome
+T3	Stade_metastatique_avec_localisations 310 318	pT3aN0M0
+T4	Traitement_specifique_du_cancer 324 333	chirurgie
+T5	Traitement_specifique_du_cancer 1017 1025	excision
+T6	Histologie_tumorale 1360 1368	mélanome
+T7	Biomarqueurs_therapeutiques 1639 1643	BRAF
+T8	Evolutivite_en_lien_avec_le_cancer 1681 1688	rechute
+T9	Histologie_tumorale 1692 1700	mélanome
+T10	Stade_metastatique_avec_localisations 1723 1735	métastatique
+T11	Biomarqueurs_therapeutiques 1771 1775	BRAF
+T12	Histologie_tumorale 1829 1837	mélanome
+T13	Stade_metastatique_avec_localisations 1838 1850	métastatique
+T14	Reponse_a_la_chimiotherapie 2218 2234	réponse complète
+T15	Reponse_a_la_chimiotherapie 2288 2305	réponse partielle
+T16	Stade_metastatique_avec_localisations 2310 2326	métastases de la
+T17	Reponse_a_la_chimiotherapie 2496 2514	rémission complète
+T18	Evolutivite_en_lien_avec_le_cancer 2607 2614	rechute
+T19	Reponse_a_la_chimiotherapie 3364 3382	rémission complète

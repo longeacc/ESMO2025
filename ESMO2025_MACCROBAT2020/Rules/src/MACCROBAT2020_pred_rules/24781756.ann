@@ -1,38 +1,99 @@
 T1	Sex 27 31	male
-T2	Sex 149 153	girl
-T3	Date 166 174	age of 1
-T4	Weight 569 575	2.3 kg
-T5	Distance 617 622	32 cm
-T6	Date 708 717	first day
-T7	Distance 790 795	27 mm
-T8	Lab_value 797 803	normal
-T9	Distance 814 820	2.4 mm
-T10	Lab_value 826 834	elevated
-T11	Lab_value 858 864	normal
-T12	Lab_value 907 913	normal
-T13	Lab_value 930 938	elevated
-T14	Lab_value 962 968	normal
-T15	Lab_value 1010 1019	increased
-T16	Date 1297 1305	age of 4
-T17	Lab_value 1369 1378	decreased
-T18	Date 1434 1442	at age 5
-T19	Lab_value 1452 1458	normal
-T20	Distance 1513 1527	13 centimeters
-T21	Date 1531 1537	age 35
-T22	Color 1646 1651	white
-T23	Duration 1707 1715	15 weeks
-T24	Date 1783 1791	at age 2
-T25	Frequency 1903 1912	recurrent
-T26	Date 1996 2005	at age 10
-T27	Date 2036 2045	age of 15
-T28	Lab_value 2102 2108	normal
-T29	Severity 2150 2154	mild
-T30	Severity 2174 2178	mild
-T31	Date 2284 2292	age of 4
-T32	Date 2479 2487	age of 2
-T33	Lab_value 2503 2514	improvement
-T34	Dosage 2569 2586	60 mg twice daily
-T35	Duration 2605 2613	4 months
-T36	Frequency 2697 2710	several times
-T37	Date 2807 2816	age of 30
-T38	Severity 2831 2837	severe
+T2	Clinical_event 54 58	born
+T3	Personal_background 65 69	Arab
+T4	Personal_background 70 76	Muslim
+T5	Personal_background 87 98	Palestinian
+T6	Subject 107 114	Parents
+T7	Subject 138 145	sibling
+T8	Sex 149 153	girl
+T9	Outcome 154 158	died
+T10	Date 166 174	age of 1
+T11	Subject 206 213	parents
+T12	Biological_structure 263 269	muscle
+T13	Biological_structure 271 275	skin
+T14	Diagnostic_procedure 276 282	biopsy
+T15	Subject 326 333	parents
+T16	Clinical_event 468 477	delivered
+T17	Clinical_event 552 557	Birth
+T18	Weight 569 575	2.3 kg
+T19	Distance 617 622	32 cm
+T20	Clinical_event 662 667	birth
+T21	Detailed_description 680 688	systolic
+T22	Sign_symptom 689 695	murmur
+T23	Date 708 717	first day
+T24	Disease_disorder 749 767	metabolic acidosis
+T25	Diagnostic_procedure 773 780	lactate
+T26	Distance 790 795	27 mm
+T27	Lab_value 797 803	normal
+T28	Distance 814 820	2.4 mm
+T29	Lab_value 826 834	elevated
+T30	Lab_value 858 864	normal
+T31	Lab_value 907 913	normal
+T32	Lab_value 930 938	elevated
+T33	Lab_value 962 968	normal
+T34	Lab_value 1010 1019	increased
+T35	Sign_symptom 1020 1035	lactic acidosis
+T36	Biological_structure 1049 1054	Chest
+T37	Diagnostic_procedure 1055 1060	X-ray
+T38	Sign_symptom 1070 1082	cardiomegaly
+T39	Biological_structure 1088 1095	cardiac
+T40	Sign_symptom 1139 1150	hypertrophy
+T41	Disease_disorder 1173 1195	pulmonary hypertension
+T42	Nonbiological_location 1232 1236	NICU
+T43	Medication 1254 1265	bicarbonate
+T44	Medication 1279 1288	diuretics
+T45	Date 1297 1305	age of 4
+T46	Biological_structure 1323 1329	muscle
+T47	Diagnostic_procedure 1330 1336	biopsy
+T48	Lab_value 1369 1378	decreased
+T49	Biological_structure 1407 1412	Brain
+T50	Diagnostic_procedure 1413 1423	ultrasound
+T51	Date 1434 1442	at age 5
+T52	Lab_value 1452 1458	normal
+T53	Distance 1513 1527	13 centimeters
+T54	Date 1531 1537	age 35
+T55	Biological_structure 1553 1558	brain
+T56	Sign_symptom 1571 1578	dilated
+T57	Diagnostic_procedure 1608 1610	CT
+T58	Personal_background 1646 1651	white
+T59	Disease_disorder 1668 1678	hemorrhage
+T60	Duration 1707 1715	15 weeks
+T61	Diagnostic_procedure 1770 1772	CT
+T62	Date 1783 1791	at age 2
+T63	Sign_symptom 1815 1825	dilatation
+T64	Frequency 1903 1912	recurrent
+T65	Detailed_description 1941 1951	endoscopic
+T66	Date 1996 2005	at age 10
+T67	Diagnostic_procedure 2017 2028	examination
+T68	Date 2036 2045	age of 15
+T69	Lab_value 2102 2108	normal
+T70	Biological_structure 2119 2126	cardiac
+T71	Severity 2150 2154	mild
+T72	Severity 2174 2178	mild
+T73	Sign_symptom 2196 2207	hypertrophy
+T74	Disease_disorder 2218 2240	pulmonary hypertension
+T75	Date 2284 2292	age of 4
+T76	Disease_disorder 2348 2362	cardiomyopathy
+T77	Medication 2382 2391	diuretics
+T78	Medication 2396 2409	beta blockers
+T79	Medication 2420 2444	calcium channel blockers
+T80	Clinical_event 2457 2466	follow-up
+T81	Date 2479 2487	age of 2
+T82	Lab_value 2503 2514	improvement
+T83	Dosage 2569 2586	60 mg twice daily
+T84	Duration 2605 2613	4 months
+T85	Subject 2638 2645	parents
+T86	Clinical_event 2688 2696	admitted
+T87	Frequency 2697 2710	several times
+T88	Nonbiological_location 2718 2726	hospital
+T89	Biological_structure 2741 2746	chest
+T90	Disease_disorder 2747 2757	infections
+T91	Outcome 2795 2799	died
+T92	Date 2807 2816	age of 30
+T93	Severity 2831 2837	severe
+T94	Sign_symptom 2838 2847	hypoxemia
+T95	Biological_structure 2877 2882	chest
+T96	Disease_disorder 2883 2892	infection
+T97	Disease_disorder 2897 2912	pulmonary edema
+T98	Subject 2914 2921	parents
+T99	Therapeutic_procedure 2930 2952	mechanical ventilation

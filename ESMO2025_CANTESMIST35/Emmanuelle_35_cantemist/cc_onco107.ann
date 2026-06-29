@@ -1,0 +1,37 @@
+T1	Symptomes 165 200	Faiblesse du membre supérieur droit
+T2	Statut_tabagique 363 388	ex-fumeur de 9 paquets/an
+T3	Stade_OMS_ECOG_Karnofsky 1247 1263	Karnofsky : 80 %
+T4	Symptomes 1265 1292	Dyspnée à un effort intense
+T5	Symptomes 1762 1797	faiblesse du membre supérieur droit
+T6	Symptomes 1870 1890	vision floue de l'œi
+T7	Symptomes 1915 1938	altération de la parole
+T8	Signes_physiques 2469 2489	œdème jusqu'au genou
+T9	Signes_physiques 2547 2578	œdème du membre supérieur droit
+T10	Signes_physiques 2736 2778	Quadrantanopsie supérieure droite homonyme
+T11	Signes_physiques 3021 3129	4-/5 au bras droit, à prédominance distale, et 4+/5 au membre inférieur droit, et 5/5 aux extrémités gauches
+T12	Signes_physiques 3145 3181	clonus d'Achille épuisable bilatéral
+T13	Signes_physiques 3235 3288	hypoesthésie brachio-crurale tactile-algésique droite
+T14	Signes_physiques 3290 3336	hypopalesthésie modérée des membres inférieurs
+T15	Stade_metastatique_avec_localisations 3884 3961	adénopathies médiastinales multiples et implant tumoral rétropéritonéal droit
+T16	Stade_metastatique_avec_localisations 4896 4991	adénopathiques lymphadénopathies-médiastinaux et implant péritonéal sous-rénal postérieur droit
+T17	Histologie_tumorale 5137 5165	carcinome à grandes cellules
+T18	Topographie_du_primitif 5418 5438	Carcinome pulmonaire
+T19	Traitement_specifique_du_cancer 5656 5675	taxol + gemcitabine
+T20	Traitement_specifique_du_cancer 5901 5912	vinorelbine
+T21	Traitement_specifique_du_cancer 8001 8032	taxol 100 mg (m2) + gemcitabine
+T22	Traitement_specifique_du_cancer 9031 9048	taxol/gemcitabine
+T23	Reponse_a_la_chimiotherapie 9140 9189	progression ganglionnaire, osseuse et péritonéale
+T24	Traitement_specifique_du_cancer 9287 9298	vinorelbine
+T27	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 637 669	Angor instable en septembre 2009
+T28	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 778 837	Fibrillation auriculaire paroxystique diagnostiquée en 2011
+T29	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 877 1011	Sténose carotidienne droite avec 60% de sténose due à une plaque ulcérée, traitée par angioplastie et pose de stent carotidien en 2010
+T30	Symptomes 1803 1854	difficulté à soulever ou à saisir tout type d'objet
+T31	Histologie_tumorale 5418 5457	Carcinome pulmonaire à grandes cellules
+T32	Symptomes 6292 6301	anasarque
+T33	Signes_physiques 6367 6402	élévation de la pression artérielle
+T34	Symptomes 7278 7287	céphalées
+T35	Symptomes 7336 7353	hémiplégie droite
+T36	Signes_physiques 7359 7420	déviation du regard vers la droite et un nystagmus horizontal
+T38	Symptomes 8351 8404	mouvements tonico-cloniques au membre supérieur droit
+T25	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 227 270	Ne mentionne pas l'allergie aux médicaments
+T26	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 275 337	Hypertension artérielle chronique, dyslipidémie, hyperuricémie

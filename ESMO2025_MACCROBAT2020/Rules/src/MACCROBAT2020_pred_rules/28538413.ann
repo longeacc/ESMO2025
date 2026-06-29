@@ -1,37 +1,140 @@
 T1	Age 2 13	63-year-old
 T2	Sex 14 18	male
-T3	Date 88 92	2014
-T4	Lab_value 277 281	good
-T5	Lab_value 364 372	abnormal
-T6	Administration 417 421	oral
-T7	Lab_value 747 753	normal
-T8	Severity 896 904	slightly
-T9	Area 980 995	5.0 cm × 3.0 cm
-T10	Lab_value 2104 2108	poor
-T11	Duration 2542 2553	290 minutes
-T12	Lab_value 2766 2774	positive
-T13	Color 2804 2809	black
-T14	Lab_value 2890 2898	negative
-T15	Lab_value 3084 3092	negative
-T16	Administration 3312 3314	IV
-T17	Lab_value 3492 3502	uneventful
-T18	Date 3535 3548	14 days after
-T19	Dosage 3572 3580	4 cycles
-T20	Duration 3639 3646	3 weeks
-T21	Severity 3679 3687	moderate
-T22	Administration 3847 3856	injection
-T23	Date 3860 3865	day 1
-T24	Date 3870 3875	day 8
-T25	Dosage 3877 3883	135 mg
-T26	Administration 3993 4002	injection
-T27	Date 4006 4011	day 2
-T28	Dosage 4018 4025	1000 mg
-T29	Date 4141 4146	day 2
-T30	Dosage 4153 4158	75 mg
-T31	Severity 4280 4288	moderate
-T32	Administration 4624 4633	injection
-T33	Dosage 4646 4656	6000 units
-T34	Frequency 4657 4669	every 3 days
-T35	Duration 4691 4697	1 year
-T36	Frequency 4727 4739	continuously
-T37	Frequency 4855 4869	every 3 months
+T3	Activity 35 42	smoking
+T4	Clinical_event 67 75	admitted
+T5	Date 88 92	2014
+T6	Sign_symptom 141 150	dysphagia
+T7	Sign_symptom 155 162	fatigue
+T8	Occupation 241 248	athlete
+T9	Lab_value 277 281	good
+T10	Clinical_event 305 314	admission
+T11	Lab_value 364 372	abnormal
+T12	Diagnostic_procedure 383 403	physical examination
+T13	Biological_structure 411 415	skin
+T14	Administration 417 421	oral
+T15	Detailed_description 477 488	superficial
+T16	Sign_symptom 489 496	lesions
+T17	Diagnostic_procedure 512 528	laboratory tests
+T18	Biological_structure 539 546	hepatic
+T19	Diagnostic_procedure 557 571	renal function
+T20	Biological_structure 577 582	serum
+T21	Sign_symptom 583 588	tumor
+T22	Disease_disorder 656 679	squamous cell carcinoma
+T23	Lab_value 747 753	normal
+T24	Detailed_description 780 790	endoscopic
+T25	Clinical_event 851 860	diagnosis
+T26	Detailed_description 862 872	Endoscopic
+T27	Diagnostic_procedure 873 884	examination
+T28	Severity 896 904	slightly
+T29	Sign_symptom 926 930	mass
+T30	Biological_structure 959 968	esophagus
+T31	Area 980 995	5.0 cm × 3.0 cm
+T32	Diagnostic_procedure 1017 1023	biopsy
+T33	Sign_symptom 1031 1037	lesion
+T34	Biological_structure 1047 1057	esophageal
+T35	Disease_disorder 1058 1066	melanoma
+T36	Biological_structure 1115 1120	chest
+T37	Biological_structure 1125 1132	abdomen
+T38	Diagnostic_procedure 1133 1152	computed tomography
+T39	Diagnostic_procedure 1154 1156	CT
+T40	Biological_structure 1168 1175	cranial
+T41	Diagnostic_procedure 1202 1205	MRI
+T42	Biological_structure 1211 1215	bone
+T43	Diagnostic_procedure 1225 1244	computed tomography
+T44	Sign_symptom 1258 1266	enlarged
+T45	Biological_structure 1267 1278	mediastinal
+T46	Biological_structure 1295 1306	lymph nodes
+T47	Biological_structure 1364 1375	lymph nodes
+T48	Diagnostic_procedure 1395 1397	CT
+T49	Biological_structure 1428 1437	pulmonary
+T50	Sign_symptom 1438 1443	tumor
+T51	Disease_disorder 1685 1691	Cancer
+T52	Biological_structure 1715 1725	esophageal
+T53	Disease_disorder 1726 1732	cancer
+T54	Diagnostic_procedure 1734 1736	CT
+T55	Biological_structure 1757 1766	pulmonary
+T56	Diagnostic_procedure 1767 1773	biopsy
+T57	Sign_symptom 1824 1829	tumor
+T58	Therapeutic_procedure 1858 1867	resection
+T59	Biological_structure 1875 1885	esophageal
+T60	Biological_structure 1890 1899	pulmonary
+T61	Sign_symptom 1900 1907	lesions
+T62	Clinical_event 1961 1973	consultation
+T63	Detailed_description 2025 2032	Central
+T64	Nonbiological_location 2033 2041	Hospital
+T65	Lab_value 2104 2108	poor
+T66	Therapeutic_procedure 2239 2252	esophagectomy
+T67	Therapeutic_procedure 2269 2278	lobectomy
+T68	Therapeutic_procedure 2366 2376	intubation
+T69	Disease_disorder 2399 2409	dissection
+T70	Biological_structure 2413 2424	lymph nodes
+T71	Biological_structure 2436 2447	mediastinum
+T72	Biological_structure 2452 2459	abdomen
+T73	Therapeutic_procedure 2510 2517	surgery
+T74	Therapeutic_procedure 2523 2532	operation
+T75	Duration 2542 2553	290 minutes
+T76	Sign_symptom 2571 2579	bleeding
+T77	Therapeutic_procedure 2591 2598	surgery
+T78	Lab_value 2766 2774	positive
+T79	Disease_disorder 2795 2803	melanoma
+T80	Color 2804 2809	black
+T81	Lab_value 2890 2898	negative
+T82	Disease_disorder 3001 3009	melanoma
+T83	Therapeutic_procedure 3015 3024	resection
+T84	Biological_structure 3046 3057	lymph nodes
+T85	Sign_symptom 3078 3083	tumor
+T86	Lab_value 3084 3092	negative
+T87	Clinical_event 3248 3257	diagnosis
+T88	Administration 3312 3314	IV
+T89	Detailed_description 3393 3400	primary
+T90	Biological_structure 3401 3410	pulmonary
+T91	Disease_disorder 3411 3419	melanoma
+T92	Sign_symptom 3425 3435	metastasis
+T93	Lab_value 3492 3502	uneventful
+T94	Clinical_event 3524 3534	discharged
+T95	Date 3535 3548	14 days after
+T96	Therapeutic_procedure 3549 3556	surgery
+T97	Dosage 3572 3580	4 cycles
+T98	Medication 3606 3618	chemotherapy
+T99	Duration 3639 3646	3 weeks
+T100	Severity 3679 3687	moderate
+T101	Sign_symptom 3712 3728	thrombocytopenia
+T102	Sign_symptom 3730 3740	leukopenia
+T103	Sign_symptom 3742 3748	nausea
+T104	Sign_symptom 3750 3758	vomiting
+T105	Medication 3787 3799	chemotherapy
+T106	Medication 3823 3833	paclitaxel
+T107	Administration 3847 3856	injection
+T108	Date 3860 3865	day 1
+T109	Date 3870 3875	day 8
+T110	Dosage 3877 3883	135 mg
+T111	Administration 3993 4002	injection
+T112	Date 4006 4011	day 2
+T113	Dosage 4018 4025	1000 mg
+T114	Date 4141 4146	day 2
+T115	Dosage 4153 4158	75 mg
+T116	Severity 4280 4288	moderate
+T117	Sign_symptom 4289 4299	leukopenia
+T118	Medication 4348 4360	chemotherapy
+T119	Outcome 4369 4378	recovered
+T120	Medication 4415 4452	granulocyte colony-stimulating factor
+T121	Medication 4454 4459	G-CSF
+T122	Administration 4624 4633	injection
+T123	Dosage 4646 4656	6000 units
+T124	Frequency 4657 4669	every 3 days
+T125	Duration 4691 4697	1 year
+T126	Clinical_event 4715 4726	followed up
+T127	Frequency 4727 4739	continuously
+T128	Therapeutic_procedure 4750 4757	surgery
+T129	Biological_structure 4759 4764	Chest
+T130	Biological_structure 4769 4776	abdomen
+T131	Diagnostic_procedure 4777 4779	CT
+T132	Biological_structure 4781 4788	cranial
+T133	Diagnostic_procedure 4789 4792	MRI
+T134	Biological_structure 4794 4798	bone
+T135	Diagnostic_procedure 4817 4837	physical examination
+T136	Frequency 4855 4869	every 3 months
+T137	Outcome 4898 4906	survived
+T138	Sign_symptom 4929 4939	recurrence
+T139	Sign_symptom 4950 4960	metastasis
+T140	Clinical_event 4972 4981	follow-up

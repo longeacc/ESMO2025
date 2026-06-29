@@ -1,0 +1,22 @@
+T1	Statut_tabagique 30 44	jamais fumeuse
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 82 163	antécédents de diabète sucré de type 2 bien contrôlé et d'adénocarcinome du côlon
+T3	Traitement_specifique_du_cancer 262 274	capécitabine
+T4	Symptomes 357 493	douleur pleurétique de 3 jours au niveau de l'hémithorax gauche, aggravée par une inspiration profonde et non douloureuse à la palpation
+T5	Signes_physiques 770 818	légère hypophonèse dans le champ supérieur droit
+T6	Histologie_tumorale 1461 1486	adénocarcinome pulmonaire
+T7	Topographie_du_primitif 1461 1486	adénocarcinome pulmonaire
+T8	Biomarqueurs_therapeutiques 1487 1523	muté EGFR avec délétion de l'exon 19
+T9	Topographie_du_primitif 1601 1625	adénocarcinome du poumon
+T10	Histologie_tumorale 1601 1625	adénocarcinome du poumon
+T11	Biomarqueurs_therapeutiques 1626 1662	muté EGFR avec délétion de l'exon 19
+T12	Stade_metastatique_avec_localisations 1664 1672	cT2aN2M0
+T13	Traitement_specifique_du_cancer 1759 1802	cisplatine vinorelbine à visée néoadjuvante
+T14	Reponse_a_la_chimiotherapie 1855 1936	réponse partielle de la masse pulmonaire, sans captation ganglionnaire dans la TE
+T15	Traitement_specifique_du_cancer 1991 2041	lobectomie supérieure droite plus lymphadénectomie
+T16	Traitement_specifique_du_cancer 2079 2089	lobectomie
+T17	Reponse_a_la_chimiotherapie 2140 2177	intervalle de 15 mois sans progressio
+T18	Symptomes 2226 2333	comportement modifié, une désorientation et des difficultés à se souvenir des noms d'objets et de personnes
+T19	Reponse_a_la_chimiotherapie 2443 2468	progression de la maladie
+T20	Stade_metastatique_avec_localisations 2391 2507	IRM cérébrale a donc été réalisée, qui a montré une progression de la maladie, avec au moins 8 lésions métastatiques
+T22	Traitement_specifique_du_cancer 2629 2731	afatinib associé à un traitement local par radiothérapie holocrânienne (30 Gy), poursuivi par afatinib
+T23	Reponse_a_la_chimiotherapie 2788 2956	IRM cérébrale de contrôle de mai 2015, la maladie est en réponse au niveau cérébral, avec une diminution de la taille de certains d'entre eux et la disparition d'autres

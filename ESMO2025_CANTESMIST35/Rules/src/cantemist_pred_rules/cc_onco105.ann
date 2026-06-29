@@ -1,0 +1,25 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 37 125	antécédents de déficit modéré en facteur VII de coagulation au niveau hémostatique et d'
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 125 138	hypothyroïdie
+T3	Symptomes 166 178	thrombopénie
+T4	Symptomes 271 285	asymptomatique
+T5	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 573 586	cryptorchidie
+T6	Symptomes 653 663	lombalgies
+T7	Signes_physiques 774 790	bon état général
+T8	Signes_physiques 1213 1239	Testicule droit plus petit
+T9	Signes_physiques 1276 1307	zone de plus grande consistance
+T10	Signes_physiques 1345 1370	lymphadénopathie palpable
+T11	Stade_metastatique_avec_localisations 1788 1813	conglomérat adénopathique
+T12	Stade_metastatique_avec_localisations 1864 1897	lymphadénopathie rétropéritonéale
+T13	Stade_metastatique_avec_localisations 2082 2101	nodules pulmonaires
+T14	Topographie_du_primitif 2456 2475	tumeur testiculaire
+T15	Traitement_specifique_du_cancer 2489 2502	orchidectomie
+T16	Histologie_tumorale 2845 2864	néoplasie germinale
+T17	Histologie_tumorale 3126 3154	tumeur à cellules germinales
+T18	Topographie_du_primitif 3193 3212	Tumeur testiculaire
+T19	Traitement_specifique_du_cancer 3457 3485	traitement de chimiothérapie
+T20	Traitement_specifique_du_cancer 3515 3518	BEP
+T21	Traitement_specifique_du_cancer 3531 3541	bléomycine
+T22	Traitement_specifique_du_cancer 3570 3579	étoposide
+T23	Traitement_specifique_du_cancer 3611 3621	cisplatine
+T24	Traitement_specifique_du_cancer 3969 3979	bléomycine
+T25	Traitement_specifique_du_cancer 4133 4161	traitement de chimiothérapie

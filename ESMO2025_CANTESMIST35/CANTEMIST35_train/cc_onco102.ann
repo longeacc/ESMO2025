@@ -1,0 +1,18 @@
+T1	Statut_tabagique 67 119	ex-fumeuse depuis 9 ans (indice cumulé 2 paquets/an)
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 121 154	sans antécédent médical pertinent
+T3	Signes_physiques 434 470	adénopathie supraclaviculaire gauche
+T4	Stade_OMS_ECOG_Karnofsky 607 613	ECOG 0
+T5	Stade_metastatique_avec_localisations 1213 1316	Biopsie chirurgicale d'adénopathie supraclaviculaire gauche : métastase de carcinome à grandes cellules
+T6	Biomarqueurs_therapeutiques 1349 1375	TTF-1 intensément positif.
+T7	Histologie_tumorale 1288 1347	carcinome à grandes cellules, d'origine pulmonaire probable
+T8	Histologie_tumorale 1864 1903	Carcinome pulmonaire à grandes cellules
+T9	Topographie_du_primitif 1864 1884	Carcinome pulmonaire
+T10	Stade_metastatique_avec_localisations 1905 1911	T1N3M0
+T11	Traitement_specifique_du_cancer 2174 2210	carboplatine-paclitaxel-bevacizumab,
+T12	Reponse_a_la_chimiotherapie 2395 2436	réponse radiologique partielle au scanner
+T13	Reponse_a_la_chimiotherapie 2460 2673	disparition des adénopathies médiastinales et diminution considérable de la masse du LII (mesurant 6 mm dans cette étude), diminution des adénopathies axillaires droites et réponse métabolique complète par TEP-TDM
+T14	Reponse_a_la_chimiotherapie 2830 2910	scanner de contrôle a montré une augmentation de la taille du nodule LII de 6 mm
+T15	Biomarqueurs_therapeutiques 3022 3087	EGFR positif/muté, mutation L858R-exon 21, mutation T790M-exon 20
+T16	Traitement_specifique_du_cancer 3315 3324	erlotinib
+T17	Reponse_a_la_chimiotherapie 3704 3814	Après 4 ans et 11 mois depuis le début du traitement par l'erlotinib, le patient reste avec une maladie stable
+T18	Reponse_a_la_chimiotherapie 3876 3971	La dernière étude tomodensitométrique date d’octobre 2014, avec une maladie radiologique stable

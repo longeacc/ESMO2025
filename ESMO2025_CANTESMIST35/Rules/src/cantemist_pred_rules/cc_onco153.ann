@@ -1,0 +1,10 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 128 141	hypothyroïdie
+T2	Signes_physiques 301 327	adénopathie hilaire rénale
+T3	Stade_metastatique_avec_localisations 333 356	métastases de carcinome
+T4	Biomarqueurs_therapeutiques 476 479	CK7
+T5	Biomarqueurs_therapeutiques 1059 1079	récepteurs hormonaux
+T6	Biomarqueurs_therapeutiques 1090 1095	Her-2
+T7	Biomarqueurs_therapeutiques 1113 1121	Ki-67 20
+T8	Biomarqueurs_therapeutiques 1783 1796	Her-2 positif
+T9	Biomarqueurs_therapeutiques 1798 1818	récepteurs hormonaux
+T10	Symptomes 2237 2244	nausées

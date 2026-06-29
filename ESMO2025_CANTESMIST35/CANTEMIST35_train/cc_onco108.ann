@@ -1,0 +1,23 @@
+T1	Traitement_specifique_du_cancer 150 174	chirurgie cytoréductrice
+T2	Topographie_du_primitif 192 214	adénocarcinome ovarien
+T3	Histologie_tumorale 192 235	adénocarcinome ovarien séreux papillaire G2
+T4	Stade_metastatique_avec_localisations 240 347	envahissement vasculaire et lymphatique a été observé, avec des métastases dans 13 des 18 lymphadénopathies
+T5	Stade_metastatique_avec_localisations 456 534	envahissement tumoral du rectum-sigma avec atteinte de la séreuse et du muscle
+T6	Histologie_tumorale 849 893	adénocarcinome séreux papillaire de l'ovaire
+T7	Topographie_du_primitif 849 893	adénocarcinome séreux papillaire de l'ovaire
+T8	Traitement_specifique_du_cancer 941 959	carboplatine-taxol
+T9	Symptomes 1339 1373	parésie progressive du bras gauche
+T10	Symptomes 1423 1443	incapacité à marcher
+T11	Symptomes 1460 1488	faiblesse de la jambe gauche
+T12	Signes_physiques 2066 2148	parésie du bras gauche 0/5 avec hypertonie et crurale 2/5 à prédominance proximale
+T13	Stade_metastatique_avec_localisations 2689 2708	Métastase cérébrale
+T14	Topographie_du_primitif 2731 2771	adénocarcinome séreux papillaire ovarien
+T15	Histologie_tumorale 2731 2771	adénocarcinome séreux papillaire ovarien
+T16	Traitement_specifique_du_cancer 2833 2868	radiothérapie holocrânienne + boost
+T17	Traitement_specifique_du_cancer 2987 3016	craniotomie avec tumorectomie
+T18	Signes_physiques 3500 3559	parésie gauche 3/5 au bras, 1/5 à la main et 4/5 à la jambe
+T19	Traitement_specifique_du_cancer 3675 3702	radiothérapie holocrânienne
+T20	Histologie_tumorale 3786 3818	adénocarcinome séreux papillaire
+T21	Topographie_du_primitif 3786 3856	adénocarcinome séreux papillaire de haut grade d’origine gynécologique
+T22	Traitement_specifique_du_cancer 3892 3927	radiothérapie holocrânienne + boost
+T23	Symptomes 3110 3148	aggravation focale au membre supérieur

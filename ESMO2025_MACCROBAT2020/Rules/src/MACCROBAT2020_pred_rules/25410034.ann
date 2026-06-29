@@ -1,9 +1,42 @@
 T1	Age 2 13	21-year-old
 T2	Sex 14 17	man
-T3	Lab_value 808 814	normal
-T4	Lab_value 840 852	unremarkable
-T5	Lab_value 1413 1419	normal
-T6	Lab_value 1809 1817	resolved
-T7	Duration 1835 1842	3 weeks
-T8	Duration 1923 1931	few days
-T9	Date 1972 1986	2 months after
+T3	Clinical_event 18 27	presented
+T4	Nonbiological_location 35 55	emergency department
+T5	Sign_symptom 63 67	rash
+T6	Biological_structure 84 88	neck
+T7	Sign_symptom 207 211	rash
+T8	Sign_symptom 217 225	vesicles
+T9	Biological_structure 379 383	neck
+T10	Sign_symptom 413 417	rash
+T11	Sign_symptom 431 438	painful
+T12	History 529 544	medical history
+T13	Medication 565 575	medication
+T14	History 641 682	history of occupational chemical exposure
+T15	Lab_value 808 814	normal
+T16	Diagnostic_procedure 828 839	examination
+T17	Lab_value 840 852	unremarkable
+T18	Diagnostic_procedure 861 872	examination
+T19	Sign_symptom 880 884	rash
+T20	Clinical_event 906 913	present
+T21	Biological_structure 922 926	skin
+T22	Biological_structure 1043 1048	chest
+T23	Biological_structure 1069 1073	neck
+T24	Clinical_event 1172 1184	presentation
+T25	Sign_symptom 1227 1231	rash
+T26	Biological_structure 1291 1296	Blood
+T27	Biological_structure 1318 1323	blood
+T28	Diagnostic_procedure 1354 1373	liver function test
+T29	Diagnostic_procedure 1378 1396	C-reactive protein
+T30	Lab_value 1413 1419	normal
+T31	Sign_symptom 1503 1507	rash
+T32	Sign_symptom 1551 1555	rash
+T33	History 1564 1601	history of plant material exposure a 
+T34	Clinical_event 1601 1610	diagnosis
+T35	Clinical_event 1661 1671	discharged
+T36	Sign_symptom 1804 1808	rash
+T37	Lab_value 1809 1817	resolved
+T38	Duration 1835 1842	3 weeks
+T39	Sign_symptom 1903 1907	pain
+T40	Duration 1923 1931	few days
+T41	Date 1972 1986	2 months after
+T42	Clinical_event 1987 1999	presentation

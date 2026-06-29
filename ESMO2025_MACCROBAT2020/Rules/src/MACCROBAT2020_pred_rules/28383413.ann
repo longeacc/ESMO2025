@@ -1,32 +1,154 @@
 T1	Date 2 12	March 2015
 T2	Age 16 27	62-year-old
 T3	Sex 28 33	woman
-T4	Date 132 143	4 years ago
-T5	Duration 261 267	a year
-T6	Lab_value 324 333	increased
-T7	Date 455 470	2 years earlier
-T8	Date 635 650	15 months later
-T9	Distance 1079 1084	15 mm
-T10	Lab_value 1323 1329	normal
-T11	Lab_value 1389 1401	unremarkable
-T12	Distance 1711 1716	31 mm
-T13	Shape 2031 2036	round
-T14	Distance 2045 2050	30 mm
-T15	Administration 2239 2248	injection
-T16	Lab_value 2626 2635	increased
-T17	Dosage 2657 2666	119.08 μg
-T18	Lab_value 2670 2676	normal
-T19	Dosage 2688 2696	30.04 μg
-T20	Lab_value 2729 2735	normal
-T21	Lab_value 2768 2777	decreased
-T22	Lab_value 2823 2829	normal
-T23	Lab_value 2902 2908	normal
-T24	Lab_value 3312 3318	normal
-T25	Color 3408 3415	reddish
-T26	Color 3416 3421	black
-T27	Texture 3551 3555	soft
-T28	Shape 3813 3818	round
-T29	Lab_value 4512 4518	normal
-T30	Date 4787 4801	2 months after
-T31	Date 5020 5032	January 2016
-T32	Date 5142 5146	2017
+T4	Clinical_event 38 46	admitted
+T5	Nonbiological_location 50 62	our hospital
+T6	Detailed_description 82 93	progressive
+T7	Date 132 143	4 years ago
+T8	Nonbiological_location 175 189	local hospital
+T9	Sign_symptom 236 244	symptoms
+T10	Duration 261 267	a year
+T11	Sign_symptom 287 295	headache
+T12	Biological_structure 297 305	left eye
+T13	Sign_symptom 306 310	pain
+T14	Lab_value 324 333	increased
+T15	Diagnostic_procedure 354 373	computed tomography
+T16	Diagnostic_procedure 375 377	CT
+T17	Biological_structure 391 396	brain
+T18	Nonbiological_location 400 414	local hospital
+T19	Sign_symptom 438 444	lesion
+T20	Date 455 470	2 years earlier
+T21	Therapeutic_procedure 494 503	resection
+T22	Disease_disorder 507 515	melanoma
+T23	Therapeutic_procedure 576 585	resection
+T24	Disease_disorder 602 610	melanoma
+T25	Detailed_description 622 629	primary
+T26	Date 635 650	15 months later
+T27	Therapeutic_procedure 680 695	lymphadenectomy
+T28	Family_history 705 734	no family history of melanoma
+T29	Diagnostic_procedure 739 759	physical examination
+T30	Detailed_description 777 786	bilateral
+T31	Sign_symptom 897 905	Enlarged
+T32	Biological_structure 906 917	lymph nodes
+T33	Biological_structure 945 950	groin
+T34	Diagnostic_procedure 970 981	examination
+T35	Distance 1079 1084	15 mm
+T36	Detailed_description 1088 1099	bilaterally
+T37	Biological_structure 1125 1134	right eye
+T38	Biological_structure 1166 1174	left eye
+T39	Sign_symptom 1250 1257	atrophy
+T40	Biological_structure 1265 1273	left eye
+T41	Lab_value 1323 1329	normal
+T42	Diagnostic_procedure 1331 1333	CT
+T43	Biological_structure 1347 1352	brain
+T44	Biological_structure 1365 1372	orbital
+T45	Biological_structure 1378 1383	chest
+T46	Lab_value 1389 1401	unremarkable
+T47	Diagnostic_procedure 1403 1405	CT
+T48	Diagnostic_procedure 1415 1425	ultrasound
+T49	Diagnostic_procedure 1426 1437	examination
+T50	Biological_structure 1445 1452	abdomen
+T51	Biological_structure 1460 1467	hepatic
+T52	Biological_structure 1479 1494	retroperitoneal
+T53	Sign_symptom 1516 1524	enlarged
+T54	Biological_structure 1525 1534	left lobe
+T55	Biological_structure 1542 1547	liver
+T56	Sign_symptom 1577 1584	lesions
+T57	Diagnostic_procedure 1586 1596	Ultrasound
+T58	Diagnostic_procedure 1597 1608	examination
+T59	Detailed_description 1612 1621	bilateral
+T60	Biological_structure 1622 1630	inguinal
+T61	Biological_structure 1631 1642	lymph nodes
+T62	Detailed_description 1654 1662	multiple
+T63	Distance 1711 1716	31 mm
+T64	Sign_symptom 1770 1780	thickening
+T65	Biological_structure 1788 1792	skin
+T66	Diagnostic_procedure 1794 1796	CT
+T67	Sign_symptom 1837 1841	mass
+T68	Biological_structure 1907 1911	bone
+T69	Diagnostic_procedure 1941 1943	CT
+T70	Sign_symptom 1957 1961	mass
+T71	Diagnostic_procedure 1987 2013	magnetic resonance imaging
+T72	Diagnostic_procedure 2015 2018	MRI
+T73	Shape 2031 2036	round
+T74	Sign_symptom 2037 2041	mass
+T75	Distance 2045 2050	30 mm
+T76	Sign_symptom 2070 2078	enlarged
+T77	Sign_symptom 2103 2107	mass
+T78	Detailed_description 2193 2204	homogeneous
+T79	Administration 2239 2248	injection
+T80	Sign_symptom 2302 2307	tumor
+T81	Sign_symptom 2425 2429	mass
+T82	Biological_structure 2480 2487	carotid
+T83	Biological_structure 2539 2548	Pituitary
+T84	Diagnostic_procedure 2597 2616	Laboratory findings
+T85	Lab_value 2626 2635	increased
+T86	Dosage 2657 2666	119.08 μg
+T87	Lab_value 2670 2676	normal
+T88	Dosage 2688 2696	30.04 μg
+T89	Lab_value 2729 2735	normal
+T90	Lab_value 2768 2777	decreased
+T91	Lab_value 2823 2829	normal
+T92	Lab_value 2902 2908	normal
+T93	Clinical_event 2950 2959	diagnosed
+T94	Disease_disorder 2973 2985	prolactinoma
+T95	Therapeutic_procedure 3036 3043	surgery
+T96	Sign_symptom 3058 3063	tumor
+T97	Sign_symptom 3080 3091	compression
+T98	Sign_symptom 3151 3156	tumor
+T99	Biological_structure 3229 3233	bone
+T100	Biological_structure 3254 3263	left side
+T101	Lab_value 3312 3318	normal
+T102	Biological_structure 3319 3328	pituitary
+T103	Sign_symptom 3365 3370	tumor
+T104	Sign_symptom 3398 3403	tumor
+T105	Color 3408 3415	reddish
+T106	Color 3416 3421	black
+T107	Biological_structure 3442 3447	blood
+T108	Sign_symptom 3541 3546	tumor
+T109	Texture 3551 3555	soft
+T110	Detailed_description 3587 3601	Intraoperative
+T111	Diagnostic_procedure 3617 3628	examination
+T112	Detailed_description 3681 3690	malignant
+T113	Disease_disorder 3691 3699	melanoma
+T114	Disease_disorder 3703 3713	meningioma
+T115	Sign_symptom 3719 3724	tumor
+T116	Shape 3813 3818	round
+T117	Biological_attribute 3872 3880	nucleoli
+T118	Sign_symptom 3916 3921	tumor
+T119	Sign_symptom 3944 3952	necrosis
+T120	Sign_symptom 3966 3971	tumor
+T121	Disease_disorder 4003 4011	melanoma
+T122	Sign_symptom 4103 4108	tumor
+T123	Detailed_description 4192 4202	metastatic
+T124	Disease_disorder 4203 4211	melanoma
+T125	Disease_disorder 4257 4265	melanoma
+T126	Biological_structure 4288 4298	lymph node
+T127	Biological_structure 4303 4310	hepatic
+T128	Sign_symptom 4311 4321	metastasis
+T129	Therapeutic_procedure 4387 4394	surgery
+T130	Sign_symptom 4444 4452	headache
+T131	Lab_value 4512 4518	normal
+T132	Detailed_description 4565 4570	focal
+T133	Biological_structure 4571 4576	liver
+T134	Sign_symptom 4577 4584	lesions
+T135	Therapeutic_procedure 4669 4690	surgical intervention
+T136	Clinical_event 4719 4729	discharged
+T137	Nonbiological_location 4739 4747	hospital
+T138	Date 4787 4801	2 months after
+T139	Therapeutic_procedure 4812 4819	surgery
+T140	Disease_disorder 4856 4864	melanoma
+T141	Detailed_description 4865 4875	metastatic
+T142	Biological_structure 4889 4893	skin
+T143	Biological_structure 4903 4911	left leg
+T144	Biological_structure 4930 4938	left leg
+T145	Biological_structure 4949 4954	groin
+T146	Biological_structure 4969 4974	groin
+T147	Biological_structure 4984 4993	right leg
+T148	Clinical_event 5002 5011	follow-up
+T149	Date 5020 5032	January 2016
+T150	Clinical_event 5114 5123	follow-up
+T151	Date 5142 5146	2017
+T152	Sign_symptom 5181 5189	symptoms
+T153	Coreference 5332 5343	the disease
+T154	Subject 5370 5378	daughter

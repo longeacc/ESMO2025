@@ -1,16 +1,58 @@
 T1	Age 18 27	34-yr-old
 T2	Sex 28 31	man
-T3	Texture 401 410	vesicular
-T4	Lab_value 528 536	positive
-T5	Date 840 858	following one year
-T6	Distance 922 926	4 cm
-T7	Distance 1139 1143	4 cm
-T8	Shape 1171 1180	lobulated
-T9	Color 1181 1185	gray
-T10	Color 1186 1191	white
-T11	Lab_value 1787 1795	abnormal
-T12	Lab_value 1913 1921	positive
-T13	Lab_value 1977 1985	positive
-T14	Lab_value 2032 2040	positive
-T15	Lab_value 2073 2081	negative
-T16	Date 2266 2283	five months after
+T3	Clinical_event 36 45	presented
+T4	Sign_symptom 65 70	fever
+T5	Detailed_description 77 84	chronic
+T6	Sign_symptom 85 90	cough
+T7	Activity 101 107	smoker
+T8	Biological_structure 129 138	pulmonary
+T9	Diagnostic_procedure 209 211	CT
+T10	Detailed_description 227 235	multiple
+T11	Sign_symptom 241 248	nodules
+T12	Biological_structure 257 262	lungs
+T13	Biological_structure 280 284	lung
+T14	Diagnostic_procedure 285 291	biopsy
+T15	Diagnostic_procedure 345 356	examination
+T16	Sign_symptom 385 390	tumor
+T17	Texture 401 410	vesicular
+T18	Sign_symptom 502 507	tumor
+T19	Lab_value 528 536	positive
+T20	Sign_symptom 648 653	tumor
+T21	Activity 766 773	smoking
+T22	Date 840 858	following one year
+T23	Clinical_event 874 883	follow-up
+T24	Diagnostic_procedure 884 886	CT
+T25	Distance 922 926	4 cm
+T26	Sign_symptom 933 937	mass
+T27	Detailed_description 981 989	multiple
+T28	Sign_symptom 995 1002	nodules
+T29	Biological_structure 1011 1016	lungs
+T30	Diagnostic_procedure 1035 1041	biopsy
+T31	Therapeutic_procedure 1103 1112	lobectomy
+T32	Distance 1139 1143	4 cm
+T33	Shape 1171 1180	lobulated
+T34	Color 1181 1185	gray
+T35	Personal_background 1186 1191	white
+T36	Sign_symptom 1192 1196	mass
+T37	Sign_symptom 1253 1260	nodules
+T38	Sign_symptom 1277 1281	mass
+T39	Sign_symptom 1304 1309	tumor
+T40	Biological_attribute 1392 1410	cytologic features
+T41	Sign_symptom 1426 1431	tumor
+T42	Sign_symptom 1497 1502	tumor
+T43	Detailed_description 1524 1533	malignant
+T44	Biological_attribute 1534 1552	cytologic features
+T45	Biological_attribute 1609 1617	nucleoli
+T46	Sign_symptom 1646 1651	tumor
+T47	Lab_value 1787 1795	abnormal
+T48	Sign_symptom 1848 1853	tumor
+T49	Sign_symptom 1854 1858	mass
+T50	Sign_symptom 1887 1892	tumor
+T51	Lab_value 1913 1921	positive
+T52	Lab_value 1977 1985	positive
+T53	Lab_value 2032 2040	positive
+T54	Lab_value 2073 2081	negative
+T55	Sign_symptom 2245 2250	tumor
+T56	Date 2266 2283	five months after
+T57	Therapeutic_procedure 2284 2293	lobectomy
+T58	Outcome 2310 2320	doing well

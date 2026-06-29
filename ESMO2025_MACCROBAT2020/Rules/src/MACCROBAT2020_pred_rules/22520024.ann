@@ -1,19 +1,77 @@
 T1	Age 2 13	60-year-old
 T2	Sex 14 18	male
-T3	Date 174 178	2002
-T4	Distance 217 222	25 cm
-T5	Severity 223 233	high-grade
-T6	Shape 302 307	round
-T7	Lab_value 394 402	negative
-T8	Date 602 606	2007
-T9	Severity 821 827	severe
-T10	Dosage 1043 1048	30 Gy
-T11	Date 1157 1171	One year later
-T12	Distance 1298 1302	7 cm
-T13	Distance 2062 2068	9.5 cm
-T14	Frequency 2069 2078	recurrent
-T15	Severity 2079 2089	high-grade
-T16	Shape 2155 2160	round
-T17	Lab_value 2252 2260	negative
-T18	Distance 2286 2292	0.1 cm
-T19	Duration 2512 2521	30 months
+T3	Therapeutic_procedure 62 71	resection
+T4	Biological_structure 97 112	retroperitoneal
+T5	Therapeutic_procedure 138 149	nephrectomy
+T6	Therapeutic_procedure 154 169	cholecystectomy
+T7	Date 174 178	2002
+T8	Distance 217 222	25 cm
+T9	Severity 223 233	high-grade
+T10	Disease_disorder 234 245	liposarcoma
+T11	Shape 302 307	round
+T12	Detailed_description 314 333	well-differentiated
+T13	Lab_value 394 402	negative
+T14	Sign_symptom 410 415	tumor
+T15	Biological_structure 435 441	kidney
+T16	Biological_structure 457 462	renal
+T17	Biological_structure 472 478	ureter
+T18	Sign_symptom 492 497	tumor
+T19	Diagnostic_procedure 572 598	magnetic resonance imaging
+T20	Date 602 606	2007
+T21	Sign_symptom 628 633	tumor
+T22	Sign_symptom 634 644	recurrence
+T23	Sign_symptom 703 708	tumor
+T24	Biological_structure 728 736	duodenum
+T25	Biological_structure 750 758	pancreas
+T26	Biological_structure 769 779	mesenteric
+T27	Biological_structure 786 795	vena cava
+T28	Biological_structure 805 810	renal
+T29	Severity 821 827	severe
+T30	Detailed_description 861 875	intraoperative
+T31	Therapeutic_procedure 966 975	radiation
+T32	Biological_structure 983 998	retroperitoneal
+T33	Sign_symptom 999 1004	tumor
+T34	Dosage 1043 1048	30 Gy
+T35	Outcome 1117 1127	resolution
+T36	Biological_structure 1135 1150	retroperitoneal
+T37	Sign_symptom 1151 1155	mass
+T38	Date 1157 1171	One year later
+T39	Clinical_event 1185 1194	presented
+T40	Sign_symptom 1200 1211	weight loss
+T41	Biological_structure 1226 1235	abdominal
+T42	Sign_symptom 1236 1240	pain
+T43	Sign_symptom 1242 1248	nausea
+T44	Sign_symptom 1253 1261	vomiting
+T45	Distance 1298 1302	7 cm
+T46	Sign_symptom 1303 1307	mass
+T47	Biological_structure 1353 1361	duodenum
+T48	Biological_structure 1424 1434	pancreatic
+T49	Therapeutic_procedure 1515 1525	laparotomy
+T50	Therapeutic_procedure 1557 1566	resection
+T51	Biological_structure 1622 1637	retroperitoneal
+T52	Therapeutic_procedure 1647 1656	resection
+T53	Sign_symptom 1700 1705	tumor
+T54	Sign_symptom 1750 1754	mass
+T55	Detailed_description 1762 1771	posterior
+T56	Biological_structure 1772 1780	duodenal
+T57	Detailed_description 1786 1792	distal
+T58	Biological_structure 1831 1839	duodenal
+T59	Sign_symptom 1921 1925	mass
+T60	Biological_structure 1947 1955	duodenal
+T61	Therapeutic_procedure 1956 1965	resection
+T62	Therapeutic_procedure 1996 2007	anastomosis
+T63	Diagnostic_procedure 2039 2050	examination
+T64	Distance 2062 2068	9.5 cm
+T65	Frequency 2069 2078	recurrent
+T66	Severity 2079 2089	high-grade
+T67	Disease_disorder 2090 2101	liposarcoma
+T68	Shape 2155 2160	round
+T69	Detailed_description 2167 2186	well-differentiated
+T70	Lab_value 2252 2260	negative
+T71	Sign_symptom 2268 2273	tumor
+T72	Distance 2286 2292	0.1 cm
+T73	Therapeutic_procedure 2396 2404	resected
+T74	Biological_structure 2405 2413	duodenum
+T75	Sign_symptom 2495 2505	recurrence
+T76	Duration 2512 2521	30 months
+T77	Therapeutic_procedure 2532 2541	resection

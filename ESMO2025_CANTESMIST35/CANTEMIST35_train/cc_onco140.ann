@@ -1,0 +1,53 @@
+T1	Statut_tabagique 124 134	non fumeur
+T2	Symptomes 320 363	hématome sous-unguéal évoluant depuis un an
+T3	Histologie_tumorale 522 542	mélanome lentigineux
+T4	Topographie_du_primitif 522 548	mélanome lentigineux acral
+T5	Traitement_specifique_du_cancer 1017 1092	excision du premier orteil du pied droit et du ganglion sentinelle inguinal
+T6	Topographie_du_primitif 1017 1119	excision du premier orteil du pied droit et du ganglion sentinelle inguinal avec un mélanome de 4,3 mm
+T7	Histologie_tumorale 1101 1109	mélanome
+T8	Stade_metastatique_avec_localisations 1171 1190	pT4N1M0. Stade IIIB
+T9	Stade_OMS_ECOG_Karnofsky 1656 1662	ECOG 0
+T10	Topographie_du_primitif 2090 2104	Mélanome acral
+T11	Histologie_tumorale 2090 2098	Mélanome
+T12	Stade_metastatique_avec_localisations 2106 2125	pT4N1M0. Stade IIIB
+T13	Traitement_specifique_du_cancer 2228 2275	traitement adjuvant par interféron à forte dose
+T14	Traitement_specifique_du_cancer 2320 2338	interféron alfa 2b
+T15	Reponse_a_la_chimiotherapie 3037 3152	scanner de contrôle révèle une masse surrénalienne gauche mesurant 2,4 x 2,7 cm et une adénopathie inguinale droite
+T16	Reponse_a_la_chimiotherapie 3202 3351	TEP qui s'est révélée positive pour une tumeur maligne au niveau de la glande surrénale gauche, de l'adénopathie inguinale droite et cervicale gauche
+T17	Traitement_specifique_du_cancer 3445 3456	dacarbazine
+T18	Stade_metastatique_avec_localisations 3734 3753	métastase surrénale
+T19	Stade_metastatique_avec_localisations 3785 3807	métastases de mélanome
+T20	Traitement_specifique_du_cancer 3734 3768	métastase surrénale a été réséquée
+T21	Reponse_a_la_chimiotherapie 3827 3934	scanner de contrôle révèle deux lésions de 2 cm, l'une adjacente à la capsule splénique et l'autre jéjunale
+T22	Traitement_specifique_du_cancer 3956 3968	carboplatine
+T23	Reponse_a_la_chimiotherapie 4071 4178	scanner d'évaluation de la réponse a montré une progression de la maladie au niveau de la capsule splénique
+T24	Traitement_specifique_du_cancer 4289 4341	taxol hebdomadaire en association avec le bevacizuma
+T25	Reponse_a_la_chimiotherapie 4398 4549	réponse dissociée avec disparition des lésions périspléniques et jéjunales et croissance de nodules au niveau crural et jéjunal. niveau diaphragmatique
+T26	Reponse_a_la_chimiotherapie 4804 4829	progression de la maladie
+T27	Traitement_specifique_du_cancer 4899 4910	dacarbazine
+T28	Reponse_a_la_chimiotherapie 4869 4910	bonne réponse antérieure à la dacarbazine
+T29	Traitement_specifique_du_cancer 4930 4942	témozolamide
+T30	Reponse_a_la_chimiotherapie 5001 5099	évaluation oncologique après les troisième et sixième cycles Il s’agissait d’une réponse partielle
+T31	Reponse_a_la_chimiotherapie 5173 5224	stabilisation de la réponse aux tests radiologiques
+T32	Reponse_a_la_chimiotherapie 5315 5424	progression au niveau de la capsule splénique et l'apparition d'un nodule de 35,4 mm dans l'hypocondre gauche
+T33	Stade_OMS_ECOG_Karnofsky 5508 5514	ECOG 0
+T34	Traitement_specifique_du_cancer 5534 5544	ipilimumab
+T35	Reponse_a_la_chimiotherapie 5830 5944	réponse dissociée puisque la lésion périsplénique a disparu, mais le nodule de l'hypocondre gauche s'est développé
+T36	Traitement_specifique_du_cancer 5982 5992	ipilimumab
+T37	Reponse_a_la_chimiotherapie 6054 6152	nette progression dans l'hypochondre droit avec une augmentation de la taille de la masse à 118 mm
+T38	Stade_OMS_ECOG_Karnofsky 6328 6334	ECOG 0
+T39	Stade_metastatique_avec_localisations 6349 6370	mélanome métastatique
+T40	Histologie_tumorale 6349 6357	mélanome
+T41	Biomarqueurs_therapeutiques 1197 1220	BRAF et N RAS non mutés
+T42	Biomarqueurs_therapeutiques 2127 2151	B RAF et N RAS non mutés
+T43	Biomarqueurs_therapeutiques 6371 6404	non muté pour BRAF, NRAS et C-KIT
+T44	Traitement_specifique_du_cancer 6484 6495	fotémustine
+T45	Reponse_a_la_chimiotherapie 6734 6792	réponse partielle, puisque la masse mesure désormais 36 mm
+T46	Traitement_specifique_du_cancer 6923 6961	résection chirurgicale de la métastase
+T47	Traitement_specifique_du_cancer 6986 7036	large résection de la tumeur plus une omentectomie
+T48	Stade_metastatique_avec_localisations 7168 7340	deux nodules ont été découverts, un dans l'épigastre mesurant 1,5 cm et un autre dans le mésogastre mesurant 1 cm, la biopsie était positive pour des métastases de mélanome
+T49	Stade_metastatique_avec_localisations 7318 7340	métastases de mélanome
+T50	Stade_metastatique_avec_localisations 7347 7405	nodules ont été retirés, confirmant l'origine métastatique
+T51	Traitement_specifique_du_cancer 7512 7535	radiothérapie adjuvante
+T52	Stade_OMS_ECOG_Karnofsky 7677 7683	ECOG 0
+T53	Reponse_a_la_chimiotherapie 7729 7782	évaluation CT était une réponse radiologique complète

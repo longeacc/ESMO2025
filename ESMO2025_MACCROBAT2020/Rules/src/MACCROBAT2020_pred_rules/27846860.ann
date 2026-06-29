@@ -1,45 +1,116 @@
 T1	Age 2 13	20-year-old
-T2	Sex 41 44	man
-T3	Date 122 136	Ten days prior
-T4	Severity 178 184	severe
-T5	Lab_value 333 341	improved
-T6	Severity 500 508	severely
-T7	Severity 586 590	Mild
-T8	Lab_value 661 667	raised
-T9	Lab_value 728 735	90 mmHg
-T10	Lab_value 766 771	98 °F
-T11	Lab_value 943 955	unremarkable
-T12	Dosage 1038 1043	13 mg
-T13	Dosage 1059 1065	293 mg
-T14	Lab_value 1071 1077	raised
-T15	Lab_value 1112 1119	249 U/L
-T16	Lab_value 1137 1144	100 U/L
-T17	Lab_value 1160 1167	227 U/L
-T18	Lab_value 1182 1188	60 U/L
-T19	Lab_value 1191 1197	normal
-T20	Dosage 1236 1242	0.9 mg
-T21	Lab_value 1272 1278	38 U/L
-T22	Lab_value 1307 1313	35 U/L
-T23	Lab_value 1336 1343	122 U/L
-T24	Dosage 1359 1363	37 g
-T25	Lab_value 1368 1374	normal
-T26	Lab_value 1386 1396	5.1 mmol/L
-T27	Lab_value 1399 1405	normal
-T28	Lab_value 1419 1428	19 mmol/L
-T29	Lab_value 1435 1441	normal
-T30	Dosage 1457 1463	173 mg
-T31	Lab_value 1647 1667	within normal limits
-T32	Lab_value 1711 1723	unremarkable
-T33	Lab_value 1849 1861	unremarkable
-T34	Lab_value 2058 2066	improved
-T35	Severity 2089 2097	profound
-T36	Severity 2215 2224	extensive
-T37	Dosage 2326 2335	High-dose
-T38	Administration 2336 2346	parenteral
-T39	Dosage 2367 2370	1 g
-T40	Administration 2371 2384	intravenously
-T41	Frequency 2385 2395	once daily
-T42	Duration 2400 2406	3 days
-T43	Date 3052 3067	16 months after
-T44	Frequency 3110 3119	recurrent
-T45	Lab_value 3279 3287	improved
+T2	History 14 32	previously healthy
+T3	Sex 41 44	man
+T4	Clinical_event 45 54	presented
+T5	Nonbiological_location 58 70	our hospital
+T6	Disease_disorder 106 120	encephalopathy
+T7	Date 122 136	Ten days prior
+T8	Clinical_event 145 157	presentation
+T9	Severity 178 184	severe
+T10	Biological_structure 191 200	abdominal
+T11	Sign_symptom 201 205	pain
+T12	Sign_symptom 210 218	vomiting
+T13	Nonbiological_location 249 261	primary care
+T14	Detailed_description 292 297	acute
+T15	Disease_disorder 298 310	pancreatitis
+T16	Sign_symptom 324 332	symptoms
+T17	Lab_value 333 341	improved
+T18	Clinical_event 408 419	transferred
+T19	Nonbiological_location 423 435	our hospital
+T20	Clinical_event 463 475	presentation
+T21	Nonbiological_location 479 491	our hospital
+T22	Severity 500 508	severely
+T23	Severity 586 590	Mild
+T24	Sign_symptom 597 602	edema
+T25	Clinical_event 607 614	present
+T26	Biological_structure 629 636	jugular
+T27	Biological_structure 637 643	venous
+T28	Lab_value 661 667	raised
+T29	Diagnostic_procedure 705 719	blood pressure
+T30	Lab_value 728 735	90 mmHg
+T31	Diagnostic_procedure 745 761	body temperature
+T32	Lab_value 766 771	98 °F
+T33	Detailed_description 845 856	bilaterally
+T34	Diagnostic_procedure 906 917	examination
+T35	Lab_value 943 955	unremarkable
+T36	Biological_structure 1002 1007	renal
+T37	Biological_structure 1021 1026	serum
+T38	Diagnostic_procedure 1027 1037	creatinine
+T39	Dosage 1038 1043	13 mg
+T40	Biological_structure 1048 1053	serum
+T41	Dosage 1059 1065	293 mg
+T42	Lab_value 1071 1077	raised
+T43	Biological_structure 1078 1088	pancreatic
+T44	Biological_structure 1098 1103	serum
+T45	Lab_value 1112 1119	249 U/L
+T46	Lab_value 1137 1144	100 U/L
+T47	Biological_structure 1147 1152	serum
+T48	Lab_value 1160 1167	227 U/L
+T49	Lab_value 1182 1188	60 U/L
+T50	Lab_value 1191 1197	normal
+T51	Diagnostic_procedure 1198 1218	liver function tests
+T52	Biological_structure 1220 1225	serum
+T53	Diagnostic_procedure 1226 1235	bilirubin
+T54	Dosage 1236 1242	0.9 mg
+T55	Lab_value 1272 1278	38 U/L
+T56	Lab_value 1307 1313	35 U/L
+T57	Lab_value 1336 1343	122 U/L
+T58	Biological_structure 1345 1350	serum
+T59	Diagnostic_procedure 1351 1358	albumin
+T60	Dosage 1359 1363	37 g
+T61	Lab_value 1368 1374	normal
+T62	Diagnostic_procedure 1375 1384	potassium
+T63	Lab_value 1386 1396	5.1 mmol/L
+T64	Lab_value 1399 1405	normal
+T65	Medication 1406 1417	bicarbonate
+T66	Lab_value 1419 1428	19 mmol/L
+T67	Lab_value 1435 1441	normal
+T68	Dosage 1457 1463	173 mg
+T69	Lab_value 1647 1667	within normal limits
+T70	Biological_structure 1699 1706	abdomen
+T71	Lab_value 1711 1723	unremarkable
+T72	Detailed_description 1733 1750	contrast-enhanced
+T73	Diagnostic_procedure 1751 1770	computed tomography
+T74	Diagnostic_procedure 1772 1774	CT
+T75	Detailed_description 1804 1809	acute
+T76	Disease_disorder 1810 1822	pancreatitis
+T77	Biological_structure 1836 1843	kidneys
+T78	Lab_value 1849 1861	unremarkable
+T79	Detailed_description 1924 1929	acute
+T80	Disease_disorder 1930 1942	pancreatitis
+T81	Therapeutic_procedure 1951 1963	hemodialysis
+T82	Therapeutic_procedure 2017 2029	hemodialysis
+T83	Lab_value 2058 2066	improved
+T84	Severity 2089 2097	profound
+T85	Diagnostic_procedure 2174 2185	examination
+T86	Biological_structure 2193 2200	retinal
+T87	Severity 2215 2224	extensive
+T88	Dosage 2326 2335	High-dose
+T89	Administration 2336 2346	parenteral
+T90	Medication 2347 2365	methylprednisolone
+T91	Dosage 2367 2370	1 g
+T92	Administration 2371 2384	intravenously
+T93	Frequency 2385 2395	once daily
+T94	Duration 2400 2406	3 days
+T95	Biological_structure 2444 2449	renal
+T96	Biological_structure 2465 2470	renal
+T97	Diagnostic_procedure 2471 2477	biopsy
+T98	Biological_structure 2540 2545	renal
+T99	Sign_symptom 2555 2563	necrosis
+T100	Activity 2665 2670	drugs
+T101	Sign_symptom 2803 2814	hypotension
+T102	Clinical_event 2885 2894	diagnosed
+T103	Detailed_description 2900 2905	acute
+T104	Disease_disorder 2906 2918	pancreatitis
+T105	Biological_structure 2936 2941	renal
+T106	Sign_symptom 2951 2959	necrosis
+T107	Detailed_description 3023 3032	bilateral
+T108	Outcome 3047 3051	died
+T109	Date 3052 3067	16 months after
+T110	Clinical_event 3080 3092	presentation
+T111	Frequency 3110 3119	recurrent
+T112	Detailed_description 3130 3135	acute
+T113	Disease_disorder 3136 3148	pancreatitis
+T114	Therapeutic_procedure 3198 3210	hemodialysis
+T115	Diagnostic_procedure 3225 3239	renal function
+T116	Lab_value 3279 3287	improved

@@ -1,0 +1,34 @@
+T1	Statut_tabagique 42 56	fumeuse active
+T2	Statut_tabagique 74 87	20 paquets/an
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 225 326	antécédents familiaux incluent une mère atteinte d'un cancer du sein bilatéral métachrone à 62 et 67 
+T4	Biomarqueurs_therapeutiques 516 536	récepteurs hormonaux
+T5	Stade_OMS_ECOG_Karnofsky 765 773	ECOG PS0
+T6	Histologie_tumorale 2000 2030	carcinome canalaire infiltrant
+T7	Biomarqueurs_therapeutiques 2139 2150	Ki-67 de 15
+T8	Biomarqueurs_therapeutiques 2153 2158	HER-2
+T9	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 2483 2584	antécédents familiaux, une évaluation a été demandée par l'unité de conseil génétique et une étude a 
+T10	Biomarqueurs_therapeutiques 2654 2659	BRCA2
+T11	Biomarqueurs_therapeutiques 2798 2806	Ki-67 15
+T12	Biomarqueurs_therapeutiques 2816 2829	Her-2 négatif
+T13	Stade_metastatique_avec_localisations 2830 2838	stade IV
+T14	Stade_metastatique_avec_localisations 2840 2847	T4bN1M1
+T15	Stade_OMS_ECOG_Karnofsky 2927 2935	ECOG PS0
+T16	Reponse_a_la_chimiotherapie 3189 3206	réponse partielle
+T17	Traitement_specifique_du_cancer 3651 3665	chimiothérapie
+T18	Traitement_specifique_du_cancer 3716 3730	chimiothérapie
+T19	Traitement_specifique_du_cancer 3846 3860	2 cycles de QT
+T20	Signes_physiques 4083 4099	bon état général
+T21	Stade_OMS_ECOG_Karnofsky 4101 4105	PS 1
+T22	Stade_metastatique_avec_localisations 5222 5239	nodule pulmonaire
+T23	Traitement_specifique_du_cancer 5416 5431	7 cycles de FAC
+T24	Reponse_a_la_chimiotherapie 5696 5713	réponse partielle
+T25	Reponse_a_la_chimiotherapie 6156 6177	progression hépatique
+T26	Stade_OMS_ECOG_Karnofsky 6193 6197	PS 1
+T27	Traitement_specifique_du_cancer 6269 6279	paclitaxel
+T28	Traitement_specifique_du_cancer 6280 6291	gemcitabine
+T29	Reponse_a_la_chimiotherapie 6791 6812	progression hépatique
+T30	Signes_physiques 6909 6921	état général
+T31	Stade_OMS_ECOG_Karnofsky 6923 6926	PS1
+T32	Traitement_specifique_du_cancer 6932 6944	capécitabine
+T33	Traitement_specifique_du_cancer 7172 7196	3 cycles de capécitabine
+T34	Symptomes 7342 7350	diarrhée

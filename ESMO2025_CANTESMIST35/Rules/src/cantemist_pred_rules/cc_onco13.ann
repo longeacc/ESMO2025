@@ -1,0 +1,52 @@
+T1	Histologie_tumorale 75 89	hépatoblastome
+T2	Stade_metastatique_avec_localisations 90 102	métastatique
+T3	Symptomes 180 200	douleurs abdominales
+T4	Statut_tabagique 281 298	10 paquets-années
+T5	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 306 339	antécédents familiaux d'oncologie
+T6	Symptomes 445 474	douleurs abdominales diffuses
+T7	Symptomes 540 548	diarrhée
+T8	Symptomes 555 567	constipation
+T9	Symptomes 570 578	anorexie
+T10	Symptomes 591 624	perte de poids de 10 kg en 4 mois
+T11	Stade_OMS_ECOG_Karnofsky 705 731	indice de performance de 1
+T12	Symptomes 768 794	douleur abdominale diffuse
+T13	Signes_physiques 800 853	hépatomégalie de trois doigts et une cachexie modérée
+T14	Histologie_tumorale 2271 2285	hépatoblastome
+T15	Biomarqueurs_therapeutiques 2347 2360	bêta-caténine
+T16	Biomarqueurs_therapeutiques 2472 2485	chromogranine
+T17	Biomarqueurs_therapeutiques 2490 2494	TTF1
+T18	Biomarqueurs_therapeutiques 2518 2522	CD56
+T19	Biomarqueurs_therapeutiques 2566 2572	Ki-67 
+T20	Signes_physiques 2841 2875	ictère franc et une ascite modérée
+T21	Histologie_tumorale 2980 2994	hépatoblastome
+T22	Stade_metastatique_avec_localisations 3015 3025	PRETEXT-IV
+T23	Traitement_specifique_du_cancer 3324 3352	traitement de chimiothérapie
+T24	Traitement_specifique_du_cancer 3406 3424	chirurgie radicale
+T25	Traitement_specifique_du_cancer 3493 3521	traitement de chimiothérapie
+T26	Traitement_specifique_du_cancer 3526 3530	CDDP
+T27	Traitement_specifique_du_cancer 3666 3680	chimiothérapie
+T28	Traitement_specifique_du_cancer 3685 3689	CDDP
+T29	Reponse_a_la_chimiotherapie 3717 3748	maladie radiologiquement stable
+T30	Signes_physiques 3786 3806	ictère avec cholurie
+T31	Traitement_specifique_du_cancer 4048 4052	CDDP
+T32	Traitement_specifique_du_cancer 4164 4168	CDDP
+T33	Traitement_specifique_du_cancer 4241 4245	CDDP
+T34	Traitement_specifique_du_cancer 4283 4295	doxorubicine
+T35	Traitement_specifique_du_cancer 4341 4345	CDDP
+T36	Traitement_specifique_du_cancer 4385 4397	doxorubicine
+T37	Traitement_specifique_du_cancer 4439 4443	CDDP
+T38	Traitement_specifique_du_cancer 4483 4495	doxorubicine
+T39	Traitement_specifique_du_cancer 4543 4557	chimiothérapie
+T40	Traitement_specifique_du_cancer 4643 4671	traitement de chimiothérapie
+T41	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 4850 4857	diabète
+T42	Symptomes 5035 5047	thrombopénie
+T43	Symptomes 5066 5077	neuropathie
+T44	Reponse_a_la_chimiotherapie 5227 5245	nette amélioration
+T45	Signes_physiques 5279 5291	état général
+T46	Reponse_a_la_chimiotherapie 5467 5473	RECIST
+T47	Reponse_a_la_chimiotherapie 5486 5500	maladie stable
+T48	Traitement_specifique_du_cancer 5688 5706	chirurgie radicale
+T49	Stade_metastatique_avec_localisations 5803 5815	métastatique
+T50	Traitement_specifique_du_cancer 5894 5906	carboplatine
+T51	Traitement_specifique_du_cancer 5912 5923	adriamycine
+T52	Evolutivite_en_lien_avec_le_cancer 6258 6285	intervalle sans progression

@@ -1,19 +1,85 @@
 T1	Age 3 14	84-year-old
 T2	Sex 15 19	male
-T3	Date 154 167	February 2012
-T4	Severity 267 273	severe
-T5	Severity 371 377	severe
-T6	Distance 599 604	31 mm
-T7	Severity 771 777	severe
-T8	Date 1111 1126	Two weeks after
-T9	Severity 1275 1283	moderate
-T10	Severity 1287 1293	severe
-T11	Frequency 1319 1328	recurrent
-T12	Severity 1329 1335	severe
-T13	Severity 1373 1379	slight
-T14	Distance 2179 2184	25 mm
-T15	Distance 2409 2414	31 mm
-T16	Duration 2884 2891	a month
-T17	Lab_value 2979 2983	good
-T18	Date 3041 3059	three months after
-T19	Lab_value 3112 3118	stable
+T3	Disease_disorder 46 69	coronary artery disease
+T4	Clinical_event 115 123	admitted
+T5	Nonbiological_location 131 150	university hospital
+T6	Date 154 167	February 2012
+T7	Detailed_description 179 190	progressive
+T8	Sign_symptom 191 199	dyspnoea
+T9	Severity 267 273	severe
+T10	Biological_structure 286 292	aortic
+T11	Sign_symptom 293 301	stenosis
+T12	Severity 371 377	severe
+T13	Biological_structure 378 385	femoral
+T14	Distance 599 604	31 mm
+T15	Clinical_event 618 627	discharge
+T16	Clinical_event 636 644	referred
+T17	Nonbiological_location 657 665	hospital
+T18	Sign_symptom 677 685	dyspnoea
+T19	Detailed_description 693 702	bilateral
+T20	Biological_structure 703 710	pleural
+T21	Diagnostic_procedure 739 755	echocardiography
+T22	Diagnostic_procedure 757 760	TEE
+T23	Severity 771 777	severe
+T24	Disease_disorder 778 798	mitral regurgitation
+T25	Biological_structure 854 866	mitral valve
+T26	Therapeutic_procedure 867 873	repair
+T27	Date 1111 1126	Two weeks after
+T28	Detailed_description 1127 1136	secondary
+T29	Clinical_event 1137 1146	discharge
+T30	Detailed_description 1170 1181	progressive
+T31	Disease_disorder 1182 1195	heart failure
+T32	Detailed_description 1216 1221	acute
+T33	Disease_disorder 1222 1235	renal failure
+T34	Diagnostic_procedure 1247 1263	echocardiography
+T35	Severity 1275 1283	moderate
+T36	Severity 1287 1293	severe
+T37	Biological_structure 1294 1300	aortic
+T38	Frequency 1319 1328	recurrent
+T39	Severity 1329 1335	severe
+T40	Severity 1373 1379	slight
+T41	Biological_structure 1396 1408	aortic valve
+T42	Biological_structure 1491 1497	aortic
+T43	Detailed_description 1531 1540	posterior
+T44	Clinical_event 1628 1639	transferred
+T45	Biological_structure 1647 1654	cardiac
+T46	Therapeutic_procedure 1655 1662	surgery
+T47	Diagnostic_procedure 1688 1708	coronary angiography
+T48	Disease_disorder 1739 1762	coronary artery disease
+T49	Biological_structure 1820 1826	aortic
+T50	Biological_structure 1831 1843	mitral valve
+T51	Therapeutic_procedure 1891 1898	surgery
+T52	Therapeutic_procedure 1904 1913	operation
+T53	Therapeutic_procedure 1932 1949	median sternotomy
+T54	Therapeutic_procedure 1972 1994	cardiopulmonary bypass
+T55	Biological_structure 2010 2015	aorta
+T56	Biological_structure 2050 2062	aortic valve
+T57	Therapeutic_procedure 2087 2094	removal
+T58	Biological_structure 2145 2157	aortic valve
+T59	Distance 2179 2184	25 mm
+T60	Therapeutic_procedure 2212 2220	grafting
+T61	Biological_structure 2260 2272	mitral valve
+T62	Biological_structure 2294 2305	left atrium
+T63	Therapeutic_procedure 2310 2317	excised
+T64	Biological_structure 2375 2387	mitral valve
+T65	Distance 2409 2414	31 mm
+T66	Therapeutic_procedure 2477 2484	removed
+T67	Therapeutic_procedure 2554 2560	suture
+T68	Detailed_description 2576 2590	Intraoperative
+T69	Diagnostic_procedure 2591 2607	echocardiography
+T70	Therapeutic_procedure 2662 2671	operation
+T71	Outcome 2751 2760	recovered
+T72	Therapeutic_procedure 2771 2778	surgery
+T73	Clinical_event 2788 2803	hospitalization
+T74	Disease_disorder 2831 2844	renal failure
+T75	Biological_structure 2859 2866	pleural
+T76	Duration 2884 2891	a month
+T77	Clinical_event 2931 2941	discharged
+T78	Nonbiological_location 2947 2955	hospital
+T79	Lab_value 2979 2983	good
+T80	Disease_disorder 3013 3026	heart failure
+T81	Clinical_event 3031 3040	follow-up
+T82	Date 3041 3059	three months after
+T83	Therapeutic_procedure 3060 3067	surgery
+T84	Lab_value 3112 3118	stable
+T85	Therapeutic_procedure 3152 3165	physiotherapy

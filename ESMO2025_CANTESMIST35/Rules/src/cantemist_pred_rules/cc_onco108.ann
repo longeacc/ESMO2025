@@ -1,0 +1,17 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 33 59	sans antécédents médicaux 
+T2	Traitement_specifique_du_cancer 150 159	chirurgie
+T3	Histologie_tumorale 192 206	adénocarcinome
+T4	Histologie_tumorale 849 863	adénocarcinome
+T5	Traitement_specifique_du_cancer 902 911	chirurgie
+T6	Traitement_specifique_du_cancer 941 953	carboplatine
+T7	Traitement_specifique_du_cancer 954 959	taxol
+T8	Traitement_specifique_du_cancer 966 980	chimiothérapie
+T9	Traitement_specifique_du_cancer 1008 1017	résection
+T10	Signes_physiques 1275 1291	bon état général
+T11	Signes_physiques 1942 1954	état général
+T12	Histologie_tumorale 2731 2745	adénocarcinome
+T13	Traitement_specifique_du_cancer 2833 2846	radiothérapie
+T14	Traitement_specifique_du_cancer 3323 3332	résection
+T15	Traitement_specifique_du_cancer 3675 3688	radiothérapie
+T16	Histologie_tumorale 3786 3800	adénocarcinome
+T17	Traitement_specifique_du_cancer 3892 3905	radiothérapie

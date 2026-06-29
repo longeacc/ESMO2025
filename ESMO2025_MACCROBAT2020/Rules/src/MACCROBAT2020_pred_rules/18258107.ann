@@ -2,33 +2,71 @@ T1	Age 36 47	60-year-old
 T2	Sex 48 51	man
 T3	Date 136 145	June 2003
 T4	Sex 152 155	man
-T5	Duration 252 259	7-month
-T6	Date 289 305	Three days after
-T7	Date 419 431	5 days later
-T8	Lab_value 448 454	38.9°C
-T9	Lab_value 588 600	unremarkable
-T10	Severity 722 728	slight
-T11	Lab_value 777 784	000/mm3
-T12	Lab_value 799 806	400/mm3
-T13	Lab_value 872 878	487/μL
-T14	Dosage 965 970	20 mg
-T15	Dosage 979 985	167 mg
-T16	Lab_value 1034 1042	positive
-T17	Lab_value 1292 1300	negative
-T18	Date 1314 1319	day 2
-T19	Lab_value 1346 1354	positive
-T20	Lab_value 1408 1416	negative
-T21	Lab_value 1431 1439	negative
-T22	Lab_value 1473 1481	negative
-T23	Dosage 1823 1839	24 million units
-T24	Administration 1840 1853	intravenously
-T25	Date 1875 1880	day 5
-T26	Lab_value 1979 1987	negative
-T27	Date 2001 2006	day 7
-T28	Date 2325 2330	day 9
-T29	Severity 2369 2375	severe
-T30	Duration 2462 2468	10-day
-T31	Administration 2479 2489	parenteral
-T32	Administration 2542 2546	oral
-T33	Date 2576 2592	Two months after
-T34	Lab_value 2630 2638	improved
+T5	Sign_symptom 172 177	fever
+T6	Sign_symptom 192 200	headache
+T7	Sign_symptom 202 208	nausea
+T8	Duration 252 259	7-month
+T9	Date 289 305	Three days after
+T10	Sign_symptom 306 314	symptoms
+T11	Sign_symptom 360 368	Symptoms
+T12	Clinical_event 390 398	admitted
+T13	Nonbiological_location 404 418	local hospital
+T14	Date 419 431	5 days later
+T15	Sign_symptom 439 444	fever
+T16	Lab_value 448 454	38.9°C
+T17	Sign_symptom 463 471	rigidity
+T18	Sign_symptom 473 481	headache
+T19	Sign_symptom 495 502	malaise
+T20	History 563 583	past medical history
+T21	Lab_value 588 600	unremarkable
+T22	Diagnostic_procedure 605 625	physical examination
+T23	Detailed_description 672 677	focal
+T24	Diagnostic_procedure 701 712	examination
+T25	Severity 722 728	slight
+T26	Sign_symptom 736 744	rigidity
+T27	Lab_value 777 784	000/mm3
+T28	Lab_value 799 806	400/mm3
+T29	Lab_value 872 878	487/μL
+T30	Diagnostic_procedure 937 944	glucose
+T31	Dosage 965 970	20 mg
+T32	Dosage 979 985	167 mg
+T33	Lab_value 1034 1042	positive
+T34	Medication 1085 1096	ceftriaxone
+T35	Medication 1098 1108	vancomycin
+T36	Medication 1114 1124	ampicillin
+T37	Biological_structure 1235 1240	chest
+T38	Diagnostic_procedure 1241 1251	radiograph
+T39	Lab_value 1292 1300	negative
+T40	Nonbiological_location 1305 1313	hospital
+T41	Date 1314 1319	day 2
+T42	Biological_structure 1321 1326	blood
+T43	Lab_value 1346 1354	positive
+T44	Lab_value 1408 1416	negative
+T45	Lab_value 1431 1439	negative
+T46	Lab_value 1473 1481	negative
+T47	Medication 1672 1682	penicillin
+T48	Medication 1697 1708	ceftriaxone
+T49	Medication 1714 1724	vancomycin
+T50	Medication 1809 1819	penicillin
+T51	Dosage 1823 1839	24 million units
+T52	Administration 1840 1853	intravenously
+T53	Nonbiological_location 1866 1874	hospital
+T54	Date 1875 1880	day 5
+T55	Diagnostic_procedure 1964 1973	endoscopy
+T56	Lab_value 1979 1987	negative
+T57	Nonbiological_location 1992 2000	hospital
+T58	Date 2001 2006	day 7
+T59	Sign_symptom 2303 2311	symptoms
+T60	Nonbiological_location 2316 2324	hospital
+T61	Date 2325 2330	day 9
+T62	Severity 2369 2375	severe
+T63	Detailed_description 2376 2385	bilateral
+T64	Duration 2462 2468	10-day
+T65	Administration 2479 2489	parenteral
+T66	Activity 2504 2509	drugs
+T67	Clinical_event 2518 2528	discharged
+T68	Administration 2542 2546	oral
+T69	Clinical_event 2566 2574	followup
+T70	Date 2576 2592	Two months after
+T71	Clinical_event 2593 2602	discharge
+T72	Lab_value 2630 2638	improved

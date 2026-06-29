@@ -1,0 +1,11 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 27 57	Aucune allergie médicamenteuse
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 59 99	Aucun facteur de risque cardiovasculaire
+T3	Symptomes 338 448	apparition d'un nodule solitaire, surélevé, érythémateux-violet, situé sur la face latérale de la jambe droite
+T4	Symptomes 572 678	nouvelles lésions au niveau de la poitrine, du dos et en plus grand nombre sur les deux membres inférieurs
+T5	Stade_OMS_ECOG_Karnofsky 1069 1075	ECOG 1
+T6	Symptomes 1100 1239	lésions nodulaires, érythématosquameuses, généralisées, prédominantes dans la poitrine, l'abdomen et les jambes, avec des bords irréguliers
+T7	Signes_physiques 1341 1380	pas d'hépatomégalie ou de splénomégalie
+T8	Histologie_tumorale 2444 2502	néoplasie blastique à cellules dendritiques plasmacytoïdes
+T9	Histologie_tumorale 2589 2630	Leucémie/lymphome à cellules dendritiques
+T10	Histologie_tumorale 2685 2743	Néoplasie blastique à cellules dendritiques plasmacytoïdes
+T11	Traitement_specifique_du_cancer 2968 2985	traitement par CT

@@ -1,18 +1,64 @@
 T1	Age 2 13	35-year-old
 T2	Sex 14 19	woman
-T3	Severity 71 80	low-grade
-T4	Duration 91 98	3 weeks
-T5	Duration 113 119	1 week
-T6	Duration 135 141	3 days
-T7	Duration 192 198	1 week
-T8	Lab_value 224 233	decreased
-T9	Lab_value 360 366	normal
-T10	Severity 619 625	Severe
-T11	Severity 650 654	mild
-T12	Distance 692 698	100 mm
-T13	Lab_value 720 727	116/min
-T14	Lab_value 983 989	normal
-T15	Severity 1013 1019	severe
-T16	Duration 1080 1087	5 years
-T17	Color 1573 1582	yellowish
-T18	Color 1583 1588	white
+T3	Clinical_event 20 29	presented
+T4	Nonbiological_location 45 65	emergency department
+T5	Severity 71 80	low-grade
+T6	Sign_symptom 81 86	fever
+T7	Duration 91 98	3 weeks
+T8	Sign_symptom 100 108	vomiting
+T9	Duration 113 119	1 week
+T10	Duration 135 141	3 days
+T11	Sign_symptom 161 168	dysuria
+T12	Sign_symptom 173 187	breathlessness
+T13	Duration 192 198	1 week
+T14	History 213 246	history of decreased urine output
+T15	Therapeutic_procedure 248 256	dialysis
+T16	Biological_structure 278 283	chest
+T17	Sign_symptom 284 288	pain
+T18	Sign_symptom 292 303	palpitation
+T19	Sign_symptom 305 313	dyspnoea
+T20	Sign_symptom 318 329	weight loss
+T21	Lab_value 360 366	normal
+T22	Detailed_description 400 411	progressive
+T23	Sign_symptom 412 428	loss of appetite
+T24	Subject 481 488	brother
+T25	Outcome 511 515	died
+T26	Severity 619 625	Severe
+T27	Sign_symptom 626 632	pallor
+T28	Clinical_event 637 644	present
+T29	Severity 650 654	mild
+T30	Sign_symptom 661 667	oedema
+T31	Diagnostic_procedure 669 683	Blood pressure
+T32	Distance 692 698	100 mm
+T33	Diagnostic_procedure 706 716	pulse rate
+T34	Lab_value 720 727	116/min
+T35	Sign_symptom 752 760	jaundice
+T36	Sign_symptom 771 779	cyanosis
+T37	Sign_symptom 783 798	lymphadenopathy
+T38	Diagnostic_procedure 810 830	Physical examination
+T39	Sign_symptom 866 878	crepitations
+T40	Biological_structure 882 887	lungs
+T41	Sign_symptom 903 913	tenderness
+T42	Sign_symptom 928 946	hepatosplenomegaly
+T43	Sign_symptom 950 957	ascites
+T44	Biological_structure 959 966	Cardiac
+T45	Diagnostic_procedure 967 978	examination
+T46	Lab_value 983 989	normal
+T47	Severity 1013 1019	severe
+T48	Detailed_description 1020 1029	bilateral
+T49	Detailed_description 1064 1075	progressive
+T50	Duration 1080 1087	5 years
+T51	Detailed_description 1104 1115	bilaterally
+T52	Sign_symptom 1116 1120	pale
+T53	Clinical_event 1138 1146	referred
+T54	Diagnostic_procedure 1206 1217	examination
+T55	Diagnostic_procedure 1319 1330	examination
+T56	Detailed_description 1338 1347	bilateral
+T57	Detailed_description 1348 1356	anterior
+T58	Detailed_description 1385 1394	posterior
+T59	Detailed_description 1537 1547	peripheral
+T60	Biological_structure 1548 1554	retina
+T61	Detailed_description 1564 1572	multiple
+T62	Color 1573 1582	yellowish
+T63	Personal_background 1583 1588	white
+T64	Sign_symptom 1589 1595	lesion

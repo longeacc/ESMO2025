@@ -1,26 +1,98 @@
 T1	Date 3 7	2013
 T2	Age 11 22	50-year-old
 T3	Sex 23 26	man
-T4	Date 114 118	2013
-T5	Dosage 356 364	4 cycles
-T6	Dosage 408 417	high-dose
-T7	Date 482 494	January 2015
-T8	Date 598 602	2015
-T9	Lab_value 757 763	normal
-T10	Duration 972 978	a year
-T11	Frequency 1017 1027	occasional
-T12	Date 1124 1128	2015
-T13	Lab_value 1394 1402	positive
-T14	Dosage 1472 1484	500 mg daily
-T15	Duration 1491 1498	a month
-T16	Date 1694 1698	2016
-T17	Duration 1851 1858	3 weeks
-T18	Duration 1922 1931	11 months
-T19	Duration 1974 1981	7-month
-T20	Duration 2293 2301	11-month
-T21	Date 2500 2514	7 months after
-T22	Lab_value 2553 2559	raised
-T23	Severity 2710 2714	mild
-T24	Severity 2738 2744	slight
-T25	Severity 2824 2830	severe
-T26	Lab_value 3007 3013	normal
+T4	Clinical_event 35 42	visited
+T5	Nonbiological_location 43 51	hospital
+T6	Biological_structure 73 77	bone
+T7	Sign_symptom 78 82	pain
+T8	Biological_structure 90 98	left leg
+T9	Date 114 118	2013
+T10	Detailed_description 149 155	distal
+T11	Biological_structure 156 163	femoral
+T12	Sign_symptom 164 169	tumor
+T13	Therapeutic_procedure 178 187	resection
+T14	Therapeutic_procedure 192 206	reconstruction
+T15	Biological_structure 222 229	femoral
+T16	Clinical_event 259 268	diagnosis
+T17	Medication 339 351	chemotherapy
+T18	Dosage 356 364	4 cycles
+T19	Medication 377 389	chemotherapy
+T20	Dosage 408 417	high-dose
+T21	Medication 418 430	methotrexate
+T22	Medication 432 441	cisplatin
+T23	Medication 447 458	doxorubicin
+T24	Date 482 494	January 2015
+T25	Sign_symptom 498 502	mass
+T26	Sign_symptom 542 547	Tumor
+T27	Sign_symptom 548 558	recurrence
+T28	Diagnostic_procedure 576 582	biopsy
+T29	Date 598 602	2015
+T30	Biological_structure 627 632	femur
+T31	Lab_value 757 763	normal
+T32	Medication 832 844	chemotherapy
+T33	Medication 875 887	chemotherapy
+T34	Sign_symptom 907 913	nausea
+T35	Sign_symptom 915 923	vomiting
+T36	Sign_symptom 951 959	headache
+T37	Duration 972 978	a year
+T38	Frequency 1017 1027	occasional
+T39	Sign_symptom 1028 1033	cough
+T40	Biological_structure 1038 1043	chest
+T41	Biological_structure 1067 1072	chest
+T42	Diagnostic_procedure 1073 1092	computed tomography
+T43	Diagnostic_procedure 1094 1096	CT
+T44	Date 1124 1128	2015
+T45	Diagnostic_procedure 1134 1136	CT
+T46	Detailed_description 1154 1162	multiple
+T47	Biological_structure 1163 1172	pulmonary
+T48	Sign_symptom 1173 1180	nodules
+T49	Sign_symptom 1224 1234	metastases
+T50	Medication 1271 1283	chemotherapy
+T51	Sign_symptom 1335 1340	tumor
+T52	Lab_value 1394 1402	positive
+T53	Medication 1433 1441	Apatinib
+T54	Dosage 1472 1484	500 mg daily
+T55	Duration 1491 1498	a month
+T56	Sign_symptom 1510 1518	symptoms
+T57	Detailed_description 1538 1549	progressive
+T58	Sign_symptom 1556 1564	necrosis
+T59	Therapeutic_procedure 1589 1596	surgery
+T60	Sign_symptom 1626 1634	enlarged
+T61	Biological_structure 1635 1645	lymph node
+T62	Biological_structure 1651 1656	iliac
+T63	Therapeutic_procedure 1669 1677	resected
+T64	Date 1694 1698	2016
+T65	Diagnostic_procedure 1730 1754	pathological examination
+T66	Biological_structure 1792 1802	lymph node
+T67	Medication 1804 1812	Apatinib
+T68	Duration 1851 1858	3 weeks
+T69	Biological_structure 1893 1898	chest
+T70	Diagnostic_procedure 1899 1901	CT
+T71	Duration 1922 1931	11 months
+T72	Medication 1942 1950	apatinib
+T73	Duration 1974 1981	7-month
+T74	Clinical_event 1982 1991	follow-up
+T75	Sign_symptom 2057 2064	lesions
+T76	Sign_symptom 2099 2105	nodule
+T77	Sign_symptom 2131 2138	lesions
+T78	Sign_symptom 2247 2253	Tumors
+T79	Duration 2293 2301	11-month
+T80	Clinical_event 2302 2311	follow-up
+T81	Sign_symptom 2337 2344	lesions
+T82	Sign_symptom 2381 2387	nodule
+T83	Sign_symptom 2409 2416	lesions
+T84	Clinical_event 2417 2426	presented
+T85	Medication 2434 2442	apatinib
+T86	Sign_symptom 2482 2489	lesions
+T87	Clinical_event 2490 2499	presented
+T88	Date 2500 2514	7 months after
+T89	Medication 2515 2523	apatinib
+T90	Sign_symptom 2542 2548	lesion
+T91	Lab_value 2553 2559	raised
+T92	Sign_symptom 2574 2580	lesion
+T93	Severity 2710 2714	mild
+T94	Severity 2738 2744	slight
+T95	Diagnostic_procedure 2750 2764	blood pressure
+T96	Severity 2824 2830	severe
+T97	Medication 2929 2937	apatinib
+T98	Lab_value 3007 3013	normal

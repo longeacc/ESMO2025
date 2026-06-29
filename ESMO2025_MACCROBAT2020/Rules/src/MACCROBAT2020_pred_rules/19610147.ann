@@ -1,10 +1,44 @@
 T1	Age 2 13	46-year-old
 T2	Sex 14 19	woman
-T3	Severity 35 41	severe
-T4	Lab_value 346 356	uneventful
-T5	Distance 545 551	1.5 cm
-T6	Severity 1095 1099	mild
-T7	Texture 1437 1445	granular
-T8	Severity 1474 1478	mild
-T9	Lab_value 2208 2216	negative
-T10	Lab_value 2299 2307	positive
+T3	Clinical_event 20 29	presented
+T4	Severity 35 41	severe
+T5	Detailed_description 42 47	acute
+T6	Sign_symptom 48 52	pain
+T7	Biological_structure 66 71	iliac
+T8	Diagnostic_procedure 104 114	Ultrasound
+T9	Diagnostic_procedure 121 140	computed tomography
+T10	Biological_structure 183 191	appendix
+T11	Sign_symptom 213 219	lesion
+T12	Biological_structure 251 259	appendix
+T13	Lab_value 346 356	uneventful
+T14	Diagnostic_procedure 364 375	examination
+T15	Sign_symptom 411 419	enlarged
+T16	Biological_structure 420 428	appendix
+T17	Sign_symptom 488 494	lesion
+T18	Distance 545 551	1.5 cm
+T19	Biological_structure 604 612	appendix
+T20	Therapeutic_procedure 741 748	surgery
+T21	Diagnostic_procedure 768 779	examination
+T22	Biological_structure 825 833	appendix
+T23	Sign_symptom 874 881	dilated
+T24	Detailed_description 1034 1039	Focal
+T25	Severity 1095 1099	mild
+T26	Clinical_event 1137 1144	present
+T27	Texture 1437 1445	granular
+T28	Severity 1474 1478	mild
+T29	Biological_attribute 1666 1674	nucleoli
+T30	Detailed_description 1700 1709	Scattered
+T31	Clinical_event 1767 1774	present
+T32	Sign_symptom 1807 1812	tumor
+T33	Sign_symptom 1975 1983	invasion
+T34	Sign_symptom 2021 2029	invasion
+T35	Clinical_event 2034 2041	present
+T36	Sign_symptom 2047 2052	tumor
+T37	Biological_structure 2146 2157	lymph nodes
+T38	Lab_value 2208 2216	negative
+T39	Disease_disorder 2221 2231	malignancy
+T40	Sign_symptom 2271 2276	tumor
+T41	Lab_value 2299 2307	positive
+T42	Detailed_description 2390 2397	Diffuse
+T43	Clinical_event 2468 2475	present
+T44	Sign_symptom 2560 2565	tumor

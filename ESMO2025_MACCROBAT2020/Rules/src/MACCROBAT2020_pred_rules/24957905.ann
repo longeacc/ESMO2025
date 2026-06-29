@@ -1,27 +1,127 @@
 T1	Age 2 13	56-year-old
-T2	Sex 31 34	man
-T3	Distance 344 347	5cm
-T4	Severity 348 358	moderately
-T5	Dosage 732 741	1000mg/m2
-T6	Administration 742 744	IV
-T7	Duration 767 773	28-day
-T8	Lab_value 1099 1107	elevated
-T9	Distance 1139 1143	10cm
-T10	Lab_value 1297 1304	grade 3
-T11	Severity 1381 1385	mild
-T12	Severity 1389 1397	moderate
-T13	Administration 1572 1583	intravenous
-T14	Administration 1585 1587	IV
-T15	Lab_value 1613 1624	improvement
-T16	Time 1642 1654	The next day
-T17	Severity 1826 1834	moderate
-T18	Date 2241 2255	two days later
-T19	Date 2588 2603	Two weeks later
-T20	Severity 2694 2702	moderate
-T21	Severity 2855 2861	severe
-T22	Date 3009 3025	two months later
-T23	Administration 3048 3050	IV
-T24	Duration 3128 3138	few months
-T25	Lab_value 3159 3170	improvement
-T26	Lab_value 3231 3235	poor
-T27	Lab_value 3826 3837	improvement
+T2	Personal_background 14 30	African American
+T3	Sex 31 34	man
+T4	Clinical_event 49 58	presented
+T5	Sign_symptom 74 85	weight loss
+T6	Sign_symptom 99 107	jaundice
+T7	Disease_disorder 140 154	adenocarcinoma
+T8	Biological_structure 170 178	pancreas
+T9	Disease_disorder 217 223	cancer
+T10	Sign_symptom 252 262	metastases
+T11	Therapeutic_procedure 282 305	pancreaticoduodenectomy
+T12	Therapeutic_procedure 320 338	surgical resection
+T13	Distance 344 347	5cm
+T14	Severity 348 358	moderately
+T15	Biological_structure 374 384	pancreatic
+T16	Disease_disorder 385 399	adenocarcinoma
+T17	Therapeutic_procedure 441 459	surgical resection
+T18	Diagnostic_procedure 463 487	pathological examination
+T19	Sign_symptom 510 518	invasion
+T20	Therapeutic_procedure 526 534	resected
+T21	Therapeutic_procedure 577 585	resected
+T22	Biological_structure 586 597	lymph nodes
+T23	Disease_disorder 608 614	cancer
+T24	Nonbiological_location 644 663	oncology department
+T25	Medication 701 713	chemotherapy
+T26	Medication 719 730	gemcitabine
+T27	Dosage 732 741	1000mg/m2
+T28	Administration 742 744	IV
+T29	Duration 767 773	28-day
+T30	Sign_symptom 831 841	recurrence
+T31	Medication 906 918	chemotherapy
+T32	Clinical_event 923 932	presented
+T33	Nonbiological_location 940 960	emergency department
+T34	Sign_symptom 1053 1060	fatigue
+T35	Diagnostic_procedure 1066 1086	physical examination
+T36	Lab_value 1099 1107	elevated
+T37	Biological_structure 1108 1115	jugular
+T38	Biological_structure 1116 1122	venous
+T39	Distance 1139 1143	10cm
+T40	Biological_structure 1154 1161	sternal
+T41	Sign_symptom 1180 1185	rales
+T42	Sign_symptom 1201 1206	edema
+T43	Biological_structure 1215 1232	lower extremities
+T44	Biological_structure 1234 1241	Cardiac
+T45	Diagnostic_procedure 1242 1254	auscultation
+T46	Lab_value 1297 1304	grade 3
+T47	Sign_symptom 1318 1324	murmur
+T48	Biological_structure 1344 1349	chest
+T49	Diagnostic_procedure 1350 1355	X-ray
+T50	Sign_symptom 1363 1375	cardiomegaly
+T51	Severity 1381 1385	mild
+T52	Severity 1389 1397	moderate
+T53	Detailed_description 1404 1415	right-sided
+T54	Disease_disorder 1416 1432	pleural effusion
+T55	Clinical_event 1458 1470	presentation
+T56	Detailed_description 1506 1515	secondary
+T57	Disease_disorder 1519 1543	congestive heart failure
+T58	Disease_disorder 1545 1548	CHF
+T59	Administration 1572 1583	intravenous
+T60	Administration 1585 1587	IV
+T61	Medication 1589 1599	furosemide
+T62	Lab_value 1613 1624	improvement
+T63	Sign_symptom 1632 1640	symptoms
+T64	Time 1642 1654	The next day
+T65	Diagnostic_procedure 1674 1690	echocardiography
+T66	Diagnostic_procedure 1746 1763	ejection fraction
+T67	Diagnostic_procedure 1765 1769	LVEF
+T68	Sign_symptom 1803 1814	hypokinesia
+T69	Severity 1826 1834	moderate
+T70	Disease_disorder 1835 1855	mitral regurgitation
+T71	Disease_disorder 1935 1958	coronary artery disease
+T72	Disease_disorder 1960 1963	CAD
+T73	Disease_disorder 1978 1992	cardiomyopathy
+T74	Medication 2073 2084	gemcitabine
+T75	Medication 2118 2128	carvedilol
+T76	Medication 2136 2175	angiotensin-converting enzyme inhibitor
+T77	Medication 2191 2200	diuretics
+T78	Clinical_event 2212 2222	discharged
+T79	Nonbiological_location 2232 2240	hospital
+T80	Date 2241 2255	two days later
+T81	Medication 2348 2360	chemotherapy
+T82	Medication 2366 2377	gemcitabine
+T83	Nonbiological_location 2383 2402	oncology department
+T84	Sign_symptom 2439 2447	ischemia
+T85	Medication 2488 2500	chemotherapy
+T86	Medication 2506 2517	gemcitabine
+T87	Sign_symptom 2560 2570	recurrence
+T88	Date 2588 2603	Two weeks later
+T89	Biological_structure 2627 2637	myocardial
+T90	Severity 2694 2702	moderate
+T91	Sign_symptom 2761 2769	ischemia
+T92	Diagnostic_procedure 2775 2792	ejection fraction
+T93	Severity 2855 2861	severe
+T94	Sign_symptom 2869 2880	hypokinesia
+T95	Disease_disorder 2920 2933	heart failure
+T96	Clinical_event 2956 2965	admission
+T97	Nonbiological_location 2973 2981	hospital
+T98	Disease_disorder 2986 2989	CHF
+T99	Date 3009 3025	two months later
+T100	Administration 3048 3050	IV
+T101	Medication 3051 3061	furosemide
+T102	Disease_disorder 3080 3093	heart failure
+T103	Duration 3128 3138	few months
+T104	Lab_value 3159 3170	improvement
+T105	Detailed_description 3174 3182	systolic
+T106	Diagnostic_procedure 3200 3204	LVEF
+T107	Lab_value 3231 3235	poor
+T108	Medication 3282 3293	gemcitabine
+T109	Medication 3294 3306	chemotherapy
+T110	Sign_symptom 3351 3361	recurrence
+T111	Biological_structure 3369 3379	pancreatic
+T112	Disease_disorder 3380 3386	cancer
+T113	Medication 3407 3419	chemotherapy
+T114	Sign_symptom 3510 3517	dilated
+T115	Disease_disorder 3518 3532	cardiomyopathy
+T116	Medication 3550 3561	gemcitabine
+T117	Sign_symptom 3628 3636	symptoms
+T118	Medication 3658 3669	gemcitabine
+T119	Medication 3670 3682	chemotherapy
+T120	Disease_disorder 3747 3750	CAD
+T121	Sign_symptom 3770 3781	hypokinesia
+T122	Sign_symptom 3805 3813	ischemia
+T123	Lab_value 3826 3837	improvement
+T124	Detailed_description 3845 3853	systolic
+T125	Medication 3888 3899	gemcitabine
+T126	Medication 3925 3936	gemcitabine
+T127	Disease_disorder 3945 3959	cardiomyopathy

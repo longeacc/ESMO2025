@@ -1,0 +1,42 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 10 34	Antécédents oncologiques
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 62 85	allergie médicamenteuse
+T3	Statut_tabagique 94 104	ex-fumeuse
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 254 293	antécédent médico-chirurgical d'intérêt
+T5	Stade_metastatique_avec_localisations 350 379	adénopathie supraclaviculaire
+T6	Histologie_tumorale 413 427	adénocarcinome
+T7	Stade_metastatique_avec_localisations 441 449	stade IV
+T8	Stade_metastatique_avec_localisations 494 523	adénopathie supraclaviculaire
+T9	Topographie_du_primitif 861 893	tumeur dans le corps du pancréas
+T10	Stade_metastatique_avec_localisations 995 1023	adénopathie rétropéritonéale
+T11	Traitement_specifique_du_cancer 1206 1217	gemcitabine
+T12	Traitement_specifique_du_cancer 1220 1229	erlotinib
+T13	Signes_physiques 1317 1332	adénopathie sus
+T14	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 1486 1578	antécédent significatif, bien qu'avec une valeur étiopathogénique impossible à définir, par 
+T15	Symptomes 1827 1834	nausées
+T16	Symptomes 2002 2022	douleurs abdominales
+T17	Symptomes 2149 2156	nausées
+T18	Symptomes 2217 2229	vomissements
+T19	Histologie_tumorale 2479 2493	adénocarcinome
+T20	Stade_metastatique_avec_localisations 2528 2536	stade IV
+T21	Symptomes 2641 2651	hématémèse
+T22	Symptomes 2659 2671	hématochézie
+T23	Signes_physiques 3068 3082	Pâleur cutanéo
+T24	Signes_physiques 3164 3184	adénopathie mobile d
+T25	Stade_metastatique_avec_localisations 5186 5216	adénopathies rétropéritonéales
+T26	Reponse_a_la_chimiotherapie 6081 6101	progression tumorale
+T27	Stade_metastatique_avec_localisations 8369 8399	adénopathies rétropéritonéales
+T28	Histologie_tumorale 9066 9080	Adénocarcinome
+T29	Stade_metastatique_avec_localisations 9094 9102	stade IV
+T30	Symptomes 9549 9559	hématémèse
+T31	Symptomes 9567 9579	hématochézie
+T32	Symptomes 9775 9785	saignement
+T33	Symptomes 10453 10465	saignement s
+T34	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 10784 10870	Antécédents oncologiques depuis la sortie  Le patient poursuit les contrôles dans les 
+T35	Reponse_a_la_chimiotherapie 10940 10964	progression radiologique
+T36	Traitement_specifique_du_cancer 11073 11084	gemcitabine
+T37	Stade_metastatique_avec_localisations 11157 11186	adénopathie supraclaviculaire
+T38	Reponse_a_la_chimiotherapie 11370 11387	réponse partielle
+T39	Stade_metastatique_avec_localisations 11783 11806	adénopathies cervicales
+T40	Traitement_specifique_du_cancer 11890 11897	FOLFIRI
+T41	Signes_physiques 12359 12385	Adénopathie rétrocrurale d
+T42	Signes_physiques 12617 12666	ascite et des douleurs abdominales accompagnées d

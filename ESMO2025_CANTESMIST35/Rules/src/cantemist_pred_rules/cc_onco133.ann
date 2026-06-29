@@ -1,0 +1,21 @@
+T1	Stade_metastatique_avec_localisations 1330 1349	Nodules pulmonaires
+T2	Stade_metastatique_avec_localisations 1437 1461	adénopathie médiastinale
+T3	Traitement_specifique_du_cancer 2586 2595	résection
+T4	Histologie_tumorale 3150 3157	sarcome
+T5	Histologie_tumorale 3261 3268	sarcome
+T6	Traitement_specifique_du_cancer 3357 3366	chirurgie
+T7	Traitement_specifique_du_cancer 3669 3678	Chirurgie
+T8	Traitement_specifique_du_cancer 3888 3902	chimiothérapie
+T9	Traitement_specifique_du_cancer 3929 3941	doxorubicine
+T10	Stade_metastatique_avec_localisations 4090 4109	nodules pulmonaires
+T11	Symptomes 4374 4380	fièvre
+T12	Reponse_a_la_chimiotherapie 4443 4465	progression pulmonaire
+T13	Traitement_specifique_du_cancer 4566 4577	gemcitabine
+T14	Reponse_a_la_chimiotherapie 4984 4998	maladie stable
+T15	Evolutivite_en_lien_avec_le_cancer 5038 5065	intervalle sans progression
+T16	Reponse_a_la_chimiotherapie 5081 5103	progression pulmonaire
+T17	Traitement_specifique_du_cancer 5162 5171	pazopanib
+T18	Stade_metastatique_avec_localisations 5365 5384	nodules pulmonaires
+T19	Traitement_specifique_du_cancer 5753 5762	pazopanib
+T20	Traitement_specifique_du_cancer 5927 5936	pazopanib
+T21	Traitement_specifique_du_cancer 6137 6146	chirurgie

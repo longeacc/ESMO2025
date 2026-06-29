@@ -1,0 +1,47 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 10 114	Antécédents personnels et antécédents oncologiques  Le cas présenté ci-dessous est celui d'une femme de 
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 122 138	sans antécédent 
+T3	Symptomes 166 189	hypertension artérielle
+T4	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 242 270	antécédent personnel notable
+T5	Symptomes 351 359	diarrhée
+T6	Symptomes 429 441	hématochezie
+T7	Histologie_tumorale 580 594	adénocarcinome
+T8	Traitement_specifique_du_cancer 806 828	traitement néoadjuvant
+T9	Traitement_specifique_du_cancer 839 851	capécitabine
+T10	Traitement_specifique_du_cancer 883 896	radiothérapie
+T11	Traitement_specifique_du_cancer 1069 1078	résection
+T12	Traitement_specifique_du_cancer 1185 1197	capécitabine
+T13	Traitement_specifique_du_cancer 1201 1213	oxaliplatine
+T14	Traitement_specifique_du_cancer 1248 1267	traitement adjuvant
+T15	Biomarqueurs_therapeutiques 1417 1422	KRAS 
+T16	Biomarqueurs_therapeutiques 1471 1475	NRAS
+T17	Traitement_specifique_du_cancer 1638 1645	FOLFIRI
+T18	Traitement_specifique_du_cancer 1649 1658	cétuximab
+T19	Traitement_specifique_du_cancer 1719 1733	34 cycles avec
+T20	Traitement_specifique_du_cancer 2033 2042	résection
+T21	Traitement_specifique_du_cancer 2074 2087	radiothérapie
+T22	Reponse_a_la_chimiotherapie 2233 2253	progression tumorale
+T23	Traitement_specifique_du_cancer 2295 2309	chimiothérapie
+T24	Traitement_specifique_du_cancer 2330 2336	FOLFOX
+T25	Traitement_specifique_du_cancer 2345 2356	bevacizumab
+T26	Stade_OMS_ECOG_Karnofsky 2721 2727	ECOG 1
+T27	Traitement_specifique_du_cancer 2816 2828	oxaliplatine
+T28	Traitement_specifique_du_cancer 2877 2888	bevacizumab
+T29	Traitement_specifique_du_cancer 2949 2963	chimiothérapie
+T30	Symptomes 3028 3035	nausées
+T31	Symptomes 3042 3054	vomissements
+T32	Symptomes 3177 3183	fièvre
+T33	Signes_physiques 3307 3319	état général
+T34	Traitement_specifique_du_cancer 4398 4412	chimiothérapie
+T35	Histologie_tumorale 4742 4763	Adénocarcinome rectal
+T36	Evolutivite_en_lien_avec_le_cancer 4809 4816	Rechute
+T37	Symptomes 5596 5603	dyspnée
+T38	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 6552 6564	hypertension
+T39	Reponse_a_la_chimiotherapie 6754 6772	nette amélioration
+T40	Symptomes 7112 7119	dyspnée
+T41	Symptomes 7147 7153	fièvre
+T42	Symptomes 7622 7628	fièvre
+T43	Signes_physiques 7643 7655	état général
+T44	Reponse_a_la_chimiotherapie 8092 8110	nette amélioration
+T45	Signes_physiques 8645 8657	état général
+T46	Symptomes 8680 8688	asthénie
+T47	Traitement_specifique_du_cancer 8780 8794	chimiothérapie

@@ -2,3 +2,4 @@ run_date,model,backend,split,n_docs,method
 2026-06-23T16:41:40,ministral-14b-latest,mistral,test,1149,few-shot
 2026-06-26T13:26:22,mistral-large-latest,mistral,test,1149,few-shot
 2026-06-26T15:41:41,mistral-medium-latest,mistral,test,1149,few-shot
+2026-06-27T12:49:15,ministral-14b-latest,mistral,test,1149,few-shot

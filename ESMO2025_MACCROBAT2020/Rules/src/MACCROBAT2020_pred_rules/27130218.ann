@@ -1,31 +1,99 @@
 T1	Age 2 15	36- year- old
-T2	Color 16 21	white
+T2	Personal_background 16 21	white
 T3	Sex 22 27	woman
 T4	Duration 31 38	40 week
-T5	Lab_value 261 273	unremarkable
-T6	Lab_value 537 543	normal
-T7	Time 551 568	Three hours after
-T8	Sex 589 593	male
-T9	Lab_value 803 810	40 mmHg
-T10	Administration 885 893	infusion
-T11	Dosage 912 918	0.5 mg
-T12	Dosage 944 951	7 μg/kg
-T13	Severity 1272 1278	severe
-T14	Frequency 1364 1369	daily
-T15	Dosage 1375 1380	80 mg
-T16	Lab_value 1406 1413	reduced
-T17	Date 1445 1458	after 12 days
-T18	Distance 1555 1559	5 mm
-T19	Lab_value 1565 1573	negative
-T20	Distance 1619 1623	1 mm
-T21	Lab_value 1680 1688	elevated
-T22	Lab_value 1715 1721	normal
-T23	Lab_value 1764 1770	normal
-T24	Severity 1848 1854	severe
-T25	Lab_value 2198 2204	normal
-T26	Date 2321 2333	After 3 days
-T27	Lab_value 2410 2421	improvement
-T28	Date 2537 2546	fifth day
-T29	Date 2623 2636	after 15 days
-T30	Lab_value 2640 2644	good
-T31	Duration 2667 2676	12- month
+T5	Clinical_event 56 64	admitted
+T6	Nonbiological_location 86 92	clinic
+T7	Detailed_description 97 105	elective
+T8	Subject 165 170	fetus
+T9	History 236 256	past medical history
+T10	Lab_value 261 273	unremarkable
+T11	Family_history 278 327	no family history of cardiac disease was reported
+T12	Biological_structure 407 413	spinal
+T13	Therapeutic_procedure 433 440	surgery
+T14	Sign_symptom 460 471	hypotensive
+T15	Diagnostic_procedure 515 529	blood pressure
+T16	Lab_value 537 543	normal
+T17	Time 551 568	Three hours after
+T18	Sex 589 593	male
+T19	Subject 594 600	infant
+T20	Sign_symptom 628 634	nausea
+T21	Sign_symptom 647 655	dyspnoea
+T22	Sign_symptom 660 672	palpitations
+T23	Diagnostic_procedure 677 697	physical examination
+T24	Sign_symptom 698 709	tachycardia
+T25	Biological_structure 746 755	pulmonary
+T26	Sign_symptom 756 761	rales
+T27	Diagnostic_procedure 781 795	blood pressure
+T28	Lab_value 803 810	40 mmHg
+T29	Medication 846 862	inotropic agents
+T30	Administration 885 893	infusion
+T31	Medication 897 911	norepinephrine
+T32	Dosage 912 918	0.5 mg
+T33	Medication 933 943	dobutamine
+T34	Dosage 944 951	7 μg/kg
+T35	Diagnostic_procedure 980 997	oxygen saturation
+T36	Therapeutic_procedure 1053 1075	mechanical ventilation
+T37	Clinical_event 1108 1119	transferred
+T38	Nonbiological_location 1123 1142	intensive care unit
+T39	Biological_structure 1144 1149	Chest
+T40	Diagnostic_procedure 1150 1155	X ray
+T41	Disease_disorder 1166 1186	pulmonary congestion
+T42	Detailed_description 1188 1197	Emergency
+T43	Biological_structure 1227 1236	pulmonary
+T44	Disease_disorder 1237 1252	thromboembolism
+T45	Severity 1272 1278	severe
+T46	Disease_disorder 1279 1295	pulmonary oedema
+T47	Medication 1331 1339	diuretic
+T48	Medication 1341 1351	furosemide
+T49	Frequency 1364 1369	daily
+T50	Dosage 1375 1380	80 mg
+T51	Lab_value 1406 1413	reduced
+T52	Medication 1419 1427	diuretic
+T53	Date 1445 1458	after 12 days
+T54	Diagnostic_procedure 1477 1494	electrocardiogram
+T55	Sign_symptom 1511 1522	tachycardia
+T56	Distance 1555 1559	5 mm
+T57	Lab_value 1565 1573	negative
+T58	Distance 1619 1623	1 mm
+T59	Diagnostic_procedure 1656 1672	Laboratory tests
+T60	Lab_value 1680 1688	elevated
+T61	Diagnostic_procedure 1689 1697	troponin
+T62	Lab_value 1715 1721	normal
+T63	Diagnostic_procedure 1748 1751	BNP
+T64	Lab_value 1764 1770	normal
+T65	Biological_structure 1802 1815	transthoracic
+T66	Diagnostic_procedure 1816 1832	echocardiography
+T67	Diagnostic_procedure 1834 1837	TTE
+T68	Severity 1848 1854	severe
+T69	Biological_structure 1873 1875	LV
+T70	Detailed_description 1877 1885	systolic
+T71	Clinical_event 1925 1936	transferred
+T72	Biological_structure 1950 1957	Cardiac
+T73	Nonbiological_location 1966 1972	Clinic
+T74	Diagnostic_procedure 1983 1986	TTE
+T75	Biological_structure 1994 1996	LV
+T76	Diagnostic_procedure 1997 2014	ejection fraction
+T77	Sign_symptom 2025 2036	hypokinesis
+T78	Detailed_description 2070 2079	posterior
+T79	Detailed_description 2081 2089	anterior
+T80	Detailed_description 2094 2101	lateral
+T81	Diagnostic_procedure 2167 2187	coronary angiography
+T82	Clinical_event 2188 2197	presented
+T83	Lab_value 2198 2204	normal
+T84	Biological_structure 2214 2222	arteries
+T85	Clinical_event 2228 2237	diagnosis
+T86	Disease_disorder 2266 2280	cardiomyopathy
+T87	Date 2321 2333	After 3 days
+T88	Therapeutic_procedure 2377 2386	extubated
+T89	Lab_value 2410 2421	improvement
+T90	Medication 2423 2439	inotropic agents
+T91	Diagnostic_procedure 2469 2472	TTE
+T92	Diagnostic_procedure 2477 2503	magnetic resonance imaging
+T93	Date 2537 2546	fifth day
+T94	Biological_structure 2575 2585	myocardial
+T95	Clinical_event 2612 2622	discharged
+T96	Date 2623 2636	after 15 days
+T97	Lab_value 2640 2644	good
+T98	Duration 2667 2676	12- month
+T99	Outcome 2701 2713	asymptomatic

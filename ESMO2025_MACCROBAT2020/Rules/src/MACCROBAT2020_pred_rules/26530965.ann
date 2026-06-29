@@ -1,11 +1,68 @@
 T1	Age 2 13	42-year-old
 T2	Sex 14 19	woman
-T3	Severity 89 95	marked
-T4	Date 762 777	After 19 months
-T5	Date 1069 1086	Four months after
-T6	Lab_value 1282 1288	stable
-T7	Duration 1301 1310	12 months
-T8	Date 1617 1631	4 months later
-T9	Date 1746 1761	after 19 months
-T10	Date 1816 1829	after 3 years
-T11	Duration 2039 2047	500 days
+T3	Clinical_event 20 29	presented
+T4	Sign_symptom 50 54	lump
+T5	Sign_symptom 67 71	pain
+T6	Severity 89 95	marked
+T7	Sign_symptom 109 121	hepatomegaly
+T8	Diagnostic_procedure 128 136	biopsies
+T9	Sign_symptom 153 157	lump
+T10	Disease_disorder 172 181	carcinoma
+T11	Diagnostic_procedure 275 281	biopsy
+T12	Biological_structure 302 310	axillary
+T13	Biological_structure 311 321	lymph node
+T14	Detailed_description 338 348	metastatic
+T15	Disease_disorder 356 370	adenocarcinoma
+T16	Nonbiological_location 372 374	ER
+T17	Diagnostic_procedure 399 418	Computed tomography
+T18	Detailed_description 444 454	metastatic
+T19	Biological_structure 466 471	bones
+T20	Biological_structure 473 479	pleura
+T21	Biological_structure 484 489	liver
+T22	Medication 610 622	chemotherapy
+T23	Medication 699 711	chemotherapy
+T24	Medication 735 744	tamoxifen
+T25	Date 762 777	After 19 months
+T26	Clinical_event 796 805	presented
+T27	Sign_symptom 811 819	seizures
+T28	Diagnostic_procedure 829 848	computed tomography
+T29	Sign_symptom 866 876	metastasis
+T30	Therapeutic_procedure 935 943	resected
+T31	Medication 965 974	tamoxifen
+T32	Biological_structure 1023 1029	plasma
+T33	Date 1069 1086	Four months after
+T34	Therapeutic_procedure 1087 1094	surgery
+T35	Biological_structure 1114 1119	liver
+T36	Sign_symptom 1120 1127	lesions
+T37	Detailed_description 1138 1148	metastatic
+T38	Lab_value 1282 1288	stable
+T39	Duration 1301 1310	12 months
+T40	Biological_structure 1403 1408	chest
+T41	Biological_structure 1414 1423	pulmonary
+T42	Sign_symptom 1424 1431	nodules
+T43	Detailed_description 1433 1442	bilateral
+T44	Biological_structure 1443 1450	pleural
+T45	Detailed_description 1465 1474	posterior
+T46	Biological_structure 1475 1480	chest
+T47	Sign_symptom 1486 1490	mass
+T48	Outcome 1611 1615	died
+T49	Date 1617 1631	4 months later
+T50	Sign_symptom 1633 1639	Tumour
+T51	Clinical_event 1665 1674	diagnosis
+T52	Detailed_description 1684 1691	primary
+T53	Biological_structure 1718 1726	axillary
+T54	Biological_structure 1727 1737	lymph node
+T55	Date 1746 1761	after 19 months
+T56	Biological_structure 1771 1776	brain
+T57	Sign_symptom 1777 1787	metastasis
+T58	Date 1816 1829	after 3 years
+T59	Detailed_description 1853 1860	primary
+T60	Detailed_description 1883 1893	metastatic
+T61	Biological_structure 1910 1915	chest
+T62	Biological_structure 1917 1922	liver
+T63	Biological_structure 1934 1943	vertebrae
+T64	Biological_structure 1996 2002	plasma
+T65	Duration 2039 2047	500 days
+T66	Clinical_event 2060 2069	follow-up
+T67	Sign_symptom 2079 2085	Tumour
+T68	Biological_structure 2090 2096	plasma

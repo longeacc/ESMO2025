@@ -1,29 +1,98 @@
 T1	Age 2 13	44-year-old
 T2	Sex 14 17	man
-T3	Date 107 125	3 years previously
-T4	Lab_value 170 178	elevated
-T5	Lab_value 255 261	normal
-T6	Date 807 821	after 3 months
-T7	Administration 941 953	subcutaneous
-T8	Lab_value 1098 1106	abnormal
-T9	Color 1272 1277	white
-T10	Lab_value 1407 1415	elevated
-T11	Lab_value 1455 1464	decreased
-T12	Lab_value 1468 1477	2.8 mEq/L
-T13	Dosage 1516 1522	468 IU
-T14	Dosage 1590 1597	49.1 μg
-T15	Lab_value 1619 1627	elevated
-T16	Lab_value 1653 1661	negative
-T17	Lab_value 1770 1778	negative
-T18	Lab_value 1817 1826	increased
-T19	Texture 2119 2131	ground-glass
-T20	Volume 2249 2255	150 mL
-T21	Lab_value 2549 2557	negative
-T22	Lab_value 2629 2637	positive
-T23	Dosage 2772 2780	12 g/day
-T24	Duration 2786 2793	3 weeks
-T25	Lab_value 3097 3105	improved
-T26	Lab_value 3287 3296	increased
-T27	Dosage 3302 3312	250 mg/day
-T28	Lab_value 3487 3498	improvement
-T29	Date 3757 3765	68th day
+T3	Clinical_event 27 36	diagnosed
+T4	Biological_structure 67 71	bone
+T5	Sign_symptom 72 82	metastasis
+T6	Nonbiological_location 98 106	hospital
+T7	Date 107 125	3 years previously
+T8	Biological_structure 131 136	serum
+T9	Lab_value 170 178	elevated
+T10	Biological_structure 184 189	brain
+T11	Diagnostic_procedure 190 216	magnetic resonance imaging
+T12	Biological_structure 235 244	pituitary
+T13	Lab_value 255 261	normal
+T14	Sign_symptom 315 320	tumor
+T15	Sign_symptom 380 385	tumor
+T16	Medication 467 479	chemotherapy
+T17	Medication 485 494	cisplatin
+T18	Medication 499 509	irinotecan
+T19	Medication 535 547	chemotherapy
+T20	Disease_disorder 623 631	diabetes
+T21	Biological_structure 725 729	bone
+T22	Sign_symptom 730 740	metastasis
+T23	Clinical_event 758 766	referred
+T24	Nonbiological_location 794 806	our hospital
+T25	Date 807 821	after 3 months
+T26	Sign_symptom 844 852	weakness
+T27	Diagnostic_procedure 895 915	physical examination
+T28	Administration 941 953	subcutaneous
+T29	Sign_symptom 954 958	mass
+T30	Detailed_description 984 992	anterior
+T31	Biological_structure 993 998	chest
+T32	Sign_symptom 1016 1024	swelling
+T33	Sign_symptom 1055 1060	fever
+T34	Sign_symptom 1074 1082	symptoms
+T35	Sign_symptom 1084 1093	hypoxemia
+T36	Lab_value 1098 1106	abnormal
+T37	Biological_structure 1107 1112	chest
+T38	Diagnostic_procedure 1125 1142	oxygen saturation
+T39	Diagnostic_procedure 1193 1209	respiratory rate
+T40	Diagnostic_procedure 1247 1266	laboratory findings
+T41	Personal_background 1272 1277	white
+T42	Biological_structure 1278 1283	blood
+T43	Biological_structure 1316 1321	blood
+T44	Lab_value 1407 1415	elevated
+T45	Diagnostic_procedure 1435 1444	potassium
+T46	Lab_value 1455 1464	decreased
+T47	Lab_value 1468 1477	2.8 mEq/L
+T48	Diagnostic_procedure 1493 1500	lactate
+T49	Dosage 1516 1522	468 IU
+T50	Dosage 1590 1597	49.1 μg
+T51	Lab_value 1619 1627	elevated
+T52	Biological_structure 1643 1648	serum
+T53	Lab_value 1653 1661	negative
+T54	Lab_value 1770 1778	negative
+T55	Lab_value 1817 1826	increased
+T56	Sign_symptom 1853 1858	tumor
+T57	Coreference 1890 1901	the disease
+T58	Biological_structure 1947 1952	serum
+T59	Diagnostic_procedure 1982 2001	Computed tomography
+T60	Diagnostic_procedure 2003 2005	CT
+T61	Coreference 2035 2046	the disease
+T62	Detailed_description 2070 2080	metastatic
+T63	Biological_structure 2081 2085	bone
+T64	Sign_symptom 2086 2093	lesions
+T65	Detailed_description 2110 2118	multiple
+T66	Texture 2119 2131	ground-glass
+T67	Biological_structure 2150 2155	lungs
+T68	Volume 2249 2255	150 mL
+T69	Outcome 2295 2304	recovered
+T70	Lab_value 2549 2557	negative
+T71	Lab_value 2629 2637	positive
+T72	Clinical_event 2674 2683	diagnosed
+T73	Medication 2741 2770	sulfamethoxazole/trimethoprim
+T74	Dosage 2772 2780	12 g/day
+T75	Duration 2786 2793	3 weeks
+T76	Medication 2822 2832	metyrapone
+T77	Medication 2938 2945	insulin
+T78	Diagnostic_procedure 2955 2964	potassium
+T79	Medication 3003 3012	cefazolin
+T80	Disease_disorder 3039 3049	cellulitis
+T81	Lab_value 3097 3105	improved
+T82	Medication 3197 3226	sulfamethoxazole/trimethoprim
+T83	Medication 3255 3265	metyrapone
+T84	Lab_value 3287 3296	increased
+T85	Dosage 3302 3312	250 mg/day
+T86	Biological_structure 3322 3327	blood
+T87	Medication 3462 3476	hydrocortisone
+T88	Lab_value 3487 3498	improvement
+T89	Disease_disorder 3521 3531	cellulitis
+T90	Therapeutic_procedure 3595 3612	radiation therapy
+T91	Biological_structure 3617 3623	spinal
+T92	Sign_symptom 3629 3640	compression
+T93	Detailed_description 3669 3679	metastatic
+T94	Biological_structure 3680 3686	spinal
+T95	Sign_symptom 3687 3692	tumor
+T96	Clinical_event 3739 3749	discharged
+T97	Date 3757 3765	68th day
+T98	Clinical_event 3769 3784	hospitalization

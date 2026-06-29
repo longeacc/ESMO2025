@@ -1,14 +1,66 @@
 T1	Age 2 13	57-year-old
-T2	Sex 21 24	man
-T3	Duration 190 198	16 years
-T4	Frequency 515 527	intermittent
-T5	Duration 568 576	20 years
-T6	Frequency 601 606	daily
-T7	Date 621 636	ten years after
-T8	Date 826 835	past year
-T9	Severity 1084 1094	moderately
-T10	Area 1284 1292	64x53 mm
-T11	Duration 1447 1455	25 years
-T12	Date 1670 1679	past year
-T13	Frequency 1835 1842	monthly
-T14	Frequency 1884 1892	16 times
+T2	Personal_background 14 20	Jewish
+T3	Sex 21 24	man
+T4	Biological_structure 58 63	ileum
+T5	Clinical_event 64 73	diagnosed
+T6	Clinical_event 98 107	presented
+T7	Detailed_description 113 121	multiple
+T8	Biological_structure 134 138	skin
+T9	Duration 190 198	16 years
+T10	Medication 304 308	6-MP
+T11	Clinical_event 318 327	diagnosed
+T12	Nonbiological_location 368 374	clinic
+T13	Diagnostic_procedure 420 426	biopsy
+T14	Therapeutic_procedure 431 438	removal
+T15	Sign_symptom 454 461	lesions
+T16	Frequency 515 527	intermittent
+T17	Medication 528 536	steroids
+T18	Clinical_event 540 549	diagnosis
+T19	Duration 568 576	20 years
+T20	Medication 596 600	6-MP
+T21	Frequency 601 606	daily
+T22	Date 621 636	ten years after
+T23	Medication 647 651	6-MP
+T24	Disease_disorder 682 705	squamous cell carcinoma
+T25	Disease_disorder 707 710	SCC
+T26	Disease_disorder 724 744	basal cell carcinoma
+T27	Disease_disorder 746 749	BCC
+T28	Date 826 835	past year
+T29	Nonbiological_location 865 871	clinic
+T30	Sign_symptom 890 897	lesions
+T31	Disease_disorder 912 922	malignancy
+T32	Diagnostic_procedure 988 994	biopsy
+T33	Sign_symptom 1002 1009	lesions
+T34	Disease_disorder 1027 1030	SCC
+T35	Disease_disorder 1043 1046	BCC
+T36	Severity 1084 1094	moderately
+T37	Detailed_description 1123 1144	poorly differentiated
+T38	Biological_structure 1168 1172	skin
+T39	Therapeutic_procedure 1204 1211	surgery
+T40	Sign_symptom 1249 1256	lesions
+T41	Area 1284 1292	64x53 mm
+T42	Diagnostic_procedure 1321 1327	biopsy
+T43	Sign_symptom 1354 1361	lesions
+T44	Biological_structure 1394 1398	skin
+T45	Clinical_event 1408 1416	admitted
+T46	Activity 1430 1442	sun exposure
+T47	Duration 1447 1455	25 years
+T48	Subject 1579 1585	mother
+T49	Biological_structure 1594 1598	skin
+T50	Disease_disorder 1599 1605	cancer
+T51	Sign_symptom 1606 1612	lesion
+T52	Therapeutic_procedure 1613 1620	removed
+T53	Activity 1651 1657	smoker
+T54	Date 1670 1679	past year
+T55	Medication 1696 1700	6-MP
+T56	Medication 1748 1758	adalimumab
+T57	Frequency 1835 1842	monthly
+T58	Biological_structure 1843 1847	skin
+T59	Clinical_event 1871 1883	hospitalized
+T60	Frequency 1884 1892	16 times
+T61	Therapeutic_procedure 1939 1948	resection
+T62	Clinical_event 1984 1999	hospitalization
+T63	Clinical_event 2007 2016	diagnosed
+T64	Detailed_description 2022 2032	metastatic
+T65	Disease_disorder 2033 2047	adenocarcinoma
+T66	Outcome 2072 2083	passed away

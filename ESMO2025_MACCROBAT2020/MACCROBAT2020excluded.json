@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Biological_attribute",
+    "n_mentions": 2,
+    "motif": "n_mentions=2 < 10"
+  },
+  {
+    "entity": "Height",
+    "n_mentions": 1,
+    "motif": "n_mentions=1 < 10"
+  },
+  {
+    "entity": "Mass",
+    "n_mentions": 1,
+    "motif": "n_mentions=1 < 10"
+  },
+  {
+    "entity": "Occupation",
+    "n_mentions": 1,
+    "motif": "n_mentions=1 < 10"
+  },
+  {
+    "entity": "Other_entity",
+    "n_mentions": 2,
+    "motif": "n_mentions=2 < 10"
+  },
+  {
+    "entity": "Other_event",
+    "n_mentions": 4,
+    "motif": "n_mentions=4 < 10"
+  },
+  {
+    "entity": "Outcome",
+    "n_mentions": 9,
+    "motif": "n_mentions=9 < 10"
+  },
+  {
+    "entity": "Qualitative_concept",
+    "n_mentions": 2,
+    "motif": "n_mentions=2 < 10"
+  },
+  {
+    "entity": "Quantitative_concept",
+    "n_mentions": 2,
+    "motif": "n_mentions=2 < 10"
+  },
+  {
+    "entity": "Subject",
+    "n_mentions": 1,
+    "motif": "n_mentions=1 < 10"
+  },
+  {
+    "entity": "Texture",
+    "n_mentions": 8,
+    "motif": "n_mentions=8 < 10"
+  },
+  {
+    "entity": "Time",
+    "n_mentions": 1,
+    "motif": "n_mentions=1 < 10"
+  },
+  {
+    "entity": "Volume",
+    "n_mentions": 5,
+    "motif": "n_mentions=5 < 10"
+  },
+  {
+    "entity": "Weight",
+    "n_mentions": 1,
+    "motif": "n_mentions=1 < 10"
+  }
+]

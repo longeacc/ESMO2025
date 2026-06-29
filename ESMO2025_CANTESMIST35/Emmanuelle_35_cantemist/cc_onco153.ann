@@ -1,0 +1,12 @@
+T1	Stade_metastatique_avec_localisations 301 356	adénopathie hilaire rénale, des métastases de carcinome
+T2	Histologie_tumorale 347 474	carcinome avec embolisation lymphatique morphologiquement évocatrices et immunochimiquement compatibles avec l'origine mammaire
+T3	Stade_OMS_ECOG_Karnofsky 596 603	ECOG) 1
+T4	Signes_physiques 646 699	rétraction aréolaire et une masse de 3 cm de diamètre
+T5	Signes_physiques 701 736	Lymphadénopathie axillaire palpable
+T6	Histologie_tumorale 1037 1057	carcinome infiltrant
+T7	Biomarqueurs_therapeutiques 1059 1110	récepteurs hormonaux négatifs, Her-2 (herceptest 3+
+T8	Histologie_tumorale 1765 1782	Carcinome du sein
+T9	Topographie_du_primitif 1765 1782	Carcinome du sein
+T10	Biomarqueurs_therapeutiques 1783 1827	Her-2 positif, récepteurs hormonaux négatifs
+T11	Stade_metastatique_avec_localisations 1834 1843	cT2 cN1 M
+T12	Traitement_specifique_du_cancer 1922 2035	docétaxel 75 mg/m2 tous les 21 jours, trastuzumab 6 mg/kg tous les 21 jours (dose initiale 8 mg/kg) et pertuzumab

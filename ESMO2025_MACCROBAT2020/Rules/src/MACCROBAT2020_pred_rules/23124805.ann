@@ -1,37 +1,69 @@
 T1	Age 15 25	4-year-old
 T2	Sex 26 29	boy
-T3	Administration 345 352	topical
-T4	Administration 357 361	oral
-T5	Date 545 550	age 5
-T6	Administration 680 690	injections
-T7	Administration 704 715	intravenous
-T8	Administration 717 719	IV
-T9	Date 789 795	age 10
-T10	Dosage 828 835	5 mg/kg
-T11	Lab_value 836 845	increased
-T12	Dosage 849 857	10 mg/kg
-T13	Administration 858 860	IV
-T14	Duration 872 879	6 weeks
-T15	Lab_value 926 937	improvement
-T16	Date 939 951	1 year after
-T17	Lab_value 987 995	worsened
-T18	Date 1001 1010	at age 12
-T19	Dosage 1058 1066	24 mg/m2
-T20	Frequency 1067 1080	every 2 weeks
-T21	Dosage 1133 1141	15 mg/m2
-T22	Frequency 1142 1148	weekly
-T23	Lab_value 1154 1163	increased
-T24	Dosage 1229 1238	750 mg/m2
-T25	Dosage 1260 1268	10 mg/kg
-T26	Administration 1275 1277	IV
-T27	Lab_value 1331 1342	improvement
-T28	Date 1344 1353	At age 16
-T29	Dosage 1802 1809	2 mg/kg
-T30	Duration 1844 1852	6 months
-T31	Administration 1964 1968	oral
-T32	Dosage 1986 1994	low-dose
-T33	Dosage 2007 2020	0.2 mg/kg/day
-T34	Lab_value 2031 2040	unchanged
-T35	Administration 2112 2122	injections
-T36	Frequency 2218 2225	monthly
-T37	Lab_value 2232 2238	normal
+T3	Clinical_event 35 44	diagnosed
+T4	Disease_disorder 142 151	arthritis
+T5	Detailed_description 167 174	diffuse
+T6	Biological_attribute 175 185	eczematous
+T7	Sign_symptom 186 190	rash
+T8	Disease_disorder 242 252	granulomas
+T9	Administration 345 352	topical
+T10	Administration 357 361	oral
+T11	Medication 362 377	corticosteroids
+T12	Disease_disorder 467 476	arthritis
+T13	Sign_symptom 481 485	rash
+T14	Detailed_description 507 516	Bilateral
+T15	Date 545 550	age 5
+T16	Medication 589 601	methotrexate
+T17	Sign_symptom 619 631	inflammation
+T18	Medication 672 679	steroid
+T19	Administration 680 690	injections
+T20	Administration 704 715	intravenous
+T21	Administration 717 719	IV
+T22	Medication 727 745	methylprednisolone
+T23	Date 789 795	age 10
+T24	Medication 803 813	infliximab
+T25	Dosage 828 835	5 mg/kg
+T26	Lab_value 836 845	increased
+T27	Dosage 849 857	10 mg/kg
+T28	Administration 858 860	IV
+T29	Duration 872 879	6 weeks
+T30	Lab_value 926 937	improvement
+T31	Date 939 951	1 year after
+T32	Lab_value 987 995	worsened
+T33	Date 1001 1010	at age 12
+T34	Medication 1017 1027	infliximab
+T35	Medication 1046 1056	Adalimumab
+T36	Dosage 1058 1066	24 mg/m2
+T37	Frequency 1067 1080	every 2 weeks
+T38	Medication 1119 1131	methotrexate
+T39	Dosage 1133 1141	15 mg/m2
+T40	Frequency 1142 1148	weekly
+T41	Lab_value 1154 1163	increased
+T42	Medication 1206 1227	Mycophenolate mofetil
+T43	Dosage 1229 1238	750 mg/m2
+T44	Dosage 1260 1268	10 mg/kg
+T45	Administration 1275 1277	IV
+T46	Lab_value 1331 1342	improvement
+T47	Date 1344 1353	At age 16
+T48	Biological_structure 1396 1403	retinal
+T49	Sign_symptom 1404 1411	lesions
+T50	Detailed_description 1416 1424	anterior
+T51	Sign_symptom 1433 1445	inflammation
+T52	Sign_symptom 1459 1464	edema
+T53	Biological_structure 1489 1496	retinal
+T54	Medication 1534 1541	steroid
+T55	Medication 1551 1565	corticosteroid
+T56	Dosage 1802 1809	2 mg/kg
+T57	Duration 1844 1852	6 months
+T58	Medication 1900 1907	steroid
+T59	Administration 1964 1968	oral
+T60	Medication 1969 1981	methotrexate
+T61	Dosage 1986 1994	low-dose
+T62	Medication 1995 2005	prednisone
+T63	Dosage 2007 2020	0.2 mg/kg/day
+T64	Lab_value 2031 2040	unchanged
+T65	Administration 2112 2122	injections
+T66	Activity 2128 2132	drug
+T67	Diagnostic_procedure 2190 2206	laboratory tests
+T68	Frequency 2218 2225	monthly
+T69	Lab_value 2232 2238	normal

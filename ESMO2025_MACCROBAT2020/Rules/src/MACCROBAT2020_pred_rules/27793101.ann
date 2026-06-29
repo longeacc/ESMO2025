@@ -1,16 +1,90 @@
 T1	Age 2 13	70-year-old
 T2	Sex 14 18	male
-T3	Severity 184 190	severe
-T4	Date 240 254	4 years before
-T5	Color 861 865	Blue
-T6	Distance 1212 1217	15-mm
-T7	Distance 1359 1364	28-mm
-T8	Distance 1528 1533	15-mm
-T9	Distance 1743 1748	28-mm
-T10	Distance 1789 1795	3.0 mm
-T11	Distance 1798 1803	15-mm
-T12	Time 2206 2218	the next day
-T13	Date 2275 2284	fifth day
-T14	Time 2396 2408	the next day
-T15	Distance 2731 2736	40-mm
-T16	Color 3219 3222	red
+T3	Clinical_event 23 31	admitted
+T4	Nonbiological_location 35 47	our hospital
+T5	Biological_structure 66 73	cardiac
+T6	Biological_structure 88 97	abdominal
+T7	Biological_structure 98 104	aortic
+T8	Sign_symptom 105 113	aneurysm
+T9	Therapeutic_procedure 164 172	grafting
+T10	Severity 184 190	severe
+T11	Sign_symptom 191 199	stenosis
+T12	Date 240 254	4 years before
+T13	Biological_structure 294 302	thoracic
+T14	Detailed_description 329 337	anterior
+T15	Biological_structure 461 470	abdominal
+T16	Biological_structure 471 477	aortic
+T17	Sign_symptom 478 486	aneurysm
+T18	Therapeutic_procedure 503 510	surgery
+T19	Sign_symptom 562 570	stenosis
+T20	Therapeutic_procedure 619 622	PCI
+T21	Sign_symptom 646 654	stenosis
+T22	Biological_structure 706 713	femoral
+T23	Therapeutic_procedure 741 749	catheter
+T24	Color 861 865	Blue
+T25	Detailed_description 917 923	distal
+T26	Detailed_description 1041 1047	distal
+T27	Diagnostic_procedure 1067 1077	ultrasound
+T28	Sign_symptom 1164 1177	calcification
+T29	Sign_symptom 1190 1196	lesion
+T30	Distance 1212 1217	15-mm
+T31	Therapeutic_procedure 1243 1251	catheter
+T32	Sign_symptom 1292 1298	lesion
+T33	Disease_disorder 1331 1341	dissection
+T34	Distance 1359 1364	28-mm
+T35	Disease_disorder 1468 1478	dissection
+T36	Sign_symptom 1509 1516	dilated
+T37	Distance 1528 1533	15-mm
+T38	Therapeutic_procedure 1559 1567	catheter
+T39	Disease_disorder 1593 1603	dissection
+T40	Diagnostic_procedure 1621 1632	angiography
+T41	Distance 1743 1748	28-mm
+T42	Distance 1789 1795	3.0 mm
+T43	Distance 1798 1803	15-mm
+T44	Sign_symptom 1942 1948	lesion
+T45	Sign_symptom 2005 2013	hematoma
+T46	Biological_structure 2021 2028	femoral
+T47	Sign_symptom 2053 2061	bleeding
+T48	Therapeutic_procedure 2081 2088	removal
+T49	Biological_structure 2096 2103	femoral
+T50	Sign_symptom 2122 2133	compression
+T51	Sign_symptom 2167 2175	hematoma
+T52	Time 2206 2218	the next day
+T53	Clinical_event 2239 2249	discharged
+T54	Nonbiological_location 2259 2267	hospital
+T55	Date 2275 2284	fifth day
+T56	Therapeutic_procedure 2291 2294	PCI
+T57	Clinical_event 2326 2334	admitted
+T58	Nonbiological_location 2342 2356	emergency room
+T59	Biological_structure 2372 2377	chest
+T60	Sign_symptom 2378 2382	pain
+T61	Sign_symptom 2387 2395	dyspnoea
+T62	Time 2396 2408	the next day
+T63	Clinical_event 2419 2428	discharge
+T64	Diagnostic_procedure 2434 2445	vital signs
+T65	Disease_disorder 2456 2473	cardiogenic shock
+T66	Diagnostic_procedure 2475 2492	Electrocardiogram
+T67	Diagnostic_procedure 2538 2554	echocardiography
+T68	Sign_symptom 2607 2611	mass
+T69	Detailed_description 2684 2701	Contrast-enhanced
+T70	Diagnostic_procedure 2702 2721	computed tomography
+T71	Distance 2731 2736	40-mm
+T72	Sign_symptom 2737 2745	hematoma
+T73	Biological_structure 2767 2776	pulmonary
+T74	Biological_structure 2798 2813	right ventricle
+T75	Diagnostic_procedure 2830 2841	examination
+T76	Therapeutic_procedure 2933 2946	resuscitation
+T77	Detailed_description 2963 2974	spontaneous
+T78	Therapeutic_procedure 3088 3095	surgery
+T79	Therapeutic_procedure 3104 3111	removal
+T80	Sign_symptom 3119 3127	hematoma
+T81	Therapeutic_procedure 3198 3205	surgery
+T82	Color 3219 3222	red
+T83	Biological_structure 3241 3250	pulmonary
+T84	Biological_structure 3268 3273	aorta
+T85	Sign_symptom 3328 3336	hematoma
+T86	Biological_structure 3341 3346	blood
+T87	Therapeutic_procedure 3408 3414	repair
+T88	Outcome 3428 3432	died
+T89	Biological_structure 3438 3444	aortic
+T90	Biological_structure 3473 3480	cardiac

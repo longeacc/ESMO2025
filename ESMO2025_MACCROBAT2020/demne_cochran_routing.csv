@@ -1,0 +1,28 @@
+Corpus,entity,n_mentions,L_Rules,recall_Rules,L_TBM,recall_TBM,L_LLM,recall_LLM,n_effective,Q_stat,p_cochran,p_mcnemar_rules_tbm,p_mcnemar_rules_llm,p_mcnemar_tbm_llm,motif,decision
+maccrobat,Activity,31,6,0.1935,11,0.3548,16,0.5161,21.0,7.8947,0.019305,0.226562,0.006348,0.301758,McNemar significatif pour LLM (1 paire(s)),LLM
+maccrobat,Administration,30,24,0.8,27,0.9,20,0.6667,27.0,10.5714,0.005063,0.25,0.125,0.015625,McNemar significatif pour TBM (1 paire(s)),TBM
+maccrobat,Age,52,48,0.9231,48,0.9231,49,0.9423,49.0,2.0,0.367879,,,,Cochran Q non significatif,Rules
+maccrobat,Area,10,8,0.8,5,0.5,0,0.0,,,,,,,Exclu: n_effective=9 < 10 (après retrait lignes tout-0),Rules
+maccrobat,Biological_structure,757,218,0.288,631,0.8336,408,0.539,691.0,468.7349,0.0,0.0,0.0,0.0,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Clinical_event,137,108,0.7883,111,0.8102,92,0.6715,124.0,13.6087,0.001109,0.663624,0.010097,0.003085,"Egalite McNemar ['Rules', 'TBM'] -> Rules retenu par frugalite",Rules
+maccrobat,Color,14,6,0.4286,11,0.7857,11,0.7857,13.0,6.25,0.043937,0.125,0.0625,1.0,Aucun McNemar significatif apres Bonferroni,Rules
+maccrobat,Coreference,71,0,0.0,11,0.1549,1,0.0141,12.0,18.5,9.6e-05,0.000977,1.0,0.006348,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Date,166,106,0.6386,123,0.741,34,0.2048,135.0,130.0388,0.0,0.012462,0.0,0.0,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Detailed_description,735,112,0.1524,427,0.581,243,0.3306,494.0,340.6848,0.0,0.0,0.0,0.0,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Diagnostic_procedure,1047,303,0.2894,880,0.8405,496,0.4737,912.0,713.9779,0.0,0.0,0.0,0.0,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Disease_disorder,306,49,0.1601,211,0.6895,178,0.5817,248.0,193.7181,0.0,0.0,0.0,0.001452,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Distance,26,19,0.7308,22,0.8462,19,0.7308,24.0,1.6364,0.441233,,,,Cochran Q non significatif,Rules
+maccrobat,Dosage,82,41,0.5,51,0.622,22,0.2683,65.0,24.1111,6e-06,0.100348,0.003948,7e-06,"Egalite McNemar ['Rules', 'TBM'] -> Rules retenu par frugalite",Rules
+maccrobat,Duration,73,33,0.4521,57,0.7808,55,0.7534,63.0,29.5556,0.0,2.7e-05,7.2e-05,0.790527,"Egalite McNemar ['TBM', 'LLM'] -> TBM retenu par frugalite",TBM
+maccrobat,Family_history,10,2,0.2,4,0.4,0,0.0,,,,,,,Exclu: n_effective=4 < 10 (après retrait lignes tout-0),Rules
+maccrobat,Frequency,16,5,0.3125,5,0.3125,8,0.5,13.0,1.5,0.472367,,,,Cochran Q non significatif,Rules
+maccrobat,History,80,8,0.1,44,0.55,16,0.2,49.0,48.7273,0.0,0.0,0.021484,1.2e-05,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Lab_value,668,200,0.2994,459,0.6871,322,0.482,503.0,265.7889,0.0,0.0,0.0,0.0,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Medication,216,104,0.4815,189,0.875,165,0.7639,196.0,103.8018,0.0,0.0,0.0,4.8e-05,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Nonbiological_location,78,25,0.3205,62,0.7949,64,0.8205,71.0,59.0612,0.0,0.0,0.0,0.803619,"Egalite McNemar ['TBM', 'LLM'] -> TBM retenu par frugalite",TBM
+maccrobat,Personal_background,13,9,0.6923,12,0.9231,12,0.9231,12.0,6.0,0.049787,0.25,0.25,1.0,Aucun McNemar significatif apres Bonferroni,Rules
+maccrobat,Severity,100,59,0.59,83,0.83,66,0.66,88.0,25.3889,3e-06,1.4e-05,0.189247,0.000488,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Sex,48,48,1.0,48,1.0,48,1.0,,,,,,,"Dégénéré: colonnes identiques, pas de variance",Rules
+maccrobat,Shape,17,10,0.5882,11,0.6471,7,0.4118,15.0,2.3636,0.306721,,,,Cochran Q non significatif,Rules
+maccrobat,Sign_symptom,786,370,0.4707,635,0.8079,419,0.5331,675.0,276.7564,0.0,0.0,0.004057,0.0,McNemar significatif pour TBM (2 paire(s)),TBM
+maccrobat,Therapeutic_procedure,288,71,0.2465,213,0.7396,146,0.5069,244.0,152.9192,0.0,0.0,0.0,0.0,McNemar significatif pour TBM (2 paire(s)),TBM

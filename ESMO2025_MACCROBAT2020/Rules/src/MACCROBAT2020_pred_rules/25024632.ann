@@ -1,9 +1,35 @@
 T1	Age 2 13	29-year-old
 T2	Sex 14 23	primipara
-T3	Severity 65 71	severe
-T4	Date 232 248	one year earlier
-T5	Area 344 356	20 cm × 5 cm
-T6	Lab_value 368 376	resolved
-T7	Lab_value 443 449	normal
-T8	Volume 1125 1130	1.5 L
-T9	Date 1251 1267	three years post
+T3	Clinical_event 24 33	presented
+T4	Detailed_description 53 63	persistent
+T5	Severity 65 71	severe
+T6	Biological_structure 91 100	abdominal
+T7	Sign_symptom 101 105	pain
+T8	Detailed_description 113 117	deep
+T9	Activity 131 148	physical exercise
+T10	Clinical_event 226 231	birth
+T11	Date 232 248	one year earlier
+T12	Biological_structure 323 328	liver
+T13	Sign_symptom 329 337	hematoma
+T14	Area 344 356	20 cm × 5 cm
+T15	Lab_value 368 376	resolved
+T16	Clinical_event 403 415	presentation
+T17	Diagnostic_procedure 417 437	liver function tests
+T18	Lab_value 443 449	normal
+T19	Biological_structure 541 547	pelvic
+T20	Biological_structure 606 615	abdominal
+T21	Biological_structure 640 649	abdominal
+T22	Diagnostic_procedure 650 676	magnetic resonance imaging
+T23	Biological_structure 704 709	liver
+T24	Biological_structure 714 723	diaphragm
+T25	Sign_symptom 762 770	hematoma
+T26	Clinical_event 826 834	referred
+T27	Biological_structure 948 953	liver
+T28	Biological_structure 977 986	diaphragm
+T29	Disease_disorder 1081 1091	dissection
+T30	Volume 1125 1130	1.5 L
+T31	Biological_structure 1171 1181	peritoneal
+T32	Clinical_event 1235 1244	follow-up
+T33	Date 1251 1267	three years post
+T34	Therapeutic_procedure 1268 1275	surgery
+T35	Sign_symptom 1293 1301	symptoms

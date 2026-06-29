@@ -1,0 +1,17 @@
+T1	Histologie_tumorale 211 219	mélanome
+T2	Stade_metastatique_avec_localisations 310 318	pT3aN0M0
+T3	Traitement_specifique_du_cancer 324 378	chirurgie d'élargissement + lymphadénectomie axillaire
+T4	Signes_physiques 1135 1263	lésion surélevée se distingue dans la région lombaire, sous-cutanée, de consistance solide et d'un peu moins de 1 cm de diamètre
+T5	Stade_metastatique_avec_localisations 1334 1356	métastase sous-cutanée
+T6	Histologie_tumorale 1360 1368	mélanome
+T7	Stade_metastatique_avec_localisations 1423 1577	multiples métastases (au niveau de la vésicule biliaire, des implants péritonéaux, des ganglions lymphatiques rétropéritonéaux et des nodules sous-cutanés
+T8	Biomarqueurs_therapeutiques 1614 1643	altération V600E du gène BRAF
+T9	Histologie_tumorale 1692 1700	mélanome
+T10	Stade_metastatique_avec_localisations 1692 1735	mélanome diagnostiqué en 1992, métastatique
+T11	Biomarqueurs_therapeutiques 1748 1775	mutation V600E du gène BRAF
+T12	Stade_metastatique_avec_localisations 1829 1850	mélanome métastatique
+T13	Histologie_tumorale 1829 1837	mélanome
+T14	Traitement_specifique_du_cancer 1936 1947	vémurafénib
+T15	Reponse_a_la_chimiotherapie 2218 2386	réponse complète de son nodule péritonéal sous-diaphragmatique et une réponse partielle des métastases de la vésicule biliaire, de la peau et des ganglions lymphatiques
+T16	Reponse_a_la_chimiotherapie 2496 2514	rémission complète
+T17	Reponse_a_la_chimiotherapie 3364 3382	rémission complète

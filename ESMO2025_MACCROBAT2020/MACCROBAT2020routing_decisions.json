@@ -1,0 +1,193 @@
+{
+  "Activity": {
+    "decision": "LLM",
+    "n_mentions": 31,
+    "p_cochran": 0.019305
+  },
+  "Administration": {
+    "decision": "TBM",
+    "n_mentions": 30,
+    "p_cochran": 0.005063
+  },
+  "Age": {
+    "decision": "Rules",
+    "n_mentions": 52,
+    "p_cochran": 0.367879
+  },
+  "Area": {
+    "decision": "Rules",
+    "n_mentions": 10,
+    "p_cochran": NaN
+  },
+  "Biological_attribute": {
+    "decision": "excluded",
+    "n_mentions": 2
+  },
+  "Biological_structure": {
+    "decision": "TBM",
+    "n_mentions": 757,
+    "p_cochran": 0.0
+  },
+  "Clinical_event": {
+    "decision": "Rules",
+    "n_mentions": 137,
+    "p_cochran": 0.001109
+  },
+  "Color": {
+    "decision": "Rules",
+    "n_mentions": 14,
+    "p_cochran": 0.043937
+  },
+  "Coreference": {
+    "decision": "TBM",
+    "n_mentions": 71,
+    "p_cochran": 9.6e-05
+  },
+  "Date": {
+    "decision": "TBM",
+    "n_mentions": 166,
+    "p_cochran": 0.0
+  },
+  "Detailed_description": {
+    "decision": "TBM",
+    "n_mentions": 735,
+    "p_cochran": 0.0
+  },
+  "Diagnostic_procedure": {
+    "decision": "TBM",
+    "n_mentions": 1047,
+    "p_cochran": 0.0
+  },
+  "Disease_disorder": {
+    "decision": "TBM",
+    "n_mentions": 306,
+    "p_cochran": 0.0
+  },
+  "Distance": {
+    "decision": "Rules",
+    "n_mentions": 26,
+    "p_cochran": 0.441233
+  },
+  "Dosage": {
+    "decision": "Rules",
+    "n_mentions": 82,
+    "p_cochran": 6e-06
+  },
+  "Duration": {
+    "decision": "TBM",
+    "n_mentions": 73,
+    "p_cochran": 0.0
+  },
+  "Family_history": {
+    "decision": "Rules",
+    "n_mentions": 10,
+    "p_cochran": NaN
+  },
+  "Frequency": {
+    "decision": "Rules",
+    "n_mentions": 16,
+    "p_cochran": 0.472367
+  },
+  "Height": {
+    "decision": "excluded",
+    "n_mentions": 1
+  },
+  "History": {
+    "decision": "TBM",
+    "n_mentions": 80,
+    "p_cochran": 0.0
+  },
+  "Lab_value": {
+    "decision": "TBM",
+    "n_mentions": 668,
+    "p_cochran": 0.0
+  },
+  "Mass": {
+    "decision": "excluded",
+    "n_mentions": 1
+  },
+  "Medication": {
+    "decision": "TBM",
+    "n_mentions": 216,
+    "p_cochran": 0.0
+  },
+  "Nonbiological_location": {
+    "decision": "TBM",
+    "n_mentions": 78,
+    "p_cochran": 0.0
+  },
+  "Occupation": {
+    "decision": "excluded",
+    "n_mentions": 1
+  },
+  "Other_entity": {
+    "decision": "excluded",
+    "n_mentions": 2
+  },
+  "Other_event": {
+    "decision": "excluded",
+    "n_mentions": 4
+  },
+  "Outcome": {
+    "decision": "excluded",
+    "n_mentions": 9
+  },
+  "Personal_background": {
+    "decision": "Rules",
+    "n_mentions": 13,
+    "p_cochran": 0.049787
+  },
+  "Qualitative_concept": {
+    "decision": "excluded",
+    "n_mentions": 2
+  },
+  "Quantitative_concept": {
+    "decision": "excluded",
+    "n_mentions": 2
+  },
+  "Severity": {
+    "decision": "TBM",
+    "n_mentions": 100,
+    "p_cochran": 3e-06
+  },
+  "Sex": {
+    "decision": "Rules",
+    "n_mentions": 48,
+    "p_cochran": NaN
+  },
+  "Shape": {
+    "decision": "Rules",
+    "n_mentions": 17,
+    "p_cochran": 0.306721
+  },
+  "Sign_symptom": {
+    "decision": "TBM",
+    "n_mentions": 786,
+    "p_cochran": 0.0
+  },
+  "Subject": {
+    "decision": "excluded",
+    "n_mentions": 1
+  },
+  "Texture": {
+    "decision": "excluded",
+    "n_mentions": 8
+  },
+  "Therapeutic_procedure": {
+    "decision": "TBM",
+    "n_mentions": 288,
+    "p_cochran": 0.0
+  },
+  "Time": {
+    "decision": "excluded",
+    "n_mentions": 1
+  },
+  "Volume": {
+    "decision": "excluded",
+    "n_mentions": 5
+  },
+  "Weight": {
+    "decision": "excluded",
+    "n_mentions": 1
+  }
+}

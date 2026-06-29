@@ -1,15 +1,65 @@
 T1	Age 2 13	70–year–old
 T2	Sex 14 20	female
-T3	Duration 120 127	3 years
-T4	Dosage 230 240	100 mg/day
-T5	Lab_value 294 307	148 beats/min
-T6	Lab_value 331 339	100 mmHg
-T7	Severity 760 768	moderate
-T8	Shape 803 808	round
-T9	Distance 867 872	18 mm
-T10	Shape 1012 1019	annular
-T11	Lab_value 1128 1135	30 mmHg
-T12	Lab_value 1446 1455	increased
-T13	Volume 1599 1607	6 ml/day
-T14	Duration 1638 1645	3 weeks
-T15	Date 1698 1711	After 3 weeks
+T3	Clinical_event 21 30	presented
+T4	Nonbiological_location 38 58	Emergency Department
+T5	Sign_symptom 64 76	palpitations
+T6	Detailed_description 90 98	anterior
+T7	Sign_symptom 99 108	epistaxis
+T8	Duration 120 127	3 years
+T9	Disease_disorder 139 158	atrial fibrillation
+T10	Detailed_description 163 170	chronic
+T11	Disease_disorder 171 184	heart failure
+T12	Medication 222 229	aspirin
+T13	Dosage 230 240	100 mg/day
+T14	Diagnostic_procedure 242 262	Physical examination
+T15	Lab_value 294 307	148 beats/min
+T16	Diagnostic_procedure 309 323	blood pressure
+T17	Lab_value 331 339	100 mmHg
+T18	Sign_symptom 360 366	murmur
+T19	Sign_symptom 381 387	murmur
+T20	Biological_structure 429 446	lower extremities
+T21	Sign_symptom 447 455	swelling
+T22	Detailed_description 506 514	anterior
+T23	Sign_symptom 515 524	epistaxis
+T24	Diagnostic_procedure 538 555	electrocardiogram
+T25	Disease_disorder 565 584	atrial fibrillation
+T26	Sign_symptom 595 603	ischemia
+T27	Diagnostic_procedure 641 644	INR
+T28	Biological_structure 679 692	transthoracic
+T29	Diagnostic_procedure 693 709	echocardiography
+T30	Sign_symptom 721 731	thickening
+T31	Severity 760 768	moderate
+T32	Shape 803 808	round
+T33	Sign_symptom 809 813	mass
+T34	Biological_structure 821 832	left atrium
+T35	Detailed_description 834 847	heterogeneous
+T36	Distance 867 872	18 mm
+T37	Sign_symptom 950 955	tumor
+T38	Biological_structure 977 984	cardiac
+T39	Shape 1012 1019	annular
+T40	Diagnostic_procedure 1053 1069	echocardiography
+T41	Lab_value 1128 1135	30 mmHg
+T42	Diagnostic_procedure 1211 1228	ejection fraction
+T43	Sign_symptom 1250 1254	mass
+T44	Diagnostic_procedure 1321 1337	echocardiography
+T45	Sign_symptom 1380 1384	mass
+T46	Sign_symptom 1386 1395	Epistaxis
+T47	Disease_disorder 1424 1437	heart failure
+T48	Lab_value 1446 1455	increased
+T49	Biological_structure 1456 1462	venous
+T50	Clinical_event 1489 1497	referred
+T51	Therapeutic_procedure 1520 1527	surgery
+T52	Nonbiological_location 1528 1534	clinic
+T53	Therapeutic_procedure 1552 1559	surgery
+T54	Medication 1561 1576	Anticoagulation
+T55	Volume 1599 1607	6 ml/day
+T56	Duration 1638 1645	3 weeks
+T57	Sign_symptom 1666 1675	epistaxis
+T58	Date 1698 1711	After 3 weeks
+T59	Diagnostic_procedure 1716 1732	echocardiography
+T60	Sign_symptom 1763 1767	mass
+T61	Biological_structure 1775 1786	left atrium
+T62	Sign_symptom 1816 1820	mass
+T63	Sign_symptom 1838 1846	thrombus
+T64	Sign_symptom 1915 1923	thrombus
+T65	Disease_disorder 1961 1980	atrial fibrillation

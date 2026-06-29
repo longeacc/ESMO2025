@@ -1,10 +1,46 @@
-T1	Age 25 36	66-year-old
-T2	Sex 37 43	female
-T3	Time 182 194	The next day
-T4	Duration 591 604	several hours
-T5	Severity 742 748	severe
-T6	Severity 1073 1079	severe
-T7	Lab_value 1247 1255	resolved
-T8	Distance 1689 1694	27-mm
-T9	Date 1830 1842	3 days later
-T10	Date 1898 1913	One month later
+T1	Clinical_event 3 10	present
+T2	Age 25 36	66-year-old
+T3	Sex 37 43	female
+T4	History 57 92	no significant past medical history
+T5	Clinical_event 93 103	presenting
+T6	Biological_structure 109 114	chest
+T7	Sign_symptom 115 119	pain
+T8	Nonbiological_location 158 170	primary care
+T9	Time 182 194	The next day
+T10	Clinical_event 199 208	presented
+T11	Nonbiological_location 216 230	emergency room
+T12	Diagnostic_procedure 241 258	electrocardiogram
+T13	Disease_disorder 296 317	myocardial infarction
+T14	Diagnostic_procedure 360 375	catheterization
+T15	Detailed_description 530 537	lateral
+T16	Duration 591 604	several hours
+T17	Disease_disorder 634 651	cardiogenic shock
+T18	Biological_structure 662 668	aortic
+T19	Severity 742 748	severe
+T20	Disease_disorder 749 769	mitral regurgitation
+T21	Biological_structure 796 802	muscle
+T22	Detailed_description 874 885	progressive
+T23	Disease_disorder 917 932	pulmonary edema
+T24	Nonbiological_location 1014 1028	operating room
+T25	Diagnostic_procedure 1046 1062	echocardiography
+T26	Severity 1073 1079	severe
+T27	Disease_disorder 1080 1100	mitral regurgitation
+T28	Biological_structure 1141 1147	muscle
+T29	Biological_structure 1160 1171	left atrium
+T30	Therapeutic_procedure 1210 1232	cardiopulmonary bypass
+T31	Lab_value 1247 1255	resolved
+T32	Biological_structure 1316 1328	mitral valve
+T33	Biological_structure 1392 1404	right atrium
+T34	Biological_structure 1490 1496	muscle
+T35	Biological_structure 1545 1551	muscle
+T36	Detailed_description 1594 1602	anterior
+T37	Biological_structure 1618 1630	mitral valve
+T38	Therapeutic_procedure 1635 1642	excised
+T39	Detailed_description 1661 1670	posterior
+T40	Distance 1689 1694	27-mm
+T41	Date 1830 1842	3 days later
+T42	Date 1898 1913	One month later
+T43	Clinical_event 1929 1938	discharge
+T44	Outcome 1944 1951	expired
+T45	Disease_disorder 1969 1978	pneumonia
+T46	Disease_disorder 1998 2004	sepsis

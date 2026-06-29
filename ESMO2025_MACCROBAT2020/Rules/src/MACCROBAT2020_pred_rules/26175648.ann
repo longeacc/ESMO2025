@@ -1,34 +1,127 @@
 T1	Date 3 13	March 2009
 T2	Age 17 28	21-year-old
 T3	Sex 29 32	man
-T4	Frequency 86 98	intermittent
-T5	Date 395 411	one month before
-T6	Frequency 428 440	intermittent
-T7	Lab_value 494 499	39 °C
-T8	Color 667 673	salmon
-T9	Color 738 744	salmon
-T10	Distance 801 805	2-mm
-T11	Lab_value 958 966	elevated
-T12	Lab_value 1067 1073	normal
-T13	Dosage 1088 1096	200 mg/d
-T14	Severity 1175 1184	extensive
-T15	Severity 1533 1537	mild
-T16	Distance 1578 1582	8 mm
-T17	Duration 1642 1650	few days
-T18	Lab_value 2087 2095	elevated
-T19	Lab_value 2131 2139	increase
-T20	Distance 2187 2192	12 mm
-T21	Volume 2281 2286	60 mL
-T22	Severity 2365 2369	mild
-T23	Severity 2380 2386	severe
-T24	Severity 2421 2425	mild
-T25	Volume 2484 2490	350 mL
-T26	Lab_value 2591 2599	negative
-T27	Lab_value 2635 2647	unremarkable
-T28	Dosage 2760 2771	0.5 mg/kg/d
-T29	Lab_value 2809 2820	improvement
-T30	Severity 2919 2923	mild
-T31	Distance 2948 2952	3 mm
-T32	Date 3222 3236	2 months after
-T33	Lab_value 3304 3312	resolved
-T34	Date 3349 3365	Ten months after
+T4	Clinical_event 37 45	admitted
+T5	Sign_symptom 74 82	symptoms
+T6	Frequency 86 98	intermittent
+T7	Sign_symptom 99 104	fever
+T8	Sign_symptom 106 114	headache
+T9	Biological_structure 133 137	skin
+T10	Sign_symptom 138 142	rash
+T11	Sign_symptom 163 172	petechiae
+T12	History 215 233	previously healthy
+T13	History 242 263	history of drug abuse
+T14	Medication 285 295	medication
+T15	Date 395 411	one month before
+T16	Clinical_event 412 421	admission
+T17	Frequency 428 440	intermittent
+T18	Sign_symptom 446 451	fever
+T19	Biological_structure 471 479	axillary
+T20	Lab_value 494 499	39 °C
+T21	Sign_symptom 527 536	headaches
+T22	Detailed_description 538 547	bilateral
+T23	Sign_symptom 562 572	arthralgia
+T24	Sign_symptom 629 638	petechiae
+T25	Color 667 673	salmon
+T26	Sign_symptom 682 686	rash
+T27	Sign_symptom 701 707	nausea
+T28	Sign_symptom 713 721	vomiting
+T29	Color 738 744	salmon
+T30	Sign_symptom 753 757	rash
+T31	Biological_structure 778 783	chest
+T32	Biological_structure 788 795	abdomen
+T33	Distance 801 805	2-mm
+T34	Sign_symptom 806 815	petechiae
+T35	Disease_disorder 870 879	arthritis
+T36	Sign_symptom 898 913	lymphadenopathy
+T37	Sign_symptom 917 935	hepatosplenomegaly
+T38	Biological_structure 937 942	Blood
+T39	Lab_value 958 966	elevated
+T40	Diagnostic_procedure 1026 1029	ECG
+T41	Biological_structure 1035 1040	chest
+T42	Lab_value 1067 1073	normal
+T43	Medication 1075 1084	Ibuprofen
+T44	Dosage 1088 1096	200 mg/d
+T45	Severity 1175 1184	extensive
+T46	Biological_structure 1221 1226	blood
+T47	Diagnostic_procedure 1372 1374	CT
+T48	Biological_structure 1391 1396	chest
+T49	Biological_structure 1398 1405	abdomen
+T50	Biological_structure 1407 1413	pelvis
+T51	Biological_structure 1474 1487	transthoracic
+T52	Diagnostic_procedure 1504 1507	TTE
+T53	Severity 1533 1537	mild
+T54	Sign_symptom 1538 1558	pericardial effusion
+T55	Distance 1578 1582	8 mm
+T56	Duration 1642 1650	few days
+T57	Detailed_description 1670 1677	diffuse
+T58	Biological_structure 1678 1683	chest
+T59	Sign_symptom 1684 1688	pain
+T60	Sign_symptom 1704 1708	pain
+T61	Biological_structure 1725 1730	chest
+T62	Detailed_description 1761 1765	deep
+T63	Sign_symptom 1815 1826	hypotensive
+T64	Sign_symptom 1828 1839	tachycardic
+T65	Biological_structure 1875 1882	jugular
+T66	Biological_structure 1883 1889	venous
+T67	Sign_symptom 1890 1900	distention
+T68	Diagnostic_procedure 1906 1909	ECG
+T69	Sign_symptom 1923 1934	tachycardia
+T70	Detailed_description 1939 1946	diffuse
+T71	Biological_structure 1981 1986	chest
+T72	Diagnostic_procedure 1987 1997	radiograph
+T73	Sign_symptom 2010 2018	enlarged
+T74	Biological_structure 2019 2026	cardiac
+T75	Lab_value 2087 2095	elevated
+T76	Diagnostic_procedure 2117 2120	TTE
+T77	Lab_value 2131 2139	increase
+T78	Sign_symptom 2147 2167	pericardial effusion
+T79	Distance 2187 2192	12 mm
+T80	Biological_structure 2228 2233	heart
+T81	Detailed_description 2244 2253	Emergency
+T82	Volume 2281 2286	60 mL
+T83	Diagnostic_procedure 2328 2330	CT
+T84	Biological_structure 2338 2343	chest
+T85	Biological_structure 2348 2355	abdomen
+T86	Severity 2365 2369	mild
+T87	Severity 2380 2386	severe
+T88	Disease_disorder 2392 2408	pleural effusion
+T89	Severity 2421 2425	mild
+T90	Sign_symptom 2426 2433	ascites
+T91	Volume 2484 2490	350 mL
+T92	Biological_structure 2510 2517	pleural
+T93	Biological_structure 2542 2547	heart
+T94	Biological_structure 2552 2556	lung
+T95	Medication 2557 2563	fluids
+T96	Lab_value 2591 2599	negative
+T97	Diagnostic_procedure 2614 2625	examination
+T98	Lab_value 2635 2647	unremarkable
+T99	Clinical_event 2678 2687	diagnosis
+T100	Medication 2748 2758	prednisone
+T101	Dosage 2760 2771	0.5 mg/kg/d
+T102	Lab_value 2809 2820	improvement
+T103	Clinical_event 2882 2891	follow-up
+T104	Severity 2919 2923	mild
+T105	Sign_symptom 2924 2944	pericardial effusion
+T106	Distance 2948 2952	3 mm
+T107	Clinical_event 3106 3116	discharged
+T108	Nonbiological_location 3126 3134	hospital
+T109	Medication 3151 3161	prednisone
+T110	Sign_symptom 3175 3185	recurrence
+T111	Biological_structure 3189 3200	pericardial
+T112	Disease_disorder 3205 3221	pleural effusion
+T113	Date 3222 3236	2 months after
+T114	Clinical_event 3237 3246	discharge
+T115	Medication 3254 3268	corticosteroid
+T116	Lab_value 3304 3312	resolved
+T117	Medication 3329 3339	prednisone
+T118	Date 3349 3365	Ten months after
+T119	Clinical_event 3366 3375	discharge
+T120	Clinical_event 3389 3398	presented
+T121	Clinical_event 3424 3433	follow-up
+T122	Clinical_event 3434 3439	visit
+T123	Outcome 3448 3460	asymptomatic
+T124	Medication 3483 3497	corticosteroid
+T125	Clinical_event 3507 3516	Follow-up
+T126	Diagnostic_procedure 3517 3520	ECG
+T127	Diagnostic_procedure 3525 3528	TTE

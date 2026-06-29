@@ -1,32 +1,110 @@
 T1	Age 2 13	65-year-old
 T2	Sex 14 19	woman
-T3	Date 77 94	Three years prior
-T4	Lab_value 324 336	unremarkable
-T5	Duration 463 469	1 year
-T6	Duration 542 549	2 years
-T7	Duration 594 601	3 years
-T8	Frequency 662 674	intermittent
-T9	Severity 809 813	mild
-T10	Severity 873 879	mildly
-T11	Lab_value 880 888	elevated
-T12	Dosage 900 906	2.2 mg
-T13	Dosage 932 938	2.38 g
-T14	Distance 1399 1405	3.2 cm
-T15	Area 1420 1447	2.5 cm × 2.4 cm in diameter
-T16	Date 1621 1639	3 years previously
-T17	Severity 2470 2479	extensive
-T18	Distance 2563 2568	10-mm
-T19	Severity 2986 2994	markedly
-T20	Lab_value 2995 3004	decreased
-T21	Lab_value 3081 3090	decreased
-T22	Lab_value 3096 3103	19 mmHg
-T23	Lab_value 3107 3113	8 mmHg
-T24	Date 3275 3287	after 1 year
-T25	Lab_value 3340 3346	normal
-T26	Lab_value 3595 3604	decreased
-T27	Distance 3616 3622	2.4 cm
-T28	Area 3637 3664	2.0 cm × 1.9 cm in diameter
-T29	Lab_value 3713 3722	decreased
-T30	Distance 3726 3732	1.9 cm
-T31	Area 3747 3774	1.6 cm × 1.5 cm in diameter
-T32	Duration 3778 3784	1 year
+T3	Clinical_event 20 29	presented
+T4	Sign_symptom 71 75	pain
+T5	Date 77 94	Three years prior
+T6	Clinical_event 125 134	diagnosed
+T7	Detailed_description 140 150	idiopathic
+T8	Detailed_description 178 185	Doppler
+T9	Diagnostic_procedure 186 196	ultrasound
+T10	Diagnostic_procedure 202 213	examination
+T11	Sign_symptom 221 232	obstruction
+T12	Biological_structure 256 263	hepatic
+T13	Lab_value 324 336	unremarkable
+T14	Medication 359 367	warfarin
+T15	Duration 463 469	1 year
+T16	Duration 542 549	2 years
+T17	Outcome 568 580	asymptomatic
+T18	Duration 594 601	3 years
+T19	Frequency 662 674	intermittent
+T20	Sign_symptom 675 679	pain
+T21	Biological_structure 715 722	abdomen
+T22	Diagnostic_procedure 767 787	Physical examination
+T23	Severity 809 813	mild
+T24	Sign_symptom 835 845	tenderness
+T25	Diagnostic_procedure 847 863	Laboratory tests
+T26	Severity 873 879	mildly
+T27	Lab_value 880 888	elevated
+T28	Diagnostic_procedure 889 898	bilirubin
+T29	Dosage 900 906	2.2 mg
+T30	Diagnostic_procedure 915 922	albumin
+T31	Dosage 932 938	2.38 g
+T32	Biological_structure 997 1002	Liver
+T33	Detailed_description 1119 1136	contrast-enhanced
+T34	Diagnostic_procedure 1137 1156	computed tomography
+T35	Diagnostic_procedure 1158 1160	CT
+T36	Biological_structure 1205 1212	hepatic
+T37	Sign_symptom 1220 1232	hepatomegaly
+T38	Sign_symptom 1238 1249	hypertrophy
+T39	Sign_symptom 1271 1283	splenomegaly
+T40	Biological_structure 1285 1292	hepatic
+T41	Biological_structure 1293 1299	venous
+T42	Sign_symptom 1328 1336	aneurysm
+T43	Biological_structure 1365 1376	portal vein
+T44	Height 1399 1415	3.2 cm in height
+T45	Area 1420 1447	2.5 cm × 2.4 cm in diameter
+T46	Sign_symptom 1466 1474	aneurysm
+T47	History 1539 1577	history of trauma and it had not been 
+T48	Clinical_event 1577 1584	present
+T49	Detailed_description 1588 1595	Doppler
+T50	Diagnostic_procedure 1599 1610	examination
+T51	Date 1621 1639	3 years previously
+T52	Sign_symptom 1669 1676	ascites
+T53	Sign_symptom 1689 1697	bleeding
+T54	Biological_structure 1749 1756	hepatic
+T55	Biological_structure 1757 1763	venous
+T56	Sign_symptom 1772 1783	obstruction
+T57	Sign_symptom 1806 1810	pain
+T58	Sign_symptom 1848 1856	aneurysm
+T59	Sign_symptom 1886 1894	aneurysm
+T60	Therapeutic_procedure 2003 2011	grafting
+T61	Biological_structure 2080 2087	hepatic
+T62	Biological_structure 2088 2094	venous
+T63	Sign_symptom 2103 2114	obstruction
+T64	Coreference 2245 2258	The procedure
+T65	Medication 2306 2314	sedation
+T66	Biological_structure 2316 2327	Portal vein
+T67	Biological_structure 2362 2369	hepatic
+T68	Sign_symptom 2428 2436	aneurysm
+T69	Biological_structure 2457 2468	portal vein
+T70	Severity 2470 2479	extensive
+T71	Biological_structure 2493 2504	portal vein
+T72	Disease_disorder 2505 2515	thrombosis
+T73	Sign_symptom 2539 2546	varices
+T74	Distance 2563 2568	10-mm
+T75	Detailed_description 2659 2669	Peripheral
+T76	Biological_structure 2735 2740	liver
+T77	Biological_structure 2800 2811	portal vein
+T78	Sign_symptom 2831 2839	aneurysm
+T79	Biological_structure 2840 2844	neck
+T80	Biological_structure 2890 2895	blood
+T81	Biological_structure 2908 2919	portal vein
+T82	Severity 2986 2994	markedly
+T83	Lab_value 2995 3004	decreased
+T84	Sign_symptom 3005 3013	aneurysm
+T85	Lab_value 3081 3090	decreased
+T86	Lab_value 3096 3103	19 mmHg
+T87	Lab_value 3107 3113	8 mmHg
+T88	Outcome 3127 3136	recovered
+T89	Outcome 3167 3177	resolution
+T90	Biological_structure 3185 3194	abdominal
+T91	Sign_symptom 3195 3199	pain
+T92	Clinical_event 3216 3226	discharged
+T93	Medication 3240 3248	warfarin
+T94	Outcome 3262 3274	asymptomatic
+T95	Date 3275 3287	after 1 year
+T96	Clinical_event 3291 3300	follow-up
+T97	Diagnostic_procedure 3314 3330	laboratory tests
+T98	Lab_value 3340 3346	normal
+T99	Diagnostic_procedure 3347 3361	liver function
+T100	Detailed_description 3367 3374	Doppler
+T101	Diagnostic_procedure 3378 3389	examination
+T102	Diagnostic_procedure 3557 3559	CT
+T103	Sign_symptom 3582 3590	aneurysm
+T104	Lab_value 3595 3604	decreased
+T105	Height 3616 3632	2.4 cm in height
+T106	Area 3637 3664	2.0 cm × 1.9 cm in diameter
+T107	Lab_value 3713 3722	decreased
+T108	Height 3726 3742	1.9 cm in height
+T109	Area 3747 3774	1.6 cm × 1.5 cm in diameter
+T110	Duration 3778 3784	1 year

@@ -1,0 +1,26 @@
+T1	Statut_tabagique 44 72	fumeur actif (85 paquets/an)
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 119 187	bronchite emphysémateuse chronique sous traitement bronchodilatateur
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 264 361	antécédents de résection transurétrale en 2009 pour urothélial papillaire de bas grade carcinome,
+T4	Biomarqueurs_therapeutiques 1739 1743	TTF1
+T5	Biomarqueurs_therapeutiques 1747 1750	CK7
+T6	Stade_OMS_ECOG_Karnofsky 733 739	ECOG 1
+T7	Symptomes 520 588	douleurs pleurétiques et d'une dyspnée d'effort modéré depuis 2 mois
+T8	Symptomes 615 706	syndrome toxique, avec une perte de poids allant jusqu'à 12 kg au cours des 6 derniers mois
+T9	Signes_physiques 799 846	hypophonèse basale gauche, tachycarde à 100 bpm
+T10	Biomarqueurs_therapeutiques 1591 1720	immunohistochimie a montré une positivité pour les marqueurs tumoraux neuroendocrines CD56, la synaptophysine et la chromogranine
+T11	Topographie_du_primitif 1322 1373	Fortement évocateur d’un mésothéliome pleural malin
+T12	Stade_metastatique_avec_localisations 2054 2103	adénopathies médiastinales suspectes de malignité
+T13	Histologie_tumorale 2177 2222	carcinome neuroendocrinien à grandes cellules
+T14	Traitement_specifique_du_cancer 2449 2476	carboplatine AUC5-étoposide
+T15	Reponse_a_la_chimiotherapie 2538 2755	Après le premier cycle, l'épaississement pleural s'est pratiquement résolu sur la radiographie de contrôle et le scanner d'évaluation après trois cycles a confirmé une réduction significative de l'implication tumorale
+T16	Reponse_a_la_chimiotherapie 2898 2980	Au scanner de contrôle après 3 mois, les masses tumorales pleurales réapparaissent
+T17	Reponse_a_la_chimiotherapie 3068 3133	réponse excellente et rapide présentée avec la première intention
+T18	Traitement_specifique_du_cancer 3191 3229	schéma thérapeutique à base de platine
+T19	Reponse_a_la_chimiotherapie 3383 3556	Après quatre cycles avec une tolérance correcte, il a obtenu à nouveau une réponse partielle, présentant une diminution des lésions pleurales et ganglionnaires médiastinales
+T20	Reponse_a_la_chimiotherapie 3718 3795	progression au niveau de la plèvre ipsilatérale et des ganglions lymphatiques
+T21	Reponse_a_la_chimiotherapie 3890 3944	maladie avait parfaitement répondu aux chimiothérapies
+T22	Traitement_specifique_du_cancer 4099 4121	carboplatine-étoposide
+T23	Symptomes 4261 4313	douleurs thoraciques, une dyspnée et une asthénie G2
+T24	Traitement_specifique_du_cancer 4469 4478	topotécan
+T25	Histologie_tumorale 4609 4667	carcinome neuroendocrinien métastatique à grandes cellules
+T26	Traitement_specifique_du_cancer 4887 4919	chimiothérapie à base de platine

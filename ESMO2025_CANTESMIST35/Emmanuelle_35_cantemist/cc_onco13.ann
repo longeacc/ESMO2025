@@ -1,0 +1,5 @@
+T1	Histologie_tumorale 75 89	hépatoblastome
+T2	Stade_metastatique_avec_localisations 75 102	hépatoblastome métastatique
+T3	Statut_tabagique 281 298	10 paquets-années
+T4	Symptomes 180 200	douleurs abdominales
+T5	Symptomes 445 474	douleurs abdominales diffuses

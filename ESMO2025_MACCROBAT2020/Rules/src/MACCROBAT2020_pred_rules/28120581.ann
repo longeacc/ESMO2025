@@ -1,14 +1,46 @@
 T1	Age 5 16	73-year-old
 T2	Sex 17 23	female
-T3	Severity 389 395	severe
-T4	Area 560 568	10×25 mm
-T5	Duration 657 667	13 seconds
-T6	Severity 678 684	severe
-T7	Administration 884 892	infusion
-T8	Area 1140 1147	8×40 mm
-T9	Area 1525 1533	10×82 mm
-T10	Distance 1677 1682	30 mm
-T11	Texture 2098 2102	firm
-T12	Lab_value 2306 2310	poor
-T13	Severity 2356 2362	severe
-T14	Area 2501 2508	7×37 mm
+T3	Disease_disorder 43 66	coronary artery disease
+T4	Biological_structure 108 116	left arm
+T5	Activity 117 125	exercise
+T6	Sign_symptom 126 134	weakness
+T7	Biological_structure 200 210	upper limb
+T8	Sign_symptom 235 243	stenosis
+T9	Sign_symptom 270 283	calcification
+T10	Biological_structure 360 367	femoral
+T11	Severity 389 395	severe
+T12	Sign_symptom 405 413	stenosis
+T13	Area 560 568	10×25 mm
+T14	Duration 657 667	13 seconds
+T15	Severity 678 684	severe
+T16	Sign_symptom 685 704	shortness of breath
+T17	Sign_symptom 709 720	hypotension
+T18	Diagnostic_procedure 751 765	blood pressure
+T19	Diagnostic_procedure 793 803	heart rate
+T20	Diagnostic_procedure 822 839	oxygen saturation
+T21	Therapeutic_procedure 866 876	intubation
+T22	Administration 884 892	infusion
+T23	Medication 894 909	inotropic agent
+T24	Medication 915 929	norepinephrine
+T25	Diagnostic_procedure 956 967	angiography
+T26	Detailed_description 1078 1087	Emergency
+T27	Area 1140 1147	8×40 mm
+T28	Biological_structure 1467 1472	iliac
+T29	Area 1525 1533	10×82 mm
+T30	Biological_structure 1614 1623	abdominal
+T31	Biological_structure 1624 1630	aortic
+T32	Distance 1677 1682	30 mm
+T33	Biological_structure 1920 1927	carotid
+T34	Diagnostic_procedure 1957 1968	angiography
+T35	Texture 2098 2102	firm
+T36	Lab_value 2306 2310	poor
+T37	Diagnostic_procedure 2326 2336	ultrasound
+T38	Severity 2356 2362	severe
+T39	Biological_structure 2478 2485	carotid
+T40	Area 2501 2508	7×37 mm
+T41	Diagnostic_procedure 2718 2728	ultrasound
+T42	Clinical_event 2793 2802	follow-up
+T43	Biological_structure 2803 2808	chest
+T44	Therapeutic_procedure 2879 2887	drainage
+T45	Clinical_event 2921 2931	discharged
+T46	Sign_symptom 2974 2982	symptoms

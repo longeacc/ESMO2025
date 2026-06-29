@@ -1,35 +1,134 @@
 T1	Date 16 20	2014
 T2	Age 24 35	70-year-old
 T3	Sex 36 39	man
-T4	Date 358 362	2015
-T5	Severity 635 645	moderately
-T6	Lab_value 877 885	positive
-T7	Administration 1027 1029	IV
-T8	Dosage 1128 1135	1 cycle
-T9	Date 1312 1316	2015
-T10	Severity 1444 1453	extensive
-T11	Administration 1754 1758	Oral
-T12	Dosage 1768 1774	850 mg
-T13	Frequency 1775 1785	once a day
-T14	Dosage 2056 2061	64 Gy
-T15	Dosage 2065 2077	30 fractions
-T16	Dosage 2110 2115	52 Gy
-T17	Dosage 2119 2131	26 fractions
-T18	Date 2294 2307	2 weeks after
-T19	Dosage 2752 2757	66 Gy
-T20	Dosage 2761 2773	28 fractions
-T21	Frequency 2896 2910	every 2 months
-T22	Date 2912 2928	Two months after
-T23	Lab_value 2978 2984	stable
-T24	Lab_value 3035 3043	improved
-T25	Date 3229 3243	September 2015
-T26	Lab_value 3276 3285	increased
-T27	Date 3398 3411	November 2015
-T28	Frequency 3467 3479	intermittent
-T29	Date 3797 3809	After 1 week
-T30	Lab_value 3839 3847	resolved
-T31	Date 3849 3864	One month later
-T32	Frequency 3896 3908	intermittent
-T33	Date 3939 3943	2015
-T34	Severity 3965 3974	extensive
-T35	Date 4059 4063	2016
+T4	Biological_structure 55 64	abdominal
+T5	Sign_symptom 65 69	pain
+T6	Sign_symptom 71 80	dizziness
+T7	Sign_symptom 86 92	nausea
+T8	Clinical_event 97 105	referred
+T9	Nonbiological_location 127 135	Hospital
+T10	Diagnostic_procedure 151 162	Gastroscopy
+T11	Sign_symptom 203 210	lesions
+T12	Biological_structure 230 237	gastric
+T13	Sign_symptom 279 287	stenosis
+T14	Biological_structure 295 302	stomach
+T15	Biological_structure 304 311	Gastric
+T16	Diagnostic_procedure 312 318	biopsy
+T17	Disease_disorder 328 342	adenocarcinoma
+T18	Date 358 362	2015
+T19	Therapeutic_procedure 375 386	gastrectomy
+T20	Detailed_description 443 450	Diffuse
+T21	Sign_symptom 451 459	enlarged
+T22	Biological_structure 465 471	aortic
+T23	Detailed_description 476 484	anterior
+T24	Biological_structure 494 504	pancreatic
+T25	Biological_structure 505 516	lymph nodes
+T26	Biological_structure 529 540	lymph nodes
+T27	Biological_structure 559 566	hepatic
+T28	Therapeutic_procedure 588 596	resected
+T29	Severity 635 645	moderately
+T30	Biological_structure 661 668	gastric
+T31	Disease_disorder 669 683	adenocarcinoma
+T32	Lab_value 877 885	positive
+T33	Clinical_event 1007 1016	diagnosis
+T34	Administration 1027 1029	IV
+T35	Biological_structure 1030 1037	gastric
+T36	Disease_disorder 1038 1052	adenocarcinoma
+T37	Detailed_description 1058 1066	multiple
+T38	Sign_symptom 1078 1088	metastases
+T39	Dosage 1128 1135	1 cycle
+T40	Medication 1139 1151	chemotherapy
+T41	Medication 1157 1168	oxaliplatin
+T42	Date 1312 1316	2015
+T43	Therapeutic_procedure 1327 1339	radiotherapy
+T44	Therapeutic_procedure 1365 1377	radiotherapy
+T45	Diagnostic_procedure 1408 1427	computed tomography
+T46	Diagnostic_procedure 1429 1432	PET
+T47	Diagnostic_procedure 1433 1435	CT
+T48	Severity 1444 1453	extensive
+T49	Sign_symptom 1462 1472	metastasis
+T50	Biological_structure 1499 1510	mediastinal
+T51	Biological_structure 1511 1522	lymph nodes
+T52	Biological_structure 1528 1539	lymph nodes
+T53	Biological_structure 1555 1564	abdominal
+T54	Sign_symptom 1669 1673	mass
+T55	Administration 1754 1758	Oral
+T56	Medication 1759 1767	apatinib
+T57	Dosage 1768 1774	850 mg
+T58	Frequency 1775 1785	once a day
+T59	Therapeutic_procedure 1814 1826	radiotherapy
+T60	Therapeutic_procedure 1990 2007	radiation therapy
+T61	Dosage 2056 2061	64 Gy
+T62	Dosage 2065 2077	30 fractions
+T63	Biological_structure 2085 2096	mediastinum
+T64	Dosage 2110 2115	52 Gy
+T65	Dosage 2119 2131	26 fractions
+T66	Biological_structure 2145 2154	abdominal
+T67	Detailed_description 2155 2165	metastatic
+T68	Sign_symptom 2166 2173	lesions
+T69	Biological_structure 2208 2218	lymph node
+T70	Medication 2236 2244	apatinib
+T71	Diagnostic_procedure 2272 2275	PET
+T72	Diagnostic_procedure 2276 2278	CT
+T73	Date 2294 2307	2 weeks after
+T74	Therapeutic_procedure 2308 2320	radiotherapy
+T75	Diagnostic_procedure 2424 2431	glucose
+T76	Biological_structure 2489 2499	lymph node
+T77	Detailed_description 2516 2526	metastatic
+T78	Medication 2559 2567	apatinib
+T79	Therapeutic_procedure 2572 2589	radiation therapy
+T80	Sign_symptom 2642 2648	Tumors
+T81	Therapeutic_procedure 2738 2750	radiotherapy
+T82	Dosage 2752 2757	66 Gy
+T83	Dosage 2761 2773	28 fractions
+T84	Biological_structure 2803 2813	lymph node
+T85	Sign_symptom 2830 2840	metastasis
+T86	Sign_symptom 2842 2847	Tumor
+T87	Frequency 2896 2910	every 2 months
+T88	Date 2912 2928	Two months after
+T89	Biological_structure 2938 2943	chest
+T90	Biological_structure 2949 2958	abdominal
+T91	Diagnostic_procedure 2959 2961	CT
+T92	Lab_value 2978 2984	stable
+T93	Sign_symptom 2994 3000	anemia
+T94	Sign_symptom 3022 3030	symptoms
+T95	Lab_value 3035 3043	improved
+T96	Biological_structure 3128 3133	renal
+T97	Sign_symptom 3147 3158	proteinuria
+T98	Medication 3208 3216	apatinib
+T99	Date 3229 3243	September 2015
+T100	Clinical_event 3247 3256	follow-up
+T101	Diagnostic_procedure 3257 3268	examination
+T102	Lab_value 3276 3285	increased
+T103	Diagnostic_procedure 3339 3350	gastroscopy
+T104	Biological_structure 3355 3364	abdominal
+T105	Diagnostic_procedure 3365 3367	CT
+T106	Date 3398 3411	November 2015
+T107	Frequency 3467 3479	intermittent
+T108	Sign_symptom 3480 3492	hematochezia
+T109	Medication 3494 3502	Apatinib
+T110	Sign_symptom 3542 3550	bleeding
+T111	Diagnostic_procedure 3552 3563	Gastroscopy
+T112	Sign_symptom 3585 3593	stenosis
+T113	Biological_structure 3601 3608	gastric
+T114	Disease_disorder 3609 3615	cancer
+T115	Disease_disorder 3633 3643	hemorrhage
+T116	Therapeutic_procedure 3691 3708	chemoradiotherapy
+T117	Therapeutic_procedure 3710 3731	Symptomatic treatment
+T118	Activity 3750 3754	drug
+T119	Therapeutic_procedure 3764 3779	supportive care
+T120	Date 3797 3809	After 1 week
+T121	Lab_value 3839 3847	resolved
+T122	Date 3849 3864	One month later
+T123	Frequency 3896 3908	intermittent
+T124	Sign_symptom 3909 3921	hematochezia
+T125	Date 3939 3943	2015
+T126	Diagnostic_procedure 3945 3948	PET
+T127	Diagnostic_procedure 3949 3951	CT
+T128	Severity 3965 3974	extensive
+T129	Sign_symptom 3975 3985	metastasis
+T130	Therapeutic_procedure 4029 4044	supportive care
+T131	Date 4059 4063	2016
+T132	Outcome 4077 4081	died
+T133	Biological_structure 4089 4098	pulmonary
+T134	Disease_disorder 4099 4108	infection

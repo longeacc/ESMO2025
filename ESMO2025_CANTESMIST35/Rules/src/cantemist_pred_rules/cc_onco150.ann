@@ -1,0 +1,15 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 41 132	antécédents de mammoplastie d'augmentation rétropectorale à 38 ans et d'annexhystérectomie 
+T2	Traitement_specifique_du_cancer 318 327	chirurgie
+T3	Histologie_tumorale 361 391	carcinome canalaire infiltrant
+T4	Traitement_specifique_du_cancer 470 489	traitement adjuvant
+T5	Histologie_tumorale 1399 1429	carcinome canalaire infiltrant
+T6	Biomarqueurs_therapeutiques 1554 1567	Her-2 négatif
+T7	Biomarqueurs_therapeutiques 1569 1576	Ki-67 7
+T8	Histologie_tumorale 1759 1789	carcinome canalaire infiltrant
+T9	Biomarqueurs_therapeutiques 1990 2004	synaptophysine
+T10	Biomarqueurs_therapeutiques 2008 2021	chromogranine
+T11	Biomarqueurs_therapeutiques 2052 2057	Her-2
+T12	Biomarqueurs_therapeutiques 2072 2079	Ki-67 4
+T13	Histologie_tumorale 2458 2488	carcinome canalaire infiltrant
+T14	Traitement_specifique_du_cancer 2729 2781	traitement adjuvant par chimiothérapie fluorouracile
+T15	Traitement_specifique_du_cancer 3019 3032	radiothérapie

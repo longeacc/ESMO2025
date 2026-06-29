@@ -1,31 +1,96 @@
 T1	Age 2 13	47-year-old
 T2	Sex 14 20	female
-T3	Lab_value 242 254	unremarkable
-T4	Lab_value 365 374	increased
-T5	Lab_value 724 733	Decreased
-T6	Lab_value 956 964	elevated
-T7	Lab_value 1012 1021	decreased
-T8	Lab_value 1095 1104	increased
-T9	Lab_value 1129 1138	decreased
-T10	Lab_value 1260 1266	normal
-T11	Lab_value 1450 1456	normal
-T12	Lab_value 1509 1517	negative
-T13	Lab_value 1899 1907	negative
-T14	Severity 1920 1924	mild
-T15	Lab_value 2101 2109	elevated
-T16	Lab_value 2155 2163	positive
-T17	Lab_value 2259 2267	abnormal
-T18	Dosage 2440 2447	4 g/day
-T19	Dosage 2470 2477	3 g/day
-T20	Duration 2482 2489	2 weeks
-T21	Dosage 2513 2522	20 mg/day
-T22	Duration 2527 2534	1 month
-T23	Dosage 2536 2545	10 mg/day
-T24	Duration 2550 2558	4 months
-T25	Dosage 2580 2589	1.0 g/day
-T26	Duration 2594 2602	5 months
-T27	Dosage 2626 2636	600 mg/day
-T28	Duration 2641 2649	5 months
-T29	Dosage 2691 2700	0.5 g/day
-T30	Duration 2705 2713	5 months
-T31	Lab_value 2774 2783	increased
+T3	Clinical_event 29 38	presented
+T4	Sign_symptom 63 67	pain
+T5	Biological_structure 75 80	chest
+T6	Detailed_description 97 106	bilateral
+T7	Biological_structure 107 124	lower extremities
+T8	Biological_structure 136 142	muscle
+T9	Sign_symptom 143 151	weakness
+T10	Family_history 172 215	family history of bone disease or fractures
+T11	Diagnostic_procedure 217 237	Physical examination
+T12	Lab_value 242 254	unremarkable
+T13	Biological_structure 265 269	bone
+T14	Biological_structure 274 282	muscular
+T15	Biological_structure 298 302	Bone
+T16	Lab_value 365 374	increased
+T17	Detailed_description 399 407	multiple
+T18	Biological_structure 408 412	ribs
+T19	Biological_structure 414 422	thoracic
+T20	Detailed_description 442 451	bilateral
+T21	Disease_disorder 533 545	osteoporosis
+T22	Biological_structure 556 564	thoracic
+T23	Biological_structure 576 581	spine
+T24	Sign_symptom 593 604	compression
+T25	Diagnostic_procedure 659 685	magnetic resonance imaging
+T26	Diagnostic_procedure 690 709	computed tomography
+T27	Diagnostic_procedure 711 713	CT
+T28	Lab_value 724 733	Decreased
+T29	Biological_structure 734 738	bone
+T30	Sign_symptom 739 743	mass
+T31	Clinical_event 748 757	presented
+T32	Biological_structure 772 777	spine
+T33	Biological_structure 795 802	femoral
+T34	Biological_structure 803 807	neck
+T35	Lab_value 956 964	elevated
+T36	Diagnostic_procedure 974 977	ALP
+T37	Lab_value 1012 1021	decreased
+T38	Diagnostic_procedure 1058 1068	urinalysis
+T39	Lab_value 1095 1104	increased
+T40	Diagnostic_procedure 1114 1123	potassium
+T41	Lab_value 1129 1138	decreased
+T42	Detailed_description 1191 1201	Persistent
+T43	Sign_symptom 1217 1228	proteinuria
+T44	Lab_value 1260 1266	normal
+T45	Biological_structure 1277 1283	plasma
+T46	Diagnostic_procedure 1284 1291	glucose
+T47	Diagnostic_procedure 1305 1320	laboratory test
+T48	Biological_structure 1339 1346	thyroid
+T49	Biological_structure 1362 1367	serum
+T50	Biological_structure 1368 1379	parathyroid
+T51	Lab_value 1450 1456	normal
+T52	Biological_structure 1484 1489	serum
+T53	Sign_symptom 1490 1495	tumor
+T54	Lab_value 1509 1517	negative
+T55	Biological_structure 1578 1583	serum
+T56	Clinical_event 1631 1640	diagnosis
+T57	Diagnostic_procedure 1696 1715	computed tomography
+T58	Diagnostic_procedure 1725 1731	PET/CT
+T59	Sign_symptom 1843 1848	tumor
+T60	Lab_value 1899 1907	negative
+T61	Severity 1920 1924	mild
+T62	Biological_structure 1947 1950	rib
+T63	Diagnostic_procedure 1964 1970	PET/CT
+T64	Sign_symptom 2017 2023	lesion
+T65	Diagnostic_procedure 2082 2093	examination
+T66	Lab_value 2101 2109	elevated
+T67	Biological_structure 2119 2124	serum
+T68	Lab_value 2155 2163	positive
+T69	Lab_value 2259 2267	abnormal
+T70	Diagnostic_procedure 2276 2282	biopsy
+T71	Clinical_event 2297 2306	diagnosis
+T72	Clinical_event 2351 2360	diagnosed
+T73	Detailed_description 2369 2378	secondary
+T74	Dosage 2440 2447	4 g/day
+T75	Diagnostic_procedure 2452 2461	potassium
+T76	Dosage 2470 2477	3 g/day
+T77	Duration 2482 2489	2 weeks
+T78	Medication 2492 2500	steroids
+T79	Medication 2502 2512	prednisone
+T80	Dosage 2513 2522	20 mg/day
+T81	Duration 2527 2534	1 month
+T82	Dosage 2536 2545	10 mg/day
+T83	Duration 2550 2558	4 months
+T84	Dosage 2580 2589	1.0 g/day
+T85	Duration 2594 2602	5 months
+T86	Medication 2605 2624	calcium supplements
+T87	Dosage 2626 2636	600 mg/day
+T88	Duration 2641 2649	5 months
+T89	Dosage 2691 2700	0.5 g/day
+T90	Duration 2705 2713	5 months
+T91	Outcome 2728 2737	recovered
+T92	Sign_symptom 2765 2769	pain
+T93	Lab_value 2774 2783	increased
+T94	Biological_structure 2784 2789	serum
+T95	Diagnostic_procedure 2790 2800	phosphorus
+T96	Nonbiological_location 2876 2884	Hospital

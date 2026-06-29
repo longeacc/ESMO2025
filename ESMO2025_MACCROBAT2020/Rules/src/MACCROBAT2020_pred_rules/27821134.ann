@@ -1,34 +1,92 @@
 T1	Age 17 28	59-year-old
 T2	Sex 29 32	man
-T3	Date 58 67	age of 49
-T4	Severity 146 154	severely
-T5	Lab_value 308 316	positive
-T6	Dosage 624 633	1112.5 mg
-T7	Dosage 650 656	150 mg
-T8	Lab_value 910 916	normal
-T9	Lab_value 950 956	normal
-T10	Severity 1130 1138	moderate
-T11	Severity 1229 1233	mild
-T12	Severity 1312 1318	slight
-T13	Severity 1365 1371	severe
-T14	Severity 1385 1391	marked
-T15	Severity 1410 1414	mild
-T16	Severity 1464 1472	markedly
-T17	Frequency 1529 1541	intermittent
-T18	Severity 1562 1566	mild
-T19	Time 1743 1752	07:00 p.m
-T20	Time 1949 1958	09:00 a.m
-T21	Severity 2164 2172	slightly
-T22	Lab_value 2442 2446	good
-T23	Time 2735 2744	02:15 p.m
-T24	Duration 2816 2824	a minute
-T25	Administration 3305 3319	subcutaneously
-T26	Dosage 3471 3476	50 mg
-T27	Administration 3510 3521	nasogastric
-T28	Lab_value 3655 3661	normal
-T29	Time 3739 3748	02:00 p.m
-T30	Time 3750 3767	the following day
-T31	Administration 3844 3855	nasogastric
-T32	Lab_value 3942 3950	negative
-T33	Date 3988 4000	7 days later
-T34	Lab_value 4024 4028	good
+T3	Clinical_event 33 42	diagnosed
+T4	Date 58 67	age of 49
+T5	Severity 146 154	severely
+T6	Detailed_description 242 251	bilateral
+T7	Therapeutic_procedure 264 267	DBS
+T8	Lab_value 308 316	positive
+T9	Medication 346 354	levodopa
+T10	Biological_structure 446 451	brain
+T11	Therapeutic_procedure 536 539	DBS
+T12	Therapeutic_procedure 588 595	surgery
+T13	Medication 600 610	medication
+T14	Dosage 624 633	1112.5 mg
+T15	Medication 637 645	levodopa
+T16	Dosage 650 656	150 mg
+T17	Biological_structure 708 716	cervical
+T18	Biological_structure 857 864	cranial
+T19	Lab_value 910 916	normal
+T20	Lab_value 950 956	normal
+T21	Sign_symptom 970 978	rigidity
+T22	Biological_structure 986 990	neck
+T23	Biological_structure 995 1004	right arm
+T24	Severity 1130 1138	moderate
+T25	Medication 1180 1190	medication
+T26	Severity 1229 1233	mild
+T27	Sign_symptom 1234 1244	dysarthria
+T28	Sign_symptom 1268 1274	tremor
+T29	Biological_structure 1282 1291	right arm
+T30	Severity 1312 1318	slight
+T31	Sign_symptom 1326 1332	tremor
+T32	Sign_symptom 1352 1360	Rigidity
+T33	Severity 1365 1371	severe
+T34	Biological_structure 1379 1383	neck
+T35	Severity 1385 1391	marked
+T36	Severity 1410 1414	mild
+T37	Biological_structure 1422 1431	left side
+T38	Severity 1464 1472	markedly
+T39	Frequency 1529 1541	intermittent
+T40	Severity 1562 1566	mild
+T41	Biological_structure 1628 1637	laryngeal
+T42	Sign_symptom 1638 1644	spasms
+T43	Therapeutic_procedure 1673 1680	surgery
+T44	Medication 1712 1722	medication
+T45	Time 1743 1752	07:00 p.m
+T46	Medication 1775 1783	levodopa
+T47	Detailed_description 1807 1821	intraoperative
+T48	Therapeutic_procedure 1849 1858	operation
+T49	Therapeutic_procedure 1899 1917	stereotactic frame
+T50	Time 1949 1958	09:00 a.m
+T51	Severity 2164 2172	slightly
+T52	Biological_structure 2284 2294	right side
+T53	Biological_structure 2338 2342	neck
+T54	Biological_structure 2347 2353	facial
+T55	Lab_value 2442 2446	good
+T56	Sign_symptom 2503 2513	dysarthria
+T57	Diagnostic_procedure 2714 2731	oxygen saturation
+T58	Time 2735 2744	02:15 p.m
+T59	Sign_symptom 2786 2797	tachycardia
+T60	Duration 2816 2824	a minute
+T61	Biological_structure 2859 2866	Cardiac
+T62	Therapeutic_procedure 2867 2880	resuscitation
+T63	Therapeutic_procedure 2930 2939	intubated
+T64	Therapeutic_procedure 2946 2953	removal
+T65	Therapeutic_procedure 2978 2996	stereotactic frame
+T66	Therapeutic_procedure 3016 3026	intubation
+T67	Biological_structure 3027 3036	laryngeal
+T68	Biological_structure 3069 3082	transthoracic
+T69	Therapeutic_procedure 3136 3149	resuscitation
+T70	Biological_structure 3160 3167	cardiac
+T71	Sign_symptom 3250 3258	symptoms
+T72	Administration 3305 3319	subcutaneously
+T73	Dosage 3471 3476	50 mg
+T74	Medication 3477 3485	levodopa
+T75	Therapeutic_procedure 3510 3526	nasogastric tube
+T76	Diagnostic_procedure 3606 3608	CT
+T77	Coreference 3637 3650	the procedure
+T78	Lab_value 3655 3661	normal
+T79	Clinical_event 3679 3690	transferred
+T80	Nonbiological_location 3698 3717	intensive care unit
+T81	Therapeutic_procedure 3726 3735	extubated
+T82	Time 3739 3748	02:00 p.m
+T83	Time 3750 3767	the following day
+T84	Biological_structure 3813 3822	laryngeal
+T85	Sign_symptom 3823 3829	spasms
+T86	Therapeutic_procedure 3844 3860	nasogastric tube
+T87	Medication 3899 3909	medication
+T88	Biological_structure 3923 3930	Cardiac
+T89	Lab_value 3942 3950	negative
+T90	Date 3988 4000	7 days later
+T91	Lab_value 4024 4028	good
+T92	Sign_symptom 4029 4036	symptom

@@ -1,46 +1,115 @@
 T1	Duration 2 9	3-month
-T2	Dosage 310 321	45 fraction
-T3	Distance 388 393	45 cm
-T4	Lab_value 399 407	positive
-T5	Distance 442 446	7 cm
-T6	Duration 561 568	a month
-T7	Lab_value 614 625	improvement
-T8	Duration 1092 1099	a month
-T9	Lab_value 1192 1200	decrease
-T10	Distance 1345 1350	45 cm
-T11	Distance 1376 1381	11 cm
-T12	Administration 1874 1882	infusion
-T13	Lab_value 1905 1913	increase
-T14	Lab_value 2127 2135	decrease
-T15	Lab_value 2362 2368	normal
-T16	Date 2427 2442	5 months of age
-T17	Frequency 2671 2683	every 5 days
-T18	Duration 2705 2713	7 months
-T19	Frequency 2755 2768	every 15 days
-T20	Lab_value 3167 3175	increase
-T21	Lab_value 3235 3241	normal
-T22	Duration 3273 3281	few days
-T23	Lab_value 3348 3356	decrease
-T24	Duration 3427 3434	10 days
-T25	Lab_value 3483 3490	reduced
-T26	Distance 3679 3683	1 cm
-T27	Distance 3697 3702	11 cm
-T28	Volume 3768 3772	7 mL
-T29	Date 3788 3801	After 10 days
-T30	Frequency 3868 3876	sporadic
-T31	Lab_value 3913 3921	resolved
-T32	Lab_value 3935 3943	increase
-T33	Distance 3955 3960	20 cm
-T34	Distance 4092 4097	45 cm
-T35	Date 4204 4218	2 months after
-T36	Date 4238 4251	1 month after
-T37	Age 4420 4430	1 year old
-T38	Volume 4694 4699	80 mL
-T39	Volume 4701 4705	9 mL
-T40	Distance 4716 4721	10 cm
-T41	Volume 4740 4745	0.5 L
-T42	Distance 4772 4777	30 cm
-T43	Lab_value 4805 4813	decrease
-T44	Distance 4828 4832	9 cm
-T45	Duration 4908 4917	19 months
-T46	Lab_value 4976 4982	normal
+T2	Subject 14 20	infant
+T3	Clinical_event 63 72	diagnosis
+T4	Therapeutic_procedure 115 137	mechanical ventilation
+T5	Clinical_event 144 149	birth
+T6	Clinical_event 154 162	admitted
+T7	Therapeutic_procedure 224 233	intubated
+T8	Therapeutic_procedure 256 266	ventilated
+T9	Dosage 310 321	45 fraction
+T10	Medication 334 340	oxygen
+T11	Distance 388 393	45 cm
+T12	Lab_value 399 407	positive
+T13	Distance 442 446	7 cm
+T14	Diagnostic_procedure 459 475	respiratory rate
+T15	Biological_structure 491 496	chest
+T16	Diagnostic_procedure 497 502	X-ray
+T17	Clinical_event 534 543	admission
+T18	Duration 561 568	a month
+T19	Therapeutic_procedure 585 592	surgery
+T20	Lab_value 614 625	improvement
+T21	Detailed_description 633 642	bilateral
+T22	Detailed_description 643 652	posterior
+T23	Disease_disorder 653 664	atelectasis
+T24	Biological_structure 684 689	lungs
+T25	Therapeutic_procedure 758 780	mechanical ventilation
+T26	Diagnostic_procedure 837 849	bronchoscopy
+T27	Biological_structure 922 929	bronchi
+T28	Therapeutic_procedure 944 966	mechanical ventilation
+T29	Therapeutic_procedure 983 995	tracheostomy
+T30	Diagnostic_procedure 1039 1041	CT
+T31	Clinical_event 1062 1071	follow-up
+T32	Diagnostic_procedure 1072 1074	CT
+T33	Duration 1092 1099	a month
+T34	Therapeutic_procedure 1110 1117	surgery
+T35	Outcome 1127 1137	resolution
+T36	Detailed_description 1145 1154	posterior
+T37	Disease_disorder 1161 1172	atelectasis
+T38	Lab_value 1192 1200	decrease
+T39	Therapeutic_procedure 1266 1276	ventilator
+T40	Distance 1345 1350	45 cm
+T41	Distance 1376 1381	11 cm
+T42	Therapeutic_procedure 1435 1445	ventilator
+T43	Therapeutic_procedure 1581 1591	ventilator
+T44	Biological_structure 1684 1693	bronchial
+T45	Medication 1762 1770	sedation
+T46	Medication 1795 1806	medications
+T47	Medication 1830 1838	fentanyl
+T48	Medication 1843 1852	midazolam
+T49	Administration 1874 1882	infusion
+T50	Detailed_description 1893 1904	progressive
+T51	Lab_value 1905 1913	increase
+T52	Medication 1949 1962	cisatracurium
+T53	Biological_structure 1968 1976	muscular
+T54	Therapeutic_procedure 1998 2020	mechanical ventilation
+T55	Biological_structure 2077 2085	muscular
+T56	Detailed_description 2115 2126	progressive
+T57	Lab_value 2127 2135	decrease
+T58	Medication 2139 2147	sedation
+T59	Activity 2189 2193	drug
+T60	Lab_value 2362 2368	normal
+T61	Diagnostic_procedure 2369 2372	EEG
+T62	Biological_structure 2411 2418	cranial
+T63	Diagnostic_procedure 2419 2422	MRI
+T64	Date 2427 2442	5 months of age
+T65	Therapeutic_procedure 2509 2519	ventilator
+T66	Therapeutic_procedure 2566 2574	catheter
+T67	Therapeutic_procedure 2610 2618	catheter
+T68	Frequency 2671 2683	every 5 days
+T69	Duration 2705 2713	7 months
+T70	Frequency 2755 2768	every 15 days
+T71	Biological_structure 3038 3046	thoracic
+T72	Lab_value 3167 3175	increase
+T73	Lab_value 3235 3241	normal
+T74	Duration 3273 3281	few days
+T75	Therapeutic_procedure 3315 3325	ventilator
+T76	Detailed_description 3336 3347	progressive
+T77	Lab_value 3348 3356	decrease
+T78	Duration 3427 3434	10 days
+T79	Medication 3470 3478	sedation
+T80	Lab_value 3483 3490	reduced
+T81	Medication 3533 3541	sedation
+T82	Distance 3679 3683	1 cm
+T83	Distance 3697 3702	11 cm
+T84	Disease_disorder 3759 3761	Vt
+T85	Volume 3768 3772	7 mL
+T86	Date 3788 3801	After 10 days
+T87	Medication 3851 3859	sedation
+T88	Frequency 3868 3876	sporadic
+T89	Biological_structure 3889 3898	bronchial
+T90	Lab_value 3913 3921	resolved
+T91	Lab_value 3935 3943	increase
+T92	Distance 3955 3960	20 cm
+T93	Therapeutic_procedure 3975 3986	ventilation
+T94	Distance 4092 4097	45 cm
+T95	Detailed_description 4166 4175	posterior
+T96	Biological_structure 4176 4185	pulmonary
+T97	Diagnostic_procedure 4186 4188	CT
+T98	Date 4204 4218	2 months after
+T99	Therapeutic_procedure 4229 4236	surgery
+T100	Date 4238 4251	1 month after
+T101	Biological_structure 4289 4297	thoracic
+T102	Age 4420 4430	1 year old
+T103	Therapeutic_procedure 4552 4574	mechanical ventilation
+T104	Therapeutic_procedure 4587 4597	ventilator
+T105	Disease_disorder 4691 4693	Vt
+T106	Volume 4694 4699	80 mL
+T107	Volume 4701 4705	9 mL
+T108	Distance 4716 4721	10 cm
+T109	Volume 4740 4745	0.5 L
+T110	Distance 4772 4777	30 cm
+T111	Lab_value 4805 4813	decrease
+T112	Distance 4828 4832	9 cm
+T113	Therapeutic_procedure 4870 4880	ventilator
+T114	Duration 4908 4917	19 months
+T115	Lab_value 4976 4982	normal

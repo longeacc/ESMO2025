@@ -1,5 +1,31 @@
 T1	Age 24 35	68-year-old
 T2	Sex 36 42	female
-T3	Color 553 556	red
-T4	Distance 647 652	40 mm
-T5	Lab_value 778 784	normal
+T3	History 48 71	no past medical history
+T4	Clinical_event 73 82	presented
+T5	Sign_symptom 114 122	bleeding
+T6	Sign_symptom 127 131	pain
+T7	Biological_structure 146 153	abdomen
+T8	Diagnostic_procedure 155 175	Physical examination
+T9	Sign_symptom 184 196	splenomegaly
+T10	Biological_structure 255 264	abdominal
+T11	Sign_symptom 270 277	dilated
+T12	Biological_structure 288 294	rectal
+T13	Sign_symptom 396 412	thrombocytopenia
+T14	Diagnostic_procedure 460 469	endoscopy
+T15	Sign_symptom 504 511	varices
+T16	Color 553 556	red
+T17	Diagnostic_procedure 564 579	Ultrasonography
+T18	Sign_symptom 600 610	dilatation
+T19	Distance 647 652	40 mm
+T20	Sign_symptom 670 677	dilated
+T21	Disease_disorder 707 717	thrombosis
+T22	Detailed_description 755 762	Doppler
+T23	Lab_value 778 784	normal
+T24	Sign_symptom 860 872	splenomegaly
+T25	Diagnostic_procedure 973 975	CT
+T26	Sign_symptom 1050 1064	calcifications
+T27	Biological_structure 1216 1223	gastric
+T28	Sign_symptom 1224 1231	varices
+T29	Diagnostic_procedure 1279 1294	ultrasonography
+T30	Disease_disorder 1305 1320	Liver cirrhosis
+T31	Diagnostic_procedure 1365 1371	biopsy

@@ -1,40 +1,117 @@
 T1	Age 2 13	61-year-old
 T2	Sex 14 18	male
-T3	Date 91 101	April 2010
-T4	Color 161 166	black
-T5	Severity 484 490	marked
-T6	Administration 657 668	intravenous
-T7	Lab_value 733 741	negative
-T8	Date 778 791	2 years prior
-T9	Lab_value 796 808	unremarkable
-T10	Shape 916 921	ovoid
-T11	Area 983 992	12 × 9 cm
-T12	Administration 1099 1101	IV
-T13	Severity 1553 1561	slightly
-T14	Severity 1690 1696	mildly
-T15	Lab_value 1697 1705	elevated
-T16	Dosage 1739 1745	137 IU
-T17	Lab_value 1749 1755	normal
-T18	Dosage 1758 1763	50 IU
-T19	Lab_value 1863 1875	unremarkable
-T20	Distance 1931 1936	15 cm
-T21	Date 1957 1966	June 2010
-T22	Severity 1978 1984	severe
-T23	Color 2178 2181	tan
-T24	Shape 2182 2189	nodular
-T25	Texture 2208 2212	firm
-T26	Texture 2217 2224	rubbery
-T27	Lab_value 2625 2633	positive
-T28	Lab_value 2684 2692	negative
-T29	Frequency 2938 2947	regularly
-T30	Duration 2959 2967	6 months
-T31	Frequency 3127 3136	recurrent
-T32	Date 3171 3175	2011
-T33	Date 3180 3184	2013
-T34	Date 3312 3320	May 2016
-T35	Severity 3525 3534	extensive
-T36	Distance 3731 3737	3.8 cm
-T37	Volume 3786 3793	1400 ml
-T38	Lab_value 3833 3841	negative
-T39	Severity 3886 3897	extensively
-T40	Date 4304 4317	1 month after
+T3	Clinical_event 23 31	referred
+T4	Nonbiological_location 39 59	emergency department
+T5	Date 91 101	April 2010
+T6	Color 161 166	black
+T7	Medication 203 210	insulin
+T8	Disease_disorder 229 246	diabetes mellitus
+T9	Biological_structure 272 277	heart
+T10	Therapeutic_procedure 407 413	repair
+T11	Diagnostic_procedure 418 429	examination
+T12	Severity 484 490	marked
+T13	Sign_symptom 491 503	hepatomegaly
+T14	Sign_symptom 545 556	weight loss
+T15	Sign_symptom 572 580	jaundice
+T16	Biological_structure 584 593	abdominal
+T17	Sign_symptom 594 598	pain
+T18	Therapeutic_procedure 628 646	blood transfusions
+T19	Administration 657 668	intravenous
+T20	Activity 669 674	drugs
+T21	Biological_structure 718 723	blood
+T22	Lab_value 733 741	negative
+T23	Diagnostic_procedure 766 777	colonoscopy
+T24	Date 778 791	2 years prior
+T25	Lab_value 796 808	unremarkable
+T26	Clinical_event 817 825	referred
+T27	Diagnostic_procedure 881 891	ultrasound
+T28	Shape 916 921	ovoid
+T29	Sign_symptom 922 926	mass
+T30	Biological_structure 966 971	liver
+T31	Area 983 992	12 × 9 cm
+T32	Diagnostic_procedure 996 1015	computed tomography
+T33	Diagnostic_procedure 1017 1019	CT
+T34	Detailed_description 1038 1047	malignant
+T35	Sign_symptom 1072 1078	lesion
+T36	Administration 1099 1101	IV
+T37	Diagnostic_procedure 1124 1150	magnetic resonance imaging
+T38	Diagnostic_procedure 1152 1155	MRI
+T39	Sign_symptom 1205 1211	lesion
+T40	Biological_structure 1234 1239	liver
+T41	Detailed_description 1258 1265	central
+T42	Sign_symptom 1386 1392	lesion
+T43	Biological_structure 1406 1414	arterial
+T44	Biological_structure 1445 1451	venous
+T45	Detailed_description 1500 1507	central
+T46	Sign_symptom 1538 1544	lesion
+T47	Severity 1553 1561	slightly
+T48	Biological_structure 1646 1651	liver
+T49	Severity 1690 1696	mildly
+T50	Lab_value 1697 1705	elevated
+T51	Dosage 1739 1745	137 IU
+T52	Lab_value 1749 1755	normal
+T53	Dosage 1758 1763	50 IU
+T54	Diagnostic_procedure 1786 1803	alpha-fetoprotein
+T55	Disease_disorder 1834 1840	cancer
+T56	Lab_value 1863 1875	unremarkable
+T57	Therapeutic_procedure 1914 1923	resection
+T58	Distance 1931 1936	15 cm
+T59	Sign_symptom 1949 1953	mass
+T60	Date 1957 1966	June 2010
+T61	Severity 1978 1984	severe
+T62	Biological_structure 1985 1992	hepatic
+T63	Disease_disorder 2011 2020	cirrhosis
+T64	Clinical_event 2038 2048	discharged
+T65	Therapeutic_procedure 2113 2122	resection
+T66	Sign_symptom 2173 2177	pale
+T67	Color 2178 2181	tan
+T68	Shape 2182 2189	nodular
+T69	Texture 2208 2212	firm
+T70	Texture 2217 2224	rubbery
+T71	Diagnostic_procedure 2251 2262	examination
+T72	Lab_value 2625 2633	positive
+T73	Sign_symptom 2673 2679	tumour
+T74	Lab_value 2684 2692	negative
+T75	Biological_structure 2841 2846	liver
+T76	Sign_symptom 2870 2878	fibrosis
+T77	Clinical_event 2926 2937	followed-up
+T78	Frequency 2938 2947	regularly
+T79	Duration 2959 2967	6 months
+T80	Diagnostic_procedure 2973 2975	CT
+T81	Frequency 3127 3136	recurrent
+T82	Sign_symptom 3158 3162	pain
+T83	Date 3171 3175	2011
+T84	Date 3180 3184	2013
+T85	Detailed_description 3186 3194	Multiple
+T86	Diagnostic_procedure 3195 3198	MRI
+T87	Sign_symptom 3281 3287	tumour
+T88	Sign_symptom 3288 3298	recurrence
+T89	Date 3312 3320	May 2016
+T90	Clinical_event 3334 3343	presented
+T91	Nonbiological_location 3357 3377	emergency department
+T92	Sign_symptom 3428 3432	pain
+T93	Sign_symptom 3448 3456	dyspnoea
+T94	Medication 3465 3471	oxygen
+T95	Diagnostic_procedure 3480 3482	CT
+T96	Biological_structure 3490 3495	chest
+T97	Biological_structure 3497 3504	abdomen
+T98	Biological_structure 3509 3515	pelvis
+T99	Severity 3525 3534	extensive
+T100	Sign_symptom 3535 3541	tumour
+T101	Sign_symptom 3542 3552	recurrence
+T102	Therapeutic_procedure 3578 3587	resection
+T103	Detailed_description 3650 3661	right-sided
+T104	Disease_disorder 3662 3678	pleural effusion
+T105	Biological_structure 3685 3692	pleural
+T106	Sign_symptom 3693 3697	mass
+T107	Biological_structure 3711 3715	lung
+T108	Distance 3731 3737	3.8 cm
+T109	Volume 3786 3793	1400 ml
+T110	Lab_value 3833 3841	negative
+T111	Detailed_description 3846 3855	malignant
+T112	Severity 3886 3897	extensively
+T113	Clinical_event 4184 4192	referred
+T114	Sign_symptom 4238 4246	symptoms
+T115	Clinical_event 4251 4261	discharged
+T116	Date 4304 4317	1 month after
+T117	Clinical_event 4318 4327	discharge

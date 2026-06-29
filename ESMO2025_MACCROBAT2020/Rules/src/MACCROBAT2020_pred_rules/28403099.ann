@@ -1,40 +1,147 @@
 T1	Age 2 13	60-year-old
 T2	Sex 14 17	man
-T3	Date 151 155	2010
-T4	Date 186 190	2012
-T5	Date 237 241	2014
-T6	Duration 536 544	10 years
-T7	Duration 583 591	30 years
-T8	Dosage 628 637	100 mg qd
-T9	Dosage 662 670	10 mg qd
-T10	Duration 675 682	6 years
-T11	Lab_value 723 728	37 °C
-T12	Distance 756 761	96 mm
-T13	Lab_value 954 960	normal
-T14	Lab_value 1000 1009	3.7 ng/mL
-T15	Lab_value 1029 1039	17.3 ng/mL
-T16	Lab_value 1475 1483	decrease
-T17	Lab_value 1504 1512	decrease
-T18	Lab_value 1565 1571	stable
-T19	Lab_value 1668 1676	increase
-T20	Area 1808 1820	2.8 × 3.5 cm
-T21	Severity 1934 1940	mildly
-T22	Severity 2125 2129	mild
-T23	Duration 2341 2351	40 minutes
-T24	Severity 2379 2383	mild
-T25	Distance 2511 2517	0.3 mm
-T26	Distance 2681 2686	15 mm
-T27	Duration 2717 2726	6 minutes
-T28	Time 2862 2874	the next day
-T29	Lab_value 2923 2931	abnormal
-T30	Duration 2994 2999	5-day
-T31	Duration 3200 3206	1-week
-T32	Date 3510 3517	2nd day
-T33	Dosage 3582 3584	2G
-T34	Date 3732 3744	3 days later
-T35	Date 3965 3977	3 days later
-T36	Date 4110 4127	following 1 month
-T37	Date 4244 4258	5 months after
-T38	Color 4328 4334	yellow
-T39	Lab_value 4553 4562	3.6 ng/mL
-T40	Lab_value 4564 4574	26.7 ng/mL
+T3	Clinical_event 18 27	presented
+T4	Biological_structure 35 50	retroperitoneal
+T5	Detailed_description 51 61	metastatic
+T6	Biological_structure 62 72	lymph node
+T7	Biological_structure 132 137	liver
+T8	Therapeutic_procedure 138 147	resection
+T9	Date 151 155	2010
+T10	Biological_structure 157 166	pulmonary
+T11	Therapeutic_procedure 173 182	resection
+T12	Date 186 190	2012
+T13	Date 237 241	2014
+T14	Biological_structure 300 305	liver
+T15	Disease_disorder 306 312	cancer
+T16	Detailed_description 318 339	poorly differentiated
+T17	Biological_structure 340 344	lung
+T18	Disease_disorder 345 351	cancer
+T19	Biological_structure 357 362	liver
+T20	Sign_symptom 363 373	metastasis
+T21	Diagnostic_procedure 378 389	examination
+T22	Sign_symptom 395 400	tumor
+T23	Biological_structure 423 431	duodenum
+T24	Biological_structure 433 441	pancreas
+T25	Biological_structure 443 450	stomach
+T26	Biological_structure 456 463	hepatic
+T27	Biological_structure 464 475	portal vein
+T28	Sign_symptom 507 513	masses
+T29	Duration 536 544	10 years
+T30	Detailed_description 549 556	chronic
+T31	Disease_disorder 569 578	cirrhosis
+T32	Duration 583 591	30 years
+T33	Dosage 628 637	100 mg qd
+T34	Dosage 662 670	10 mg qd
+T35	Duration 675 682	6 years
+T36	Diagnostic_procedure 703 719	body temperature
+T37	Lab_value 723 728	37 °C
+T38	Diagnostic_procedure 734 748	blood pressure
+T39	Distance 756 761	96 mm
+T40	Biological_structure 842 851	abdominal
+T41	Sign_symptom 852 856	pain
+T42	Biological_structure 858 867	abdominal
+T43	Sign_symptom 868 878	distention
+T44	Sign_symptom 880 886	nausea
+T45	Sign_symptom 892 900	vomiting
+T46	Sign_symptom 915 920	tumor
+T47	Lab_value 954 960	normal
+T48	Lab_value 1000 1009	3.7 ng/mL
+T49	Diagnostic_procedure 1011 1028	alpha fetoprotein
+T50	Lab_value 1029 1039	17.3 ng/mL
+T51	Coreference 1103 1116	the procedure
+T52	Nonbiological_location 1178 1186	Hospital
+T53	Therapeutic_procedure 1233 1241	ablation
+T54	Sign_symptom 1315 1320	tumor
+T55	Sign_symptom 1330 1336	lesion
+T56	Diagnostic_procedure 1348 1367	computed tomography
+T57	Diagnostic_procedure 1369 1371	CT
+T58	Sign_symptom 1422 1429	lesions
+T59	Sign_symptom 1441 1448	lesions
+T60	Lab_value 1475 1483	decrease
+T61	Lab_value 1504 1512	decrease
+T62	Sign_symptom 1516 1521	tumor
+T63	Diagnostic_procedure 1542 1544	CT
+T64	Sign_symptom 1556 1563	lesions
+T65	Lab_value 1565 1571	stable
+T66	Detailed_description 1619 1630	progressive
+T67	Detailed_description 1644 1655	progressive
+T68	Lab_value 1668 1676	increase
+T69	Sign_symptom 1680 1685	tumor
+T70	Sign_symptom 1722 1727	tumor
+T71	Diagnostic_procedure 1739 1741	CT
+T72	Sign_symptom 1749 1756	lesions
+T73	Sign_symptom 1800 1804	mass
+T74	Area 1808 1820	2.8 × 3.5 cm
+T75	Biological_structure 1842 1850	duodenum
+T76	Biological_structure 1852 1860	pancreas
+T77	Biological_structure 1866 1871	blood
+T78	Severity 1934 1940	mildly
+T79	Sign_symptom 1974 1979	tumor
+T80	Therapeutic_procedure 2087 2095	ablation
+T81	Biological_structure 2109 2124	retroperitoneal
+T82	Severity 2125 2129	mild
+T83	Diagnostic_procedure 2240 2248	biopsies
+T84	Therapeutic_procedure 2253 2262	ablations
+T85	Biological_structure 2283 2288	blood
+T86	Coreference 2298 2311	the procedure
+T87	Duration 2341 2351	40 minutes
+T88	Severity 2379 2383	mild
+T89	Medication 2384 2392	sedation
+T90	Diagnostic_procedure 2402 2417	ultrasonography
+T91	Distance 2511 2517	0.3 mm
+T92	Sign_symptom 2568 2575	lesions
+T93	Biological_structure 2623 2628	blood
+T94	Therapeutic_procedure 2639 2647	ablation
+T95	Distance 2681 2686	15 mm
+T96	Duration 2717 2726	6 minutes
+T97	Diagnostic_procedure 2752 2767	ultrasonography
+T98	Sign_symptom 2790 2796	lesion
+T99	Time 2862 2874	the next day
+T100	Detailed_description 2875 2892	contrast-enhanced
+T101	Diagnostic_procedure 2893 2903	ultrasound
+T102	Lab_value 2923 2931	abnormal
+T103	Detailed_description 2944 2952	proximal
+T104	Biological_structure 2965 2975	pancreatic
+T105	Duration 2994 2999	5-day
+T106	Clinical_event 3000 3009	follow-up
+T107	Detailed_description 3010 3027	contrast-enhanced
+T108	Diagnostic_procedure 3028 3030	CT
+T109	Sign_symptom 3049 3053	mass
+T110	Sign_symptom 3089 3094	tumor
+T111	Duration 3200 3206	1-week
+T112	Clinical_event 3207 3216	follow-up
+T113	Sign_symptom 3238 3246	enlarged
+T114	Biological_structure 3247 3262	retroperitoneal
+T115	Biological_structure 3263 3273	lymph node
+T116	Biological_structure 3291 3301	pancreatic
+T117	Sign_symptom 3355 3362	nodules
+T118	Therapeutic_procedure 3409 3417	ablation
+T119	Sign_symptom 3449 3456	lesions
+T120	Date 3510 3517	2nd day
+T121	Dosage 3582 3584	2G
+T122	Sign_symptom 3657 3662	tumor
+T123	Therapeutic_procedure 3693 3701	ablation
+T124	Date 3732 3744	3 days later
+T125	Sign_symptom 3785 3791	lesion
+T126	Therapeutic_procedure 3887 3895	ablation
+T127	Date 3965 3977	3 days later
+T128	Diagnostic_procedure 4017 4019	CT
+T129	Biological_structure 4033 4048	retroperitoneal
+T130	Sign_symptom 4049 4053	mass
+T131	Sign_symptom 4073 4081	necrosis
+T132	Date 4110 4127	following 1 month
+T133	Sign_symptom 4181 4186	tumor
+T134	Sign_symptom 4187 4195	necrosis
+T135	Outcome 4201 4211	resolution
+T136	Date 4244 4258	5 months after
+T137	Therapeutic_procedure 4261 4270	ablations
+T138	Diagnostic_procedure 4272 4274	CT
+T139	Sign_symptom 4286 4291	tumor
+T140	Sign_symptom 4316 4326	recurrence
+T141	Color 4328 4334	yellow
+T142	Sign_symptom 4393 4400	lesions
+T143	Diagnostic_procedure 4420 4435	laboratory test
+T144	Sign_symptom 4439 4444	tumor
+T145	Diagnostic_procedure 4494 4511	alpha fetoprotein
+T146	Lab_value 4553 4562	3.6 ng/mL
+T147	Lab_value 4564 4574	26.7 ng/mL

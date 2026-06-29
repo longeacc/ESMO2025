@@ -1,20 +1,87 @@
-T1	Age 85 96	47-year-old
-T2	Sex 106 109	man
-T3	Date 187 191	2015
-T4	Duration 384 392	6 months
-T5	Lab_value 416 422	normal
-T6	Distance 615 621	300 mm
-T7	Area 837 846	28 x 22mm
-T8	Lab_value 884 890	normal
-T9	Severity 1170 1176	slight
-T10	Lab_value 1292 1298	normal
-T11	Frequency 1380 1388	frequent
-T12	Lab_value 1556 1562	normal
-T13	Distance 1657 1663	1.5 cm
-T14	Lab_value 1783 1793	uneventful
-T15	Date 1823 1836	within 7 days
-T16	Lab_value 1842 1846	good
-T17	Lab_value 1918 1924	normal
-T18	Date 2107 2111	2010
-T19	Severity 2383 2389	severe
-T20	Lab_value 2440 2446	normal
+T1	Clinical_event 3 10	present
+T2	Biological_structure 21 31	pancreatic
+T3	Sign_symptom 32 37	tumor
+T4	History 48 81	history of trauma or panceratitis
+T5	Age 85 96	47-year-old
+T6	Personal_background 97 105	Tunisian
+T7	Sex 106 109	man
+T8	History 117 133	history of Crohn
+T9	Clinical_event 148 156	admitted
+T10	Nonbiological_location 164 183	University Hospital
+T11	Date 187 191	2015
+T12	Detailed_description 209 216	chronic
+T13	Sign_symptom 297 305	vomiting
+T14	Biological_structure 315 324	abdominal
+T15	Sign_symptom 325 329	pain
+T16	Sign_symptom 333 338	fever
+T17	Sign_symptom 346 357	weight loss
+T18	Duration 384 392	6 months
+T19	Diagnostic_procedure 394 410	Laboratory tests
+T20	Lab_value 416 422	normal
+T21	Detailed_description 424 435	Nonspecific
+T22	Biological_structure 450 455	serum
+T23	Biological_structure 456 466	pancreatic
+T24	Biological_structure 497 506	abdominal
+T25	Diagnostic_procedure 507 517	ultrasound
+T26	Diagnostic_procedure 522 541	computed tomography
+T27	Diagnostic_procedure 543 545	CT
+T28	Biological_structure 592 597	ileal
+T29	Distance 615 621	300 mm
+T30	Sign_symptom 627 636	distended
+T31	Biological_structure 637 642	ileal
+T32	Biological_structure 691 699	pancreas
+T33	Biological_structure 799 809	pancreatic
+T34	Sign_symptom 815 825	dilatation
+T35	Area 837 846	28 x 22mm
+T36	Lab_value 884 890	normal
+T37	Sign_symptom 906 914	enlarged
+T38	Biological_structure 915 926	lymph nodes
+T39	Detailed_description 949 958	bilateral
+T40	Detailed_description 976 985	bilateral
+T41	Diagnostic_procedure 1000 1003	MRI
+T42	Biological_structure 1042 1047	ileal
+T43	Biological_structure 1080 1090	pancreatic
+T44	Sign_symptom 1091 1097	lesion
+T45	Biological_structure 1154 1162	pancreas
+T46	Severity 1170 1176	slight
+T47	Sign_symptom 1177 1185	dilation
+T48	Biological_structure 1213 1224	gallbladder
+T49	Detailed_description 1234 1242	multiple
+T50	Sign_symptom 1274 1279	Tumor
+T51	Lab_value 1292 1298	normal
+T52	Diagnostic_procedure 1321 1332	colonoscopy
+T53	Biological_structure 1342 1347	ileum
+T54	Frequency 1380 1388	frequent
+T55	Sign_symptom 1389 1400	ulcerations
+T56	Diagnostic_procedure 1405 1413	biopsies
+T57	Diagnostic_procedure 1429 1437	biopsies
+T58	Detailed_description 1460 1468	subacute
+T59	Lab_value 1556 1562	normal
+T60	Therapeutic_procedure 1621 1635	pancreatectomy
+T61	Therapeutic_procedure 1640 1655	cholecystectomy
+T62	Distance 1657 1663	1.5 cm
+T63	Sign_symptom 1671 1676	tumor
+T64	Biological_structure 1692 1700	pancreas
+T65	Therapeutic_procedure 1705 1713	resected
+T66	Diagnostic_procedure 1727 1751	pathological examination
+T67	Lab_value 1783 1793	uneventful
+T68	Clinical_event 1807 1817	discharged
+T69	Date 1823 1836	within 7 days
+T70	Lab_value 1842 1846	good
+T71	Sign_symptom 1880 1888	symptoms
+T72	Diagnostic_procedure 1892 1899	glucose
+T73	Lab_value 1918 1924	normal
+T74	Therapeutic_procedure 1925 1929	diet
+T75	Diagnostic_procedure 1962 1973	examination
+T76	Detailed_description 1983 2002	well differentiated
+T77	Sign_symptom 2026 2031	tumor
+T78	Biological_structure 2051 2059	pancreas
+T79	Date 2107 2111	2010
+T80	Sign_symptom 2187 2194	lesions
+T81	Biological_structure 2266 2272	spleen
+T82	Detailed_description 2274 2281	chronic
+T83	Nonbiological_location 2351 2359	hospital
+T84	Outcome 2364 2373	felt well
+T85	Severity 2383 2389	severe
+T86	Lab_value 2440 2446	normal
+T87	Diagnostic_procedure 2447 2454	glucose

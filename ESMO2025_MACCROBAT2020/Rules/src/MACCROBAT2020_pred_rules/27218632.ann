@@ -1,15 +1,75 @@
 T1	Age 2 13	50-year old
 T2	Sex 14 17	man
-T3	Duration 216 224	4 months
-T4	Lab_value 339 350	improvement
-T5	Administration 390 394	oral
-T6	Administration 408 415	topical
-T7	Administration 441 452	intravenous
-T8	Administration 691 701	parenteral
-T9	Date 726 735	past year
-T10	Administration 1836 1843	topical
-T11	Dosage 1923 1928	29 ug
-T12	Lab_value 1933 1939	normal
-T13	Dosage 1949 1955	134 ug
-T14	Date 2010 2026	within one month
-T15	Dosage 2179 2184	90 ug
+T3	History 25 67	history of metastatic mucinous appendiceal
+T4	Disease_disorder 68 82	adenocarcinoma
+T5	Clinical_event 83 91	presents
+T6	Sign_symptom 125 129	rash
+T7	Biological_structure 137 141	face
+T8	Biological_structure 172 180	inguinal
+T9	Duration 216 224	4 months
+T10	Sign_symptom 241 245	rash
+T11	Detailed_description 270 277	diffuse
+T12	Disease_disorder 278 286	alopecia
+T13	Biological_structure 294 298	face
+T14	Biological_structure 307 313	axilla
+T15	Biological_structure 319 324	groin
+T16	Lab_value 339 350	improvement
+T17	Sign_symptom 358 362	rash
+T18	Detailed_description 371 379	multiple
+T19	Administration 390 394	oral
+T20	Medication 395 406	fluconazole
+T21	Administration 408 415	topical
+T22	Medication 416 426	antibiotic
+T23	Administration 441 452	intravenous
+T24	Medication 453 464	antibiotics
+T25	Sign_symptom 498 502	rash
+T26	Medication 529 541	chemotherapy
+T27	Therapeutic_procedure 554 572	surgical resection
+T28	Sign_symptom 656 663	fistula
+T29	Therapeutic_procedure 685 711	total parenteral nutrition
+T30	Therapeutic_procedure 713 716	TPN
+T31	Date 726 735	past year
+T32	Diagnostic_procedure 829 840	examination
+T33	Biological_structure 888 892	face
+T34	Detailed_description 905 911	medial
+T35	Detailed_description 929 940	bilaterally
+T36	Detailed_description 945 954	scattered
+T37	Sign_symptom 955 962	papules
+T38	Biological_structure 979 983	face
+T39	Biological_structure 992 997	chest
+T40	Detailed_description 1009 1016	Diffuse
+T41	Disease_disorder 1031 1039	alopecia
+T42	Clinical_event 1043 1050	present
+T43	Biological_structure 1058 1062	face
+T44	Biological_structure 1084 1089	groin
+T45	Detailed_description 1107 1115	acquired
+T46	Detailed_description 1200 1208	acquired
+T47	Medication 1254 1274	zinc supplementation
+T48	Therapeutic_procedure 1278 1281	TPN
+T49	Clinical_event 1405 1414	diagnosis
+T50	Detailed_description 1418 1426	acquired
+T51	Sign_symptom 1465 1469	rash
+T52	Disease_disorder 1483 1491	alopecia
+T53	Detailed_description 1510 1517	chronic
+T54	Biological_structure 1585 1589	skin
+T55	Diagnostic_procedure 1590 1596	biopsy
+T56	Biological_structure 1600 1604	skin
+T57	Diagnostic_procedure 1605 1611	biopsy
+T58	Clinical_event 1649 1658	diagnosis
+T59	Clinical_event 1723 1732	diagnosis
+T60	Clinical_event 1742 1754	presentation
+T61	Administration 1836 1843	topical
+T62	Medication 1844 1851	steroid
+T63	Clinical_event 1866 1875	diagnosis
+T64	Dosage 1923 1928	29 ug
+T65	Lab_value 1933 1939	normal
+T66	Dosage 1949 1955	134 ug
+T67	Medication 1973 1993	zinc supplementation
+T68	Therapeutic_procedure 2001 2004	TPN
+T69	Date 2010 2026	within one month
+T70	Outcome 2053 2063	resolution
+T71	Sign_symptom 2067 2071	rash
+T72	Sign_symptom 2076 2083	fatigue
+T73	Dosage 2179 2184	90 ug
+T74	Outcome 2210 2219	recovered
+T75	Outcome 2255 2266	passed away

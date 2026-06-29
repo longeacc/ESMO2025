@@ -1,0 +1,25 @@
+T1	Symptomes 275 298	Hypertension artérielle
+T2	Statut_tabagique 363 372	ex-fumeur
+T3	Statut_tabagique 376 388	9 paquets/an
+T4	Symptomes 1265 1272	Dyspnée
+T5	Symptomes 1962 1968	fièvre
+T6	Symptomes 1973 1991	douleur thoracique
+T7	Symptomes 3462 3470	hématome
+T8	Symptomes 3762 3770	hématome
+T9	Stade_metastatique_avec_localisations 3884 3910	adénopathies médiastinales
+T10	Symptomes 4033 4041	hématome
+T11	Histologie_tumorale 5137 5165	carcinome à grandes cellules
+T12	Histologie_tumorale 5418 5457	Carcinome pulmonaire à grandes cellules
+T13	Stade_metastatique_avec_localisations 5461 5469	stade IV
+T14	Traitement_specifique_du_cancer 5656 5661	taxol
+T15	Traitement_specifique_du_cancer 5664 5675	gemcitabine
+T16	Traitement_specifique_du_cancer 5797 5811	10 cycles avec
+T17	Reponse_a_la_chimiotherapie 5838 5852	maladie stable
+T18	Symptomes 7278 7287	céphalées
+T19	Traitement_specifique_du_cancer 7952 7966	chimiothérapie
+T20	Traitement_specifique_du_cancer 8001 8006	taxol
+T21	Traitement_specifique_du_cancer 8021 8032	gemcitabine
+T22	Traitement_specifique_du_cancer 8730 8743	radiothérapie
+T23	Traitement_specifique_du_cancer 9031 9036	taxol
+T24	Traitement_specifique_du_cancer 9037 9048	gemcitabine
+T25	Reponse_a_la_chimiotherapie 9085 9099	maladie stable

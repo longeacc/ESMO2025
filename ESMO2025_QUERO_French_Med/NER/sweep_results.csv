@@ -1,1 +1,0 @@
-model_id,seed,learning_rate,train_bs,epochs,weight_decay,warmup_ratio,freeze_layers,dev_f1,dev_p,dev_r,test_f1,test_p,test_r,output_dir

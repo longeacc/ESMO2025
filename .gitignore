@@ -26,13 +26,70 @@ env/
 *.dll
 *.exe
 
-# Data, results, and model directories
-ESMO2025_QUERO_French_Med/Results/*
-ESMO2025_QUERO_French_Med/NER/data/*
-ESMO2025_MACCROBAT2020/Rules/src/Breast/*
-ESMO2025_MACCROBAT2020/Results/*
-ESMO2025_MACCROBAT2020/NER/data/*
-ESMO2025_MACCROBAT2020/NER/models/*
-Breast/*
-Results/*
-Rules/src/Breast/*
+# ============================================================
+# Transformer training artifacts (all corpora)
+# ============================================================
+
+# CoNLL / BIO format training data
+*.conll
+*_bio.json
+
+# GLiNER JSON (sentence-level segments, regenerable)
+*_gliner.json
+
+# Model weights & checkpoints (already covered by *.safetensors, *.bin above)
+checkpoint-*/
+*_finetuned/
+fine_tuned/
+
+# HuggingFace cache
+.cache/
+
+# ============================================================
+# Per-corpus heavy files
+# ============================================================
+
+# ESMO2025 (Breast)
+ESMO2025/NER/data/
+ESMO2025/NER/models/
+ESMO2025/Breast/
+Breast/
+
+# MACCROBAT2020
+ESMO2025_MACCROBAT2020/NER/data/
+ESMO2025_MACCROBAT2020/NER/models/
+ESMO2025_MACCROBAT2020/TBM_evaluation/pubmedbert_finetuned/
+ESMO2025_MACCROBAT2020/TBM_evaluation/fine_tuned/
+ESMO2025_MACCROBAT2020/TBM_evaluation/*_bio.json
+ESMO2025_MACCROBAT2020/TBM_evaluation/*_gliner.json
+ESMO2025_MACCROBAT2020/pred_out/
+ESMO2025_MACCROBAT2020/Results/
+ESMO2025_MACCROBAT2020/Rules/src/Breast/
+
+# QUAERO
+ESMO2025_QUERO_French_Med/TBM_evaluation/drbert_finetuned/
+ESMO2025_QUERO_French_Med/TBM_evaluation/fine_tuned/
+ESMO2025_QUERO_French_Med/TBM_evaluation/*_bio.json
+ESMO2025_QUERO_French_Med/TBM_evaluation/*_gliner.json
+ESMO2025_QUERO_French_Med/NER/data/
+ESMO2025_QUERO_French_Med/Results/
+
+# CANTEMIST35
+ESMO2025_CANTESMIST35/TBM_evaluation/camembert_finetuned/
+ESMO2025_CANTESMIST35/TBM_evaluation/*_bio.json
+ESMO2025_CANTESMIST35/TBM_evaluation/*_gliner.json
+
+# Breast (all copies — root, ESMO2025/, MACCROBAT2020/, Rules/src/)
+Breast/
+ESMO2025/Breast/
+ESMO2025/Rules/src/Breast/
+ESMO2025_MACCROBAT2020/Rules/src/Breast/
+
+# ============================================================
+# Misc heavy / generated
+# ============================================================
+Results/
+Rules/src/Breast/
+*.png
+plots/
+Consumption_of_*.csv

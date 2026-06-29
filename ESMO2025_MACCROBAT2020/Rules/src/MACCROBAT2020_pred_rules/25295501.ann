@@ -1,14 +1,53 @@
 T1	Age 17 28	57-year-old
 T2	Sex 29 34	woman
-T3	Date 106 110	2010
-T4	Distance 194 200	3.8-cm
-T5	Lab_value 446 454	positive
-T6	Date 498 511	3 weeks after
-T7	Frequency 677 683	weekly
-T8	Date 758 771	4 weeks after
-T9	Date 878 892	3 months later
-T10	Dosage 1046 1057	10 mg daily
-T11	Date 1059 1074	Within 6 months
-T12	Area 1152 1165	3.0 by 2.6 cm
-T13	Area 1169 1182	1.1 by 0.8 cm
-T14	Date 1194 1209	After 18 months
+T3	Sign_symptom 69 73	mass
+T4	Biological_structure 81 90	left side
+T5	Biological_structure 98 102	neck
+T6	Date 106 110	2010
+T7	Therapeutic_procedure 134 147	thyroidectomy
+T8	Detailed_description 152 159	central
+T9	Biological_structure 160 164	neck
+T10	Disease_disorder 165 175	dissection
+T11	Distance 194 200	3.8-cm
+T12	Biological_structure 212 219	thyroid
+T13	Disease_disorder 220 226	cancer
+T14	Detailed_description 278 299	poorly differentiated
+T15	Biological_structure 300 307	thyroid
+T16	Disease_disorder 308 314	cancer
+T17	Biological_structure 352 360	Appendix
+T18	Therapeutic_procedure 423 432	Resection
+T19	Lab_value 446 454	positive
+T20	Biological_structure 468 479	lymph nodes
+T21	Date 498 511	3 weeks after
+T22	Therapeutic_procedure 512 519	surgery
+T23	Biological_structure 525 530	serum
+T24	Therapeutic_procedure 655 672	radiation therapy
+T25	Frequency 677 683	weekly
+T26	Medication 684 695	carboplatin
+T27	Medication 700 710	paclitaxel
+T28	Medication 711 723	chemotherapy
+T29	Biological_structure 729 734	serum
+T30	Date 758 771	4 weeks after
+T31	Medication 790 802	chemotherapy
+T32	Therapeutic_procedure 807 824	radiation therapy
+T33	Date 878 892	3 months later
+T34	Detailed_description 909 920	right-sided
+T35	Sign_symptom 927 931	mass
+T36	Dosage 1046 1057	10 mg daily
+T37	Date 1059 1074	Within 6 months
+T38	Clinical_event 1076 1085	follow-up
+T39	Sign_symptom 1108 1114	lesion
+T40	Area 1152 1165	3.0 by 2.6 cm
+T41	Area 1169 1182	1.1 by 0.8 cm
+T42	Date 1194 1209	After 18 months
+T43	Detailed_description 1264 1275	progressive
+T44	Therapeutic_procedure 1339 1346	removal
+T45	Sign_symptom 1353 1361	enlarged
+T46	Biological_structure 1362 1372	lymph node
+T47	Detailed_description 1390 1400	metastatic
+T48	Biological_structure 1412 1419	thyroid
+T49	Disease_disorder 1420 1426	cancer
+T50	Biological_structure 1464 1472	Appendix
+T51	Diagnostic_procedure 1517 1523	biopsy
+T52	Sign_symptom 1566 1572	tumors
+T53	Biological_structure 1589 1594	blood

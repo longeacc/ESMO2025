@@ -1,22 +1,64 @@
 T1	Age 3 14	18-year-old
 T2	Sex 15 19	lady
-T3	Date 96 109	since 5 years
-T4	Lab_value 122 128	normal
-T5	Duration 325 331	7-year
-T6	Date 403 412	age of 20
-T7	Lab_value 547 553	normal
-T8	Lab_value 640 646	normal
-T9	Lab_value 708 714	normal
-T10	Lab_value 794 800	normal
-T11	Lab_value 998 1006	positive
-T12	Lab_value 1119 1125	normal
-T13	Lab_value 1183 1189	normal
-T14	Lab_value 1236 1256	within normal limits
-T15	Lab_value 1331 1337	normal
-T16	Severity 1464 1470	marked
-T17	Lab_value 1536 1542	normal
-T18	Severity 2176 2182	severe
-T19	Dosage 3089 3095	450 mg
-T20	Frequency 3096 3107	twice a day
-T21	Frequency 3232 3241	regularly
-T22	Duration 3246 3254	4 months
+T3	Clinical_event 20 29	presented
+T4	History 35 72	history of progressive swaying while 
+T5	Activity 72 79	walking
+T6	Date 96 109	since 5 years
+T7	Lab_value 122 128	normal
+T8	Biological_structure 168 179	upper limbs
+T9	Sign_symptom 211 219	weakness
+T10	Sign_symptom 223 231	numbness
+T11	Subject 281 287	sister
+T12	Activity 314 321	walking
+T13	Duration 325 331	7-year
+T14	Outcome 345 349	died
+T15	Disease_disorder 379 396	diabetes mellitus
+T16	Date 403 412	age of 20
+T17	Subject 511 518	parents
+T18	Lab_value 547 553	normal
+T19	Diagnostic_procedure 623 634	examination
+T20	Lab_value 640 646	normal
+T21	Lab_value 708 714	normal
+T22	Sign_symptom 746 755	nystagmus
+T23	Lab_value 794 800	normal
+T24	Detailed_description 896 905	bilateral
+T25	Lab_value 998 1006	positive
+T26	Therapeutic_procedure 1068 1075	Fasting
+T27	Biological_structure 1093 1098	blood
+T28	Diagnostic_procedure 1099 1106	glucose
+T29	Lab_value 1119 1125	normal
+T30	Biological_structure 1138 1143	renal
+T31	Biological_structure 1145 1150	liver
+T32	Biological_structure 1155 1162	thyroid
+T33	Lab_value 1183 1189	normal
+T34	Biological_structure 1191 1196	Serum
+T35	Lab_value 1236 1256	within normal limits
+T36	Lab_value 1331 1337	normal
+T37	Detailed_description 1338 1344	distal
+T38	Biological_structure 1400 1406	muscle
+T39	Diagnostic_procedure 1453 1456	MRI
+T40	Severity 1464 1470	marked
+T41	Sign_symptom 1471 1478	atrophy
+T42	Biological_structure 1486 1494	cervical
+T43	Biological_structure 1515 1525	cerebellum
+T44	Lab_value 1536 1542	normal
+T45	Clinical_event 1755 1764	diagnosis
+T46	Family_history 1962 2011	family history of ataxia and diabetes mellitus in
+T47	Subject 2018 2024	sister
+T48	Detailed_description 2157 2163	distal
+T49	Severity 2176 2182	severe
+T50	Sign_symptom 2220 2227	atrophy
+T51	Biological_structure 2231 2241	cerebellum
+T52	Clinical_event 2296 2308	presentation
+T53	Biological_structure 2373 2382	pulmonary
+T54	Disease_disorder 2383 2393	infections
+T55	Sign_symptom 2941 2949	weakness
+T56	Detailed_description 2970 2981	bilaterally
+T57	Dosage 3089 3095	450 mg
+T58	Frequency 3096 3107	twice a day
+T59	Therapeutic_procedure 3157 3170	physiotherapy
+T60	Activity 3181 3189	exercise
+T61	Biological_structure 3205 3210	Blood
+T62	Diagnostic_procedure 3211 3218	glucose
+T63	Frequency 3232 3241	regularly
+T64	Duration 3246 3254	4 months

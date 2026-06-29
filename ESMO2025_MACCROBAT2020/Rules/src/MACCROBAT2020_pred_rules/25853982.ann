@@ -1,20 +1,71 @@
 T1	Age 18 29	68-year-old
 T2	Sex 30 35	woman
-T3	Area 221 228	1×1.3cm
-T4	Date 278 291	December 2011
-T5	Date 387 403	six months after
-T6	Date 559 563	2012
-T7	Date 565 578	one year post
-T8	Lab_value 592 604	unremarkable
-T9	Date 670 679	June 2013
-T10	Date 681 695	18 months post
-T11	Date 930 939	July 2013
-T12	Lab_value 1048 1054	32mmHg
-T13	Date 1147 1161	18 months post
-T14	Date 1325 1337	January 2014
-T15	Lab_value 1536 1544	elevated
-T16	Lab_value 1584 1590	50mmHg
-T17	Distance 1845 1849	36cm
-T18	Distance 1900 1904	39cm
-T19	Date 1987 1991	2011
-T20	Date 2187 2203	after six months
+T3	Detailed_description 41 48	chronic
+T4	Biological_structure 61 70	pulmonary
+T5	History 91 133	history of gastroesophageal reflux disease
+T6	Biological_structure 137 147	esophageal
+T7	Detailed_description 182 193	progressive
+T8	Detailed_description 194 202	solitary
+T9	Biological_structure 203 212	pulmonary
+T10	Sign_symptom 213 219	nodule
+T11	Area 221 228	1×1.3cm
+T12	Therapeutic_procedure 251 260	resection
+T13	Date 278 291	December 2011
+T14	Sign_symptom 355 360	tumor
+T15	Date 387 403	six months after
+T16	Therapeutic_procedure 408 417	operation
+T17	Sign_symptom 465 474	dysphagia
+T18	Diagnostic_procedure 536 539	PET
+T19	Date 559 563	2012
+T20	Date 565 578	one year post
+T21	Therapeutic_procedure 579 586	surgery
+T22	Lab_value 592 604	unremarkable
+T23	Sign_symptom 609 619	recurrence
+T24	Sign_symptom 623 633	metastasis
+T25	Diagnostic_procedure 642 661	computed tomography
+T26	Diagnostic_procedure 663 665	CT
+T27	Date 670 679	June 2013
+T28	Date 681 695	18 months post
+T29	Therapeutic_procedure 696 703	surgery
+T30	Sign_symptom 722 732	recurrence
+T31	Sign_symptom 833 842	stricture
+T32	Biological_structure 850 859	esophagus
+T33	Detailed_description 875 882	primary
+T34	Detailed_description 887 896	secondary
+T35	Date 930 939	July 2013
+T36	Biological_structure 941 951	esophageal
+T37	Biological_structure 989 999	esophageal
+T38	Lab_value 1048 1054	32mmHg
+T39	Medication 1085 1109	calcium channel blockers
+T40	Date 1147 1161	18 months post
+T41	Therapeutic_procedure 1162 1171	resection
+T42	Diagnostic_procedure 1269 1279	hemoglobin
+T43	Diagnostic_procedure 1281 1288	albumin
+T44	Date 1325 1337	January 2014
+T45	Sign_symptom 1362 1371	dysphagia
+T46	Sign_symptom 1376 1387	weight loss
+T47	Clinical_event 1433 1441	referred
+T48	Biological_structure 1505 1515	esophageal
+T49	Lab_value 1536 1544	elevated
+T50	Biological_structure 1551 1561	esophageal
+T51	Lab_value 1584 1590	50mmHg
+T52	Biological_structure 1660 1670	esophageal
+T53	Sign_symptom 1759 1767	dilation
+T54	Sign_symptom 1800 1809	ulcerated
+T55	Sign_symptom 1821 1825	mass
+T56	Distance 1845 1849	36cm
+T57	Distance 1900 1904	39cm
+T58	Diagnostic_procedure 1906 1914	Biopsies
+T59	Detailed_description 1961 1968	primary
+T60	Sign_symptom 1969 1974	tumor
+T61	Therapeutic_procedure 1975 1983	resected
+T62	Date 1987 1991	2011
+T63	Sign_symptom 2019 2029	metastasis
+T64	Diagnostic_procedure 2054 2056	CT
+T65	Detailed_description 2071 2082	progressive
+T66	Detailed_description 2083 2090	diffuse
+T67	Detailed_description 2091 2101	metastatic
+T68	Medication 2148 2160	chemotherapy
+T69	Outcome 2165 2169	died
+T70	Coreference 2175 2186	the disease
+T71	Date 2187 2203	after six months

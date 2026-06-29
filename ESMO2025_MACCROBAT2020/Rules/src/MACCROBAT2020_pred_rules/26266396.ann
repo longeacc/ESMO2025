@@ -1,5 +1,31 @@
 T1	Age 2 13	55-year-old
 T2	Sex 14 19	woman
-T3	Distance 214 218	3 cm
-T4	Texture 891 895	flat
-T5	Texture 900 906	smooth
+T3	Clinical_event 24 32	referred
+T4	Nonbiological_location 36 48	our hospital
+T5	Biological_structure 75 86	mediastinal
+T6	Sign_symptom 87 92	tumor
+T7	Diagnostic_procedure 144 149	X-ray
+T8	Biological_structure 193 198	Chest
+T9	Diagnostic_procedure 199 202	MRI
+T10	Distance 214 218	3 cm
+T11	Sign_symptom 228 233	tumor
+T12	Biological_structure 265 275	right lobe
+T13	Biological_structure 279 286	thyroid
+T14	Biological_structure 310 321	mediastinum
+T15	Diagnostic_procedure 424 430	biopsy
+T16	Clinical_event 475 484	diagnosis
+T17	Clinical_event 543 552	diagnosis
+T18	Diagnostic_procedure 571 574	PET
+T19	Disease_disorder 710 720	malignancy
+T20	Biological_structure 748 758	right lobe
+T21	Therapeutic_procedure 759 767	excision
+T22	Biological_structure 782 789	thyroid
+T23	Sign_symptom 823 828	tumor
+T24	Biological_structure 851 861	right lobe
+T25	Texture 891 895	flat
+T26	Texture 900 906	smooth
+T27	Sign_symptom 1020 1025	tumor
+T28	Detailed_description 1078 1087	malignant
+T29	Biological_structure 1120 1127	thyroid
+T30	Clinical_event 1196 1205	diagnosis
+T31	Biological_structure 1221 1228	thyroid

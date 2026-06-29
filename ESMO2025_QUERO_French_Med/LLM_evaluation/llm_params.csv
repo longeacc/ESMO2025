@@ -14,3 +14,4 @@ run_date,model,backend,split,n_docs,method
 2026-06-23T14:46:25,ministral-14b-latest,mistral,test,419,few-shot
 2026-06-23T15:17:26,mistral-medium-latest,mistral,test,419,few-shot
 2026-06-23T15:38:34,mistral-large-latest,mistral,test,419,few-shot
+2026-06-27T12:47:00,ministral-14b-latest,mistral,test,419,few-shot

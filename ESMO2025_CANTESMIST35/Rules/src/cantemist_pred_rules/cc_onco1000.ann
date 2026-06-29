@@ -1,0 +1,19 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 39 62	allergie médicamenteuse
+T2	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 73 162	antécédent médical intéressant, a consulté en avril 2010 pour palpation d'une tumeur aux 
+T3	Histologie_tumorale 351 359	lymphome
+T4	Traitement_specifique_du_cancer 515 528	6 cycles de R
+T5	Traitement_specifique_du_cancer 1691 1702	6 cycles et
+T6	Traitement_specifique_du_cancer 1703 1716	radiothérapie
+T7	Evolutivite_en_lien_avec_le_cancer 1726 1733	Rechute
+T8	Traitement_specifique_du_cancer 1861 1874	radiothérapie
+T9	Histologie_tumorale 2086 2116	carcinome canalaire infiltrant
+T10	Traitement_specifique_du_cancer 2215 2243	traitement de chimiothérapie
+T11	Traitement_specifique_du_cancer 2283 2297	2 cycles suivi
+T12	Reponse_a_la_chimiotherapie 2444 2473	réponse pathologique complète
+T13	Signes_physiques 2927 2979	adénopathie pathologique iliaque externe droite de 1
+T14	Signes_physiques 3000 3051	adénopathie radiculaire cuisse droite mesurant 1 cm
+T15	Histologie_tumorale 3234 3264	carcinome canalaire infiltrant
+T16	Traitement_specifique_du_cancer 3270 3284	chimiothérapie
+T17	Histologie_tumorale 3378 3386	lymphome
+T18	Traitement_specifique_du_cancer 3746 3760	chimiothérapie
+T19	Reponse_a_la_chimiotherapie 4302 4322	progression tumorale

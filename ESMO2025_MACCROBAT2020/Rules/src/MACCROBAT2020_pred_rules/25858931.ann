@@ -1,33 +1,104 @@
 T1	Sex 2 7	woman
-T2	Frequency 340 349	recurrent
-T3	Administration 626 630	oral
-T4	Dosage 642 647	20 mg
-T5	Dosage 666 672	100 µg
-T6	Frequency 679 689	once daily
-T7	Lab_value 803 809	93 bpm
-T8	Lab_value 831 837	20/min
-T9	Lab_value 1109 1117	elevated
-T10	Distance 1145 1149	8 cm
-T11	Texture 1218 1222	soft
-T12	Lab_value 1421 1441	within normal limits
-T13	Lab_value 1468 1477	increased
-T14	Lab_value 1499 1509	2.59 ng/mL
-T15	Lab_value 1511 1517	normal
-T16	Lab_value 1530 1541	0.045 ng/mL
-T17	Lab_value 1570 1576	84 U/L
-T18	Lab_value 1578 1584	normal
-T19	Lab_value 1594 1601	192 U/L
-T20	Lab_value 1630 1636	normal
-T21	Distance 1657 1661	3 mm
-T22	Severity 1852 1856	mild
-T23	Dosage 2152 2158	162 mg
-T24	Dosage 2173 2178	60 mg
-T25	Lab_value 2528 2534	stable
-T26	Administration 2554 2558	oral
-T27	Dosage 2607 2619	2.5 mg daily
-T28	Dosage 2644 2651	12.5 mg
-T29	Duration 2662 2667	a day
-T30	Lab_value 2702 2710	resolved
-T31	Lab_value 2772 2778	stable
-T32	Date 2814 2828	2 months later
-T33	Lab_value 2910 2916	normal
+T2	Clinical_event 25 34	presented
+T3	Nonbiological_location 42 56	emergency room
+T4	Subject 74 81	husband
+T5	Outcome 82 89	expired
+T6	Biological_structure 112 117	chest
+T7	Sign_symptom 118 122	pain
+T8	Sign_symptom 155 163	dyspnoea
+T9	Subject 179 186	husband
+T10	Nonbiological_location 201 209	hospital
+T11	Disease_disorder 210 224	cardiac arrest
+T12	Nonbiological_location 265 279	emergency room
+T13	Clinical_event 297 305	admitted
+T14	Nonbiological_location 313 331	coronary care unit
+T15	Frequency 340 349	recurrent
+T16	History 433 448	medical history
+T17	Disease_disorder 475 489	hypothyroidism
+T18	Sign_symptom 534 538	pain
+T19	Nonbiological_location 578 590	primary care
+T20	Medication 606 616	medication
+T21	Administration 626 630	oral
+T22	Medication 631 641	furosemide
+T23	Dosage 642 647	20 mg
+T24	Medication 652 665	levothyroxine
+T25	Dosage 666 672	100 µg
+T26	Frequency 679 689	once daily
+T27	Clinical_event 716 728	presentation
+T28	Diagnostic_procedure 763 777	blood pressure
+T29	Diagnostic_procedure 789 799	heart rate
+T30	Lab_value 803 809	93 bpm
+T31	Diagnostic_procedure 811 827	respiratory rate
+T32	Lab_value 831 837	20/min
+T33	Diagnostic_procedure 845 862	oxygen saturation
+T34	Diagnostic_procedure 886 906	physical examination
+T35	Sign_symptom 947 951	pain
+T36	Biological_structure 957 961	skin
+T37	Sign_symptom 995 1003	crackles
+T38	Detailed_description 1007 1016	bilateral
+T39	Detailed_description 1053 1061	systolic
+T40	Sign_symptom 1062 1068	murmur
+T41	Therapeutic_procedure 1089 1098	radiation
+T42	Lab_value 1109 1117	elevated
+T43	Biological_structure 1118 1125	jugular
+T44	Sign_symptom 1131 1141	distention
+T45	Distance 1145 1149	8 cm
+T46	Detailed_description 1158 1168	peripheral
+T47	Detailed_description 1183 1193	peripheral
+T48	Sign_symptom 1194 1200	oedema
+T49	Biological_structure 1206 1213	abdomen
+T50	Texture 1218 1222	soft
+T51	Sign_symptom 1240 1249	distended
+T52	Detailed_description 1317 1322	focal
+T53	Biological_structure 1359 1364	blood
+T54	Lab_value 1421 1441	within normal limits
+T55	Biological_structure 1447 1454	cardiac
+T56	Lab_value 1468 1477	increased
+T57	Diagnostic_procedure 1485 1493	troponin
+T58	Lab_value 1499 1509	2.59 ng/mL
+T59	Lab_value 1511 1517	normal
+T60	Lab_value 1530 1541	0.045 ng/mL
+T61	Lab_value 1570 1576	84 U/L
+T62	Lab_value 1578 1584	normal
+T63	Lab_value 1594 1601	192 U/L
+T64	Diagnostic_procedure 1604 1607	ECG
+T65	Clinical_event 1611 1620	admission
+T66	Lab_value 1630 1636	normal
+T67	Distance 1657 1661	3 mm
+T68	Detailed_description 1741 1749	anterior
+T69	Disease_disorder 1755 1762	infarct
+T70	Diagnostic_procedure 1819 1836	ejection fraction
+T71	Severity 1852 1856	mild
+T72	Detailed_description 1857 1867	concentric
+T73	Sign_symptom 1885 1896	hypertrophy
+T74	Sign_symptom 1898 1906	akinesis
+T75	Detailed_description 1967 1975	anterior
+T76	Detailed_description 2031 2039	anterior
+T77	Disease_disorder 2088 2102	cardiomyopathy
+T78	Medication 2144 2151	aspirin
+T79	Dosage 2152 2158	162 mg
+T80	Dosage 2173 2178	60 mg
+T81	Biological_structure 2201 2208	cardiac
+T82	Therapeutic_procedure 2209 2224	catheterisation
+T83	Disease_disorder 2274 2297	coronary artery disease
+T84	Diagnostic_procedure 2382 2399	ejection fraction
+T85	Sign_symptom 2412 2420	akinesis
+T86	Lab_value 2528 2534	stable
+T87	Administration 2554 2558	oral
+T88	Disease_disorder 2559 2572	heart failure
+T89	Medication 2573 2584	medications
+T90	Dosage 2607 2619	2.5 mg daily
+T91	Medication 2624 2634	metoprolol
+T92	Dosage 2644 2651	12.5 mg
+T93	Duration 2662 2667	a day
+T94	Sign_symptom 2673 2677	pain
+T95	Sign_symptom 2682 2701	shortness of breath
+T96	Lab_value 2702 2710	resolved
+T97	Clinical_event 2723 2733	discharged
+T98	Clinical_event 2753 2768	hospitalisation
+T99	Lab_value 2772 2778	stable
+T100	Date 2814 2828	2 months later
+T101	Outcome 2836 2846	resolution
+T102	Disease_disorder 2854 2868	cardiomyopathy
+T103	Diagnostic_procedure 2876 2893	ejection fraction
+T104	Lab_value 2910 2916	normal

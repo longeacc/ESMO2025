@@ -1,15 +1,83 @@
 T1	Age 2 13	30-year-old
 T2	Sex 14 19	woman
-T3	Duration 95 102	4-month
-T4	Lab_value 273 279	stable
-T5	Lab_value 330 338	elevated
-T6	Distance 378 383	12 cm
-T7	Severity 583 591	markedly
-T8	Date 738 746	May 2010
-T9	Duration 838 845	6 years
-T10	Lab_value 943 951	negative
-T11	Lab_value 1335 1341	normal
-T12	Severity 1374 1382	moderate
-T13	Severity 1728 1734	marked
-T14	Distance 2102 2106	5 mm
-T15	Lab_value 2328 2332	good
+T3	Clinical_event 50 59	presented
+T4	Nonbiological_location 67 87	emergency department
+T5	Duration 95 102	4-month
+T6	History 103 138	history of gradual but progressive 
+T7	Sign_symptom 138 146	swelling
+T8	Biological_structure 154 165	lower limbs
+T9	Biological_structure 170 177	abdomen
+T10	Biological_structure 194 199	chest
+T11	Sign_symptom 200 204	pain
+T12	Sign_symptom 206 214	dyspnoea
+T13	Sign_symptom 237 245	dyspnoea
+T14	Sign_symptom 249 259	orthopnoea
+T15	Lab_value 273 279	stable
+T16	Diagnostic_procedure 296 307	examination
+T17	Lab_value 330 338	elevated
+T18	Biological_structure 339 346	jugular
+T19	Biological_structure 347 353	venous
+T20	Distance 378 383	12 cm
+T21	Biological_structure 437 448	pericardial
+T22	Biological_structure 502 513	pericardial
+T23	Sign_symptom 521 527	murmur
+T24	Biological_structure 533 538	lungs
+T25	Diagnostic_procedure 553 565	auscultation
+T26	Severity 583 591	markedly
+T27	Biological_structure 612 619	abdomen
+T28	Biological_structure 627 638	lower limbs
+T29	Clinical_event 648 656	admitted
+T30	Clinical_event 712 721	diagnosed
+T31	Date 738 746	May 2010
+T32	Activity 804 817	illicit drugs
+T33	Duration 838 845	6 years
+T34	Biological_structure 847 852	Renal
+T35	Biological_structure 857 864	hepatic
+T36	Biological_structure 897 902	blood
+T37	Biological_structure 922 932	Peritoneal
+T38	Lab_value 943 951	negative
+T39	Disease_disorder 956 966	malignancy
+T40	Sign_symptom 992 1001	thickened
+T41	Biological_structure 1009 1020	pericardium
+T42	Biological_structure 1043 1048	heart
+T43	Biological_structure 1115 1126	pericardial
+T44	Biological_structure 1183 1194	pericardial
+T45	Detailed_description 1247 1254	Doppler
+T46	Diagnostic_procedure 1284 1301	ejection fraction
+T47	Biological_structure 1315 1330	right ventricle
+T48	Lab_value 1335 1341	normal
+T49	Severity 1374 1382	moderate
+T50	Sign_symptom 1421 1441	pericardial effusion
+T51	Biological_structure 1451 1462	pericardial
+T52	Detailed_description 1540 1547	Doppler
+T53	Detailed_description 1632 1641	diastolic
+T54	Biological_structure 1685 1692	hepatic
+T55	Severity 1728 1734	marked
+T56	Sign_symptom 1735 1745	dilatation
+T57	Biological_structure 1762 1771	vena cava
+T58	Diagnostic_procedure 1821 1823	CT
+T59	Biological_structure 1831 1836	chest
+T60	Sign_symptom 1846 1856	thickening
+T61	Biological_structure 1864 1875	pericardium
+T62	Sign_symptom 1896 1909	calcification
+T63	Biological_structure 1925 1929	lung
+T64	Sign_symptom 1930 1937	nodules
+T65	Detailed_description 1939 1948	Bilateral
+T66	Biological_structure 1949 1956	pleural
+T67	Sign_symptom 1984 1994	thickening
+T68	Clinical_event 2000 2007	present
+T69	Biological_structure 2015 2019	lung
+T70	Biological_structure 2027 2034	Cardiac
+T71	Diagnostic_procedure 2035 2038	MRI
+T72	Sign_symptom 2077 2086	thickened
+T73	Biological_structure 2087 2098	pericardium
+T74	Distance 2102 2106	5 mm
+T75	Biological_structure 2121 2130	vena cava
+T76	Biological_structure 2135 2142	hepatic
+T77	Detailed_description 2193 2202	diastolic
+T78	Detailed_description 2226 2235	diastolic
+T79	Detailed_description 2250 2259	secondary
+T80	Detailed_description 2277 2286	diastolic
+T81	Lab_value 2328 2332	good
+T82	Biological_structure 2384 2389	heart
+T83	Therapeutic_procedure 2390 2405	catheterisation

@@ -1,19 +1,76 @@
 T1	Age 3 14	81-year-old
 T2	Sex 15 21	female
-T3	Frequency 164 176	intermittent
-T4	Date 201 213	10 years ago
-T5	Distance 221 225	4 cm
-T6	Date 280 294	2 years before
-T7	Distance 394 398	6 cm
-T8	Date 520 534	10 days before
-T9	Date 606 617	1 day later
-T10	Severity 793 797	mild
-T11	Shape 972 990	irregularly shaped
-T12	Texture 1376 1380	soft
-T13	Distance 1427 1433	2.3 cm
-T14	Date 1602 1615	13 days after
-T15	Shape 1657 1671	spindle-shaped
-T16	Lab_value 1806 1814	positive
-T17	Lab_value 1838 1846	positive
-T18	Lab_value 1872 1880	negative
-T19	Frequency 2106 2114	Sporadic
+T3	Clinical_event 53 61	admitted
+T4	Nonbiological_location 91 99	Hospital
+T5	Biological_structure 107 116	abdominal
+T6	Sign_symptom 117 121	pain
+T7	Sign_symptom 126 137	hematemesis
+T8	Frequency 164 176	intermittent
+T9	Date 201 213	10 years ago
+T10	Distance 221 225	4 cm
+T11	Biological_structure 226 233	gastric
+T12	Sign_symptom 234 239	tumor
+T13	Biological_structure 255 264	abdominal
+T14	Sign_symptom 265 269	pain
+T15	Date 280 294	2 years before
+T16	Clinical_event 295 304	admission
+T17	Nonbiological_location 324 338	local hospital
+T18	Biological_structure 345 354	abdominal
+T19	Diagnostic_procedure 355 357	CT
+T20	Biological_structure 374 381	gastric
+T21	Sign_symptom 382 387	tumor
+T22	Distance 394 398	6 cm
+T23	Sign_symptom 433 446	calcification
+T24	Therapeutic_procedure 459 480	Surgical intervention
+T25	Date 520 534	10 days before
+T26	Clinical_event 535 544	admission
+T27	Date 606 617	1 day later
+T28	Biological_structure 649 656	gastric
+T29	Sign_symptom 657 662	tumor
+T30	Detailed_description 668 675	central
+T31	Clinical_event 704 715	transferred
+T32	Nonbiological_location 719 731	our hospital
+T33	Diagnostic_procedure 733 753	Physical examination
+T34	Biological_structure 767 776	abdominal
+T35	Sign_symptom 777 787	tenderness
+T36	Severity 793 797	mild
+T37	Biological_structure 798 804	muscle
+T38	Sign_symptom 863 876	calcification
+T39	Biological_structure 888 895	abdomen
+T40	Detailed_description 916 920	deep
+T41	Biological_structure 921 928	gastric
+T42	Sign_symptom 929 934	ulcer
+T43	Diagnostic_procedure 954 956	CT
+T44	Shape 972 990	irregularly shaped
+T45	Sign_symptom 1007 1013	lesion
+T46	Biological_structure 1030 1037	stomach
+T47	Sign_symptom 1049 1063	calcifications
+T48	Biological_structure 1141 1148	gastric
+T49	Sign_symptom 1149 1154	tumor
+T50	Therapeutic_procedure 1165 1175	laparotomy
+T51	Sign_symptom 1207 1211	mass
+T52	Biological_structure 1224 1231	stomach
+T53	Biological_structure 1247 1252	colon
+T54	Therapeutic_procedure 1270 1279	operation
+T55	Biological_structure 1290 1294	bone
+T56	Biological_structure 1347 1354	gastric
+T57	Texture 1376 1380	soft
+T58	Sign_symptom 1415 1420	tumor
+T59	Distance 1427 1433	2.3 cm
+T60	Detailed_description 1509 1515	Distal
+T61	Therapeutic_procedure 1525 1536	gastrectomy
+T62	Clinical_event 1591 1601	discharged
+T63	Date 1602 1615	13 days after
+T64	Therapeutic_procedure 1616 1625	operation
+T65	Shape 1657 1671	spindle-shaped
+T66	Sign_symptom 1672 1677	tumor
+T67	Sign_symptom 1770 1775	tumor
+T68	Lab_value 1806 1814	positive
+T69	Lab_value 1838 1846	positive
+T70	Lab_value 1872 1880	negative
+T71	Clinical_event 1925 1934	diagnosis
+T72	Sign_symptom 1942 1947	tumor
+T73	Sign_symptom 2037 2042	tumor
+T74	Biological_structure 2058 2065	stomach
+T75	Frequency 2106 2114	Sporadic
+T76	Family_history 2141 2192	no family history of GIST nor other GIST presented 

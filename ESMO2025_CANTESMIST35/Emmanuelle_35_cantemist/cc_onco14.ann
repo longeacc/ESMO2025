@@ -1,0 +1,15 @@
+T1	Histologie_tumorale 85 106	carcinome épidermoïde
+T2	Topographie_du_primitif 85 125	carcinome épidermoïde du col de l'utérus
+T3	Symptomes 178 221	maux de tête et une hypertension artérielle
+T4	Symptomes 266 288	saignement post-coïtal
+T5	Histologie_tumorale 328 349	carcinome épidermoïde
+T6	Topographie_du_primitif 328 368	carcinome épidermoïde du col de l'utérus
+T7	Traitement_specifique_du_cancer 490 541	QT + RT concomitants, avec six cycles de cisplatine
+T8	Reponse_a_la_chimiotherapie 580 808	TEP-TDM de réévaluation de février 2014, une persistance d'une atteinte locale a été observée, avec apparition de lésions au niveau adénopathique cervical et médiastinal et de métastases viscérales au niveau pulmonaire et osseux
+T9	Stade_metastatique_avec_localisations 756 808	métastases viscérales au niveau pulmonaire et osseux
+T10	Traitement_specifique_du_cancer 946 972	platine-taxane-bevacizumab
+T11	Reponse_a_la_chimiotherapie 1049 1196	imagerie de contrôle réalisé en mai 2014, une amélioration de l'état décrit précédemment a été notée (sans atteindre les critères de réponse RECIST
+T12	Traitement_specifique_du_cancer 1303 1343	bevacizumab comme traitement d'entretien
+T13	Reponse_a_la_chimiotherapie 1353 1446	TEP-TDM de contrôle de novembre 2014, les résultats compatibles avec une progression tumorale
+T14	Symptomes 1729 1880	céphalées holocrâniennes oppressives d'intensité sur l'échelle EVA de 9/10, associées à une perte de vision bilatérale et à une hypertension artérielle
+T15	Symptomes 2222 2315	céphalées et une perte de vision, associées à un épisode de crise tonico-clonique généralisée

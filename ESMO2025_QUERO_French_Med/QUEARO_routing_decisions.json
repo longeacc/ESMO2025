@@ -1,0 +1,52 @@
+{
+  "DISO": {
+    "decision": "TBM",
+    "n_mentions": 515,
+    "p_cochran": 0.0
+  },
+  "PROC": {
+    "decision": "TBM",
+    "n_mentions": 300,
+    "p_cochran": 2e-06
+  },
+  "ANAT": {
+    "decision": "TBM",
+    "n_mentions": 259,
+    "p_cochran": 0.002464
+  },
+  "CHEM": {
+    "decision": "TBM",
+    "n_mentions": 168,
+    "p_cochran": 0.0
+  },
+  "DEVI": {
+    "decision": "Rules",
+    "n_mentions": 20,
+    "p_cochran": 0.018316
+  },
+  "LIVB": {
+    "decision": "TBM",
+    "n_mentions": 169,
+    "p_cochran": 4e-06
+  },
+  "PHYS": {
+    "decision": "Rules",
+    "n_mentions": 75,
+    "p_cochran": 0.009575
+  },
+  "PHEN": {
+    "decision": "Rules",
+    "n_mentions": 25,
+    "p_cochran": NaN
+  },
+  "GEOG": {
+    "decision": "Rules",
+    "n_mentions": 21,
+    "p_cochran": 0.012468
+  },
+  "OBJC": {
+    "decision": "Rules",
+    "n_mentions": 15,
+    "p_cochran": NaN
+  }
+}

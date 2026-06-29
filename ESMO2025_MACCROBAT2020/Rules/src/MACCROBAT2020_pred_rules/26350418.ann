@@ -1,29 +1,107 @@
 T1	Age 2 13	50-year-old
 T2	Sex 14 18	male
-T3	Lab_value 295 299	good
-T4	Distance 422 426	1 cm
-T5	Distance 537 543	1.3 cm
-T6	Distance 660 664	5 mm
-T7	Lab_value 754 760	normal
-T8	Lab_value 823 829	normal
-T9	Dosage 831 837	9.7 mg
-T10	Lab_value 842 848	normal
-T11	Dosage 860 867	10.4 mg
-T12	Severity 982 990	slightly
-T13	Lab_value 991 999	elevated
-T14	Lab_value 1045 1051	normal
-T15	Lab_value 1553 1559	raised
-T16	Severity 1613 1621	markedly
-T17	Texture 1714 1718	soft
-T18	Lab_value 1777 1785	negative
-T19	Dosage 2009 2015	8.7 mg
-T20	Dosage 2035 2039	3 mg
-T21	Lab_value 2063 2069	normal
-T22	Date 2077 2092	One month after
-T23	Dosage 2136 2142	9.6 mg
-T24	Lab_value 2235 2243	negative
-T25	Date 2278 2296	Eight months later
-T26	Dosage 2343 2349	9.2 mg
-T27	Lab_value 2401 2407	normal
-T28	Frequency 2558 2564	rarely
-T29	Lab_value 2688 2694	normal
+T3	Clinical_event 31 39	admitted
+T4	Biological_structure 64 71	thyroid
+T5	Sign_symptom 72 78	nodule
+T6	Biological_structure 86 96	right side
+T7	Biological_structure 104 108	neck
+T8	Biological_structure 145 152	carotid
+T9	Detailed_description 153 160	Doppler
+T10	Diagnostic_procedure 161 171	ultrasound
+T11	Sign_symptom 237 243	lesion
+T12	Lab_value 295 299	good
+T13	History 312 327	medical history
+T14	Diagnostic_procedure 384 404	physical examination
+T15	Sign_symptom 414 420	nodule
+T16	Distance 422 426	1 cm
+T17	Biological_structure 454 461	thyroid
+T18	Sign_symptom 471 479	enlarged
+T19	Biological_structure 480 484	neck
+T20	Biological_structure 485 496	lymph nodes
+T21	Biological_structure 512 516	Neck
+T22	Diagnostic_procedure 517 527	ultrasound
+T23	Distance 537 543	1.3 cm
+T24	Sign_symptom 555 561	nodule
+T25	Biological_structure 598 605	thyroid
+T26	Detailed_description 625 634	bilateral
+T27	Biological_structure 641 648	thyroid
+T28	Sign_symptom 649 656	nodules
+T29	Distance 660 664	5 mm
+T30	Sign_symptom 685 693	enlarged
+T31	Biological_structure 694 702	cervical
+T32	Detailed_description 703 712	bilateral
+T33	Biological_structure 713 724	lymph nodes
+T34	Biological_structure 726 733	Thyroid
+T35	Lab_value 754 760	normal
+T36	Biological_structure 781 788	thyroid
+T37	Biological_structure 805 810	Serum
+T38	Diagnostic_procedure 811 818	calcium
+T39	Lab_value 823 829	normal
+T40	Dosage 831 837	9.7 mg
+T41	Lab_value 842 848	normal
+T42	Dosage 860 867	10.4 mg
+T43	Diagnostic_procedure 876 879	PTH
+T44	Biological_structure 914 919	serum
+T45	Diagnostic_procedure 920 927	calcium
+T46	Biological_structure 965 972	thyroid
+T47	Therapeutic_procedure 973 980	surgery
+T48	Severity 982 990	slightly
+T49	Lab_value 991 999	elevated
+T50	Diagnostic_procedure 1018 1021	PTH
+T51	Lab_value 1045 1051	normal
+T52	Sign_symptom 1142 1148	lesion
+T53	Sign_symptom 1185 1191	nodule
+T54	Biological_structure 1328 1335	thyroid
+T55	Sign_symptom 1347 1354	lesions
+T56	Therapeutic_procedure 1407 1416	lobectomy
+T57	Biological_structure 1425 1429	neck
+T58	Sign_symptom 1484 1492	invasion
+T59	Detailed_description 1498 1512	intraoperative
+T60	Diagnostic_procedure 1528 1552	pathological examination
+T61	Lab_value 1553 1559	raised
+T62	Severity 1613 1621	markedly
+T63	Sign_symptom 1659 1664	tumor
+T64	Sign_symptom 1670 1678	invasion
+T65	Biological_structure 1686 1693	thyroid
+T66	Biological_structure 1705 1713	cervical
+T67	Texture 1714 1718	soft
+T68	Lab_value 1777 1785	negative
+T69	Diagnostic_procedure 1827 1830	PTH
+T70	Sign_symptom 1951 1956	tumor
+T71	Clinical_event 1961 1970	diagnosed
+T72	Biological_structure 1994 1999	serum
+T73	Diagnostic_procedure 2000 2007	calcium
+T74	Dosage 2009 2015	8.7 mg
+T75	Dosage 2035 2039	3 mg
+T76	Lab_value 2063 2069	normal
+T77	Date 2077 2092	One month after
+T78	Therapeutic_procedure 2093 2100	surgery
+T79	Biological_structure 2102 2107	serum
+T80	Diagnostic_procedure 2108 2115	calcium
+T81	Biological_structure 2120 2126	plasma
+T82	Diagnostic_procedure 2127 2130	PTH
+T83	Dosage 2136 2142	9.6 mg
+T84	Biological_structure 2174 2178	Neck
+T85	Diagnostic_procedure 2179 2189	ultrasound
+T86	Diagnostic_procedure 2205 2224	computed tomography
+T87	Lab_value 2235 2243	negative
+T88	Detailed_description 2258 2268	metastatic
+T89	Date 2278 2296	Eight months later
+T90	Biological_structure 2298 2303	serum
+T91	Diagnostic_procedure 2304 2311	calcium
+T92	Biological_structure 2316 2322	plasma
+T93	Diagnostic_procedure 2323 2326	PTH
+T94	Dosage 2343 2349	9.2 mg
+T95	Diagnostic_procedure 2375 2378	PTH
+T96	Lab_value 2401 2407	normal
+T97	Biological_structure 2442 2446	Neck
+T98	Diagnostic_procedure 2447 2457	ultrasound
+T99	Sign_symptom 2488 2495	lesions
+T100	Frequency 2558 2564	rarely
+T101	Sign_symptom 2591 2596	tumor
+T102	Biological_structure 2620 2625	serum
+T103	Diagnostic_procedure 2626 2633	calcium
+T104	Biological_structure 2638 2642	neck
+T105	Diagnostic_procedure 2643 2653	ultrasound
+T106	Subject 2661 2683	first-degree relatives
+T107	Lab_value 2688 2694	normal

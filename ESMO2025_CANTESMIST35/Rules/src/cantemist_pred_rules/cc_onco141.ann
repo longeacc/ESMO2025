@@ -1,0 +1,21 @@
+T1	Statut_tabagique 37 44	fumeuse
+T2	Histologie_tumorale 140 154	adénocarcinome
+T3	Traitement_specifique_du_cancer 215 224	chirurgie
+T4	Traitement_specifique_du_cancer 228 247	traitement adjuvant
+T5	Traitement_specifique_du_cancer 262 274	capécitabine
+T6	Symptomes 357 376	douleur pleurétique
+T7	Symptomes 537 544	dyspnée
+T8	Signes_physiques 649 665	bon état général
+T9	Signes_physiques 777 818	hypophonèse dans le champ supérieur droit
+T10	Signes_physiques 1194 1234	adénopathie hilaire droite suspecte de 1
+T11	Signes_physiques 1341 1429	adénopathie paratrachéale droite et une biopsie de la masse pulmonaire ont été réalisées
+T12	Histologie_tumorale 1461 1475	adénocarcinome
+T13	Biomarqueurs_therapeutiques 1492 1497	EGFR 
+T14	Histologie_tumorale 1601 1615	adénocarcinome
+T15	Biomarqueurs_therapeutiques 1631 1636	EGFR 
+T16	Stade_metastatique_avec_localisations 1664 1672	cT2aN2M0
+T17	Traitement_specifique_du_cancer 1759 1769	cisplatine
+T18	Reponse_a_la_chimiotherapie 1855 1872	réponse partielle
+T19	Stade_metastatique_avec_localisations 2109 2115	T1N1M0
+T20	Reponse_a_la_chimiotherapie 2443 2468	progression de la maladie
+T21	Traitement_specifique_du_cancer 2672 2685	radiothérapie

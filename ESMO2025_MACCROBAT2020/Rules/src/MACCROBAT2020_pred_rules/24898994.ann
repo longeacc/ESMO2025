@@ -1,6 +1,47 @@
 T1	Sex 2 7	woman
-T2	Distance 223 228	12 cm
-T3	Frequency 1047 1059	intermittent
-T4	Lab_value 1232 1240	abnormal
-T5	Texture 1603 1609	smooth
-T6	Duration 2053 2067	several months
+T2	Disease_disorder 77 86	carcinoma
+T3	Disease_disorder 127 136	carcinoma
+T4	Diagnostic_procedure 183 185	CT
+T5	Therapeutic_procedure 203 213	mastectomy
+T6	Distance 223 228	12 cm
+T7	Biological_structure 229 235	pelvic
+T8	Sign_symptom 236 240	mass
+T9	Biological_structure 297 303	uterus
+T10	Sign_symptom 331 339	bleeding
+T11	Biological_structure 347 353	pelvic
+T12	Diagnostic_procedure 354 364	ultrasound
+T13	Diagnostic_procedure 383 389	biopsy
+T14	Diagnostic_procedure 395 401	biopsy
+T15	Biological_structure 555 562	uterine
+T16	Sign_symptom 563 569	tumour
+T17	Detailed_description 585 592	primary
+T18	Disease_disorder 593 603	malignancy
+T19	Sign_symptom 616 626	metastasis
+T20	Detailed_description 661 670	bilateral
+T21	Disease_disorder 763 773	malignancy
+T22	Diagnostic_procedure 822 833	examination
+T23	Therapeutic_procedure 841 850	resection
+T24	Sign_symptom 888 894	tumour
+T25	Sign_symptom 979 985	tumour
+T26	Detailed_description 1002 1011	malignant
+T27	Frequency 1047 1059	intermittent
+T28	Clinical_event 1172 1179	present
+T29	Lab_value 1232 1240	abnormal
+T30	Biological_structure 1355 1359	bone
+T31	Sign_symptom 1398 1404	tumour
+T32	Detailed_description 1503 1512	malignant
+T33	Sign_symptom 1529 1535	tumour
+T34	Sign_symptom 1538 1544	Tumour
+T35	Texture 1603 1609	smooth
+T36	Biological_structure 1610 1616	muscle
+T37	Detailed_description 1771 1778	primary
+T38	Biological_structure 1779 1786	uterine
+T39	Diagnostic_procedure 1867 1869	CT
+T40	Detailed_description 1904 1912	multiple
+T41	Biological_structure 1913 1923	peritoneal
+T42	Biological_structure 1928 1937	pulmonary
+T43	Diagnostic_procedure 1961 1967	biopsy
+T44	Detailed_description 1974 1984	metastatic
+T45	Medication 2031 2043	chemotherapy
+T46	Outcome 2048 2052	died
+T47	Duration 2053 2067	several months

@@ -1,0 +1,14 @@
+T1	Histologie_tumorale 361 437	carcinome canalaire infiltrant (IDC) avec différenciation neuroendocrinienne
+T2	Traitement_specifique_du_cancer 470 489	traitement adjuvant
+T3	Signes_physiques 552 674	palpation d'un nodule irrégulier dans le quadrant supérieur externe (ESC), ligne interquadrant externe (ECL) du sein droit
+T4	Signes_physiques 706 770	plaie chirurgicale aux bords bien profilés, à l'état cicatriciel
+T5	Histologie_tumorale 1399 1429	carcinome canalaire infiltrant
+T6	Biomarqueurs_therapeutiques 1470 1567	récepteurs d'œstrogènes (ER) +++ (90 %), récepteurs de progestérone (PRg)+ (30 %) , Her-2 négatif
+T7	Traitement_specifique_du_cancer 1614 1678	tumorectomie plus biopsie sélective du ganglion sentinelle (SLNB
+T8	Histologie_tumorale 1759 1843	carcinome canalaire infiltrant, pT2 (23 mm), avec différenciation neuroendocrinienne
+T9	Biomarqueurs_therapeutiques 2033 2070	ER 90 %, RPg 30 %, Her-2 neu négative
+T10	Stade_metastatique_avec_localisations 2180 2192	pT2, pN0, M0
+T11	Histologie_tumorale 2458 2525	carcinome canalaire infiltrant à différenciation neuroendocrinienne
+T12	Traitement_specifique_du_cancer 2768 2819	fluorouracile, épirubicine et cyclophosphamide (FEC
+T13	Traitement_specifique_du_cancer 3019 3042	radiothérapie adjuvante
+T14	Traitement_specifique_du_cancer 3160 3171	anastrozole

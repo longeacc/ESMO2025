@@ -1,61 +1,177 @@
 T1	Age 2 13	61-year-old
-T2	Sex 22 27	woman
-T3	Duration 56 63	3 weeks
-T4	Duration 366 373	20-year
-T5	Lab_value 626 632	normal
-T6	Volume 876 894	5.7 × 5.0 × 5.0 cm
-T7	Severity 1001 1007	slight
-T8	Lab_value 1386 1392	normal
-T9	Dosage 1410 1414	36 g
-T10	Lab_value 1449 1460	12.2 μmol/L
-T11	Lab_value 1498 1508	4.1 μmol/L
-T12	Lab_value 1541 1547	17 U/L
-T13	Frequency 1944 1957	twice per day
-T14	Date 1972 1985	3 days before
-T15	Color 2139 2143	pink
-T16	Severity 2164 2172	moderate
-T17	Dosage 2257 2263	800 mg
-T18	Administration 2291 2302	intravenous
-T19	Administration 2303 2311	infusion
-T20	Time 2369 2386	within 30 minutes
-T21	Time 2434 2449	Two hours later
-T22	Volume 2551 2556	50 mL
-T23	Color 2574 2588	coffee-colored
-T24	Dosage 2908 2915	1200 mg
-T25	Administration 2917 2930	intravenously
-T26	Dosage 3059 3065	500 mg
-T27	Administration 3070 3074	oral
-T28	Frequency 3090 3101	twice a day
-T29	Date 3146 3151	day 3
-T30	Time 3345 3349	3 am
-T31	Date 3367 3372	day 4
-T32	Distance 3448 3454	3.0 mm
-T33	Shape 3459 3464	round
-T34	Lab_value 3535 3547	unremarkable
-T35	Lab_value 3574 3580	stable
-T36	Severity 3838 3844	severe
-T37	Time 3980 3995	within 24 hours
-T38	Lab_value 4155 4161	normal
-T39	Dosage 4186 4190	33 g
-T40	Lab_value 4207 4218	13.3 μmol/L
-T41	Lab_value 4237 4247	4.5 μmol/L
-T42	Lab_value 4257 4263	12 U/L
-T43	Lab_value 4463 4471	elevated
-T44	Lab_value 4473 4485	181.6 μmol/L
-T45	Lab_value 4487 4493	normal
-T46	Lab_value 4506 4515	32 μmol/L
-T47	Lab_value 4558 4566	positive
-T48	Lab_value 4602 4610	elevated
-T49	Administration 4693 4697	oral
-T50	Administration 4735 4746	intravenous
-T51	Lab_value 4954 4966	207.7 μmol/L
-T52	Date 5009 5025	following 3 days
-T53	Lab_value 5042 5054	unremarkable
-T54	Lab_value 5387 5393	normal
-T55	Duration 5650 5658	24 hours
-T56	Time 5723 5738	within 48 hours
-T57	Lab_value 5783 5792	decreased
-T58	Lab_value 5822 5828	normal
-T59	Date 5829 5842	within 4 days
-T60	Date 5869 5875	day 15
-T61	Date 5877 5889	8 days after
+T2	Personal_background 14 21	Chinese
+T3	Sex 22 27	woman
+T4	Sign_symptom 42 51	dizziness
+T5	Duration 56 63	3 weeks
+T6	Clinical_event 72 80	admitted
+T7	Nonbiological_location 84 96	our hospital
+T8	Sign_symptom 115 119	mass
+T9	Sign_symptom 157 166	dizziness
+T10	Clinical_event 180 189	presented
+T11	Sign_symptom 202 210	symptoms
+T12	Sign_symptom 275 283	headache
+T13	Sign_symptom 285 293	vomiting
+T14	Sign_symptom 343 351	seizures
+T15	Duration 366 373	20-year
+T16	History 374 397	history of hypertension
+T17	Medication 434 474	angiotensin-converting enzyme inhibitors
+T18	Lab_value 626 632	normal
+T19	Diagnostic_procedure 638 662	neurological examination
+T20	Detailed_description 674 691	contrast-enhanced
+T21	Diagnostic_procedure 692 718	magnetic resonance imaging
+T22	Diagnostic_procedure 720 723	MRI
+T23	Sign_symptom 762 768	lesion
+T24	Biological_structure 806 816	right side
+T25	Biological_structure 857 865	cerebral
+T26	Volume 876 894	5.7 × 5.0 × 5.0 cm
+T27	Sign_symptom 907 911	mass
+T28	Severity 1001 1007	slight
+T29	Clinical_event 1127 1136	Diagnosis
+T30	Disease_disorder 1167 1177	meningioma
+T31	Disease_disorder 1206 1216	meningioma
+T32	Therapeutic_procedure 1217 1226	resection
+T33	Biological_structure 1256 1261	blood
+T34	Diagnostic_procedure 1267 1278	examination
+T35	Biological_structure 1302 1307	liver
+T36	Diagnostic_procedure 1312 1326	renal function
+T37	Diagnostic_procedure 1334 1344	urinalysis
+T38	Biological_structure 1346 1351	chest
+T39	Diagnostic_procedure 1363 1380	electrocardiogram
+T40	Lab_value 1386 1392	normal
+T41	Diagnostic_procedure 1398 1405	albumin
+T42	Dosage 1410 1414	36 g
+T43	Diagnostic_procedure 1428 1437	bilirubin
+T44	Lab_value 1449 1460	12.2 μmol/L
+T45	Diagnostic_procedure 1477 1486	bilirubin
+T46	Lab_value 1498 1508	4.1 μmol/L
+T47	Diagnostic_procedure 1532 1535	ALT
+T48	Lab_value 1541 1547	17 U/L
+T49	Diagnostic_procedure 1589 1592	INR
+T50	History 1669 1692	history of hypertension
+T51	Biological_structure 1732 1737	blood
+T52	Biological_structure 1793 1802	pulmonary
+T53	Frequency 1944 1957	twice per day
+T54	Date 1972 1985	3 days before
+T55	Therapeutic_procedure 1990 1999	operation
+T56	Therapeutic_procedure 2050 2060	craniotomy
+T57	Sign_symptom 2095 2100	tumor
+T58	Therapeutic_procedure 2101 2110	resection
+T59	Sign_symptom 2129 2134	tumor
+T60	Color 2139 2143	pink
+T61	Severity 2164 2172	moderate
+T62	Biological_structure 2173 2178	blood
+T63	Therapeutic_procedure 2248 2255	surgery
+T64	Dosage 2257 2263	800 mg
+T65	Administration 2291 2302	intravenous
+T66	Administration 2303 2311	infusion
+T67	Therapeutic_procedure 2323 2332	operation
+T68	Time 2369 2386	within 30 minutes
+T69	Time 2434 2449	Two hours later
+T70	Nonbiological_location 2491 2495	ward
+T71	Volume 2551 2556	50 mL
+T72	Color 2574 2588	coffee-colored
+T73	Biological_structure 2589 2594	blood
+T74	Therapeutic_procedure 2644 2654	intubation
+T75	Clinical_event 2666 2675	diagnosed
+T76	Detailed_description 2704 2709	acute
+T77	Disease_disorder 2730 2739	gastritis
+T78	Therapeutic_procedure 2759 2769	craniotomy
+T79	Medication 2800 2810	omeprazole
+T80	Biological_structure 2822 2829	gastric
+T81	Sign_symptom 2854 2865	hematemesis
+T82	Dosage 2908 2915	1200 mg
+T83	Administration 2917 2930	intravenously
+T84	Biological_structure 2986 2993	stomach
+T85	Dosage 3059 3065	500 mg
+T86	Administration 3070 3074	oral
+T87	Frequency 3090 3101	twice a day
+T88	Biological_structure 3105 3110	brain
+T89	Diagnostic_procedure 3111 3114	MRI
+T90	Date 3146 3151	day 3
+T91	Sign_symptom 3178 3183	tumor
+T92	Therapeutic_procedure 3198 3205	removed
+T93	Diagnostic_procedure 3291 3302	examination
+T94	Clinical_event 3317 3326	diagnosis
+T95	Disease_disorder 3330 3340	meningioma
+T96	Time 3345 3349	3 am
+T97	Date 3367 3372	day 4
+T98	Detailed_description 3410 3414	deep
+T99	Sign_symptom 3437 3444	dilated
+T100	Distance 3448 3454	3.0 mm
+T101	Shape 3459 3464	round
+T102	Diagnostic_procedure 3506 3530	neurological examination
+T103	Lab_value 3535 3547	unremarkable
+T104	Diagnostic_procedure 3557 3568	vital signs
+T105	Lab_value 3574 3580	stable
+T106	Detailed_description 3631 3635	deep
+T107	Biological_structure 3684 3696	intracranial
+T108	Sign_symptom 3697 3704	lesions
+T109	Diagnostic_procedure 3733 3735	CT
+T110	Biological_structure 3749 3754	brain
+T111	Severity 3838 3844	severe
+T112	Biological_structure 3845 3850	brain
+T113	Sign_symptom 3851 3859	swelling
+T114	Biological_structure 3861 3873	intracranial
+T115	Disease_disorder 3874 3884	hemorrhage
+T116	Disease_disorder 3889 3908	cerebral infarction
+T117	Disease_disorder 3938 3957	cerebral infarction
+T118	Time 3980 3995	within 24 hours
+T119	Diagnostic_procedure 4074 4092	laboratory results
+T120	Biological_structure 4097 4102	blood
+T121	Biological_structure 4109 4114	liver
+T122	Biological_structure 4120 4125	renal
+T123	Lab_value 4155 4161	normal
+T124	Diagnostic_procedure 4174 4181	albumin
+T125	Dosage 4186 4190	33 g
+T126	Lab_value 4207 4218	13.3 μmol/L
+T127	Lab_value 4237 4247	4.5 μmol/L
+T128	Diagnostic_procedure 4249 4252	ALT
+T129	Lab_value 4257 4263	12 U/L
+T130	Diagnostic_procedure 4273 4276	INR
+T131	History 4325 4339	history of UGH
+T132	Biological_structure 4356 4361	blood
+T133	Biological_structure 4406 4411	blood
+T134	Biological_structure 4421 4426	blood
+T135	Biological_structure 4445 4450	blood
+T136	Lab_value 4463 4471	elevated
+T137	Lab_value 4473 4485	181.6 μmol/L
+T138	Lab_value 4487 4493	normal
+T139	Lab_value 4506 4515	32 μmol/L
+T140	Biological_structure 4543 4548	blood
+T141	Lab_value 4558 4566	positive
+T142	Lab_value 4602 4610	elevated
+T143	Biological_structure 4611 4616	blood
+T144	Clinical_event 4634 4643	diagnosed
+T145	Biological_structure 4661 4668	hepatic
+T146	Disease_disorder 4669 4683	encephalopathy
+T147	Administration 4693 4697	oral
+T148	Administration 4735 4746	intravenous
+T149	Sign_symptom 4773 4781	seizures
+T150	Biological_structure 4916 4921	blood
+T151	Lab_value 4954 4966	207.7 μmol/L
+T152	Date 5009 5025	following 3 days
+T153	Lab_value 5042 5054	unremarkable
+T154	Biological_structure 5098 5103	blood
+T155	Clinical_event 5169 5178	diagnosis
+T156	Therapeutic_procedure 5216 5228	hemodialysis
+T157	Biological_structure 5232 5242	peritoneal
+T158	Therapeutic_procedure 5243 5251	dialysis
+T159	Clinical_event 5305 5314	diagnosis
+T160	Biological_structure 5356 5361	blood
+T161	Lab_value 5387 5393	normal
+T162	Therapeutic_procedure 5461 5469	dialysis
+T163	Medication 5487 5500	levetiracetam
+T164	Biological_structure 5531 5536	blood
+T165	Duration 5650 5658	24 hours
+T166	Time 5723 5738	within 48 hours
+T167	Biological_structure 5777 5782	blood
+T168	Lab_value 5783 5792	decreased
+T169	Lab_value 5822 5828	normal
+T170	Date 5829 5842	within 4 days
+T171	Date 5869 5875	day 15
+T172	Date 5877 5889	8 days after
+T173	Clinical_event 5935 5945	discharged
+T174	Clinical_event 5973 5982	follow-up
+T175	Sign_symptom 6060 6070	recurrence
+T176	Detailed_description 6078 6085	primary
+T177	Sign_symptom 6086 6091	tumor

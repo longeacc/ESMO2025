@@ -1,0 +1,31 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 27 62	Cryptorchidie droite opérée à 4 ans
+T2	Statut_tabagique 64 96	1 paquet par jour pour ex-fumeur
+T3	Symptomes 140 227	gêne au niveau de la région génitale (démangeaisons et hypertrophie du testicule gauche
+T4	Traitement_specifique_du_cancer 403 423	orchidectomie gauche
+T5	Histologie_tumorale 468 484	GCT testiculaire
+T6	Topographie_du_primitif 468 484	GCT testiculaire
+T7	Signes_physiques 720 815	effet de masse important est palpable et occupe pratiquement tout l'abdomen. Matité généralisée
+T8	Topographie_du_primitif 928 954	tumeur testiculaire gauche
+T9	Traitement_specifique_du_cancer 1339 1359	Orchidectomie gauche
+T10	Histologie_tumorale 1400 1467	GCT mixte, 70 % de tumeur du sinus endodermique et 30 % de séminome
+T11	Histologie_tumorale 1660 1689	Tumeur germinale testiculaire
+T12	Topographie_du_primitif 1660 1689	Tumeur germinale testiculaire
+T13	Stade_metastatique_avec_localisations 1660 1772	Tumeur germinale testiculaire de stade III due à une maladie rétropéritonéale, péritonéale et pulmonaire massive
+T14	Traitement_specifique_du_cancer 1893 1934	BEP5 (bléomycine, étoposide et cisplatine
+T15	Reponse_a_la_chimiotherapie 1975 2101	Diminution inappropriée de MT selon les demi-vies (dernières valeurs après le quatrième cycle : LDH 353, AFP 2 326, bêta-HGC 2
+T16	Reponse_a_la_chimiotherapie 2110 2179	scanner post-chimiothérapie a montré une réduction minime de la masse
+T17	Traitement_specifique_du_cancer 2314 2367	TIP d'induction (paclitaxel, ifosfamide et cisplatine
+T18	Traitement_specifique_du_cancer 2381 2444	chimiothérapie à haute dose (HDCT) avec support hématopoïétique
+T19	Traitement_specifique_du_cancer 2484 2504	quatre cycles de TIP
+T20	Reponse_a_la_chimiotherapie 2591 2756	réévaluation après ce traitement (septembre 2013) montre une diminution de la MT qui atteint un plateau, mais sans normalisation, et une réponse radiologique mineure
+T21	Traitement_specifique_du_cancer 2903 2933	oxaliplatine-gemcitabine-taxol
+T22	Reponse_a_la_chimiotherapie 2974 3040	réponse notable par marqueurs et une réponse discrète par imagerie
+T23	Traitement_specifique_du_cancer 3136 3287	greffe autologue de cellules souches hématopoïétiques (ASCT) (les 22/7 et 23/2014) après conditionnement selon le schéma avec carboplatine et étoposide
+T24	Reponse_a_la_chimiotherapie 3305 3423	marqueurs diminuent à nouveau, mais sans atteindre une normalisation complète, et un bénéfice radiologique est observé
+T25	Traitement_specifique_du_cancer 3610 3620	VP-16 oral
+T26	Traitement_specifique_du_cancer 3716 3732	cyclophosphamide
+T27	Histologie_tumorale 3946 3954	tératome
+T28	Histologie_tumorale 4095 4156	tumeur germinale maligne de type tumeur du sinus endodermique
+T29	Reponse_a_la_chimiotherapie 4337 4448;4448 4491	pas d'images concluantes de récidive tumorale, mais une progression sérologique (augmentation maintenue du BHGC ) et l'apparition de métastases pulmonaires
+T30	Traitement_specifique_du_cancer 4514 4562	chimiothérapie a été débutée selon le schéma BOP
+T31	Stade_metastatique_avec_localisations 4469 4491	métastases pulmonaires

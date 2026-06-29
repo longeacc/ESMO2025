@@ -1,17 +1,57 @@
 T1	Age 2 13	66-year-old
 T2	Sex 14 17	man
-T3	Date 52 65	November 2008
-T4	Color 92 95	red
-T5	Lab_value 181 187	normal
-T6	Sex 188 192	male
-T7	Lab_value 227 235	negative
-T8	Date 437 441	2008
-T9	Date 553 568	Six years later
-T10	Texture 624 629	dense
-T11	Lab_value 828 837	increased
-T12	Sex 1152 1156	male
-T13	Lab_value 1430 1438	positive
-T14	Lab_value 1452 1460	negative
-T15	Lab_value 1962 1970	negative
-T16	Date 2116 2130	after 3 months
-T17	Texture 2217 2222	dense
+T3	Clinical_event 22 30	admitted
+T4	Nonbiological_location 36 48	our Hospital
+T5	Date 52 65	November 2008
+T6	Sign_symptom 71 83	splenomegaly
+T7	Color 92 95	red
+T8	Biological_structure 122 127	serum
+T9	Lab_value 181 187	normal
+T10	Sex 188 192	male
+T11	Lab_value 227 235	negative
+T12	Clinical_event 338 347	diagnosis
+T13	Biological_structure 395 399	bone
+T14	Date 437 441	2008
+T15	Medication 479 486	aspirin
+T16	Date 553 568	Six years later
+T17	Biological_structure 573 582	abdominal
+T18	Diagnostic_procedure 583 593	ultrasound
+T19	Texture 624 629	dense
+T20	Detailed_description 630 639	bilateral
+T21	Sign_symptom 652 664	infiltration
+T22	Diagnostic_procedure 702 721	computed tomography
+T23	Diagnostic_procedure 723 725	CT
+T24	Diagnostic_procedure 805 808	PET
+T25	Lab_value 828 837	increased
+T26	Diagnostic_procedure 838 845	glucose
+T27	Biological_structure 920 924	bone
+T28	Clinical_event 964 973	diagnosis
+T29	Biological_structure 1027 1031	bone
+T30	Sign_symptom 1039 1047	fibrosis
+T31	Sex 1152 1156	male
+T32	Sign_symptom 1267 1279	infiltration
+T33	Diagnostic_procedure 1309 1311	CT
+T34	Diagnostic_procedure 1324 1330	biopsy
+T35	Sign_symptom 1338 1344	lesion
+T36	Lab_value 1430 1438	positive
+T37	Lab_value 1452 1460	negative
+T38	Sign_symptom 1521 1529	fibrosis
+T39	Sign_symptom 1560 1570	infiltrate
+T40	Clinical_event 1643 1652	diagnosis
+T41	Biological_structure 1661 1668	Cardiac
+T42	Diagnostic_procedure 1669 1695	magnetic resonance imaging
+T43	Diagnostic_procedure 1697 1700	MRI
+T44	Sign_symptom 1726 1738	infiltration
+T45	Biological_structure 1777 1781	bone
+T46	Biological_structure 1849 1854	bones
+T47	Biological_structure 1926 1934	cerebral
+T48	Biological_structure 1939 1948	pulmonary
+T49	Lab_value 1962 1970	negative
+T50	Date 2116 2130	after 3 months
+T51	Biological_structure 2151 2160	abdominal
+T52	Diagnostic_procedure 2161 2171	ultrasound
+T53	Outcome 2199 2209	resolution
+T54	Texture 2217 2222	dense
+T55	Detailed_description 2223 2232	bilateral
+T56	Sign_symptom 2245 2257	infiltration
+T57	Biological_structure 2288 2293	blood

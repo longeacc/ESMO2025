@@ -1,43 +1,89 @@
 T1	Sex 28 34	female
-T2	Duration 84 92	34 weeks
-T3	Weight 235 242	1.19 kg
-T4	Distance 281 288	26.7 cm
-T5	Lab_value 591 599	positive
-T6	Duration 634 643	few hours
-T7	Severity 668 674	severe
-T8	Lab_value 734 743	22 mmol/l
-T9	Lab_value 761 770	increased
-T10	Lab_value 774 783	63 mmol/l
-T11	Lab_value 785 791	normal
-T12	Lab_value 803 813	2.1 mmol/l
-T13	Administration 837 848	intravenous
-T14	Administration 849 858	infusions
-T15	Time 1019 1031	within hours
-T16	Administration 1068 1079	intravenous
-T17	Administration 1080 1088	infusion
-T18	Dosage 1105 1114	7.8 mg/kg
-T19	Lab_value 1151 1157	normal
-T20	Severity 1193 1200	massive
-T21	Lab_value 1230 1239	increased
-T22	Lab_value 1315 1321	raised
-T23	Lab_value 1372 1383	1369 μmol/l
-T24	Severity 1473 1479	mildly
-T25	Lab_value 1480 1489	increased
-T26	Lab_value 1567 1573	normal
-T27	Lab_value 1614 1620	normal
-T28	Lab_value 1631 1635	good
-T29	Distance 1831 1836	15 mm
-T30	Distance 1892 1896	8 mm
-T31	Lab_value 2087 2099	unremarkable
-T32	Severity 2111 2117	severe
-T33	Lab_value 2176 2182	normal
-T34	Dosage 2226 2229	7 g
-T35	Lab_value 2233 2239	normal
-T36	Dosage 2243 2247	50 g
-T37	Lab_value 2262 2268	normal
-T38	Lab_value 2296 2302	raised
-T39	Lab_value 2322 2330	2700 U/l
-T40	Lab_value 2332 2338	normal
-T41	Lab_value 2340 2347	300 U/l
-T42	Administration 2489 2498	infusions
-T43	Age 2676 2683	aged 55
+T2	Clinical_event 42 46	born
+T3	Detailed_description 53 62	emergency
+T4	Therapeutic_procedure 63 80	caesarean section
+T5	Duration 84 92	34 weeks
+T6	Personal_background 138 145	British
+T7	Personal_background 146 155	Pakistani
+T8	Subject 156 163	parents
+T9	Mass 226 242	weighing 1.19 kg
+T10	Clinical_event 246 251	birth
+T11	Distance 281 288	26.7 cm
+T12	Detailed_description 432 441	emergency
+T13	Therapeutic_procedure 442 459	caesarean section
+T14	Clinical_event 531 539	admitted
+T15	Nonbiological_location 556 575	intensive care unit
+T16	Lab_value 591 599	positive
+T17	Therapeutic_procedure 616 627	ventilation
+T18	Duration 634 643	few hours
+T19	Severity 668 674	severe
+T20	Sign_symptom 675 690	lactic acidosis
+T21	Lab_value 734 743	22 mmol/l
+T22	Lab_value 761 770	increased
+T23	Lab_value 774 783	63 mmol/l
+T24	Lab_value 785 791	normal
+T25	Lab_value 803 813	2.1 mmol/l
+T26	Administration 837 848	intravenous
+T27	Administration 849 858	infusions
+T28	Medication 862 880	sodium bicarbonate
+T29	Medication 918 922	THAM
+T30	Disease_disorder 966 984	metabolic acidosis
+T31	Time 1019 1031	within hours
+T32	Clinical_event 1035 1040	birth
+T33	Administration 1068 1079	intravenous
+T34	Administration 1080 1088	infusion
+T35	Diagnostic_procedure 1096 1103	glucose
+T36	Dosage 1105 1114	7.8 mg/kg
+T37	Lab_value 1151 1157	normal
+T38	Severity 1193 1200	massive
+T39	Lab_value 1230 1239	increased
+T40	Biological_structure 1289 1295	Plasma
+T41	Lab_value 1315 1321	raised
+T42	Lab_value 1372 1383	1369 μmol/l
+T43	Sign_symptom 1420 1435	lactic acidosis
+T44	Severity 1473 1479	mildly
+T45	Lab_value 1480 1489	increased
+T46	Biological_structure 1534 1539	Blood
+T47	Lab_value 1567 1573	normal
+T48	Diagnostic_procedure 1575 1591	Echocardiography
+T49	Lab_value 1614 1620	normal
+T50	Biological_structure 1621 1626	heart
+T51	Lab_value 1631 1635	good
+T52	Biological_structure 1658 1665	Cranial
+T53	Diagnostic_procedure 1666 1676	ultrasound
+T54	Detailed_description 1684 1693	bilateral
+T55	Detailed_description 1746 1754	anterior
+T56	Detailed_description 1771 1778	lateral
+T57	Detailed_description 1795 1805	left-sided
+T58	Distance 1831 1836	15 mm
+T59	Distance 1892 1896	8 mm
+T60	Biological_structure 2013 2022	Abdominal
+T61	Diagnostic_procedure 2023 2033	ultrasound
+T62	Sign_symptom 2043 2052	distended
+T63	Biological_structure 2061 2068	bladder
+T64	Lab_value 2087 2099	unremarkable
+T65	Severity 2111 2117	severe
+T66	Disease_disorder 2118 2130	coagulopathy
+T67	Lab_value 2176 2182	normal
+T68	Biological_structure 2208 2214	plasma
+T69	Diagnostic_procedure 2215 2222	albumin
+T70	Dosage 2226 2229	7 g
+T71	Lab_value 2233 2239	normal
+T72	Dosage 2243 2247	50 g
+T73	Lab_value 2262 2268	normal
+T74	Diagnostic_procedure 2269 2289	liver function tests
+T75	Lab_value 2296 2302	raised
+T76	Lab_value 2322 2330	2700 U/l
+T77	Lab_value 2332 2338	normal
+T78	Lab_value 2340 2347	300 U/l
+T79	Clinical_event 2358 2369	transferred
+T80	Disease_disorder 2416 2434	metabolic acidosis
+T81	Sign_symptom 2455 2463	seizures
+T82	Administration 2489 2498	infusions
+T83	Medication 2502 2513	bicarbonate
+T84	Medication 2518 2522	THAM
+T85	Biological_structure 2558 2564	Muscle
+T86	Biological_structure 2569 2573	skin
+T87	Diagnostic_procedure 2574 2582	biopsies
+T88	Outcome 2671 2675	died
+T89	Age 2676 2683	aged 55

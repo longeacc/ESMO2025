@@ -1,48 +1,120 @@
 T1	Age 2 13	34-year-old
-T2	Sex 23 28	woman
-T3	Lab_value 110 118	elevated
-T4	Date 192 196	2005
-T5	Dosage 210 215	10 mg
-T6	Frequency 232 237	daily
-T7	Severity 310 318	slightly
-T8	Lab_value 319 327	elevated
-T9	Lab_value 329 336	48 mmHg
-T10	Date 341 345	2006
-T11	Date 410 414	2011
-T12	Lab_value 467 474	74 mmHg
-T13	Date 568 572	2012
-T14	Dosage 710 720	250 mg/day
-T15	Dosage 737 747	120 μg/day
-T16	Date 788 800	January 2014
-T17	Administration 849 851	IV
-T18	Lab_value 954 961	61 mmHg
-T19	Lab_value 977 984	104/min
-T20	Severity 1086 1092	severe
-T21	Duration 1209 1217	6-minute
-T22	Severity 1235 1241	severe
-T23	Lab_value 1282 1290	elevated
-T24	Lab_value 1367 1376	62.5 mmHg
-T25	Lab_value 1384 1393	27.1 mmHg
-T26	Lab_value 1684 1692	elevated
-T27	Lab_value 1699 1706	65 mmHg
-T28	Lab_value 1713 1719	normal
-T29	Lab_value 1755 1762	12 mmHg
-T30	Lab_value 1827 1836	decreased
-T31	Volume 1867 1873	1.69 L
-T32	Dosage 2278 2287	40 mg/day
-T33	Dosage 2318 2327	60 mg/day
-T34	Lab_value 2465 2474	unchanged
-T35	Lab_value 2501 2510	increased
-T36	Dosage 2518 2527	750 mg/m2
-T37	Frequency 2529 2542	every 4 weeks
-T38	Lab_value 2592 2601	increased
-T39	Dosage 2605 2616	60 mg daily
-T40	Duration 2683 2691	6-minute
-T41	Lab_value 2756 2765	decreased
-T42	Date 2805 2821	Six months after
-T43	Lab_value 2862 2870	improved
-T44	Lab_value 2883 2890	53 mmHg
-T45	Volume 2982 2988	1.83 L
-T46	Lab_value 3025 3031	stable
-T47	Date 3072 3087	18 months after
-T48	Administration 3123 3133	parenteral
+T2	Personal_background 14 22	Japanese
+T3	Sex 23 28	woman
+T4	Clinical_event 35 44	diagnosis
+T5	Lab_value 110 118	elevated
+T6	Biological_structure 119 125	plasma
+T7	Diagnostic_procedure 126 136	creatinine
+T8	Date 192 196	2005
+T9	Dosage 210 215	10 mg
+T10	Medication 219 231	prednisolone
+T11	Frequency 232 237	daily
+T12	Biological_structure 239 248	Pulmonary
+T13	Biological_structure 249 257	arterial
+T14	Detailed_description 258 266	systolic
+T15	Diagnostic_procedure 289 305	echocardiography
+T16	Severity 310 318	slightly
+T17	Lab_value 319 327	elevated
+T18	Lab_value 329 336	48 mmHg
+T19	Date 341 345	2006
+T20	Detailed_description 356 367	progressive
+T21	Sign_symptom 368 387	shortness of breath
+T22	Date 410 414	2011
+T23	Biological_structure 416 425	Pulmonary
+T24	Biological_structure 426 434	arterial
+T25	Clinical_event 452 461	diagnosed
+T26	Lab_value 467 474	74 mmHg
+T27	Biological_structure 483 492	pulmonary
+T28	Biological_structure 493 501	arterial
+T29	Biological_structure 537 542	heart
+T30	Diagnostic_procedure 543 558	catheterization
+T31	Date 568 572	2012
+T32	Medication 574 590	Cyclophosphamide
+T33	Therapeutic_procedure 597 622	immunosuppressive therapy
+T34	Sign_symptom 685 693	symptoms
+T35	Dosage 710 720	250 mg/day
+T36	Dosage 737 747	120 μg/day
+T37	Date 788 800	January 2014
+T38	Administration 849 851	IV
+T39	Clinical_event 866 874	admitted
+T40	Nonbiological_location 878 890	our hospital
+T41	Diagnostic_procedure 894 914	physical examination
+T42	Diagnostic_procedure 935 949	blood pressure
+T43	Lab_value 954 961	61 mmHg
+T44	Sign_symptom 964 975	tachycardia
+T45	Lab_value 977 984	104/min
+T46	Biological_structure 991 996	blood
+T47	Medication 997 1003	oxygen
+T48	Diagnostic_procedure 1024 1041	oxygen saturation
+T49	Biological_structure 1055 1062	jugular
+T50	Biological_structure 1063 1069	venous
+T51	Sign_symptom 1070 1080	distension
+T52	Severity 1086 1092	severe
+T53	Sign_symptom 1102 1107	edema
+T54	Sign_symptom 1116 1124	crackles
+T55	Duration 1209 1217	6-minute
+T56	Severity 1235 1241	severe
+T57	Lab_value 1282 1290	elevated
+T58	Biological_structure 1291 1297	plasma
+T59	Biological_structure 1298 1303	brain
+T60	Diagnostic_procedure 1325 1328	BNP
+T61	Sign_symptom 1351 1360	hypoxemia
+T62	Lab_value 1367 1376	62.5 mmHg
+T63	Lab_value 1384 1393	27.1 mmHg
+T64	Biological_structure 1531 1536	chest
+T65	Diagnostic_procedure 1537 1542	X-ray
+T66	Sign_symptom 1550 1558	enlarged
+T67	Biological_structure 1559 1568	pulmonary
+T68	Biological_structure 1569 1577	arteries
+T69	Sign_symptom 1582 1594	cardiomegaly
+T70	Diagnostic_procedure 1605 1622	Electrocardiogram
+T71	Lab_value 1684 1692	elevated
+T72	Lab_value 1699 1706	65 mmHg
+T73	Lab_value 1713 1719	normal
+T74	Biological_structure 1720 1729	pulmonary
+T75	Biological_structure 1730 1738	arterial
+T76	Lab_value 1755 1762	12 mmHg
+T77	Biological_structure 1770 1779	pulmonary
+T78	Lab_value 1827 1836	decreased
+T79	Biological_structure 1837 1844	cardiac
+T80	Biological_structure 1853 1860	cardiac
+T81	Volume 1867 1873	1.69 L
+T82	Therapeutic_procedure 1885 1896	ventilation
+T83	Biological_structure 1931 1940	pulmonary
+T84	Disease_disorder 1941 1956	thromboembolism
+T85	Detailed_description 1970 1977	chronic
+T86	Biological_structure 1990 1999	pulmonary
+T87	Biological_structure 2024 2028	lung
+T88	Diagnostic_procedure 2054 2073	computed tomography
+T89	Medication 2240 2246	oxygen
+T90	Medication 2267 2276	diuretics
+T91	Dosage 2278 2287	40 mg/day
+T92	Medication 2291 2301	furosemide
+T93	Dosage 2318 2327	60 mg/day
+T94	Lab_value 2465 2474	unchanged
+T95	Biological_structure 2484 2490	plasma
+T96	Diagnostic_procedure 2491 2494	BNP
+T97	Lab_value 2501 2510	increased
+T98	Dosage 2518 2527	750 mg/m2
+T99	Frequency 2529 2542	every 4 weeks
+T100	Medication 2575 2587	prednisolone
+T101	Lab_value 2592 2601	increased
+T102	Dosage 2605 2616	60 mg daily
+T103	Duration 2683 2691	6-minute
+T104	Biological_structure 2734 2740	plasma
+T105	Diagnostic_procedure 2741 2744	BNP
+T106	Lab_value 2756 2765	decreased
+T107	Date 2805 2821	Six months after
+T108	Clinical_event 2826 2835	admission
+T109	Clinical_event 2839 2848	follow-up
+T110	Lab_value 2862 2870	improved
+T111	Lab_value 2883 2890	53 mmHg
+T112	Biological_structure 2893 2902	pulmonary
+T113	Biological_structure 2959 2966	cardiac
+T114	Volume 2982 2988	1.83 L
+T115	Lab_value 3025 3031	stable
+T116	Date 3072 3087	18 months after
+T117	Clinical_event 3092 3101	admission
+T118	Administration 3123 3133	parenteral
+T119	Biological_structure 3149 3153	lung
+T120	Therapeutic_procedure 3154 3169	transplantation

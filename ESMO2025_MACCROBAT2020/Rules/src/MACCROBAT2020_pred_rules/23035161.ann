@@ -1,45 +1,135 @@
 T1	Age 2 13	37-year-old
-T2	Sex 24 27	man
-T3	Severity 96 102	severe
-T4	Distance 409 414	55 mm
-T5	Lab_value 437 446	unchanged
-T6	Lab_value 678 685	35.7 °C
-T7	Distance 722 727	89 mm
-T8	Frequency 926 931	daily
-T9	Dosage 959 965	2.5 mg
-T10	Dosage 978 984	7.5 mg
-T11	Dosage 1002 1007	40 mg
-T12	Lab_value 1095 1101	Normal
-T13	Lab_value 1307 1313	normal
-T14	Severity 1352 1360	slightly
-T15	Lab_value 1361 1369	elevated
-T16	Dosage 1398 1403	16 mg
-T17	Lab_value 1407 1413	normal
-T18	Dosage 1416 1420	5 mg
-T19	Lab_value 1425 1433	elevated
-T20	Dosage 1451 1459	0.070 µg
-T21	Lab_value 1463 1469	normal
-T22	Dosage 1472 1480	0.014 µg
-T23	Lab_value 1495 1503	elevated
-T24	Lab_value 1550 1556	normal
-T25	Lab_value 1615 1621	normal
-T26	Lab_value 1648 1658	100 µmol/l
-T27	Volume 1706 1711	73 ml
-T28	Lab_value 1947 1953	normal
-T29	Severity 2025 2031	severe
-T30	Dosage 2093 2096	1 g
-T31	Dosage 2109 2112	1 g
-T32	Dosage 2127 2132	75 µg
-T33	Frequency 2367 2375	frequent
-T34	Severity 2603 2609	severe
-T35	Lab_value 2756 2764	negative
-T36	Lab_value 2976 2984	negative
-T37	Administration 3388 3392	oral
-T38	Duration 3436 3443	11 days
-T39	Lab_value 3527 3533	normal
-T40	Date 3576 3585	fifth day
-T41	Lab_value 3792 3800	negative
-T42	Lab_value 3893 3899	stable
-T43	Lab_value 4226 4234	increase
-T44	Dosage 4244 4250	200 mg
-T45	Lab_value 4373 4382	decreased
+T2	Personal_background 14 23	Caucasian
+T3	Sex 24 27	man
+T4	Clinical_event 32 40	referred
+T5	Nonbiological_location 76 84	hospital
+T6	Severity 96 102	severe
+T7	Biological_structure 103 112	abdominal
+T8	Sign_symptom 113 117	pain
+T9	Biological_structure 206 219	transthoracic
+T10	Diagnostic_procedure 220 236	echocardiography
+T11	Clinical_event 262 271	admission
+T12	Sign_symptom 282 289	dilated
+T13	Disease_disorder 290 304	cardiomyopathy
+T14	Diagnostic_procedure 349 366	ejection fraction
+T15	Biological_structure 380 389	pulmonary
+T16	Distance 409 414	55 mm
+T17	Lab_value 437 446	unchanged
+T18	Nonbiological_location 579 599	emergency department
+T19	Biological_structure 648 656	axillary
+T20	Diagnostic_procedure 657 673	body temperature
+T21	Lab_value 678 685	35.7 °C
+T22	Biological_structure 694 702	arterial
+T23	Diagnostic_procedure 703 717	blood pressure
+T24	Distance 722 727	89 mm
+T25	Diagnostic_procedure 739 749	pulse rate
+T26	Detailed_description 808 815	diffuse
+T27	Biological_structure 816 825	abdominal
+T28	Sign_symptom 826 830	pain
+T29	Sign_symptom 891 899	vomiting
+T30	Frequency 926 931	daily
+T31	Medication 932 942	medication
+T32	Dosage 959 965	2.5 mg
+T33	Dosage 978 984	7.5 mg
+T34	Medication 989 1001	esomeprazole
+T35	Dosage 1002 1007	40 mg
+T36	Diagnostic_procedure 1012 1032	physical examination
+T37	Biological_structure 1052 1059	abdomen
+T38	Sign_symptom 1065 1072	painful
+T39	Diagnostic_procedure 1084 1093	palpation
+T40	Lab_value 1095 1101	Normal
+T41	Biological_structure 1181 1186	renal
+T42	Sign_symptom 1203 1207	pain
+T43	Diagnostic_procedure 1211 1220	palpation
+T44	Biological_structure 1225 1232	cardiac
+T45	Diagnostic_procedure 1233 1245	auscultation
+T46	Detailed_description 1253 1261	systolic
+T47	Sign_symptom 1262 1268	murmur
+T48	Biological_structure 1282 1286	Lung
+T49	Diagnostic_procedure 1287 1299	auscultation
+T50	Lab_value 1307 1313	normal
+T51	Diagnostic_procedure 1327 1346	Laboratory findings
+T52	Severity 1352 1360	slightly
+T53	Lab_value 1361 1369	elevated
+T54	Diagnostic_procedure 1370 1388	C reactive protein
+T55	Diagnostic_procedure 1390 1393	CRP
+T56	Dosage 1398 1403	16 mg
+T57	Lab_value 1407 1413	normal
+T58	Dosage 1416 1420	5 mg
+T59	Lab_value 1425 1433	elevated
+T60	Diagnostic_procedure 1434 1442	troponin
+T61	Dosage 1451 1459	0.070 µg
+T62	Lab_value 1463 1469	normal
+T63	Dosage 1472 1480	0.014 µg
+T64	Lab_value 1495 1503	elevated
+T65	Lab_value 1550 1556	normal
+T66	Biological_structure 1570 1576	Kidney
+T67	Lab_value 1615 1621	normal
+T68	Diagnostic_procedure 1634 1644	creatinine
+T69	Lab_value 1648 1658	100 µmol/l
+T70	Volume 1706 1711	73 ml
+T71	Biological_structure 1717 1722	Blood
+T72	Biological_structure 1780 1787	thyroid
+T73	Biological_structure 1798 1805	thyroid
+T74	Diagnostic_procedure 1829 1831	T3
+T75	Diagnostic_procedure 1838 1840	T4
+T76	Diagnostic_procedure 1870 1884	Urine analysis
+T77	Biological_structure 1909 1918	abdominal
+T78	Lab_value 1947 1953	normal
+T79	Biological_structure 1970 1977	kidneys
+T80	Severity 2025 2031	severe
+T81	Sign_symptom 2032 2036	pain
+T82	Dosage 2093 2096	1 g
+T83	Dosage 2109 2112	1 g
+T84	Dosage 2127 2132	75 µg
+T85	Detailed_description 2136 2153	contrast-enhanced
+T86	Biological_structure 2154 2163	abdominal
+T87	Diagnostic_procedure 2164 2166	CT
+T88	Biological_structure 2215 2221	kidney
+T89	Biological_structure 2267 2273	kidney
+T90	Biological_structure 2274 2282	arteries
+T91	Biological_structure 2335 2342	Cardiac
+T92	Frequency 2367 2375	frequent
+T93	Outcome 2385 2390	death
+T94	Disease_disorder 2455 2479	congestive heart failure
+T95	Biological_structure 2495 2500	Renal
+T96	Disease_disorder 2508 2516	embolism
+T97	Biological_structure 2575 2584	abdominal
+T98	Severity 2603 2609	severe
+T99	Detailed_description 2610 2617	diffuse
+T100	Biological_structure 2618 2627	abdominal
+T101	Sign_symptom 2628 2632	pain
+T102	Sign_symptom 2675 2680	fever
+T103	Lab_value 2756 2764	negative
+T104	Lab_value 2976 2984	negative
+T105	Clinical_event 3002 3011	diagnosis
+T106	Clinical_event 3104 3111	present
+T107	Disease_disorder 3166 3174	diabetes
+T108	Clinical_event 3244 3256	hospitalised
+T109	Medication 3314 3329	anticoagulation
+T110	Medication 3335 3342	heparin
+T111	Administration 3388 3392	oral
+T112	Medication 3393 3408	anticoagulation
+T113	Duration 3436 3443	11 days
+T114	Clinical_event 3447 3462	hospitalisation
+T115	Biological_structure 3491 3497	Kidney
+T116	Lab_value 3527 3533	normal
+T117	Diagnostic_procedure 3552 3568	echocardiography
+T118	Date 3576 3585	fifth day
+T119	Biological_structure 3596 3603	cardiac
+T120	Sign_symptom 3604 3612	thrombus
+T121	Disease_disorder 3642 3662	Deep vein thrombosis
+T122	Lab_value 3792 3800	negative
+T123	Clinical_event 3856 3871	hospitalisation
+T124	Lab_value 3893 3899	stable
+T125	Medication 3940 3949	diuretics
+T126	Medication 4038 4050	levofloxacin
+T127	Disease_disorder 4065 4074	infection
+T128	Clinical_event 4084 4099	hospitalisation
+T129	Medication 4105 4115	antibiotic
+T130	Diagnostic_procedure 4222 4225	CRP
+T131	Lab_value 4226 4234	increase
+T132	Dosage 4244 4250	200 mg
+T133	Biological_structure 4300 4305	renal
+T134	Clinical_event 4321 4330	discharge
+T135	Lab_value 4373 4382	decreased

@@ -1,0 +1,32 @@
+T1	Statut_tabagique 29 54	ex-fumeur (80 paquets/an)
+T2	Symptomes 397 442	dysphagie aux solides et d'une perte de poids
+T3	Stade_OMS_ECOG_Karnofsky 524 530	ECOG 0
+T4	Histologie_tumorale 1464 1488	adénocarcinome gastrique
+T5	Topographie_du_primitif 1464 1510	adénocarcinome gastrique infiltrant l'œsophage
+T6	Topographie_du_primitif 1575 1624	Adénocarcinome de la jonction gastro-œsophagienne
+T7	Histologie_tumorale 1575 1624	Adénocarcinome de la jonction gastro-œsophagienne
+T8	Stade_metastatique_avec_localisations 1639 1645	T3N0M0
+T9	Histologie_tumorale 1695 1762	adénocarcinome localement avancé de la jonction gastro-œsophagienne
+T10	Topographie_du_primitif 1695 1762	adénocarcinome localement avancé de la jonction gastro-œsophagienne
+T11	Stade_metastatique_avec_localisations 1770 1780	cT3 cN0 M0
+T12	Traitement_specifique_du_cancer 1786 1897	chimiothérapie périopératoire a été débutée avec un schéma DCF (docétaxel 75 mg/m2, cisplatine 75 mg/m2 et 5-FU
+T13	Traitement_specifique_du_cancer 2063 2110	chirurgie pour résection de la tumeur primitive
+T14	Stade_metastatique_avec_localisations 2422 2552	lésion frontopariétale droite mesurant 1,6 x 1,8 x 2 cm avec un œdème périlésionnel important, évocateur d'une lésion métastatique
+T15	Traitement_specifique_du_cancer 2659 2778	radiothérapie holocrânienne (RT), d'intervention sur la tumeur primitive et sur la lésion cérébrale métastatique unique
+T16	Traitement_specifique_du_cancer 2818 2871	œsophagectomie subtotale + une gastrectomie partielle
+T17	Histologie_tumorale 2939 2972	adénocarcinome de type intestinal
+T18	Topographie_du_primitif 2939 3059	adénocarcinome de type intestinal qui touche le tiers distal de l'œsophage, la jonction gastro-œsophagienne et l'estomac
+T19	Traitement_specifique_du_cancer 3222 3275	craniotomie pariétale droite et excision de la lésion
+T20	Stade_metastatique_avec_localisations 3330 3368	métastases d'adénocarcinome intestinal
+T21	Traitement_specifique_du_cancer 3446 3499	chimiothérapie a été complété par trois cycles de DCF
+T22	Symptomes 4030 4062	légère tendance à l'irritabilité
+T23	Traitement_specifique_du_cancer 4299 4356	craniotomie et une excision de la lésion pariétale gauche
+T24	Stade_metastatique_avec_localisations 4412 4447	métastases dues à un adénocarcinome
+T25	Stade_metastatique_avec_localisations 4102 4137	nouvelle métastase cérébrale unique
+T26	Histologie_tumorale 4433 4490	adénocarcinome moyennement différencié de type intestinal
+T27	Histologie_tumorale 4534 4583	adénocarcinome de la jonction gastro-œsophagienne
+T28	Topographie_du_primitif 4534 4583	adénocarcinome de la jonction gastro-œsophagienne
+T29	Stade_metastatique_avec_localisations 4584 4607	stade IV NED yp (T3N0M1
+T30	Stade_metastatique_avec_localisations 4610 4636	deux métastases cérébrales
+T31	Signes_physiques 4806 4896	légers troubles cognitifs (ralentissement, troubles de la mémoire et labilité émotionnelle
+T32	Reponse_a_la_chimiotherapie 5000 5039	sans signe de progression de la maladie

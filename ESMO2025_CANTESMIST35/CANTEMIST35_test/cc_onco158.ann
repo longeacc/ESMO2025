@@ -1,0 +1,12 @@
+T1	Symptomes 425 686	perte de poids de 3 kg au cours des 3 derniers mois, accompagnée d'une asthénie pendant 2 mois et d'une augmentation significative de l'asthénie la semaine dernière, ainsi que d'une hyporexie, d'un prurit généralisé, d'une acholie, d'une cholurie et d'un ictère
+T2	Symptomes 714 836	paresthésies sous forme de « picotements » au niveau de l'épigastre et des deux hypocondries, sans sensations douloureuses
+T3	Signes_physiques 882 1125	Légère jaunisse cutanée. Blessures dues aux égratignures sur le tronc, les membres supérieurs et inférieurs. Abdomen : légèrement douloureux à la palpation au niveau de l'épigastre. Hépatomégalie de trois croisements de doigts, non douloureuse
+T4	Stade_metastatique_avec_localisations 1619 1838	métastases pulmonaires bilatérales multiples, lésion focale du segment IV du foie, distension de la vésicule biliaire, dilatation de la voie biliaire extra-hépatique proximale, carcinose péritonéale et implants tumoraux
+T5	Histologie_tumorale 2581 2595	adénocarcinome
+T6	Topographie_du_primitif 2612 2646	Adénocarcinome des voies biliaires
+T7	Histologie_tumorale 2612 2646	Adénocarcinome des voies biliaires
+T8	Stade_metastatique_avec_localisations 2648 2708	Stade IV (métastases pulmonaires, hépatiques et péritonéales
+T9	Symptomes 2788 2883	symptômes de syndrome constitutionnel accompagnés d'acholie, de cholurie, d'ictère et de prurit
+T10	Traitement_specifique_du_cancer 4178 4189	gemcitabine
+T11	Stade_OMS_ECOG_Karnofsky 4255 4261	ECOG 0
+T12	Stade_OMS_ECOG_Karnofsky 4393 4404	ECOG de 0-1

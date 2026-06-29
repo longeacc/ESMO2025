@@ -1,15 +1,74 @@
 T1	Age 2 13	63-year-old
 T2	Sex 14 19	woman
-T3	Lab_value 311 324	140 beats/min
-T4	Lab_value 382 390	elevated
-T5	Lab_value 587 607	within normal limits
-T6	Lab_value 892 898	normal
-T7	Lab_value 919 925	normal
-T8	Severity 942 946	mild
-T9	Lab_value 1088 1095	reduced
-T10	Shape 1112 1119	annular
-T11	Time 1309 1319	Within 1 h
-T12	Frequency 1357 1366	recurrent
-T13	Lab_value 1501 1507	normal
-T14	Date 1530 1535	day 4
-T15	Area 1663 1674	4 cm × 9 cm
+T3	Biological_structure 34 41	cardiac
+T4	Clinical_event 50 59	presented
+T5	Therapeutic_procedure 101 111	intubation
+T6	Nonbiological_location 143 151	hospital
+T7	Sign_symptom 174 182	symptoms
+T8	Biological_structure 186 191	chest
+T9	Sign_symptom 204 216	palpitations
+T10	Sign_symptom 218 225	syncope
+T11	Disease_disorder 229 238	infection
+T12	Sign_symptom 296 307	tachycardia
+T13	Lab_value 311 324	140 beats/min
+T14	Diagnostic_procedure 348 359	examination
+T15	Lab_value 382 390	elevated
+T16	Biological_structure 391 398	jugular
+T17	Biological_structure 399 405	venous
+T18	Detailed_description 442 452	left-sided
+T19	Biological_structure 459 464	heart
+T20	Sign_symptom 485 493	crackles
+T21	Biological_structure 502 506	lung
+T22	Biological_structure 528 533	blood
+T23	Biological_structure 563 570	cardiac
+T24	Lab_value 587 607	within normal limits
+T25	Diagnostic_procedure 620 637	electrocardiogram
+T26	Sign_symptom 708 716	ischemia
+T27	Biological_structure 731 736	chest
+T28	Diagnostic_procedure 737 747	radiograph
+T29	Biological_structure 761 770	pulmonary
+T30	Clinical_event 809 818	diagnosis
+T31	Disease_disorder 822 837	pulmonary edema
+T32	Diagnostic_procedure 871 882	examination
+T33	Lab_value 892 898	normal
+T34	Biological_structure 899 906	cardiac
+T35	Lab_value 919 925	normal
+T36	Severity 942 946	mild
+T37	Detailed_description 947 956	diastolic
+T38	Detailed_description 983 992	diastolic
+T39	Detailed_description 1001 1010	diastolic
+T40	Lab_value 1088 1095	reduced
+T41	Detailed_description 1102 1111	diastolic
+T42	Shape 1112 1119	annular
+T43	Detailed_description 1136 1143	lateral
+T44	Biological_structure 1144 1156	mitral valve
+T45	Therapeutic_procedure 1255 1264	extubated
+T46	Clinical_event 1295 1307	presentation
+T47	Time 1309 1319	Within 1 h
+T48	Therapeutic_procedure 1323 1333	extubation
+T49	Frequency 1357 1366	recurrent
+T50	Disease_disorder 1367 1382	pulmonary edema
+T51	Therapeutic_procedure 1426 1448	mechanical ventilation
+T52	Diagnostic_procedure 1450 1473	Cardiac catheterization
+T53	Lab_value 1501 1507	normal
+T54	Biological_structure 1517 1525	arteries
+T55	Date 1530 1535	day 4
+T56	Nonbiological_location 1543 1561	coronary care unit
+T57	Clinical_event 1562 1571	admission
+T58	Therapeutic_procedure 1612 1622	extubation
+T59	Area 1663 1674	4 cm × 9 cm
+T60	Disease_disorder 1688 1694	goiter
+T61	Biological_structure 1714 1725	mediastinum
+T62	Biological_structure 1751 1759	tracheal
+T63	Sign_symptom 1760 1768	stenosis
+T64	Clinical_event 1788 1797	diagnosis
+T65	Detailed_description 1806 1815	secondary
+T66	Sign_symptom 1822 1830	enlarged
+T67	Disease_disorder 1831 1837	goiter
+T68	Therapeutic_procedure 1861 1882	surgical intervention
+T69	Therapeutic_procedure 1889 1902	thyroidectomy
+T70	Detailed_description 1904 1918	Intraoperative
+T71	Diagnostic_procedure 1919 1931	bronchoscopy
+T72	Biological_structure 1941 1949	tracheal
+T73	Sign_symptom 1950 1958	stenosis
+T74	Clinical_event 2051 2060	discharge

@@ -23,12 +23,21 @@ _HERE = os.path.dirname(os.path.abspath(__file__))
 GOLD_DIR = os.path.join(_HERE, "..", "..", "MACCROBAT2020")
 PRED_DIR = os.path.join(_HERE, "MACCROBAT2020_pred_rules")
 
-# Labels the regex annotator actually emits.
+# All 41 MACCROBAT2020 entity types.
 LABELS = (
     "Age", "Sex", "Date", "Duration", "Frequency", "Time",
     "Dosage", "Administration",
-    "Volume", "Area", "Distance", "Weight",
+    "Volume", "Area", "Distance", "Weight", "Height", "Mass",
     "Severity", "Color", "Shape", "Texture", "Lab_value",
+    "Outcome", "Personal_background", "Clinical_event", "Subject",
+    "Nonbiological_location", "Medication",
+    "Sign_symptom", "Disease_disorder",
+    "Therapeutic_procedure", "Diagnostic_procedure",
+    "Biological_structure", "Detailed_description",
+    "History", "Activity", "Occupation",
+    "Coreference", "Family_history",
+    "Biological_attribute", "Qualitative_concept", "Quantitative_concept",
+    "Other_event", "Other_entity",
 )
 
 

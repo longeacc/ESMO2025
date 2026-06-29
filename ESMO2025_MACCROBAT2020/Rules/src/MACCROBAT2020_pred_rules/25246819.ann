@@ -1,17 +1,75 @@
 T1	Age 2 13	19-year-old
 T2	Sex 14 19	woman
-T3	Shape 226 230	oval
-T4	Duration 428 437	12 months
-T5	Duration 442 449	3 years
-T6	Lab_value 621 630	increased
-T7	Shape 676 683	tubular
-T8	Date 760 769	age of 19
-T9	Lab_value 966 975	increased
-T10	Date 1178 1187	age of 21
-T11	Lab_value 1529 1538	decreased
-T12	Date 1804 1813	age of 22
-T13	Lab_value 1860 1869	increased
-T14	Lab_value 1879 1888	increased
-T15	Severity 2039 2048	low grade
-T16	Shape 2780 2787	tubular
-T17	Shape 2855 2862	tubular
+T3	Clinical_event 20 29	presented
+T4	Sign_symptom 37 41	lump
+T5	Sign_symptom 99 106	papules
+T6	Biological_structure 114 120	tongue
+T7	Diagnostic_procedure 166 181	ultrasonography
+T8	Shape 226 230	oval
+T9	Sign_symptom 231 237	masses
+T10	Diagnostic_procedure 272 278	biopsy
+T11	Sign_symptom 310 316	masses
+T12	Diagnostic_procedure 375 381	biopsy
+T13	Clinical_event 407 416	follow-up
+T14	Duration 428 437	12 months
+T15	Duration 442 449	3 years
+T16	Diagnostic_procedure 488 496	biopsies
+T17	Sign_symptom 608 615	lesions
+T18	Lab_value 621 630	increased
+T19	Shape 676 683	tubular
+T20	Date 760 769	age of 19
+T21	Biological_structure 801 805	neck
+T22	Sign_symptom 824 828	mass
+T23	Biological_structure 841 845	neck
+T24	Sign_symptom 869 876	nodules
+T25	Biological_structure 899 906	thyroid
+T26	Clinical_event 917 926	follow-up
+T27	Sign_symptom 958 965	nodules
+T28	Lab_value 966 975	increased
+T29	Therapeutic_procedure 1015 1028	thyroidectomy
+T30	Disease_disorder 1087 1096	carcinoma
+T31	Biological_structure 1109 1116	thyroid
+T32	Biological_structure 1153 1160	thyroid
+T33	Date 1178 1187	age of 21
+T34	Clinical_event 1199 1206	visited
+T35	Nonbiological_location 1211 1219	hospital
+T36	Sign_symptom 1229 1237	swelling
+T37	Biological_structure 1266 1270	neck
+T38	Diagnostic_procedure 1271 1273	CT
+T39	Sign_symptom 1299 1303	mass
+T40	Biological_structure 1375 1382	carotid
+T41	Diagnostic_procedure 1383 1394	angiography
+T42	Clinical_event 1409 1418	diagnosis
+T43	Lab_value 1529 1538	decreased
+T44	Biological_structure 1543 1548	blood
+T45	Sign_symptom 1597 1604	symptom
+T46	Clinical_event 1614 1622	referred
+T47	Biological_structure 1727 1732	blood
+T48	Date 1804 1813	age of 22
+T49	Clinical_event 1833 1842	presented
+T50	Sign_symptom 1850 1854	mass
+T51	Lab_value 1860 1869	increased
+T52	Lab_value 1879 1888	increased
+T53	Therapeutic_procedure 1962 1970	excision
+T54	Disease_disorder 1989 1998	carcinoma
+T55	Severity 2039 2048	low grade
+T56	Detailed_description 2086 2103	contrast-enhanced
+T57	Diagnostic_procedure 2111 2114	MRI
+T58	Detailed_description 2160 2168	multiple
+T59	Sign_symptom 2200 2206	masses
+T60	Sign_symptom 2237 2243	masses
+T61	Sign_symptom 2329 2335	masses
+T62	Disease_disorder 2476 2486	malignancy
+T63	Detailed_description 2499 2508	bilateral
+T64	Therapeutic_procedure 2522 2532	mastectomy
+T65	Therapeutic_procedure 2555 2569	reconstruction
+T66	Detailed_description 2595 2603	multiple
+T67	Detailed_description 2604 2613	bilateral
+T68	Sign_symptom 2621 2627	masses
+T69	Diagnostic_procedure 2671 2674	MRI
+T70	Disease_disorder 2702 2708	cancer
+T71	Shape 2780 2787	tubular
+T72	Disease_disorder 2813 2822	carcinoma
+T73	Detailed_description 2846 2854	multiple
+T74	Shape 2855 2862	tubular
+T75	Family_history 2947 2992	no family history of breast cancer or Cowden 

@@ -1,20 +1,105 @@
 T1	Age 2 13	78-year-old
-T2	Sex 33 37	male
-T3	Date 288 303	3 months before
-T4	Duration 384 391	2-month
-T5	Severity 685 691	marked
-T6	Distance 736 741	10 mm
-T7	Lab_value 889 897	abnormal
-T8	Time 957 970	7 hours after
-T9	Weight 1217 1223	6.5 kg
-T10	Color 1249 1254	white
-T11	Volume 1333 1348	30 × 30 × 50 mm
-T12	Distance 1492 1497	10-mm
-T13	Color 1498 1503	white
-T14	Severity 1639 1647	moderate
-T15	Lab_value 1916 1923	grade 2
-T16	Shape 1984 1989	round
-T17	Shape 2222 2233	coin-shaped
-T18	Distance 2257 2261	2 mm
-T19	Shape 2310 2315	round
-T20	Severity 2574 2581	massive
+T2	History 14 32	previously healthy
+T3	Sex 33 37	male
+T4	Activity 44 50	smoker
+T5	Clinical_event 51 60	presented
+T6	Nonbiological_location 68 88	Emergency Department
+T7	Sign_symptom 106 114	jaundice
+T8	Biological_structure 127 131	skin
+T9	Sign_symptom 134 141	ascites
+T10	Biological_structure 147 154	hepatic
+T11	Biological_structure 220 227	bladder
+T12	Disease_disorder 228 237	carcinoma
+T13	Clinical_event 247 256	diagnosed
+T14	Date 288 303	3 months before
+T15	Clinical_event 340 349	diagnosis
+T16	Duration 384 391	2-month
+T17	Detailed_description 403 414	progressive
+T18	Sign_symptom 415 423	jaundice
+T19	Sign_symptom 477 488	weight loss
+T20	Activity 562 566	drug
+T21	Family_history 588 628	No family history of cancer was declared
+T22	Clinical_event 637 644	present
+T23	Clinical_event 645 654	admission
+T24	Biological_structure 660 669	abdominal
+T25	Diagnostic_procedure 670 672	CT
+T26	Severity 685 691	marked
+T27	Sign_symptom 692 704	hepatomegaly
+T28	Detailed_description 710 718	multiple
+T29	Sign_symptom 725 732	nodules
+T30	Distance 736 741	10 mm
+T31	Biological_structure 779 786	hepatic
+T32	Sign_symptom 787 797	metastases
+T33	Biological_structure 807 814	bladder
+T34	Disease_disorder 815 824	carcinoma
+T35	Biological_structure 830 838	thoracic
+T36	Diagnostic_procedure 839 844	x-ray
+T37	Detailed_description 854 863	bilateral
+T38	Lab_value 889 897	abnormal
+T39	Outcome 921 925	died
+T40	Biological_structure 931 938	hepatic
+T41	Disease_disorder 939 953	encephalopathy
+T42	Time 957 970	7 hours after
+T43	Clinical_event 971 980	admission
+T44	Diagnostic_procedure 1184 1195	examination
+T45	Biological_structure 1210 1215	liver
+T46	Personal_background 1249 1254	white
+T47	Sign_symptom 1255 1262	nodules
+T48	Biological_structure 1301 1308	bladder
+T49	Volume 1333 1348	30 × 30 × 50 mm
+T50	Biological_structure 1349 1357	prostate
+T51	Sign_symptom 1358 1364	nodule
+T52	Detailed_description 1416 1425	bilateral
+T53	Detailed_description 1470 1477	central
+T54	Sign_symptom 1478 1483	tumor
+T55	Sign_symptom 1484 1488	mass
+T56	Distance 1492 1497	10-mm
+T57	Personal_background 1498 1503	white
+T58	Sign_symptom 1504 1510	nodule
+T59	Biological_structure 1543 1551	bronchus
+T60	Biological_structure 1586 1590	lung
+T61	Detailed_description 1600 1610	peripheral
+T62	Sign_symptom 1611 1618	nodules
+T63	Severity 1639 1647	moderate
+T64	Sign_symptom 1648 1653	edema
+T65	Biological_structure 1664 1669	brain
+T66	Sign_symptom 1670 1677	lesions
+T67	Biological_structure 1826 1831	iliac
+T68	Biological_structure 1838 1842	bone
+T69	Therapeutic_procedure 1843 1851	grafting
+T70	Diagnostic_procedure 1865 1876	examination
+T71	Biological_structure 1884 1892	prostate
+T72	Lab_value 1916 1923	grade 2
+T73	Disease_disorder 1931 1945	adenocarcinoma
+T74	Shape 1984 1989	round
+T75	Biological_structure 2013 2018	liver
+T76	Biological_structure 2046 2057	lymph nodes
+T77	Biological_structure 2067 2074	hepatic
+T78	Diagnostic_procedure 2082 2093	Examination
+T79	Biological_structure 2101 2105	lung
+T80	Detailed_description 2150 2158	multiple
+T81	Sign_symptom 2159 2164	tumor
+T82	Detailed_description 2212 2220	multiple
+T83	Shape 2222 2233	coin-shaped
+T84	Sign_symptom 2235 2240	tumor
+T85	Sign_symptom 2241 2248	nodules
+T86	Distance 2257 2261	2 mm
+T87	Biological_structure 2284 2290	pleura
+T88	Shape 2310 2315	round
+T89	Sign_symptom 2316 2321	tumor
+T90	Biological_structure 2346 2350	bone
+T91	Biological_structure 2367 2372	iliac
+T92	Biological_structure 2379 2383	bone
+T93	Biological_structure 2396 2401	brain
+T94	Sign_symptom 2402 2412	metastases
+T95	Clinical_event 2510 2519	diagnosis
+T96	Detailed_description 2553 2563	peripheral
+T97	Severity 2574 2581	massive
+T98	Sign_symptom 2597 2605	invasion
+T99	Sign_symptom 2610 2620	metastases
+T100	Biological_structure 2628 2639	lymph nodes
+T101	Biological_structure 2641 2646	liver
+T102	Biological_structure 2651 2655	bone
+T103	Disease_disorder 2673 2687	encephalopathy
+T104	Disease_disorder 2711 2725	adenocarcinoma
+T105	Biological_structure 2733 2741	prostate

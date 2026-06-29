@@ -1,0 +1,28 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 35 58	allergie médicamenteuse
+T2	Symptomes 99 122	hypertension artérielle
+T3	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 239 272	antécédents familiaux d'oncologie
+T4	Histologie_tumorale 303 317	adénocarcinome
+T5	Histologie_tumorale 553 567	adénocarcinome
+T6	Traitement_specifique_du_cancer 1310 1318	excision
+T7	Evolutivite_en_lien_avec_le_cancer 1487 1494	rechute
+T8	Stade_metastatique_avec_localisations 1509 1534	métastases périhépatiques
+T9	Stade_metastatique_avec_localisations 1712 1724	métastatique
+T10	Traitement_specifique_du_cancer 1818 1827	pazopanib
+T11	Reponse_a_la_chimiotherapie 1934 1940	RECIST
+T12	Symptomes 2022 2030	diarrhée
+T13	Symptomes 2057 2065	anorexie
+T14	Symptomes 2082 2090	asthénie
+T15	Stade_OMS_ECOG_Karnofsky 2139 2145	ECOG 0
+T16	Reponse_a_la_chimiotherapie 2278 2284	RECIST
+T17	Symptomes 2588 2596	asthénie
+T18	Symptomes 2667 2677	saignement
+T19	Symptomes 2825 2842	saignement rectal
+T20	Symptomes 2925 2945	douleurs abdominales
+T21	Symptomes 2947 2954	nausées
+T22	Symptomes 2958 2970	vomissements
+T23	Symptomes 2979 2985	fièvre
+T24	Signes_physiques 3092 3109	Pâleur de la peau
+T25	Signes_physiques 3128 3140	état général
+T26	Stade_metastatique_avec_localisations 3883 3891	stade IV
+T27	Symptomes 3896 3915	Saignement digestif
+T28	Traitement_specifique_du_cancer 5275 5284	Chirurgie

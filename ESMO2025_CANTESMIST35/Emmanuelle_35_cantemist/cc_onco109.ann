@@ -1,0 +1,21 @@
+T1	Topographie_du_primitif 395 446	carcinome canalaire infiltrant (IDC) du sein gauche
+T2	Histologie_tumorale 395 425	carcinome canalaire infiltrant
+T3	Traitement_specifique_du_cancer 474 486	tumorectomie
+T4	Histologie_tumorale 669 695	CDI du sous-type luminal A
+T5	Biomarqueurs_therapeutiques 767 857	récepteurs des œstrogènes et de la progestérone 100 % positifs, Ki-6710 % et Her2 négatifs
+T6	Traitement_specifique_du_cancer 923 1050	chimiothérapie adjuvante (CT) avec un schéma CAF (cyclophosphamide 500 mg/m2, adriamycine 50 mg/m2 et 5-fluorouracile 500 mg/m2
+T7	Traitement_specifique_du_cancer 1247 1260	radiothérapie
+T8	Traitement_specifique_du_cancer 1322 1410	blocage hormonal a été réalisé avec un analogue de la LHRH (goséréline) et du tamoxifène
+T9	Signes_physiques 1633 1689	adénopathie (ADP) dans la région sus-claviculaire droite
+T10	Stade_OMS_ECOG_Karnofsky 1734 1740	ECOG 0
+T11	Signes_physiques 1787 1866	adénopathie supraclaviculaire droite de 0,5 cm de consistance molle et roulante
+T12	Stade_metastatique_avec_localisations 1982 2030	ADP supraclaviculaire droite (FNAC) : métastases
+T13	Biomarqueurs_therapeutiques 2061 2090	récepteurs hormonaux positifs
+T14	Stade_metastatique_avec_localisations 2756 2827	métastases au niveau de l'apophyse épineuse de la vertèbre cervicale C4
+T15	Stade_metastatique_avec_localisations 3536 3558	métastase mammaire ICD
+T16	Biomarqueurs_therapeutiques 3568 3613	récepteurs hormonaux positifs et Her2 négatif
+T17	Histologie_tumorale 3690 3723	ICD mammaire, sous-type luminal A
+T18	Topographie_du_primitif 3690 3702	ICD mammaire
+T19	Traitement_specifique_du_cancer 3736 3755	traitement adjuvant
+T20	Traitement_specifique_du_cancer 3890 3900	paclitaxel
+T21	Traitement_specifique_du_cancer 4128 4138	paclitaxel

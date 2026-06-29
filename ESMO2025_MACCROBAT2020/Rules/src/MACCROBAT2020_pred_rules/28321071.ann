@@ -1,18 +1,63 @@
 T1	Age 3 14	82-year-old
 T2	Sex 15 20	woman
-T3	Severity 76 83	massive
-T4	Severity 368 374	severe
-T5	Lab_value 401 410	35.1 mmHg
-T6	Lab_value 416 425	61.0 mmHg
-T7	Lab_value 433 442	20.1 mmHg
-T8	Lab_value 448 456	5.5 mmHg
-T9	Volume 476 480	10 L
-T10	Volume 537 543	100 mL
-T11	Color 554 557	red
-T12	Texture 696 708	ground glass
-T13	Date 814 829	Four days after
-T14	Lab_value 871 879	improved
-T15	Lab_value 1198 1206	abnormal
-T16	Severity 1420 1427	massive
-T17	Date 1644 1661	Three weeks after
-T18	Frequency 1735 1744	recurrent
+T3	Clinical_event 25 36	transferred
+T4	Nonbiological_location 40 52	our hospital
+T5	Severity 76 83	massive
+T6	Sign_symptom 84 94	hemoptysis
+T7	Biological_structure 125 134	bronchial
+T8	Medication 187 198	medications
+T9	History 211 234	history of tuberculosis
+T10	Disease_disorder 265 274	infection
+T11	Activity 279 286	smoking
+T12	Diagnostic_procedure 292 312	physical examination
+T13	Detailed_description 322 329	diffuse
+T14	Detailed_description 330 339	bilateral
+T15	Sign_symptom 340 348	crackles
+T16	Severity 368 374	severe
+T17	Sign_symptom 375 384	hypoxemia
+T18	Lab_value 401 410	35.1 mmHg
+T19	Lab_value 416 425	61.0 mmHg
+T20	Lab_value 433 442	20.1 mmHg
+T21	Lab_value 448 456	5.5 mmHg
+T22	Volume 476 480	10 L
+T23	Biological_structure 516 524	tracheal
+T24	Therapeutic_procedure 525 535	intubation
+T25	Volume 537 543	100 mL
+T26	Color 554 557	red
+T27	Biological_structure 558 563	blood
+T28	Biological_structure 581 586	chest
+T29	Diagnostic_procedure 587 597	radiograph
+T30	Detailed_description 605 614	bilateral
+T31	Sign_symptom 615 626	infiltrates
+T32	Biological_structure 638 643	chest
+T33	Diagnostic_procedure 644 646	CT
+T34	Detailed_description 668 676	multiple
+T35	Sign_symptom 677 691	consolidations
+T36	Texture 696 708	ground glass
+T37	Detailed_description 721 726	focal
+T38	Disease_disorder 727 741	bronchiectasis
+T39	Sign_symptom 805 812	lesions
+T40	Date 814 829	Four days after
+T41	Clinical_event 830 839	admission
+T42	Lab_value 871 879	improved
+T43	Biological_structure 929 937	tracheal
+T44	Therapeutic_procedure 957 966	extubated
+T45	Sign_symptom 1010 1016	sputum
+T46	Sign_symptom 1060 1068	bleeding
+T47	Detailed_description 1084 1101	contrast-enhanced
+T48	Diagnostic_procedure 1102 1104	CT
+T49	Disease_disorder 1119 1133	bronchiectasis
+T50	Sign_symptom 1168 1180	infiltration
+T51	Lab_value 1198 1206	abnormal
+T52	Therapeutic_procedure 1216 1227	anastomosis
+T53	Biological_structure 1280 1289	pulmonary
+T54	Detailed_description 1308 1313	focal
+T55	Disease_disorder 1314 1328	bronchiectasis
+T56	Severity 1420 1427	massive
+T57	Sign_symptom 1428 1438	hemoptysis
+T58	Biological_structure 1592 1601	bronchial
+T59	Sign_symptom 1634 1642	bleeding
+T60	Date 1644 1661	Three weeks after
+T61	Clinical_event 1701 1711	discharged
+T62	Frequency 1735 1744	recurrent
+T63	Sign_symptom 1745 1755	hemoptysis

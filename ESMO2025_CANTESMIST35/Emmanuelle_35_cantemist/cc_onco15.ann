@@ -1,0 +1,24 @@
+T1	Histologie_tumorale 303 342	adénocarcinome rénal à cellules claires
+T2	Topographie_du_primitif 303 323	adénocarcinome rénal
+T3	Symptomes 383 401	hématurie indolore
+T4	Traitement_specifique_du_cancer 408 442	néphrectomie laparoscopique droite
+T5	Histologie_tumorale 553 586	adénocarcinome à cellules claires
+T6	Reponse_a_la_chimiotherapie 797 949	nodule de captation de 25 mm dans le lit tumoral et un nodule pariétal postérieur droit périhépatique ont été détectés lors du scanner thoraco-abdominal
+T7	Traitement_specifique_du_cancer 1082 1094	néphrectomie
+T8	Reponse_a_la_chimiotherapie 1453 1577	progression des deux lésions, une rechute locale et des métastases périhépatiques avec probable infiltration du muscle psoas
+T9	Stade_metastatique_avec_localisations 1509 1577	métastases périhépatiques avec probable infiltration du muscle psoas
+T10	Traitement_specifique_du_cancer 1646 1673	traitement antiangiogénique
+T11	Stade_metastatique_avec_localisations 1704 1724	maladie métastatique
+T12	Traitement_specifique_du_cancer 1818 1827	pazopanib
+T13	Reponse_a_la_chimiotherapie 1864 1940	stabilité clinique et radiologique a été atteinte, selon les critères RECIST
+T14	Stade_OMS_ECOG_Karnofsky 2139 2145	ECOG 0
+T15	Reponse_a_la_chimiotherapie 2266 2443	progression RECIST, mais l'évaluation des images montrait une augmentation de la taille des lésions cibles avec une nécrose plus importante, sans apparition de nouvelles lésions
+T16	Symptomes 2574 2596	vertiges et d'asthénie
+T17	Symptomes 2825 2970	saignement rectal avec caillots qui durait depuis 4 jours, avec une instabilité hémodynamique, sans douleurs abdominales, nausées ni vomissements
+T18	Signes_physiques 3092 3109	Pâleur de la peau
+T19	Signes_physiques 3111 3140	Affectation de l'état général
+T20	Signes_physiques 3294 3432	Abdomen : mou, déprimable, douloureux de manière diffuse à la palpation sans signe d'irritation péritonéale (négatif de Blumberg et Murphy
+T21	Histologie_tumorale 3866 3879	Hypernéphrome
+T22	Stade_metastatique_avec_localisations 3866 3891	Hypernéphrome de stade IV
+T23	Symptomes 5145 5189	selles méléniques et des saignements rectaux
+T24	Symptomes 5834 5851	selles méléniques

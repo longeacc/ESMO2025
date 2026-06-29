@@ -1,34 +1,81 @@
 T1	Age 2 13	67-year-old
 T2	Sex 14 19	woman
-T3	Frequency 147 163	3 times per week
-T4	Duration 168 176	15 years
-T5	Color 332 337	white
-T6	Lab_value 364 370	700/μL
-T7	Dosage 438 444	11.1 g
-T8	Lab_value 473 479	000/μL
-T9	Dosage 669 672	2 g
-T10	Administration 696 699	i.v
-T11	Lab_value 750 758	resolved
-T12	Administration 802 806	oral
-T13	Dosage 829 837	5 mg tid
-T14	Dosage 851 860	2.5 mg qd
-T15	Dosage 874 883	600 mg qd
-T16	Dosage 904 914	324 mg tid
-T17	Dosage 927 934	5 mg qd
-T18	Dosage 954 965	1000 mg tid
-T19	Dosage 982 990	40 mg qd
-T20	Date 1032 1036	2000
-T21	Administration 1040 1044	i.v.
-T22	Duration 1120 1126	1 year
-T23	Dosage 1237 1245	50 mg qd
-T24	Date 1247 1263	Two weeks before
-T25	Lab_value 1322 1329	6000/μL
-T26	Dosage 1356 1362	9.8 mg
-T27	Lab_value 1757 1765	negative
-T28	Severity 1848 1854	marked
-T29	Lab_value 1855 1863	decrease
-T30	Lab_value 1966 1972	normal
-T31	Duration 2077 2084	17 days
-T32	Lab_value 2102 2110	improved
-T33	Lab_value 2130 2137	2100/μL
-T34	Lab_value 2290 2296	normal
+T3	Nonbiological_location 32 52	emergency department
+T4	Sign_symptom 64 69	fever
+T5	History 91 106	medical history
+T6	Therapeutic_procedure 134 146	hemodialysis
+T7	Frequency 147 163	3 times per week
+T8	Duration 168 176	15 years
+T9	Detailed_description 263 272	secondary
+T10	Disease_disorder 273 292	hyperparathyroidism
+T11	Disease_disorder 298 306	diabetes
+T12	Personal_background 332 337	white
+T13	Biological_structure 338 343	blood
+T14	Diagnostic_procedure 356 359	WBC
+T15	Lab_value 364 370	700/μL
+T16	Diagnostic_procedure 427 437	hemoglobin
+T17	Dosage 438 444	11.1 g
+T18	Diagnostic_procedure 453 467	platelet count
+T19	Lab_value 473 479	000/μL
+T20	Sign_symptom 513 524	neutropenia
+T21	Detailed_description 529 534	acute
+T22	Clinical_event 556 564	admitted
+T23	Nonbiological_location 584 588	ward
+T24	Medication 639 650	antibiotics
+T25	Dosage 669 672	2 g
+T26	Administration 696 699	i.v
+T27	Disease_disorder 735 744	infection
+T28	Lab_value 750 758	resolved
+T29	Clinical_event 775 784	admission
+T30	Administration 802 806	oral
+T31	Medication 807 817	medication
+T32	Dosage 829 837	5 mg tid
+T33	Dosage 851 860	2.5 mg qd
+T34	Dosage 874 883	600 mg qd
+T35	Dosage 904 914	324 mg tid
+T36	Dosage 927 934	5 mg qd
+T37	Diagnostic_procedure 936 943	calcium
+T38	Dosage 954 965	1000 mg tid
+T39	Medication 971 981	febuxostat
+T40	Dosage 982 990	40 mg qd
+T41	Date 1032 1036	2000
+T42	Administration 1040 1044	i.v.
+T43	Medication 1060 1070	febuxostat
+T44	Activity 1086 1091	drugs
+T45	Duration 1120 1126	1 year
+T46	Medication 1128 1138	Febuxostat
+T47	Clinical_event 1173 1182	admission
+T48	Biological_structure 1198 1203	serum
+T49	Medication 1225 1236	allopurinol
+T50	Dosage 1237 1245	50 mg qd
+T51	Date 1247 1263	Two weeks before
+T52	Medication 1264 1274	febuxostat
+T53	Diagnostic_procedure 1293 1308	laboratory test
+T54	Diagnostic_procedure 1318 1321	WBC
+T55	Lab_value 1322 1329	6000/μL
+T56	Biological_structure 1334 1339	serum
+T57	Dosage 1356 1362	9.8 mg
+T58	Medication 1367 1377	Febuxostat
+T59	Disease_disorder 1508 1517	infection
+T60	Disease_disorder 1661 1671	infections
+T61	Lab_value 1757 1765	negative
+T62	Biological_structure 1767 1771	Bone
+T63	Diagnostic_procedure 1779 1790	examination
+T64	Clinical_event 1798 1813	hospitalization
+T65	Severity 1848 1854	marked
+T66	Lab_value 1855 1863	decrease
+T67	Biological_structure 1950 1954	bone
+T68	Lab_value 1966 1972	normal
+T69	Therapeutic_procedure 2014 2023	radiation
+T70	Medication 2062 2072	febuxostat
+T71	Duration 2077 2084	17 days
+T72	Sign_symptom 2090 2101	neutropenia
+T73	Lab_value 2102 2110	improved
+T74	Diagnostic_procedure 2126 2129	WBC
+T75	Lab_value 2130 2137	2100/μL
+T76	Medication 2172 2209	granulocyte colony-stimulating factor
+T77	Medication 2211 2216	G-CSF
+T78	Clinical_event 2233 2242	discharge
+T79	Diagnostic_procedure 2248 2251	WBC
+T80	Lab_value 2290 2296	normal
+T81	Clinical_event 2304 2313	follow-up

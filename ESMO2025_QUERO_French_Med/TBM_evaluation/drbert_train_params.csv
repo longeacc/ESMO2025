@@ -1,0 +1,12 @@
+run_date,model,device,n_train,n_test,n_labels,num_train_epochs,learning_rate,per_device_train_batch_size,per_device_eval_batch_size,gradient_accumulation_steps,weight_decay,warmup_steps,lr_scheduler_type,max_grad_norm,eval_strategy,save_strategy,logging_strategy,save_total_limit,load_best_model_at_end,metric_for_best_model,greater_is_better,seed,report_to,fp16
+2026-06-24T13:53:43,Dr-BERT/DrBERT-7GB,cuda,1247,419,21,15,3e-05,4,8,4,0.01,78,cosine,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-24T16:42:57,Dr-BERT/DrBERT-7GB,cuda,1247,419,21,5,2e-05,4,8,4,0.1,78,cosine,1.0,0.1,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-24T16:58:13,Dr-BERT/DrBERT-7GB,cuda,1247,419,21,5,3e-05,4,8,4,0.01,78,cosine,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-24T19:22:13,Dr-BERT/DrBERT-7GB,cuda,1247,419,21,6,2e-05,4,8,4,0.02,156,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-24T22:06:43,Dr-BERT/DrBERT-7GB,cuda,1247,419,21,6,2e-05,4,8,4,0.02,156,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-25T11:23:39,almanach/camembert-base,cuda,1247,419,21,10,3e-05,8,16,2,0.01,78,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-25T12:30:14,almanach/camembert-base,cuda,1247,419,21,15,0.0003,8,16,2,0.01,78,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-25T14:31:47,almanach/camembert-base,cuda,1247,419,21,15,0.0002,8,16,2,0.05,78,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-25T15:54:08,almanach/camembert-base,cuda,1247,419,21,25,0.0003,8,16,2,0.02,78,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-28T17:01:11,almanach/camembert-base,cuda,100,50,21,25,0.0002,8,16,2,0.05,6,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True
+2026-06-28T17:05:01,almanach/camembert-base,cuda,100,50,21,50,0.0002,8,16,2,0.05,6,linear,1.0,epoch,epoch,epoch,2,True,f1,True,42,none,True

@@ -1,26 +1,83 @@
 T1	Age 2 13	73-year-old
-T2	Sex 23 27	male
-T3	Administration 52 54	IV
-T4	Administration 626 637	nasogastric
-T5	Administration 703 710	enteral
-T6	Lab_value 790 794	poor
-T7	Duration 985 995	36 seconds
-T8	Dosage 1270 1283	81 mg per day
-T9	Administration 1471 1482	intravenous
-T10	Severity 1587 1597	moderately
-T11	Administration 1849 1860	nasogastric
-T12	Administration 1884 1895	intravenous
-T13	Administration 2139 2148	injection
-T14	Duration 2192 2203	195 seconds
-T15	Lab_value 2205 2211	normal
-T16	Duration 2213 2224	174 seconds
-T17	Duration 2261 2271	76 seconds
-T18	Lab_value 2273 2279	normal
-T19	Duration 2281 2292	120 seconds
-T20	Frequency 2414 2419	daily
-T21	Date 2462 2478	Three days later
-T22	Duration 2501 2509	a second
-T23	Duration 2620 2631	141 seconds
-T24	Lab_value 2676 2687	improvement
-T25	Texture 2729 2733	flat
-T26	Color 2735 2741	bluish
+T2	Personal_background 14 22	Hispanic
+T3	Sex 23 27	male
+T4	Administration 52 54	IV
+T5	Detailed_description 55 62	chronic
+T6	Biological_structure 63 69	kidney
+T7	Disease_disorder 95 118	coronary artery disease
+T8	Clinical_event 123 131	admitted
+T9	Therapeutic_procedure 165 172	surgery
+T10	Biological_structure 177 189	mitral valve
+T11	Therapeutic_procedure 190 196	repair
+T12	Biological_structure 247 254	cardiac
+T13	Disease_disorder 298 312	cardiac arrest
+T14	Therapeutic_procedure 353 360	removed
+T15	Clinical_event 471 482	transferred
+T16	Nonbiological_location 490 509	intensive care unit
+T17	Nonbiological_location 511 514	ICU
+T18	Nonbiological_location 555 558	ICU
+T19	Clinical_event 559 568	admission
+T20	Disease_disorder 574 587	renal failure
+T21	Therapeutic_procedure 610 622	hemodialysis
+T22	Therapeutic_procedure 626 642	nasogastric tube
+T23	Administration 703 710	enteral
+T24	Therapeutic_procedure 722 740	PEG tube insertion
+T25	Lab_value 790 794	poor
+T26	Coreference 885 898	the procedure
+T27	Duration 985 995	36 seconds
+T28	Biological_structure 1008 1013	blood
+T29	Diagnostic_procedure 1029 1039	hemoglobin
+T30	Diagnostic_procedure 1071 1081	hematocrit
+T31	Medication 1104 1113	platelets
+T32	Biological_structure 1134 1139	blood
+T33	Biological_structure 1191 1196	serum
+T34	Diagnostic_procedure 1197 1207	creatinine
+T35	Medication 1262 1269	aspirin
+T36	Dosage 1270 1283	81 mg per day
+T37	Biological_structure 1298 1305	cardiac
+T38	Therapeutic_procedure 1306 1313	surgery
+T39	Medication 1334 1347	anticoagulant
+T40	Disease_disorder 1390 1402	coagulopathy
+T41	Therapeutic_procedure 1404 1422	PEG tube insertion
+T42	Administration 1471 1482	intravenous
+T43	Detailed_description 1579 1586	diffuse
+T44	Severity 1587 1597	moderately
+T45	Sign_symptom 1626 1634	bleeding
+T46	Biological_structure 1642 1649	gastric
+T47	Therapeutic_procedure 1675 1683	PEG tube
+T48	Sign_symptom 1715 1723	hematoma
+T49	Coreference 1775 1788	The procedure
+T50	Nonbiological_location 1838 1841	ICU
+T51	Therapeutic_procedure 1849 1865	nasogastric tube
+T52	Administration 1884 1895	intravenous
+T53	Medication 1896 1908	desmopressin
+T54	Sign_symptom 1981 1989	bleeding
+T55	Sign_symptom 2019 2027	bleeding
+T56	Medication 2057 2065	platelet
+T57	Medication 2078 2086	platelet
+T58	Medication 2126 2138	desmopressin
+T59	Administration 2139 2148	injection
+T60	Duration 2192 2203	195 seconds
+T61	Lab_value 2205 2211	normal
+T62	Duration 2213 2224	174 seconds
+T63	Duration 2261 2271	76 seconds
+T64	Lab_value 2273 2279	normal
+T65	Duration 2281 2292	120 seconds
+T66	Medication 2306 2314	platelet
+T67	Medication 2341 2348	aspirin
+T68	Medication 2360 2367	Aspirin
+T69	Frequency 2414 2419	daily
+T70	Biological_structure 2429 2434	blood
+T71	Date 2462 2478	Three days later
+T72	Duration 2501 2509	a second
+T73	Therapeutic_procedure 2521 2529	PEG tube
+T74	Duration 2620 2631	141 seconds
+T75	Medication 2661 2668	aspirin
+T76	Lab_value 2676 2687	improvement
+T77	Diagnostic_procedure 2691 2705	renal function
+T78	Texture 2729 2733	flat
+T79	Color 2735 2741	bluish
+T80	Biological_structure 2742 2749	gastric
+T81	Sign_symptom 2798 2806	hematoma
+T82	Therapeutic_procedure 2823 2831	PEG tube
+T83	Therapeutic_procedure 2970 2978	PEG tube

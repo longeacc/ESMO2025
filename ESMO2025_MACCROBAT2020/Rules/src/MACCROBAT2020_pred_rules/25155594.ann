@@ -1,10 +1,46 @@
 T1	Age 2 13	20-year-old
 T2	Sex 14 18	male
-T3	Date 89 101	January 2013
-T4	Date 378 382	2004
-T5	Frequency 697 709	periodically
-T6	Date 739 748	July 2013
-T7	Frequency 769 778	recurrent
-T8	Administration 1062 1069	inhaled
-T9	Date 1158 1167	June 2013
-T10	Dosage 1489 1494	32 mg
+T3	Sign_symptom 31 39	fibrosis
+T4	Clinical_event 44 55	transferred
+T5	Nonbiological_location 77 85	Hospital
+T6	Date 89 101	January 2013
+T7	Biological_structure 122 126	lung
+T8	Biological_structure 131 137	kidney
+T9	Therapeutic_procedure 138 148	transplant
+T10	Sign_symptom 171 179	fibrosis
+T11	Detailed_description 201 208	chronic
+T12	Biological_structure 209 213	lung
+T13	Disease_disorder 214 224	infections
+T14	History 302 317	medical history
+T15	Biological_structure 327 337	pancreatic
+T16	Biological_structure 353 358	liver
+T17	Therapeutic_procedure 359 374	transplantation
+T18	Date 378 382	2004
+T19	Medication 384 391	steroid
+T20	Disease_disorder 400 408	diabetes
+T21	Biological_structure 420 425	renal
+T22	Disease_disorder 450 456	cancer
+T23	Disease_disorder 495 505	infections
+T24	Nonbiological_location 611 619	hospital
+T25	Clinical_event 641 649	transfer
+T26	Nonbiological_location 671 679	Hospital
+T27	Frequency 697 709	periodically
+T28	Clinical_event 710 722	hospitalized
+T29	Date 739 748	July 2013
+T30	Frequency 769 778	recurrent
+T31	Therapeutic_procedure 795 803	catheter
+T32	Disease_disorder 812 822	infections
+T33	Medication 890 900	antibiotic
+T34	Medication 973 982	meropenem
+T35	Medication 984 995	ceftazidime
+T36	Medication 1010 1020	vancomycin
+T37	Medication 1043 1056	ciprofloxacin
+T38	Administration 1062 1069	inhaled
+T39	Clinical_event 1128 1138	readmitted
+T40	Nonbiological_location 1142 1154	our hospital
+T41	Date 1158 1167	June 2013
+T42	Biological_structure 1201 1206	blood
+T43	Medication 1310 1339	trimethoprim-sulfamethoxazole
+T44	Medication 1386 1396	vancomycin
+T45	Biological_structure 1402 1407	blood
+T46	Dosage 1489 1494	32 mg

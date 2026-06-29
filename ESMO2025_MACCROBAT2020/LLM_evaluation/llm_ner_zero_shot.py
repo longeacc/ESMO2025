@@ -526,6 +526,95 @@ def inspect(doc_idx: int, query_fn, model_name: str, split: str):
 
 
 # ---------------------------------------------------------------------------
+# Export predicted spans on BRAT test docs → pred_spans_llm.json
+# ---------------------------------------------------------------------------
+
+def export_spans_brat(query_fn, model_name: str):
+    """Run LLM on 1149 sentence-level segments (same as eval), then map
+    predicted token spans back to document-level character offsets.
+
+    Saves pred_spans_llm.json = {doc_id: [[begin, end, label], ...]}
+    """
+    import spacy
+    nlp = spacy.load("en_core_web_sm", disable=["ner", "lemmatizer"])
+
+    brat_dir = Path(__file__).parent.parent / "MACCROBAT2020_test"
+    out_path = OUT_DIR / "pred_spans_llm.json"
+
+    txt_files = sorted(brat_dir.glob("*.txt"))
+    if not txt_files:
+        print(f"ERROR: no .txt files in {brat_dir}")
+        sys.exit(1)
+
+    # Build all segments with doc_id + spaCy token offsets
+    segments = []
+    for txt_path in txt_files:
+        doc_id = txt_path.stem
+        text = txt_path.read_text(encoding="utf-8")
+        doc = nlp(text)
+        for sent in doc.sents:
+            tokens = [tok.text for tok in sent]
+            if not tokens:
+                continue
+            segments.append({
+                "doc_id": doc_id,
+                "tokens": tokens,
+                "spacy_sent": sent,
+            })
+
+    total = len(segments)
+    print(f"\n  Export spans: {model_name} on {total} segments "
+          f"({len(txt_files)} docs)...")
+
+    predictions = {}
+    start_time = time.time()
+
+    for i, seg in enumerate(segments):
+        doc_id = seg["doc_id"]
+        tokens = seg["tokens"]
+        sent = seg["spacy_sent"]
+
+        text, offsets = build_char_offsets(tokens)
+        response = query_fn(text)
+        entities = parse_llm_response(response)
+
+        for ent in entities:
+            tok_spans = find_entity_in_tokens(
+                ent["text"], ent["label"], text, offsets,
+            )
+            for ts, te, label in tok_spans:
+                char_start = sent[ts].idx
+                char_end = sent[te].idx + len(sent[te].text)
+                predictions.setdefault(doc_id, set()).add(
+                    (char_start, char_end, label)
+                )
+
+        if (i + 1) % 50 == 0 or i == 0 or i == total - 1:
+            elapsed = time.time() - start_time
+            speed = (i + 1) / elapsed if elapsed > 0 else 0
+            eta = (total - i - 1) / speed if speed > 0 else 0
+            print(f"    [{i+1}/{total}] ({speed:.1f} seg/s, ETA {eta/60:.0f}min)")
+
+    serializable = {
+        doc_id: sorted([list(s) for s in spans])
+        for doc_id, spans in predictions.items()
+    }
+    # Include docs with 0 predictions
+    for txt_path in txt_files:
+        serializable.setdefault(txt_path.stem, [])
+
+    out_path.write_text(
+        json.dumps(serializable, indent=2, ensure_ascii=False), encoding="utf-8",
+    )
+    elapsed = time.time() - start_time
+    total_spans = sum(len(v) for v in serializable.values())
+    print(f"\n  Done in {elapsed/60:.1f} min")
+    print(f"  Exported: {out_path}")
+    print(f"  {len(serializable)} docs, {total_spans} total spans, "
+          f"{total} segments queried")
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -537,12 +626,18 @@ def main():
     parser.add_argument("--split", default="test", choices=["train", "test", "both"])
     parser.add_argument("--inspect", type=int, default=None, help="Inspect doc index")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of docs")
+    parser.add_argument("--export-spans", action="store_true",
+                        help="Export pred_spans_llm.json from BRAT test docs")
     args = parser.parse_args()
 
     if args.model is None:
         args.model = "mistral-large-latest" if args.backend == "mistral" else "qwen2.5:14b"
 
     query_fn = make_query_fn(args.backend, args.model, args.api_key)
+
+    if args.export_spans:
+        export_spans_brat(query_fn, args.model)
+        return
 
     if args.inspect is not None:
         inspect(args.inspect, query_fn, args.model, args.split if args.split != "both" else "test")

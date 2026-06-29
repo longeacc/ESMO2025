@@ -1,94 +1,194 @@
 T1	Age 2 13	22-year-old
-T2	Sex 22 25	man
-T3	Dosage 207 215	300 mg/d
-T4	Dosage 223 231	450 mg/d
-T5	Dosage 251 259	750 mg/d
-T6	Dosage 285 294	1500 mg/d
-T7	Date 297 309	After 1 week
-T8	Lab_value 448 454	normal
-T9	Date 529 543	Two days later
-T10	Date 685 700	Four days later
-T11	Date 715 719	2015
-T12	Severity 853 857	mild
-T13	Lab_value 915 922	132/min
-T14	Duration 1045 1054	8 seconds
-T15	Lab_value 1056 1062	normal
-T16	Duration 1077 1086	8 seconds
-T17	Lab_value 1127 1133	normal
-T18	Dosage 1165 1171	1.13 g
-T19	Lab_value 1175 1181	normal
-T20	Dosage 1193 1198	4.0 g
-T21	Dosage 1213 1221	23.45 mg
-T22	Lab_value 1225 1231	normal
-T23	Dosage 1240 1247	0.55 mg
-T24	Dosage 1280 1287	60.4 mg
-T25	Lab_value 1291 1297	normal
-T26	Dosage 1305 1309	5 mg
-T27	Lab_value 1334 1340	normal
-T28	Lab_value 1372 1380	abnormal
-T29	Color 1403 1408	white
-T30	Lab_value 1441 1447	normal
-T31	Dosage 1477 1481	65 g
-T32	Lab_value 1485 1491	normal
-T33	Dosage 1503 1508	175 g
-T34	Lab_value 1530 1541	30.8 umol/L
-T35	Lab_value 1543 1549	normal
-T36	Lab_value 1561 1572	28.0 umol/L
-T37	Lab_value 1593 1604	16.6 umol/L
-T38	Lab_value 1606 1612	normal
-T39	Lab_value 1622 1632	8.8 umol/L
-T40	Lab_value 1663 1669	75 U/L
-T41	Lab_value 1671 1677	normal
-T42	Lab_value 1686 1692	40 U/L
-T43	Lab_value 1721 1728	293 U/L
-T44	Lab_value 1730 1736	normal
-T45	Lab_value 1745 1751	50 U/L
-T46	Lab_value 1777 1784	380 U/L
-T47	Lab_value 1786 1792	normal
-T48	Lab_value 1804 1811	220 U/L
-T49	Lab_value 1835 1847	13.01 mmol/L
-T50	Lab_value 1849 1855	normal
-T51	Lab_value 1867 1878	7.79 mmol/L
-T52	Dosage 1901 1909	16.70 mg
-T53	Lab_value 1913 1919	normal
-T54	Dosage 1928 1932	5 mg
-T55	Dosage 1951 1957	0.41 g
-T56	Lab_value 1961 1967	normal
-T57	Dosage 1981 1988	1.520 g
-T58	Dosage 2011 2019	0.0797 g
-T59	Lab_value 2023 2029	normal
-T60	Dosage 2043 2050	0.360 g
-T61	Lab_value 2093 2104	330 Cell/uL
-T62	Lab_value 2116 2127	250 Cell/uL
-T63	Dosage 2137 2140	2 g
-T64	Lab_value 2161 2170	70 umol/L
-T65	Color 2198 2201	red
-T66	Color 2220 2225	white
-T67	Lab_value 2285 2293	positive
-T68	Lab_value 2375 2383	positive
-T69	Lab_value 2428 2436	negative
-T70	Date 2496 2500	2015
-T71	Lab_value 2778 2786	negative
-T72	Lab_value 2914 2922	negative
-T73	Lab_value 2971 2979	negative
-T74	Administration 3094 3102	infusion
-T75	Color 3144 3147	red
-T76	Administration 3161 3172	intravenous
-T77	Date 3311 3326	Five days after
-T78	Date 3349 3353	2015
-T79	Date 3476 3492	Eight days after
-T80	Date 3517 3521	2015
-T81	Dosage 3570 3578	200 mg/d
-T82	Administration 3580 3593	intravenously
-T83	Date 3622 3635	24 days after
-T84	Date 3660 3664	2015
-T85	Lab_value 3730 3736	normal
-T86	Date 3794 3809	One month later
-T87	Date 3824 3828	2015
-T88	Date 3956 3969	4 weeks after
-T89	Dosage 4031 4039	300 mg/d
-T90	Dosage 4047 4055	750 mg/d
-T91	Dosage 4072 4080	500 mg/d
-T92	Administration 4114 4127	intramuscular
-T93	Administration 4128 4137	injection
-T94	Duration 4192 4200	8 months
+T2	Personal_background 14 21	Tibetan
+T3	Sex 22 25	man
+T4	History 34 66	significant past medical history
+T5	Clinical_event 71 80	diagnosed
+T6	Biological_structure 86 95	pulmonary
+T7	Diagnostic_procedure 136 147	examination
+T8	Medication 191 200	isoniazid
+T9	Dosage 207 215	300 mg/d
+T10	Dosage 223 231	450 mg/d
+T11	Medication 234 244	ethambutol
+T12	Dosage 251 259	750 mg/d
+T13	Medication 266 278	pyrazinamide
+T14	Dosage 285 294	1500 mg/d
+T15	Date 297 309	After 1 week
+T16	Clinical_event 340 348	admitted
+T17	Nonbiological_location 371 379	Hospital
+T18	Disease_disorder 391 401	hemorrhage
+T19	Medication 410 418	platelet
+T20	Lab_value 448 454	normal
+T21	Sign_symptom 480 489	Epistaxis
+T22	Therapeutic_procedure 506 527	symptomatic treatment
+T23	Date 529 543	Two days later
+T24	Sign_symptom 558 570	hematochezia
+T25	Sign_symptom 572 581	hematuria
+T26	Sign_symptom 587 594	purpura
+T27	Therapeutic_procedure 609 620	transfusion
+T28	Biological_structure 637 643	plasma
+T29	Medication 648 657	platelets
+T30	Nonbiological_location 669 683	local hospital
+T31	Date 685 700	Four days later
+T32	Date 715 719	2015
+T33	Clinical_event 729 740	transferred
+T34	Nonbiological_location 759 767	Hospital
+T35	Qualitative_concept 779 790	ineffective
+T36	Diagnostic_procedure 805 825	physical examination
+T37	Clinical_event 830 839	presented
+T38	Sign_symptom 845 851	pallor
+T39	Severity 853 857	mild
+T40	Sign_symptom 858 866	jaundice
+T41	Sign_symptom 882 889	purpura
+T42	Sign_symptom 891 902	tachycardia
+T43	Diagnostic_procedure 904 914	heart rate
+T44	Lab_value 915 922	132/min
+T45	Biological_structure 971 975	lung
+T46	Diagnostic_procedure 977 995	Laboratory results
+T47	Clinical_event 999 1008	admission
+T48	Disease_disorder 1019 1022	DIC
+T49	Duration 1045 1054	8 seconds
+T50	Lab_value 1056 1062	normal
+T51	Duration 1077 1086	8 seconds
+T52	Lab_value 1127 1133	normal
+T53	Diagnostic_procedure 1153 1163	fibrinogen
+T54	Dosage 1165 1171	1.13 g
+T55	Lab_value 1175 1181	normal
+T56	Dosage 1193 1198	4.0 g
+T57	Dosage 1213 1221	23.45 mg
+T58	Lab_value 1225 1231	normal
+T59	Dosage 1240 1247	0.55 mg
+T60	Dosage 1280 1287	60.4 mg
+T61	Lab_value 1291 1297	normal
+T62	Dosage 1305 1309	5 mg
+T63	Lab_value 1334 1340	normal
+T64	Lab_value 1372 1380	abnormal
+T65	Personal_background 1403 1408	white
+T66	Biological_structure 1409 1414	blood
+T67	Diagnostic_procedure 1421 1424	WBC
+T68	Lab_value 1441 1447	normal
+T69	Diagnostic_procedure 1465 1475	hemoglobin
+T70	Dosage 1477 1481	65 g
+T71	Lab_value 1485 1491	normal
+T72	Dosage 1503 1508	175 g
+T73	Diagnostic_procedure 1519 1528	bilirubin
+T74	Lab_value 1530 1541	30.8 umol/L
+T75	Lab_value 1543 1549	normal
+T76	Lab_value 1561 1572	28.0 umol/L
+T77	Diagnostic_procedure 1582 1591	bilirubin
+T78	Lab_value 1593 1604	16.6 umol/L
+T79	Lab_value 1606 1612	normal
+T80	Lab_value 1622 1632	8.8 umol/L
+T81	Lab_value 1663 1669	75 U/L
+T82	Lab_value 1671 1677	normal
+T83	Lab_value 1686 1692	40 U/L
+T84	Lab_value 1721 1728	293 U/L
+T85	Lab_value 1730 1736	normal
+T86	Lab_value 1745 1751	50 U/L
+T87	Diagnostic_procedure 1754 1761	lactate
+T88	Lab_value 1777 1784	380 U/L
+T89	Lab_value 1786 1792	normal
+T90	Lab_value 1804 1811	220 U/L
+T91	Biological_structure 1814 1819	serum
+T92	Lab_value 1835 1847	13.01 mmol/L
+T93	Lab_value 1849 1855	normal
+T94	Lab_value 1867 1878	7.79 mmol/L
+T95	Diagnostic_procedure 1881 1899	C-reactive protein
+T96	Dosage 1901 1909	16.70 mg
+T97	Lab_value 1913 1919	normal
+T98	Dosage 1928 1932	5 mg
+T99	Dosage 1951 1957	0.41 g
+T100	Lab_value 1961 1967	normal
+T101	Dosage 1981 1988	1.520 g
+T102	Dosage 2011 2019	0.0797 g
+T103	Lab_value 2023 2029	normal
+T104	Dosage 2043 2050	0.360 g
+T105	Biological_structure 2081 2086	blood
+T106	Lab_value 2093 2104	330 Cell/uL
+T107	Lab_value 2116 2127	250 Cell/uL
+T108	Dosage 2137 2140	2 g
+T109	Lab_value 2161 2170	70 umol/L
+T110	Diagnostic_procedure 2198 2212	red blood cell
+T111	Personal_background 2220 2225	white
+T112	Biological_structure 2226 2231	blood
+T113	Biological_structure 2251 2256	blood
+T114	Lab_value 2285 2293	positive
+T115	Sign_symptom 2364 2370	sputum
+T116	Lab_value 2375 2383	positive
+T117	Sign_symptom 2411 2417	sputum
+T118	Lab_value 2428 2436	negative
+T119	Biological_structure 2438 2443	Chest
+T120	Diagnostic_procedure 2444 2463	computed tomography
+T121	Diagnostic_procedure 2465 2467	CT
+T122	Clinical_event 2472 2481	admission
+T123	Date 2496 2500	2015
+T124	Sign_symptom 2517 2528	infiltrates
+T125	Biological_structure 2559 2563	lung
+T126	Disease_disorder 2570 2586	pleural effusion
+T127	Sign_symptom 2592 2612	pericardial effusion
+T128	Sign_symptom 2629 2640	enlargement
+T129	Biological_structure 2644 2655	mediastinal
+T130	Biological_structure 2656 2667	lymph nodes
+T131	Biological_structure 2669 2678	Abdominal
+T132	Diagnostic_procedure 2679 2689	ultrasound
+T133	Biological_structure 2737 2742	liver
+T134	Biological_structure 2747 2753	spleen
+T135	Lab_value 2778 2786	negative
+T136	Detailed_description 2791 2796	acute
+T137	Detailed_description 2800 2807	chronic
+T138	Detailed_description 2875 2885	Peripheral
+T139	Biological_structure 2886 2891	blood
+T140	Lab_value 2914 2922	negative
+T141	Biological_structure 2924 2928	Bone
+T142	Lab_value 2971 2979	negative
+T143	Activity 3002 3007	drugs
+T144	Clinical_event 3044 3053	admission
+T145	Therapeutic_procedure 3063 3070	fasting
+T146	Administration 3094 3102	infusion
+T147	Biological_structure 3119 3125	plasma
+T148	Medication 3127 3135	platelet
+T149	Medication 3137 3159	packed red blood cells
+T150	Administration 3161 3172	intravenous
+T151	Medication 3224 3234	omeprazole
+T152	Date 3311 3326	Five days after
+T153	Therapeutic_procedure 3327 3334	fasting
+T154	Date 3349 3353	2015
+T155	Medication 3405 3417	moxifloxacin
+T156	Medication 3423 3431	amikacin
+T157	Disease_disorder 3464 3474	hemorrhage
+T158	Date 3476 3492	Eight days after
+T159	Clinical_event 3493 3502	admission
+T160	Date 3517 3521	2015
+T161	Medication 3528 3536	platelet
+T162	Dosage 3570 3578	200 mg/d
+T163	Administration 3580 3593	intravenously
+T164	Date 3622 3635	24 days after
+T165	Clinical_event 3636 3645	admission
+T166	Date 3660 3664	2015
+T167	Diagnostic_procedure 3677 3697	liver function tests
+T168	Medication 3702 3710	platelet
+T169	Lab_value 3730 3736	normal
+T170	Date 3794 3809	One month later
+T171	Date 3824 3828	2015
+T172	Biological_structure 3840 3845	chest
+T173	Diagnostic_procedure 3846 3848	CT
+T174	Sign_symptom 3871 3883	infiltration
+T175	Sign_symptom 3902 3922	pericardial effusion
+T176	Date 3956 3969	4 weeks after
+T177	Clinical_event 3970 3979	admission
+T178	Outcome 3993 4002	recovered
+T179	Nonbiological_location 4012 4020	hospital
+T180	Dosage 4031 4039	300 mg/d
+T181	Dosage 4047 4055	750 mg/d
+T182	Medication 4058 4070	levofloxacin
+T183	Dosage 4072 4080	500 mg/d
+T184	Administration 4114 4127	intramuscular
+T185	Administration 4128 4137	injection
+T186	Sign_symptom 4153 4163	recurrence
+T187	Disease_disorder 4167 4170	DIC
+T188	Disease_disorder 4174 4184	hemorrhage
+T189	Duration 4192 4200	8 months
+T190	Clinical_event 4204 4213	follow-up
+T191	Clinical_event 4252 4261	follow-up
+T192	Biological_structure 4262 4267	chest
+T193	Diagnostic_procedure 4268 4270	CT
+T194	Clinical_event 4281 4290	discharge

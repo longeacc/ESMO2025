@@ -1,38 +1,106 @@
 T1	Age 2 13	64 year old
 T2	Sex 14 20	female
-T3	Frequency 65 74	recurrent
-T4	Duration 96 104	50 years
-T5	Frequency 118 127	recurrent
-T6	Date 147 156	age of 16
-T7	Date 306 323	Eight years prior
-T8	Lab_value 455 462	reduced
-T9	Duration 501 514	several years
-T10	Dosage 563 571	low dose
-T11	Lab_value 632 641	increased
-T12	Duration 690 699	12 months
-T13	Frequency 719 727	frequent
-T14	Frequency 802 807	daily
-T15	Severity 808 814	severe
-T16	Duration 844 858	several months
-T17	Administration 866 873	topical
-T18	Administration 890 894	oral
-T19	Administration 925 936	intravenous
-T20	Dosage 1043 1047	75 g
-T21	Lab_value 1051 1057	normal
-T22	Dosage 1066 1071	160 g
-T23	Severity 1118 1124	severe
-T24	Severity 1332 1341	extensive
-T25	Administration 1995 2002	topical
-T26	Administration 2291 2298	topical
-T27	Distance 2470 2474	3 cm
-T28	Area 2510 2518	4 x 2 cm
-T29	Volume 2818 2822	2 mL
-T30	Time 3072 3084	the same day
-T31	Date 3116 3131	two weeks after
-T32	Duration 3312 3320	6 months
-T33	Lab_value 3360 3368	improved
-T34	Dosage 3372 3377	102 g
-T35	Frequency 3415 3429	every 4 months
-T36	Dosage 3526 3531	100 g
-T37	Duration 3567 3574	6 month
-T38	Severity 3589 3593	mild
+T3	Clinical_event 38 46	referred
+T4	Nonbiological_location 54 60	clinic
+T5	Frequency 65 74	recurrent
+T6	Sign_symptom 75 84	epistaxis
+T7	Duration 96 104	50 years
+T8	Frequency 118 127	recurrent
+T9	Sign_symptom 128 136	symptoms
+T10	Date 147 156	age of 16
+T11	Clinical_event 180 189	diagnosed
+T12	Subject 208 216	siblings
+T13	Clinical_event 227 236	diagnosed
+T14	Subject 254 260	mother
+T15	Outcome 261 272	passed away
+T16	Biological_structure 281 293	intracranial
+T17	Disease_disorder 294 304	hemorrhage
+T18	Date 306 323	Eight years prior
+T19	Clinical_event 327 339	presentation
+T20	Detailed_description 360 370	left-sided
+T21	Therapeutic_procedure 371 387	septodermoplasty
+T22	Detailed_description 394 401	lateral
+T23	Therapeutic_procedure 402 411	rhinotomy
+T24	Therapeutic_procedure 427 436	operation
+T25	Lab_value 455 462	reduced
+T26	Sign_symptom 484 492	symptoms
+T27	Duration 501 514	several years
+T28	Sign_symptom 519 528	epistaxis
+T29	Dosage 563 571	low dose
+T30	Medication 572 583	thalidomide
+T31	Clinical_event 602 610	referred
+T32	Nonbiological_location 618 624	clinic
+T33	Lab_value 632 641	increased
+T34	Sign_symptom 642 651	epistaxis
+T35	Duration 690 699	12 months
+T36	Frequency 719 727	frequent
+T37	Therapeutic_procedure 728 740	transfusions
+T38	Clinical_event 757 769	consultation
+T39	Frequency 802 807	daily
+T40	Severity 808 814	severe
+T41	Detailed_description 815 825	left sided
+T42	Sign_symptom 826 835	epistaxis
+T43	Duration 844 858	several months
+T44	Administration 866 873	topical
+T45	Medication 874 885	bevacizumab
+T46	Administration 890 894	oral
+T47	Administration 925 936	intravenous
+T48	Therapeutic_procedure 946 964	blood transfusions
+T49	Diagnostic_procedure 996 1006	hemoglobin
+T50	Clinical_event 1026 1038	consultation
+T51	Dosage 1043 1047	75 g
+T52	Lab_value 1051 1057	normal
+T53	Dosage 1066 1071	160 g
+T54	Sign_symptom 1084 1093	epistaxis
+T55	Severity 1118 1124	severe
+T56	Diagnostic_procedure 1153 1164	examination
+T57	Detailed_description 1174 1182	multiple
+T58	Biological_structure 1214 1218	face
+T59	Detailed_description 1241 1251	endoscopic
+T60	Diagnostic_procedure 1252 1263	examination
+T61	Detailed_description 1273 1282	bilateral
+T62	Severity 1332 1341	extensive
+T63	Sign_symptom 1444 1453	epistaxis
+T64	Sign_symptom 1491 1500	epistaxis
+T65	Detailed_description 1542 1552	endoscopic
+T66	Detailed_description 1553 1563	left-sided
+T67	Therapeutic_procedure 1564 1580	septodermoplasty
+T68	Sign_symptom 1676 1685	epistaxis
+T69	Therapeutic_procedure 1726 1744	blood transfusions
+T70	Therapeutic_procedure 1816 1837	surgical intervention
+T71	Detailed_description 1843 1853	endoscopic
+T72	Therapeutic_procedure 1921 1931	intubation
+T73	Administration 1995 2002	topical
+T74	Detailed_description 2229 2236	diffuse
+T75	Disease_disorder 2237 2247	hemorrhage
+T76	Administration 2291 2298	topical
+T77	Distance 2470 2474	3 cm
+T78	Detailed_description 2478 2486	anterior
+T79	Detailed_description 2487 2496	posterior
+T80	Area 2510 2518	4 x 2 cm
+T81	Biological_structure 2535 2539	skin
+T82	Volume 2818 2822	2 mL
+T83	Detailed_description 2958 2965	central
+T84	Clinical_event 3053 3063	discharged
+T85	Time 3072 3084	the same day
+T86	Therapeutic_procedure 3088 3095	surgery
+T87	Clinical_event 3106 3115	follow-up
+T88	Date 3116 3131	two weeks after
+T89	Therapeutic_procedure 3132 3139	surgery
+T90	Detailed_description 3195 3205	left-sided
+T91	Sign_symptom 3206 3215	epistaxis
+T92	Coreference 3294 3307	the procedure
+T93	Duration 3312 3320	6 months
+T94	Clinical_event 3321 3330	follow-up
+T95	Diagnostic_procedure 3345 3355	hemoglobin
+T96	Lab_value 3360 3368	improved
+T97	Dosage 3372 3377	102 g
+T98	Therapeutic_procedure 3402 3414	transfusions
+T99	Frequency 3415 3429	every 4 months
+T100	Therapeutic_procedure 3473 3485	transfusions
+T101	Diagnostic_procedure 3493 3503	hemoglobin
+T102	Dosage 3526 3531	100 g
+T103	Sign_symptom 3539 3548	epistaxis
+T104	Duration 3567 3574	6 month
+T105	Clinical_event 3575 3584	follow up
+T106	Severity 3589 3593	mild

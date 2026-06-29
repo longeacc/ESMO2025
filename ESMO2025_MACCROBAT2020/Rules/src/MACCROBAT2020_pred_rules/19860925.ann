@@ -1,13 +1,47 @@
 T1	Age 4 15	24-year-old
-T2	Sex 28 32	male
-T3	Date 79 87	May 2008
-T4	Duration 93 99	4 days
-T5	Texture 289 292	dry
-T6	Area 429 438	12 × 4 cm
-T7	Texture 701 709	granular
-T8	Lab_value 781 789	negative
-T9	Date 877 892	Four days after
-T10	Lab_value 1103 1113	uneventful
-T11	Date 1213 1227	6 months after
-T12	Lab_value 1334 1342	positive
-T13	Distance 1437 1442	15 mm
+T2	History 16 27	non-smoking
+T3	Sex 28 32	male
+T4	Clinical_event 41 50	presented
+T5	Sign_symptom 65 75	hemoptysis
+T6	Date 79 87	May 2008
+T7	Duration 93 99	4 days
+T8	Biological_structure 121 129	thoracic
+T9	Sign_symptom 130 134	pain
+T10	Personal_background 212 217	Cuban
+T11	Sign_symptom 252 257	fever
+T12	Sign_symptom 271 276	cough
+T13	Texture 289 292	dry
+T14	Sign_symptom 293 298	cough
+T15	Diagnostic_procedure 398 400	CT
+T16	Area 429 438	12 × 4 cm
+T17	Sign_symptom 445 449	mass
+T18	Sign_symptom 511 521	metastases
+T19	Diagnostic_procedure 538 550	bronchoscopy
+T20	Sign_symptom 572 580	bleeding
+T21	Diagnostic_procedure 581 587	biopsy
+T22	Sign_symptom 599 603	mass
+T23	Biological_structure 623 631	bronchus
+T24	Texture 701 709	granular
+T25	Sign_symptom 730 735	tumor
+T26	Biological_structure 745 754	bronchial
+T27	Lab_value 781 789	negative
+T28	Detailed_description 794 803	malignant
+T29	Clinical_event 827 837	discharged
+T30	Therapeutic_procedure 842 863	surgical intervention
+T31	Date 877 892	Four days after
+T32	Clinical_event 893 902	discharge
+T33	Detailed_description 905 916	spontaneous
+T34	Clinical_event 964 974	readmitted
+T35	Detailed_description 1010 1019	malignant
+T36	Diagnostic_procedure 1059 1070	examination
+T37	Lab_value 1103 1113	uneventful
+T38	Sign_symptom 1143 1151	hematoma
+T39	Sign_symptom 1157 1162	tumor
+T40	Therapeutic_procedure 1167 1174	excised
+T41	Therapeutic_procedure 1203 1212	lobectomy
+T42	Date 1213 1227	6 months after
+T43	Clinical_event 1240 1249	admission
+T44	Diagnostic_procedure 1274 1285	examination
+T45	Lab_value 1334 1342	positive
+T46	Sign_symptom 1343 1348	tumor
+T47	Distance 1437 1442	15 mm

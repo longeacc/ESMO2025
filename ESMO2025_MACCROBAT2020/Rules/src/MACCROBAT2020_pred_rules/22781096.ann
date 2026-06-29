@@ -1,46 +1,89 @@
 T1	Age 5 16	16-year-old
 T2	Sex 17 20	boy
-T3	Age 160 174	7 years of age
-T4	Severity 216 224	slightly
-T5	Date 501 510	At age 16
-T6	Age 647 662	10 years of age
-T7	Severity 760 766	severe
-T8	Lab_value 794 803	decreased
-T9	Age 898 913	14 years of age
-T10	Duration 915 921	A year
-T11	Age 1015 1030	16 years of age
-T12	Age 1052 1067	14 years of age
-T13	Severity 1148 1152	mild
-T14	Severity 1218 1222	mild
-T15	Severity 1226 1234	moderate
-T16	Severity 1373 1377	mild
-T17	Age 1425 1440	15 years of age
-T18	Lab_value 1536 1545	Decreased
-T19	Age 1579 1594	15 years of age
-T20	Lab_value 1601 1610	increased
-T21	Lab_value 1631 1641	145 μmol/l
-T22	Lab_value 1665 1674	90 μmol/l
-T23	Dosage 1716 1722	538 mg
-T24	Dosage 1745 1750	20 mg
-T25	Dosage 1797 1801	59 g
-T26	Dosage 1827 1830	3 g
-T27	Lab_value 1871 1878	reduced
-T28	Lab_value 1921 1930	decreased
-T29	Lab_value 1968 1974	normal
-T30	Lab_value 1996 2005	decreased
-T31	Lab_value 2026 2032	normal
-T32	Age 2036 2051	16 years of age
-T33	Age 2059 2074	14 years of age
-T34	Lab_value 2185 2191	normal
-T35	Lab_value 2198 2204	normal
-T36	Age 2324 2339	14 years of age
-T37	Lab_value 2391 2403	0.096 mmol/l
-T38	Lab_value 2546 2558	0.137 mmol/l
-T39	Lab_value 2654 2660	normal
-T40	Lab_value 2682 2691	increased
-T41	Dosage 2695 2701	258 mg
-T42	Dosage 2722 2728	225 mg
-T43	Lab_value 2751 2760	increased
-T44	Lab_value 2881 2887	normal
-T45	Severity 2928 2934	mildly
-T46	Lab_value 2935 2944	increased
+T3	Family_history 44 70	non-consanguineous parents
+T4	Subject 76 83	parents
+T5	Subject 100 108	siblings
+T6	Age 160 174	7 years of age
+T7	Severity 216 224	slightly
+T8	Date 501 510	At age 16
+T9	Age 647 662	10 years of age
+T10	Sign_symptom 703 710	atrophy
+T11	Severity 760 766	severe
+T12	Lab_value 794 803	decreased
+T13	Sign_symptom 867 876	Nystagmus
+T14	Age 898 913	14 years of age
+T15	Duration 915 921	A year
+T16	Detailed_description 945 954	bilateral
+T17	Age 1015 1030	16 years of age
+T18	Age 1052 1067	14 years of age
+T19	Clinical_event 1076 1084	referred
+T20	Diagnostic_procedure 1129 1140	examination
+T21	Severity 1148 1152	mild
+T22	Sign_symptom 1165 1171	tremor
+T23	Severity 1218 1222	mild
+T24	Severity 1226 1234	moderate
+T25	Biological_structure 1235 1241	muscle
+T26	Sign_symptom 1242 1250	weakness
+T27	Biological_structure 1290 1307	lower extremities
+T28	Activity 1313 1321	exercise
+T29	Severity 1373 1377	mild
+T30	Detailed_description 1378 1387	bilateral
+T31	Age 1425 1440	15 years of age
+T32	Sign_symptom 1473 1480	seizure
+T33	Medication 1521 1534	levetiracetam
+T34	Lab_value 1536 1545	Decreased
+T35	Diagnostic_procedure 1546 1560	renal function
+T36	Age 1579 1594	15 years of age
+T37	Lab_value 1601 1610	increased
+T38	Biological_structure 1611 1616	serum
+T39	Diagnostic_procedure 1617 1627	creatinine
+T40	Lab_value 1631 1641	145 μmol/l
+T41	Lab_value 1665 1674	90 μmol/l
+T42	Sign_symptom 1677 1688	proteinuria
+T43	Dosage 1716 1722	538 mg
+T44	Dosage 1745 1750	20 mg
+T45	Diagnostic_procedure 1774 1784	creatinine
+T46	Dosage 1797 1801	59 g
+T47	Dosage 1827 1830	3 g
+T48	Biological_structure 1839 1844	renal
+T49	Lab_value 1871 1878	reduced
+T50	Biological_structure 1879 1885	kidney
+T51	Medication 1897 1901	EDTA
+T52	Lab_value 1921 1930	decreased
+T53	Lab_value 1968 1974	normal
+T54	Lab_value 1996 2005	decreased
+T55	Lab_value 2026 2032	normal
+T56	Age 2036 2051	16 years of age
+T57	Age 2059 2074	14 years of age
+T58	Biological_structure 2076 2083	cardiac
+T59	Sign_symptom 2117 2128	hypertrophy
+T60	Biological_structure 2149 2163	left ventricle
+T61	Lab_value 2185 2191	normal
+T62	Lab_value 2198 2204	normal
+T63	Detailed_description 2205 2213	systolic
+T64	Detailed_description 2218 2227	diastolic
+T65	Sign_symptom 2249 2260	obstruction
+T66	Age 2324 2339	14 years of age
+T67	Biological_structure 2341 2346	Blood
+T68	Diagnostic_procedure 2357 2364	lactate
+T69	Lab_value 2391 2403	0.096 mmol/l
+T70	Diagnostic_procedure 2512 2519	lactate
+T71	Lab_value 2546 2558	0.137 mmol/l
+T72	Diagnostic_procedure 2587 2594	lactate
+T73	Diagnostic_procedure 2632 2639	lactate
+T74	Lab_value 2654 2660	normal
+T75	Diagnostic_procedure 2670 2677	albumin
+T76	Lab_value 2682 2691	increased
+T77	Dosage 2695 2701	258 mg
+T78	Dosage 2722 2728	225 mg
+T79	Lab_value 2751 2760	increased
+T80	Biological_structure 2765 2771	plasma
+T81	Diagnostic_procedure 2772 2779	albumin
+T82	Biological_structure 2819 2824	serum
+T83	Medication 2830 2839	carnitine
+T84	Biological_structure 2852 2858	muscle
+T85	Medication 2859 2868	carnitine
+T86	Lab_value 2881 2887	normal
+T87	Biological_structure 2893 2898	serum
+T88	Severity 2928 2934	mildly
+T89	Lab_value 2935 2944	increased

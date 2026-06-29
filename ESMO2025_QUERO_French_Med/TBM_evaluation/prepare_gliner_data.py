@@ -45,8 +45,13 @@ CORPUS_DIRS = [
 
 VALID_LABELS = {"DISO", "PROC", "ANAT", "CHEM", "DEVI", "LIVB", "PHYS", "PHEN", "GEOG", "OBJC"}
 
-TRAIN_RATIO = 0.75
 RANDOM_SEED = 42
+N_SELECTED = 150   # Phase A: select this many from pool
+N_TRAIN = 100      # Phase B: train size
+N_TEST = 50        # Phase B: test size
+
+# External split file output directory (shared with Rules pipeline)
+SPLIT_DIR = Path(__file__).parent.parent / "Rules" / "src"
 
 OUT_DIR = Path(__file__).parent
 
@@ -214,12 +219,16 @@ def doc_label_vector(doc: dict, all_labels: list[str]) -> np.ndarray:
 
 
 def iterative_stratified_split(docs: list[dict], all_labels: list[str],
-                               train_ratio: float, seed: int):
+                               train_ratio: float, seed: int,
+                               n_train_target: int | None = None):
     """
     Iterative stratified split for multi-label data.
     Processes labels from rarest to most frequent.
     For each label, assigns documents to whichever fold (train/test)
     needs more of that label, preserving proportions across ALL labels.
+
+    If n_train_target is given, post-hoc rebalancing moves docs between
+    folds to reach the exact count.
     """
     rng = np.random.RandomState(seed)
     n = len(docs)
@@ -250,6 +259,35 @@ def iterative_stratified_split(docs: list[dict], all_labels: list[str],
     for doc_idx in unassigned:
         fold = 0 if rng.random() < train_ratio else 1
         assignment[doc_idx] = fold
+
+    # Post-hoc rebalancing to reach exact n_train_target
+    if n_train_target is not None:
+        n_train_cur = int((assignment == 0).sum())
+        while n_train_cur > n_train_target:
+            # Move a train doc to test: pick the one whose labels are
+            # most over-represented in train
+            train_indices = np.where(assignment == 0)[0]
+            best_idx, best_score = None, -np.inf
+            for idx in train_indices:
+                score = float(label_matrix[idx].sum())  # simple heuristic
+                if score > best_score:
+                    best_score = score
+                    best_idx = idx
+            if best_idx is not None:
+                assignment[best_idx] = 1
+            n_train_cur -= 1
+        while n_train_cur < n_train_target:
+            # Move a test doc to train
+            test_indices = np.where(assignment == 1)[0]
+            best_idx, best_score = None, -np.inf
+            for idx in test_indices:
+                score = float(label_matrix[idx].sum())
+                if score > best_score:
+                    best_score = score
+                    best_idx = idx
+            if best_idx is not None:
+                assignment[best_idx] = 0
+            n_train_cur += 1
 
     train_docs = [docs[i] for i in range(n) if assignment[i] == 0]
     test_docs = [docs[i] for i in range(n) if assignment[i] == 1]
@@ -295,7 +333,8 @@ def main():
     nlp = spacy.load("fr_core_news_sm", disable=["parser", "ner", "lemmatizer"])
 
     # Pool all documents from both original splits
-    all_docs = []
+    all_docs = []       # list of dicts (one per doc, with _source key)
+    doc_sources = []    # parallel list of txt_path for doc_id extraction
     for corpus_dir in CORPUS_DIRS:
         if not corpus_dir.exists():
             print(f"SKIP: {corpus_dir} not found")
@@ -305,15 +344,33 @@ def main():
         for txt_path in txt_files:
             doc = convert_doc(txt_path, nlp)
             if doc is not None:
+                # Add _source to track doc identity
+                doc["_source"] = txt_path.stem
+                doc["_txt_path"] = str(txt_path)
                 all_docs.append(doc)
+                doc_sources.append(txt_path)
 
     print(f"\nTotal: {len(all_docs)} documents pooled from all sources")
 
-    # Multi-label stratified split
+    # Two-phase stratified split (Sechidis 2011)
     all_labels = sorted(VALID_LABELS)
-    train_docs, test_docs = iterative_stratified_split(
-        all_docs, all_labels, TRAIN_RATIO, RANDOM_SEED,
+
+    # Phase A: select 150 from ~1666 by stratified split
+    # Use iterative_stratified_split with train_ratio = N_SELECTED/total
+    select_ratio = N_SELECTED / len(all_docs)
+    selected_docs, ignored_docs = iterative_stratified_split(
+        all_docs, all_labels, select_ratio, RANDOM_SEED,
+        n_train_target=N_SELECTED,
     )
+    print(f"\nPhase A: {len(selected_docs)} selected, {len(ignored_docs)} ignored")
+
+    # Phase B: split 150 selected into 100 train / 50 test
+    train_ratio_b = N_TRAIN / N_SELECTED  # 100/150 = 2/3
+    train_docs, test_docs = iterative_stratified_split(
+        selected_docs, all_labels, train_ratio_b, RANDOM_SEED,
+        n_train_target=N_TRAIN,
+    )
+    print(f"Phase B: {len(train_docs)} train, {len(test_docs)} test")
 
     print(f"\n[train] {len(train_docs)} documents")
     print_stats("train", train_docs)
@@ -341,6 +398,33 @@ def main():
         diff = abs(tr_pct - te_pct)
         marker = "OK" if diff < 2 else "WARN" if diff < 5 else "BAD"
         print(f"    {label:<8} {tr_pct:>6.1f}% {te_pct:>6.1f}% {diff:>5.1f}%  {marker}")
+
+    # Save split_train.txt and split_test.txt into Rules/src/
+    SPLIT_DIR.mkdir(parents=True, exist_ok=True)
+    train_ids = [d["_source"] for d in train_docs]
+    test_ids = [d["_source"] for d in test_docs]
+    (SPLIT_DIR / "split_train.txt").write_text(
+        "\n".join(train_ids) + "\n", encoding="utf-8"
+    )
+    (SPLIT_DIR / "split_test.txt").write_text(
+        "\n".join(test_ids) + "\n", encoding="utf-8"
+    )
+    print(f"  Split IDs saved -> {SPLIT_DIR / 'split_train.txt'}")
+    print(f"  Split IDs saved -> {SPLIT_DIR / 'split_test.txt'}")
+
+    # Save also a mapping from doc_id -> txt_path for downstream scripts
+    split_paths = {}
+    for d in train_docs + test_docs:
+        split_paths[d["_source"]] = d["_txt_path"]
+    (SPLIT_DIR / "split_doc_paths.json").write_text(
+        json.dumps(split_paths, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  Doc paths saved -> {SPLIT_DIR / 'split_doc_paths.json'}")
+
+    # Remove internal fields before saving GLiNER JSON
+    for d in train_docs + test_docs:
+        d.pop("_txt_path", None)
+    # Keep _source in JSON for downstream tracking
 
     # Save
     for split_name, docs in [("train", train_docs), ("test", test_docs)]:

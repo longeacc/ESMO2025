@@ -1,0 +1,13 @@
+T1	Symptomes 297 346	symptômes compatibles avec une infection urinaire
+T2	Symptomes 607 647	fièvre et de fortes douleurs abdominales
+T3	Signes_physiques 1120 1204	Abdomen : tympanisme diffus à la percussion, avec douleur généralisée à la palpation
+T4	Signes_physiques 1333 1395	douleurs à la palpation de la paroi vésicale antéro-supérieure
+T5	Histologie_tumorale 2151 2172	carcinome épidermoïde
+T6	Histologie_tumorale 2410 2541	zones de carcinome urothélial conventionnel (15 %), des zones de différenciation squameuse (20 %) et des zones sarcomatoïdes (65 %)
+T7	Histologie_tumorale 2677 2699	carcinome sarcomatoïde
+T8	Topographie_du_primitif 2677 2712	carcinome sarcomatoïde de la vessie
+T9	Stade_metastatique_avec_localisations 2713 2721	pT3aN0M1
+T10	Traitement_specifique_du_cancer 2826 2866	adriamycine 75 mg/m2 jour 1 + ifosfamide
+T11	Reponse_a_la_chimiotherapie 3222 3354	Lors de la TEP de réévaluation après trois cycles, une augmentation de la taille et de l'activité métabolique des lésions hépatiques
+T12	Stade_metastatique_avec_localisations 3428 3448	implants péritonéaux
+T13	Traitement_specifique_du_cancer 3588 3628	cisplatine 80 mg/m2 jour 1 + gemcitabine

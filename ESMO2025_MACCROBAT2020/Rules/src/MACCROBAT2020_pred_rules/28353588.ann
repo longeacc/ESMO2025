@@ -1,28 +1,119 @@
 T1	Age 2 13	75-year-old
 T2	Sex 14 17	man
-T3	Duration 83 91	9 months
-T4	Duration 253 261	30 years
-T5	Lab_value 391 397	normal
-T6	Lab_value 406 414	negative
-T7	Lab_value 420 428	negative
-T8	Lab_value 443 451	negative
-T9	Lab_value 509 517	negative
-T10	Shape 608 619	cylindrical
-T11	Volume 651 666	15.5×5.9×4.0 cm
-T12	Severity 702 706	mild
-T13	Distance 889 894	20 cm
-T14	Lab_value 1567 1577	uneventful
-T15	Shape 1590 1604	spindle shaped
-T16	Volume 1620 1637	14 × 3.5 × 2.5 cm
-T17	Color 1883 1888	white
-T18	Color 1892 1899	grayish
-T19	Color 1900 1905	white
-T20	Frequency 2533 2543	occasional
-T21	Lab_value 2697 2705	positive
-T22	Lab_value 2767 2775	positive
-T23	Lab_value 2966 2974	positive
-T24	Lab_value 3055 3063	positive
-T25	Lab_value 3097 3105	positive
-T26	Lab_value 3155 3163	positive
-T27	Lab_value 3207 3215	negative
-T28	Duration 4411 4419	8 months
+T3	Clinical_event 22 30	referred
+T4	Nonbiological_location 34 46	our hospital
+T5	Sign_symptom 69 78	dysphagia
+T6	Duration 83 91	9 months
+T7	Sign_symptom 111 119	symptoms
+T8	Sign_symptom 123 129	nausea
+T9	Sign_symptom 134 142	vomiting
+T10	Sign_symptom 154 165	hematemesis
+T11	Sign_symptom 167 179	hematochezia
+T12	Sign_symptom 181 189	lethargy
+T13	Activity 221 227	smoker
+T14	Duration 253 261	30 years
+T15	Diagnostic_procedure 263 283	Physical examination
+T16	Detailed_description 296 306	peripheral
+T17	Sign_symptom 307 322	lymphadenopathy
+T18	Sign_symptom 337 344	ascites
+T19	Sign_symptom 349 353	mass
+T20	Biological_structure 361 368	abdomen
+T21	Lab_value 391 397	normal
+T22	Lab_value 406 414	negative
+T23	Lab_value 420 428	negative
+T24	Lab_value 443 451	negative
+T25	Biological_structure 462 467	serum
+T26	Lab_value 509 517	negative
+T27	Biological_structure 519 524	Chest
+T28	Diagnostic_procedure 525 544	computed tomography
+T29	Diagnostic_procedure 546 548	CT
+T30	Detailed_description 596 607	homogeneous
+T31	Shape 608 619	cylindrical
+T32	Volume 651 666	15.5×5.9×4.0 cm
+T33	Biological_structure 687 696	esophagus
+T34	Severity 702 706	mild
+T35	Diagnostic_procedure 738 740	CT
+T36	Biological_structure 774 779	lungs
+T37	Biological_structure 781 786	heart
+T38	Biological_structure 788 792	ribs
+T39	Biological_structure 797 808	mediastinum
+T40	Detailed_description 810 820	Endoscopic
+T41	Diagnostic_procedure 821 832	examination
+T42	Sign_symptom 853 859	lesion
+T43	Biological_structure 867 876	esophagus
+T44	Distance 889 894	20 cm
+T45	Detailed_description 955 965	Endoscopic
+T46	Diagnostic_procedure 966 981	ultrasonography
+T47	Sign_symptom 1008 1014	lesion
+T48	Sign_symptom 1067 1071	mass
+T49	Detailed_description 1086 1092	benign
+T50	Sign_symptom 1093 1098	tumor
+T51	Clinical_event 1122 1131	diagnosed
+T52	Biological_structure 1135 1145	esophageal
+T53	Biological_structure 1165 1170	chest
+T54	Diagnostic_procedure 1171 1173	CT
+T55	Detailed_description 1175 1185	endoscopic
+T56	Diagnostic_procedure 1186 1197	examination
+T57	Detailed_description 1217 1227	Endoscopic
+T58	Therapeutic_procedure 1236 1245	resection
+T59	Detailed_description 1249 1259	endoscopic
+T60	Therapeutic_procedure 1271 1280	resection
+T61	Therapeutic_procedure 1328 1346	surgical resection
+T62	Therapeutic_procedure 1444 1453	resection
+T63	Sign_symptom 1461 1465	mass
+T64	Therapeutic_procedure 1488 1499	anastomosis
+T65	Biological_structure 1501 1509	thoracic
+T66	Lab_value 1567 1577	uneventful
+T67	Shape 1590 1604	spindle shaped
+T68	Sign_symptom 1605 1609	lump
+T69	Volume 1620 1637	14 × 3.5 × 2.5 cm
+T70	Therapeutic_procedure 1659 1667	resected
+T71	Biological_structure 1668 1677	esophagus
+T72	Biological_structure 1699 1709	esophageal
+T73	Sign_symptom 1748 1752	lump
+T74	Sign_symptom 1827 1832	ulcer
+T75	Disease_disorder 1838 1848	hemorrhage
+T76	Personal_background 1883 1888	white
+T77	Color 1892 1899	grayish
+T78	Personal_background 1900 1905	white
+T79	Diagnostic_procedure 1929 1940	examination
+T80	Sign_symptom 1992 1997	tumor
+T81	Biological_structure 2101 2109	muscular
+T82	Sign_symptom 2121 2126	tumor
+T83	Sign_symptom 2148 2155	nodules
+T84	Sign_symptom 2322 2329	nodules
+T85	Detailed_description 2424 2431	diffuse
+T86	Sign_symptom 2494 2498	pale
+T87	Frequency 2533 2543	occasional
+T88	Sign_symptom 2602 2608	lesion
+T89	Sign_symptom 2631 2637	lesion
+T90	Lab_value 2697 2705	positive
+T91	Sign_symptom 2740 2745	tumor
+T92	Lab_value 2767 2775	positive
+T93	Disease_disorder 2849 2857	lymphoma
+T94	Sign_symptom 2894 2899	tumor
+T95	Lab_value 2966 2974	positive
+T96	Detailed_description 2979 2987	multiple
+T97	Sign_symptom 3033 3038	tumor
+T98	Lab_value 3055 3063	positive
+T99	Lab_value 3097 3105	positive
+T100	Lab_value 3155 3163	positive
+T101	Lab_value 3207 3215	negative
+T102	Sign_symptom 3356 3363	nodules
+T103	Sign_symptom 3377 3382	tumor
+T104	Disease_disorder 3494 3502	lymphoma
+T105	Disease_disorder 4046 4054	lymphoma
+T106	Clinical_event 4232 4241	diagnosis
+T107	Detailed_description 4245 4252	primary
+T108	Biological_structure 4253 4263	esophageal
+T109	Disease_disorder 4269 4277	lymphoma
+T110	Therapeutic_procedure 4298 4316	surgical resection
+T111	Medication 4355 4367	chemotherapy
+T112	Therapeutic_procedure 4371 4383	radiotherapy
+T113	Duration 4411 4419	8 months
+T114	Clinical_event 4423 4432	follow-up
+T115	Sign_symptom 4449 4459	recurrence
+T116	Sign_symptom 4463 4473	metastases
+T117	Diagnostic_procedure 4487 4489	CT
+T118	Outcome 4515 4527	asymptomatic
+T119	Nonbiological_location 4628 4636	Hospital

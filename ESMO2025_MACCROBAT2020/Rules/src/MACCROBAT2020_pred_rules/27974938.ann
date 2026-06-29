@@ -1,37 +1,147 @@
 T1	Age 4 15	21-year-old
-T2	Time 73 77	8 PM
-T3	Duration 216 223	4 hours
-T4	Time 293 297	4 PM
-T5	Time 358 363	30 PM
-T6	Time 437 441	7 PM
-T7	Frequency 662 674	occasionally
-T8	Time 1412 1418	10 P.M
-T9	Lab_value 1427 1433	normal
-T10	Lab_value 1467 1473	80mmHg
-T11	Lab_value 1511 1517	normal
-T12	Lab_value 1538 1541	8°C
-T13	Lab_value 1572 1578	normal
-T14	Lab_value 1660 1666	normal
-T15	Lab_value 1780 1786	normal
-T16	Severity 1800 1804	mild
-T17	Lab_value 2188 2194	normal
-T18	Lab_value 2210 2216	normal
-T19	Lab_value 2239 2249	11 mmol/ L
-T20	Lab_value 2251 2257	normal
-T21	Lab_value 2270 2278	8mmol/ L
-T22	Lab_value 2300 2309	69mmol/ L
-T23	Lab_value 2323 2331	9mmol/ L
-T24	Lab_value 2360 2368	2mmol/ L
-T25	Lab_value 2370 2376	normal
-T26	Lab_value 2387 2396	2 mmol/ L
-T27	Lab_value 2432 2440	negative
-T28	Lab_value 2462 2468	normal
-T29	Severity 2798 2804	marked
-T30	Lab_value 4240 4246	normal
-T31	Lab_value 4340 4346	normal
-T32	Duration 4661 4671	70 seconds
-T33	Date 4736 4748	After 7 days
-T34	Lab_value 5188 5199	improvement
-T35	Duration 5305 5313	6 months
-T36	Duration 5372 5380	6 months
-T37	Date 5464 5478	after 6 months
+T2	Clinical_event 24 33	presented
+T3	Nonbiological_location 49 69	emergency department
+T4	Time 73 77	8 PM
+T5	Sign_symptom 82 88	nausea
+T6	Sign_symptom 90 98	numbness
+T7	Activity 136 143	walking
+T8	Sign_symptom 148 158	dysarthria
+T9	Detailed_description 199 210	progressive
+T10	Duration 216 223	4 hours
+T11	Clinical_event 231 243	presentation
+T12	Sign_symptom 249 255	nausea
+T13	Sign_symptom 272 279	symptom
+T14	Time 293 297	4 PM
+T15	Sign_symptom 307 315	headache
+T16	Sign_symptom 324 328	pain
+T17	Time 358 363	30 PM
+T18	Sign_symptom 369 377	numbness
+T19	Activity 422 429	walking
+T20	Time 437 441	7 PM
+T21	Sign_symptom 442 452	dysarthria
+T22	History 528 543	medical history
+T23	Medication 557 567	medication
+T24	Occupation 578 585	student
+T25	Activity 633 638	drugs
+T26	Frequency 662 674	occasionally
+T27	Family_history 686 722	no family history of thromboembolism
+T28	Detailed_description 822 831	emergency
+T29	Biological_structure 847 852	brain
+T30	Diagnostic_procedure 853 855	CT
+T31	Qualitative_concept 878 894	infracentimetric
+T32	Biological_structure 939 948	left side
+T33	Biological_structure 979 989	cerebellar
+T34	Biological_structure 1035 1040	chest
+T35	Diagnostic_procedure 1041 1046	X-ray
+T36	Biological_structure 1094 1104	right side
+T37	Clinical_event 1264 1276	consultation
+T38	Sign_symptom 1365 1373	vomiting
+T39	Diagnostic_procedure 1387 1407	physical examination
+T40	Time 1412 1418	10 P.M
+T41	Lab_value 1427 1433	normal
+T42	Diagnostic_procedure 1434 1445	vital signs
+T43	Diagnostic_procedure 1447 1461	blood pressure
+T44	Lab_value 1467 1473	80mmHg
+T45	Diagnostic_procedure 1475 1485	heart rate
+T46	Lab_value 1511 1517	normal
+T47	Diagnostic_procedure 1518 1534	body temperature
+T48	Lab_value 1538 1541	8°C
+T49	Lab_value 1572 1578	normal
+T50	Biological_structure 1583 1590	carotid
+T51	Diagnostic_procedure 1619 1643	neurological examination
+T52	Lab_value 1660 1666	normal
+T53	Biological_structure 1748 1756	left eye
+T54	Sign_symptom 1769 1778	nystagmus
+T55	Lab_value 1780 1786	normal
+T56	Severity 1800 1804	mild
+T57	Biological_structure 1820 1828	left arm
+T58	Sign_symptom 1891 1899	numbness
+T59	Detailed_description 1919 1928	bilateral
+T60	Clinical_event 1938 1945	present
+T61	Detailed_description 1953 1957	deep
+T62	Biological_structure 1995 2004	left side
+T63	Lab_value 2188 2194	normal
+T64	Lab_value 2210 2216	normal
+T65	Biological_structure 2217 2222	blood
+T66	Diagnostic_procedure 2223 2230	glucose
+T67	Lab_value 2239 2249	11 mmol/ L
+T68	Lab_value 2251 2257	normal
+T69	Lab_value 2270 2278	8mmol/ L
+T70	Biological_structure 2281 2286	serum
+T71	Diagnostic_procedure 2287 2297	creatinine
+T72	Lab_value 2300 2309	69mmol/ L
+T73	Lab_value 2323 2331	9mmol/ L
+T74	Biological_structure 2340 2345	serum
+T75	Lab_value 2360 2368	2mmol/ L
+T76	Lab_value 2370 2376	normal
+T77	Lab_value 2387 2396	2 mmol/ L
+T78	Lab_value 2432 2440	negative
+T79	Clinical_event 2450 2459	presented
+T80	Lab_value 2462 2468	normal
+T81	Diagnostic_procedure 2489 2492	ECG
+T82	Biological_structure 2498 2503	brain
+T83	Diagnostic_procedure 2504 2506	CT
+T84	Detailed_description 2530 2539	emergency
+T85	Qualitative_concept 2577 2593	infracentimetric
+T86	Biological_structure 2678 2688	cerebellar
+T87	Detailed_description 2723 2730	Doppler
+T88	Diagnostic_procedure 2731 2741	ultrasound
+T89	Biological_structure 2746 2754	cerebral
+T90	Biological_structure 2759 2767	cervical
+T91	Biological_structure 2768 2773	blood
+T92	Severity 2798 2804	marked
+T93	Biological_structure 2865 2874	vertebral
+T94	Biological_structure 3000 3007	carotid
+T95	Sign_symptom 3021 3028	lesions
+T96	Biological_structure 3073 3081	arterial
+T97	Disease_disorder 3129 3139	dissection
+T98	Biological_structure 3153 3162	vertebral
+T99	Biological_structure 3212 3220	cerebral
+T100	Diagnostic_procedure 3231 3234	MRI
+T101	Biological_structure 3236 3244	Cerebral
+T102	Diagnostic_procedure 3255 3258	MRI
+T103	Biological_structure 3379 3389	cerebellar
+T104	Detailed_description 3430 3438	anterior
+T105	Detailed_description 3439 3448	bilateral
+T106	Biological_structure 3449 3459	cerebellar
+T107	Biological_structure 3476 3486	cerebellar
+T108	Detailed_description 3565 3574	bilateral
+T109	Clinical_event 3686 3693	present
+T110	Biological_structure 3708 3720	intracranial
+T111	Biological_structure 3742 3751	vertebral
+T112	Biological_structure 3774 3780	spinal
+T113	Biological_structure 3811 3819	arterial
+T114	Biological_structure 3881 3890	vertebral
+T115	Detailed_description 3955 3966	progressive
+T116	Detailed_description 4013 4019	Distal
+T117	Diagnostic_procedure 4130 4133	MRI
+T118	Detailed_description 4153 4161	subacute
+T119	Disease_disorder 4162 4172	dissection
+T120	Biological_structure 4186 4195	vertebral
+T121	Biological_structure 4208 4216	cerebral
+T122	Lab_value 4240 4246	normal
+T123	Lab_value 4340 4346	normal
+T124	Sign_symptom 4386 4393	lesions
+T125	Detailed_description 4459 4467	subacute
+T126	Disease_disorder 4468 4478	dissection
+T127	Biological_structure 4492 4501	vertebral
+T128	Medication 4510 4517	Heparin
+T129	Clinical_event 4575 4590	hospitalization
+T130	Disease_disorder 4606 4616	dissection
+T131	Diagnostic_procedure 4622 4626	APTT
+T132	Duration 4661 4671	70 seconds
+T133	Sign_symptom 4715 4720	ulcer
+T134	Date 4736 4748	After 7 days
+T135	Medication 4797 4809	acenocumarol
+T136	Medication 4824 4839	anticoagulation
+T137	Medication 4860 4872	acenocumarol
+T138	Medication 4897 4904	heparin
+T139	Diagnostic_procedure 4931 4934	INR
+T140	Lab_value 5188 5199	improvement
+T141	Clinical_event 5217 5227	discharged
+T142	Medication 5288 5300	Acenocumarol
+T143	Duration 5305 5313	6 months
+T144	Duration 5372 5380	6 months
+T145	Clinical_event 5386 5395	follow up
+T146	Nonbiological_location 5455 5463	hospital
+T147	Date 5464 5478	after 6 months

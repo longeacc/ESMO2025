@@ -1,39 +1,102 @@
 T1	Age 2 13	35-year-old
 T2	Sex 14 19	woman
-T3	Duration 40 45	5-day
-T4	Duration 190 197	10-year
-T5	Dosage 333 348	1 g twice daily
-T6	Lab_value 656 663	reduced
-T7	Lab_value 853 865	unremarkable
-T8	Lab_value 951 963	unremarkable
-T9	Lab_value 1004 1009	7 u/L
-T10	Lab_value 1039 1045	61 u/L
-T11	Lab_value 1079 1085	17 u/L
-T12	Lab_value 1110 1118	6 μmol/L
-T13	Lab_value 1134 1140	normal
-T14	Lab_value 1174 1180	normal
-T15	Lab_value 1283 1292	47 μmol/L
-T16	Lab_value 1339 1347	elevated
-T17	Dosage 1348 1354	140 mg
-T18	Color 1509 1514	white
-T19	Dosage 1544 1550	0.25 g
-T20	Severity 1582 1586	mild
-T21	Lab_value 1858 1864	raised
-T22	Lab_value 2013 2020	reduced
-T23	Date 2173 2186	Within 3 days
-T24	Lab_value 2215 2226	improvement
-T25	Lab_value 2346 2354	improved
-T26	Lab_value 2414 2423	decreased
-T27	Date 2450 2462	After 4 days
-T28	Lab_value 2600 2606	stable
-T29	Lab_value 2935 2946	14.2 μmol/L
-T30	Lab_value 2948 2954	normal
-T31	Lab_value 3000 3011	19.9 μmol/L
-T32	Lab_value 3013 3019	normal
-T33	Administration 3054 3058	oral
-T34	Dosage 3069 3084	1 g twice daily
-T35	Date 3086 3100	Within 2 weeks
-T36	Lab_value 3115 3123	resolved
-T37	Lab_value 3196 3207	25.2 μmol/L
-T38	Lab_value 3231 3242	41.3 μmol/L
-T39	Dosage 3423 3437	1 g once daily
+T3	Clinical_event 24 32	admitted
+T4	Duration 40 45	5-day
+T5	Sign_symptom 68 78	drowsiness
+T6	Sign_symptom 80 87	fatigue
+T7	Sign_symptom 122 130	weakness
+T8	Qualitative_concept 135 148	deteriorating
+T9	History 163 178	medical history
+T10	Duration 190 197	10-year
+T11	History 198 215	history of schizo
+T12	Disease_disorder 252 260	diabetes
+T13	Disease_disorder 275 289	hypothyroidism
+T14	Medication 295 306	medications
+T15	Medication 316 332	sodium valproate
+T16	Dosage 333 348	1 g twice daily
+T17	Medication 365 375	quetiapine
+T18	Clinical_event 392 401	admission
+T19	Activity 447 455	sleeping
+T20	Diagnostic_procedure 624 648	Neurological examination
+T21	Lab_value 656 663	reduced
+T22	Biological_structure 677 688	lower limbs
+T23	Lab_value 853 865	unremarkable
+T24	Biological_structure 909 916	hepatic
+T25	Lab_value 951 963	unremarkable
+T26	Lab_value 1004 1009	7 u/L
+T27	Lab_value 1039 1045	61 u/L
+T28	Lab_value 1079 1085	17 u/L
+T29	Diagnostic_procedure 1096 1105	bilirubin
+T30	Lab_value 1110 1118	6 μmol/L
+T31	Lab_value 1134 1140	normal
+T32	Biological_structure 1141 1146	serum
+T33	Lab_value 1174 1180	normal
+T34	Biological_structure 1181 1188	thyroid
+T35	Biological_structure 1205 1210	Serum
+T36	Qualitative_concept 1231 1259	within the therapeutic range
+T37	Biological_structure 1265 1270	serum
+T38	Lab_value 1283 1292	47 μmol/L
+T39	Medication 1309 1318	valproate
+T40	Lab_value 1339 1347	elevated
+T41	Dosage 1348 1354	140 mg
+T42	Biological_structure 1367 1372	Brain
+T43	Diagnostic_procedure 1391 1393	CT
+T44	Diagnostic_procedure 1398 1401	MRI
+T45	Biological_structure 1434 1446	intracranial
+T46	Sign_symptom 1447 1451	mass
+T47	Therapeutic_procedure 1453 1468	Lumbar puncture
+T48	Personal_background 1509 1514	white
+T49	Dosage 1544 1550	0.25 g
+T50	Diagnostic_procedure 1565 1568	EEG
+T51	Severity 1582 1586	mild
+T52	Medication 1659 1669	medication
+T53	Clinical_event 1689 1698	diagnosis
+T54	Detailed_description 1750 1755	acute
+T55	Lab_value 1858 1864	raised
+T56	Medication 1865 1874	valproate
+T57	Clinical_event 1897 1906	diagnosis
+T58	Medication 1910 1919	valproate
+T59	Disease_disorder 1936 1950	encephalopathy
+T60	Medication 1992 2008	sodium valproate
+T61	Lab_value 2013 2020	reduced
+T62	Date 2173 2186	Within 3 days
+T63	Lab_value 2215 2226	improvement
+T64	Lab_value 2346 2354	improved
+T65	Biological_structure 2368 2373	serum
+T66	Medication 2397 2406	valproate
+T67	Lab_value 2414 2423	decreased
+T68	Date 2450 2462	After 4 days
+T69	Clinical_event 2471 2481	discharged
+T70	Lab_value 2600 2606	stable
+T71	Sign_symptom 2673 2682	confusion
+T72	Sign_symptom 2686 2696	drowsiness
+T73	Sign_symptom 2729 2736	fatigue
+T74	Activity 2741 2748	walking
+T75	Sign_symptom 2783 2791	weakness
+T76	Biological_structure 2809 2814	serum
+T77	Medication 2857 2866	carnitine
+T78	Medication 2898 2907	carnitine
+T79	Biological_structure 2918 2923	serum
+T80	Medication 2924 2933	carnitine
+T81	Lab_value 2935 2946	14.2 μmol/L
+T82	Lab_value 2948 2954	normal
+T83	Biological_structure 2983 2988	serum
+T84	Medication 2989 2998	carnitine
+T85	Lab_value 3000 3011	19.9 μmol/L
+T86	Lab_value 3013 3019	normal
+T87	Administration 3054 3058	oral
+T88	Medication 3059 3068	carnitine
+T89	Dosage 3069 3084	1 g twice daily
+T90	Date 3086 3100	Within 2 weeks
+T91	Sign_symptom 3106 3114	symptoms
+T92	Lab_value 3115 3123	resolved
+T93	Biological_structure 3157 3162	serum
+T94	Medication 3163 3172	carnitine
+T95	Medication 3186 3195	carnitine
+T96	Lab_value 3196 3207	25.2 μmol/L
+T97	Medication 3218 3227	carnitine
+T98	Lab_value 3231 3242	41.3 μmol/L
+T99	Medication 3249 3265	sodium valproate
+T100	Medication 3413 3422	valproate
+T101	Dosage 3423 3437	1 g once daily
+T102	Medication 3452 3473	carnitine supplements

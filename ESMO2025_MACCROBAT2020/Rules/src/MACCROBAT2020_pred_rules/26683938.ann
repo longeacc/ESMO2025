@@ -1,24 +1,99 @@
 T1	Age 2 13	69-year-old
 T2	Sex 14 19	woman
-T3	Duration 122 128	3 days
-T4	Lab_value 312 320	decrease
-T5	Duration 595 608	several years
-T6	Severity 731 735	mild
-T7	Lab_value 1033 1039	normal
-T8	Lab_value 1157 1164	7000/μL
-T9	Dosage 1186 1193	10.8 mg
-T10	Color 1236 1241	white
-T11	Lab_value 1264 1270	600/μL
-T12	Lab_value 1301 1307	normal
-T13	Lab_value 1529 1538	increased
-T14	Texture 1704 1716	ground glass
-T15	Administration 1831 1842	intravenous
-T16	Frequency 1897 1907	occasional
-T17	Lab_value 2002 2008	normal
-T18	Lab_value 2325 2333	negative
-T19	Severity 2361 2367	severe
-T20	Dosage 2441 2451	High doses
-T21	Administration 2474 2485	intravenous
-T22	Lab_value 2547 2558	improvement
-T23	Lab_value 2603 2609	normal
-T24	Lab_value 2898 2904	normal
+T3	Clinical_event 51 60	presented
+T4	Sign_symptom 90 94	rash
+T5	Sign_symptom 99 118	shortness of breath
+T6	Duration 122 128	3 days
+T7	Sign_symptom 143 147	rash
+T8	Detailed_description 260 271	progressive
+T9	Activity 283 291	exertion
+T10	Lab_value 312 320	decrease
+T11	Activity 324 332	exercise
+T12	Sign_symptom 355 360	fever
+T13	Sign_symptom 362 370	headache
+T14	Sign_symptom 372 381	dizziness
+T15	Sign_symptom 383 393	hemoptysis
+T16	Sign_symptom 398 406	bleeding
+T17	History 435 458	history of new drug use
+T18	Medication 539 549	medication
+T19	Medication 554 563	enalapril
+T20	Duration 595 608	several years
+T21	Activity 653 658	drugs
+T22	Clinical_event 684 693	admission
+T23	Severity 731 735	mild
+T24	Sign_symptom 736 745	tachypnea
+T25	Diagnostic_procedure 747 763	respiratory rate
+T26	Diagnostic_procedure 791 811	Physical examination
+T27	Detailed_description 821 830	scattered
+T28	Sign_symptom 841 845	rash
+T29	Biological_structure 865 882	lower extremities
+T30	Biological_structure 914 919	Chest
+T31	Diagnostic_procedure 920 932	auscultation
+T32	Sign_symptom 949 957	crackles
+T33	Detailed_description 958 969	bilaterally
+T34	Biological_structure 987 996	abdominal
+T35	Lab_value 1033 1039	normal
+T36	Sign_symptom 1063 1078	lymphadenopathy
+T37	Diagnostic_procedure 1108 1119	examination
+T38	Sign_symptom 1129 1145	thrombocytopenia
+T39	Medication 1147 1156	platelets
+T40	Lab_value 1157 1164	7000/μL
+T41	Sign_symptom 1167 1173	anemia
+T42	Diagnostic_procedure 1175 1185	hemoglobin
+T43	Dosage 1186 1193	10.8 mg
+T44	Diagnostic_procedure 1201 1211	hematocrit
+T45	Sign_symptom 1222 1234	leukocytosis
+T46	Personal_background 1236 1241	white
+T47	Biological_structure 1242 1247	blood
+T48	Lab_value 1264 1270	600/μL
+T49	Lab_value 1301 1307	normal
+T50	Biological_structure 1364 1372	Arterial
+T51	Biological_structure 1373 1378	blood
+T52	Medication 1429 1435	oxygen
+T53	Lab_value 1529 1538	increased
+T54	Biological_structure 1548 1556	arterial
+T55	Detailed_description 1577 1584	Diffuse
+T56	Sign_symptom 1594 1607	consolidation
+T57	Biological_structure 1621 1626	chest
+T58	Diagnostic_procedure 1651 1670	Computed tomography
+T59	Diagnostic_procedure 1672 1674	CT
+T60	Biological_structure 1683 1688	chest
+T61	Detailed_description 1696 1703	diffuse
+T62	Texture 1704 1716	ground glass
+T63	Sign_symptom 1747 1758	infiltrates
+T64	Medication 1806 1817	antibiotics
+T65	Administration 1831 1842	intravenous
+T66	Medication 1843 1851	steroids
+T67	Detailed_description 1853 1863	Peripheral
+T68	Medication 1883 1892	platelets
+T69	Frequency 1897 1907	occasional
+T70	Medication 1914 1922	platelet
+T71	Diagnostic_procedure 1976 1988	bronchoscopy
+T72	Lab_value 2002 2008	normal
+T73	Sign_symptom 2038 2045	lesions
+T74	Clinical_event 2146 2155	diagnosis
+T75	Clinical_event 2275 2284	diagnosis
+T76	Lab_value 2325 2333	negative
+T77	Severity 2361 2367	severe
+T78	Sign_symptom 2368 2384	thrombocytopenia
+T79	Medication 2405 2413	steroids
+T80	Medication 2418 2427	platelets
+T81	Therapeutic_procedure 2428 2439	transfusion
+T82	Dosage 2441 2451	High doses
+T83	Medication 2461 2469	steroids
+T84	Administration 2474 2485	intravenous
+T85	Lab_value 2547 2558	improvement
+T86	Biological_structure 2562 2566	bone
+T87	Lab_value 2603 2609	normal
+T88	Detailed_description 2674 2683	secondary
+T89	Sign_symptom 2684 2700	thrombocytopenia
+T90	Clinical_event 2728 2737	diagnosis
+T91	Medication 2746 2754	Steroids
+T92	Biological_structure 2786 2791	chest
+T93	Diagnostic_procedure 2792 2802	radiograph
+T94	Outcome 2826 2836	resolution
+T95	Detailed_description 2840 2849	bilateral
+T96	Sign_symptom 2850 2861	infiltrates
+T97	Diagnostic_procedure 2871 2885	Platelet count
+T98	Lab_value 2898 2904	normal
+T99	Clinical_event 2922 2931	admission

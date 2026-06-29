@@ -1,44 +1,92 @@
 T1	Age 3 13	8-year-old
 T2	Sex 14 17	boy
-T3	Weight 87 91	4 kg
-T4	Lab_value 135 141	normal
-T5	Distance 313 319	3.5 cm
-T6	Dosage 435 440	7.8 g
-T7	Severity 562 568	marked
-T8	Color 583 586	red
-T9	Color 721 726	white
-T10	Lab_value 1034 1040	normal
-T11	Lab_value 1202 1208	normal
-T12	Lab_value 1415 1423	elevated
-T13	Lab_value 1427 1437	3.8 mmol/L
-T14	Lab_value 1563 1571	negative
-T15	Severity 1620 1626	slight
-T16	Lab_value 1692 1700	elevated
-T17	Lab_value 1775 1783	elevated
-T18	Lab_value 1830 1836	normal
-T19	Administration 1941 1943	IV
-T20	Lab_value 2030 2041	improvement
-T21	Lab_value 2226 2237	improvement
-T22	Dosage 2281 2286	4.4 g
-T23	Frequency 2302 2312	occasional
-T24	Frequency 2336 2342	weekly
-T25	Color 2343 2346	red
-T26	Dosage 2411 2418	1700 µg
-T27	Lab_value 2534 2540	normal
-T28	Lab_value 2562 2568	normal
-T29	Date 2590 2599	at age 13
-T30	Lab_value 2628 2634	normal
-T31	Lab_value 2756 2764	elevated
-T32	Lab_value 2768 2776	15 ng/mL
-T33	Lab_value 2893 2899	normal
-T34	Dosage 2948 2964	5 mg twice daily
-T35	Dosage 2985 2997	100 µg daily
-T36	Lab_value 3060 3068	negative
-T37	Lab_value 3106 3112	normal
-T38	Shape 3157 3164	tubular
-T39	Shape 3253 3260	tubular
-T40	Lab_value 3478 3486	elevated
-T41	Color 3523 3526	red
-T42	Lab_value 3573 3581	negative
-T43	Frequency 3706 3717	twice daily
-T44	Lab_value 3788 3798	161 µmol/L
+T3	Clinical_event 22 30	referred
+T4	Sign_symptom 49 56	fatigue
+T5	Clinical_event 65 69	born
+T6	Mass 78 91	weighing 4 kg
+T7	Family_history 95 121	non-consanguineous parents
+T8	Lab_value 135 141	normal
+T9	Diagnostic_procedure 254 265	examination
+T10	Sign_symptom 290 302	hepatomegaly
+T11	Distance 313 319	3.5 cm
+T12	Dosage 435 440	7.8 g
+T13	Severity 562 568	marked
+T14	Color 583 586	red
+T15	Biological_structure 677 682	blood
+T16	Personal_background 721 726	white
+T17	Biological_structure 828 832	bone
+T18	Diagnostic_procedure 853 859	biopsy
+T19	Lab_value 1034 1040	normal
+T20	Biological_structure 1175 1180	Serum
+T21	Lab_value 1202 1208	normal
+T22	Biological_structure 1218 1223	blood
+T23	Subject 1248 1255	parents
+T24	Subject 1260 1266	sister
+T25	Therapeutic_procedure 1395 1402	Fasting
+T26	Diagnostic_procedure 1403 1410	lactate
+T27	Lab_value 1415 1423	elevated
+T28	Lab_value 1427 1437	3.8 mmol/L
+T29	Diagnostic_procedure 1439 1463	Neurological examination
+T30	Biological_structure 1507 1518	lower limbs
+T31	Detailed_description 1519 1530	bilaterally
+T32	Biological_structure 1541 1551	cerebellar
+T33	Lab_value 1563 1571	negative
+T34	Diagnostic_procedure 1573 1576	MRI
+T35	Biological_structure 1584 1589	brain
+T36	Severity 1620 1626	slight
+T37	Biological_structure 1645 1655	cerebellar
+T38	Lab_value 1692 1700	elevated
+T39	Diagnostic_procedure 1748 1755	lactate
+T40	Lab_value 1775 1783	elevated
+T41	Biological_structure 1792 1798	Muscle
+T42	Diagnostic_procedure 1799 1805	biopsy
+T43	Lab_value 1830 1836	normal
+T44	Biological_structure 1837 1843	muscle
+T45	Clinical_event 1912 1921	diagnosis
+T46	Administration 1941 1943	IV
+T47	Therapeutic_procedure 1993 1997	diet
+T48	Lab_value 2030 2041	improvement
+T49	Biological_structure 2089 2095	muscle
+T50	Medication 2137 2146	Carnitine
+T51	Lab_value 2226 2237	improvement
+T52	Dosage 2281 2286	4.4 g
+T53	Frequency 2302 2312	occasional
+T54	Frequency 2336 2342	weekly
+T55	Color 2343 2346	red
+T56	Therapeutic_procedure 2352 2364	transfusions
+T57	Therapeutic_procedure 2380 2392	transfusions
+T58	Dosage 2411 2418	1700 µg
+T59	Medication 2488 2495	insulin
+T60	Lab_value 2534 2540	normal
+T61	Lab_value 2562 2568	normal
+T62	Date 2590 2599	at age 13
+T63	Biological_structure 2607 2614	Thyroid
+T64	Lab_value 2628 2634	normal
+T65	Biological_structure 2730 2736	Plasma
+T66	Lab_value 2756 2764	elevated
+T67	Lab_value 2768 2776	15 ng/mL
+T68	Biological_structure 2784 2791	adrenal
+T69	Medication 2859 2866	steroid
+T70	Lab_value 2893 2899	normal
+T71	Biological_structure 2911 2920	abdominal
+T72	Diagnostic_procedure 2921 2931	ultrasound
+T73	Medication 2933 2947	Hydrocortisone
+T74	Dosage 2948 2964	5 mg twice daily
+T75	Dosage 2985 2997	100 µg daily
+T76	Biological_structure 3014 3021	Adrenal
+T77	Lab_value 3060 3068	negative
+T78	Lab_value 3106 3112	normal
+T79	Biological_structure 3151 3156	renal
+T80	Shape 3157 3164	tubular
+T81	Shape 3253 3260	tubular
+T82	Clinical_event 3392 3401	admission
+T83	Detailed_description 3419 3429	endoscopic
+T84	Lab_value 3478 3486	elevated
+T85	Color 3523 3526	red
+T86	Biological_structure 3542 3552	Pancreatic
+T87	Lab_value 3573 3581	negative
+T88	Medication 3617 3624	insulin
+T89	Biological_structure 3651 3661	pancreatic
+T90	Frequency 3706 3717	twice daily
+T91	Medication 3718 3725	insulin
+T92	Lab_value 3788 3798	161 µmol/L

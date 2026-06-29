@@ -1,0 +1,42 @@
+T1	ATCD_geriatriques_et_medicaux_significatifs_pour_la_prise_en_charge 30 66	sans antécédents médicaux pertinents
+T2	Symptomes 100 146	épisodes de fièvre et des douleurs abdominales
+T3	Stade_metastatique_avec_localisations 1022 1039	foie métastatique
+T4	Histologie_tumorale 1049 1100	tumeur exprimant les récepteurs de la somatostatine
+T5	Traitement_specifique_du_cancer 1142 1152	somatuline
+T6	Histologie_tumorale 1569 1595	carcinome neuroendocrinien
+T7	Topographie_du_primitif 1462 1595	corps pancréatique, à partir duquel une biopsie a été réalisée, obtenant une histologie compatible avec un carcinome neuroendocrinien
+T8	Histologie_tumorale 1789 1805	Insulinome malin
+T9	Stade_metastatique_avec_localisations 1809 1853	stade IV (métastases osseuses et hépatiques)
+T10	Traitement_specifique_du_cancer 1874 1902	chimioembolisation hépatique
+T11	Traitement_specifique_du_cancer 2010 2074	pancréatectomie corporocaudale + splénectomie + lymphadénectomie
+T12	Stade_metastatique_avec_localisations 2161 2180	métastases osseuses
+T13	Histologie_tumorale 2221 2250	insulinome pancréatique malin
+T14	Topographie_du_primitif 2221 2244	insulinome pancréatique
+T15	Stade_metastatique_avec_localisations 2256 2289	métastases hépatiques et osseuses
+T16	Traitement_specifique_du_cancer 2345 2373	traitement de chimiothérapie
+T17	Traitement_specifique_du_cancer 2405 2440	5-fluorouracile et de streptozocine
+T18	Reponse_a_la_chimiotherapie 2555 2598	intervalle sans progression (PFI) de 5 mois
+T19	Traitement_specifique_du_cancer 2636 2645	sunitinib
+T20	Reponse_a_la_chimiotherapie 2662 2681	progression osseuse
+T21	Reponse_a_la_chimiotherapie 2726 2773	réponse hépatique partielle et osseuse complète
+T22	Signes_physiques 1219 1240	hypoglycémie clinique
+T23	Signes_physiques 2899 2921	hypoglycémies répétées
+T24	Reponse_a_la_chimiotherapie 2961 3006	progression radiologique hépatique et osseuse
+T25	Traitement_specifique_du_cancer 3111 3121	évérolimus
+T26	Signes_physiques 3229 3258	hypoglycémie sévère prolongée
+T27	Reponse_a_la_chimiotherapie 3277 3311	progression radiologique hépatique
+T28	Traitement_specifique_du_cancer 3328 3342	chimiothérapie
+T29	Traitement_specifique_du_cancer 3360 3380	capécitabine-témodal
+T30	Reponse_a_la_chimiotherapie 3485 3519	progression radiologique hépatique
+T31	Traitement_specifique_du_cancer 3605 3633	chimioembolisation hépatique
+T32	Symptomes 3687 3702	épisode fébrile
+T33	Traitement_specifique_du_cancer 3774 3792	chimioembolisation
+T34	Signes_physiques 3875 3888	hyperglycémie
+T35	Traitement_specifique_du_cancer 3944 3954	évérolimus
+T36	Signes_physiques 4010 4022	hypoglycémie
+T37	Reponse_a_la_chimiotherapie 4084 4121	intervalle sans progression de 5 mois
+T38	Signes_physiques 4199 4222	hypoglycémie très grave
+T39	Traitement_specifique_du_cancer 4520 4561	chimiothérapie par carboplatine-étoposide
+T40	Signes_physiques 4637 4657	fièvre neutropénique
+T41	Stade_OMS_ECOG_Karnofsky 4782 4788	ECOG 4
+T42	Signes_physiques 4798 4832	insuffisance hépatique progressive
